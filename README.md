@@ -21,3 +21,5 @@ Rules with basic factions for BLUFOR and INDEPENDENT in /factions
 ## Scenarios
 
 First attempt at scenario setting in /scenarios
+
+[Separatists in Estonia](https://github.com/christsven/H.E.A.T/blob/main/scenarios/SCENARIO%20Narva.md)
