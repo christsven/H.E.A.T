@@ -1,4 +1,4 @@
-# **BLUFOR German VJTF Armored Infantry Platoon**
+# **BLUFOR VJTF Armored Infantry Brigade**
 
 ***
 
