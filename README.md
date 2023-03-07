@@ -1,6 +1,6 @@
 # H.E.A.T
 
-## Rulset
+## Ruleset
 
 New rule additions and explanation in .excalidraw file
 
