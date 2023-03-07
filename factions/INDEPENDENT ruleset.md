@@ -83,7 +83,7 @@ forces and reporting enemy troop movement.
 **Options:**
 
 - NCO SMG/PWD **[+5pt]**
-- 4x SMG/PWD **[+5pt]**
+- 2x SMG/PWD **[+5pt]**
 - 1x DMR **[+15pt]**
 
 ### _<span style="color:red">Scouting squad **[45pt/60pt/75pt]**_
@@ -101,16 +101,14 @@ Ranger team of light infantry
 **Options:**
 
 - NCO SMG/PWD **[+5pt]**
-- 4x SMG/PWD **[+5pt]**
+- 3x SMG/PWD **[+5pt]**
 - 1x DMR **[+15pt]**
 
 #### <span style="color:pink">Special Rules
 
 - Rangers
 
-### _<span style="color:red">Light infantry squad **[35pt/50pt/65pt]**_
-
-Light Infantry ("Jäger") squad.
+### _<span style="color:red">Tankodesantniki squad **[35pt/50pt/65pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -123,11 +121,24 @@ Light Infantry ("Jäger") squad.
 **Options:**
 
 - NCO SMG/PWD **[+5pt]**
-- 9x SMG/PWD **[+5pt]**
-- 1x DMR **[+15pt]**
-- Sprengrohr **[+15pt]**
+- 3x SMG/PWD **[+5pt]**
 - Tought Fighters  **[+1pt each]**
 
+  ### _<span style="color:red">Marksman team **[35pt/50pt/65pt]**_
+
+#### <span style="color:pink">Setup
+>
+>NCO (AR) + 2 AR
+
+#### <span style="color:pink">Reinforcment
+
+- up to 5 soldiers **[7pt/10pt/13p each]**
+
+**Options:**
+
+- NCO SMG/PWD **[+5pt]**
+- 1x DMR **[+10pt]**
+  
 ### _<span style="color:red">Narva resistance infantry squad **[35pt/50pt/65pt]**_
 
 #### <span style="color:pink">Setup
@@ -169,9 +180,6 @@ Light Infantry ("Jäger") squad.
 - Stubborn
 
 ### _<span style="color:red">Local "volunteer" squad **[30pt/-/-]**_
-
-Territorial reservists squad, comprised of local volunteers
-fighting against the revolutionist forces.
 
 #### <span style="color:pink">Setup
 >
@@ -226,6 +234,7 @@ fighting against the revolutionist forces.
 
 **Options:**
 
+- 1x LAW **[+25pt]**
 - Sprengrohr **[+15pt]**
 
 #### <span style="color:pink">Special Rules
