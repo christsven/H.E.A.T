@@ -470,17 +470,7 @@ fighting against the revolutionist forces.
 ***
 </br>
 
-## Divisional Reinforcements **[0 - 1]**
-
-### _<span style="color:red">Airforce Forward Observer **[-pt/75pt/90pt]**_
-
-#### <span style="color:pink">Setup
->
-> Airforce Forward Observer (PDW, SMG or AR)
-
-**Options:**
-
-- up to 2 soldiers (PDW, SMG or AR) **[7pt/10pt/13p each]**
+## Artillery Support **[0 - 1]**
 
 ### _<span style="color:red">Artillery Forward Observer **[-pt/100pt/115pt]**_
 
@@ -598,13 +588,10 @@ cannon, which lead to a reduction in troop capacity.
 > 9+ Medium Tank
 
 **Weapons:**
-> Rh-120 L/44 120 mm **[Turret-mounted heavy anti-tank gun]** <br>
-> MG3 **[Turret-mounted co-axial MMG]** <br>
+> D10-T 100 mm **[Turret-mounted heavy anti-tank gun]** <br>
+> 7.62mm SGMT **[Turret-mounted co-axial MMG]** <br>
+> 12.7mm DshK **[Turret-mounted, open-topped HMG]** <br>
 > Smoke screen **[Hull-mounted, front-facing smoke screen]**
-
-**Options:**
-
-- MMG **[+15pt]** **[pintle-mounted, open-topped MMG]**
 
 #### <span style="color:pink">Special Rules
 
@@ -612,12 +599,18 @@ cannon, which lead to a reduction in troop capacity.
 - Obsolete Main Gun
 - Open Topped (if selected)
 
+>*Obsolete Main Gun*: Unlike most modern tank guns, this ww2-era gun still uses
+> a rifled barrell to propell a kinetic round. While firing HE rounds as a heavy
+> AT gun, this weapon suffers a -1 PEN when attacking armoured vehicles.
+>
+> - *Suffers -1 PEN modifier when firing AT round.*
+  
 ***
 </br>
 
 ## Transports
 
-### _<span style="color:red">BTR-60P **[pt/pt/pt]**_
+### _<span style="color:red">BTR-60P **[70pt/75pt/80pt]**_
 
 **Damage Value:**
 > 8+ Light Tank
@@ -628,7 +621,7 @@ cannon, which lead to a reduction in troop capacity.
 **Capacity:**
 > 14 Soldiers
 
-### _<span style="color:red">GAZ-51 Truck **[pt/pt/pt]**_
+### _<span style="color:red">GAZ-51 Truck **[25pt/30pt/35pt]**_
 
 **Damage Value:**
 > 6+ Soft-Skinned Vehicle
@@ -636,15 +629,15 @@ cannon, which lead to a reduction in troop capacity.
 **Capacity:**
 > 16 Soldiers
 
-### _<span style="color:red">GAZ-69 Jeep **[pt/pt/pt]**_
+### _<span style="color:red">GAZ-69 Jeep **[15pt/20pt/25pt]**_
 
 **Damage Value:**
 > 6+ Soft-Skinned Vehicle
 
 **Capacity:**
-> 5 Soldiers
+> 7 Soldiers
 
-### _<span style="color:red">R75 Ural Motorcycle **[pt/pt/pt]**_
+### _<span style="color:red">R75 Ural Motorcycle **[18pt/23pt/28pt]**_
 
 **Damage Value:**
 > 6+ Soft-Skinned Vehicle
@@ -654,8 +647,11 @@ cannon, which lead to a reduction in troop capacity.
   
 **Capacity:**
 > 2 Soldiers
+  
+**Special Rules:**
+- Recce
 
-### _<span style="color:red">Toyota Hilux **[pt/pt/pt]**_
+### _<span style="color:red">Toyota Hilux **[25pt/30pt/35pt]**_
 
 **Damage Value:**
 > 6+ Soft-Skinned Vehicle
@@ -663,7 +659,7 @@ cannon, which lead to a reduction in troop capacity.
 **Capacity:**
 > 8 Soldiers
 
-### _<span style="color:red">Mil Mi-2B **[pt/pt/pt]**_
+### _<span style="color:red">Mil Mi-2B **[50pt/55pt/60pt]**_
 
 **Helicopter:**
 > Medium helicopter  
