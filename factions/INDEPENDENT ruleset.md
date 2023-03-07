@@ -40,7 +40,7 @@ the stressed personell.</br>
 
 #### <span style="color:pink">Reinforcment
 
-- up to 2 soldiers **[pt/pt/pt]**
+- up to 2 soldiers **[7pt/10pt/13pt each]**
 
 #### <span style="color:pink">Special Rules
 
@@ -55,7 +55,7 @@ the stressed personell.</br>
 
 #### <span style="color:pink">Reinforcment
 
-- up to 2 soldiers **[pt/pt/pt]**
+- up to 2 soldiers **[7pt/10pt/13pt each]**
 
 #### <span style="color:pink">Special Rules
 
