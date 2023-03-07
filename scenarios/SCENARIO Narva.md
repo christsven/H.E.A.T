@@ -4,7 +4,7 @@
 
 <img src="ressources/estonia_prewar.png"  width="550" height="355">
 
-*Map of Estonia before 19.04.2015*
+*Map of Estonia before 19.04.2016*
 
 <img src="ressources/estonia_political_map.png"  width="550" height="355">
 
@@ -14,20 +14,39 @@
 
 *NSPR claimed territory and initial controlled territory*
 
-## Development of political situation since 2010
+## Scenario introduction
 
-Some key events which happened between 2010 and the outbreak of hostilities on
-the 19th of April of 2015.
+### 2012 - Declining baltics
 
-### 2010
+Several years of disinformation campaigns, civil unrest due to declining living
+standards, and a feeling of being left out by the more ethnically estonian west
+counties lead to the rise of extremist sentiment in the more eastern counties
+of Estonia. As a former soviet republic, many older, russian-born citizens
+remember the USSR in a positive light and see the westernization of society as
+a mistake. Most of them live right at the border with Russia, for example in
+the city of Narva (95.7% native russian speakers, 87.7% ethnic russians), right
+at the border.
 
-### 2012
+### 2014 - Steadfast Jazz Disaster
 
-### 2013
+While tensions brew over the years, a far-right, nationalist movement consisting
+of former Red Army soldiers, communist politicians and a growing disillusioned
+voter base formed the *"Iseseisvus rahvale"* movement. This group was a vocal
+minority in local politics seeking independence from Estonia to form a socialist
+republic under a Sowjet in Narva.
 
-### 2014
+The movement gained an influx in supporters and recognition after a military
+excercise called "Steadfast Jazz" in November of 2013 lead to the crash of a
+french Mirage F1 in a village with a civilian losses, an ethnically russian
+farmer. The lackluster response of authorities and NATO commands belatedly
+response, at first refusing to halt the maneuver, lead to a PR disaster for
+NATO, fueling anti-west sentiment.
 
-### 2015
+### 2015 - Spiraling protests
+
+Reoccuring protests demanding more autonomy from the western counties caused
+
+### 2016 - Outbreak of war
 
 ## BLUFOR introduction and goals
 
