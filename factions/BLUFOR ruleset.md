@@ -61,15 +61,15 @@ units are allowed to reroll failed moral checks.</br>
 ### _<span style="color:red">Aufklärer group **[20pt/30pt/40pt]**_
 
 Reconnaissance infantry group, watching the area in front of friendly
-forces and [TODO]
+forces and reporting enemy troop movement.
 
 ### <span style="color:pink"> Setup
 >
->NCO (AR) + 2 AR
+>NCO (AR) + 1 AR
 
 ### <span style="color:pink"> Reinforcement
 
-- up to 3 soldiers **[7pt/10pt/13p each]**
+- up to 2 soldiers **[7pt/10pt/13p each]**
 
 ### <span style="color:pink"> Options
 
@@ -83,7 +83,7 @@ Ranger team of light infantry
 
 ### <span style="color:pink"> Setup
 
->NCO (AR) + 4 AR
+>NCO (AR) + 2 AR
 
 ### <span style="color:pink"> Reinforcement
 
@@ -105,7 +105,7 @@ Light Infantry ("Jäger") squad.
 
 ### <span style="color:pink"> Setup
 >
->NCO (AR) + 4 AR
+>NCO (AR) + 3 AR
 
 ### <span style="color:pink"> Reinforcement
 
@@ -126,7 +126,7 @@ the infanty part of german IFVs.
 
 ### <span style="color:pink"> Setup
 >
->NCO (AR) + 4 AR
+>NCO (AR) + 3 AR
 
 ### <span style="color:pink"> Reinforcement
 
@@ -142,11 +142,11 @@ the infanty part of german IFVs.
 
 ### _<span style="color:red">NATO Rapid response tactical squad **[-/60pt/85pt]**_
 
-Part of the NATO VJTF response division
+Part of the NATO VJTF response regiment
 
 ### <span style="color:pink"> Setup
 >
->NCO (AR) + 4 AR
+>NCO (AR) + 3 AR
 
 ### <span style="color:pink"> Reinforcement
 
@@ -171,7 +171,7 @@ fighting against the revolutionist forces.
 
 ### <span style="color:pink"> Setup
 >
->NCO (AR) + 4 AR
+>NCO (AR) + 3 AR
 
 ### <span style="color:pink"> Reinforcement
 
@@ -194,7 +194,7 @@ fighting against the revolutionist forces.
 
 ### <span style="color:pink"> Setup
 >
->NCO (AR) + 4 AR
+>NCO (AR) + 2 AR
 
 ### <span style="color:pink"> Reinforcement
 
