@@ -654,7 +654,7 @@ cannon, which lead to a reduction in troop capacity.
 **Capacity:**
 > 16 Soldiers
 
-### _<span style="color:red">GAZ Jeep **[pt/pt/pt]**_
+### _<span style="color:red">GAZ-69 Jeep **[pt/pt/pt]**_
 
 **Damage Value:**
 > 6+ Soft-Skinned Vehicle
@@ -667,10 +667,13 @@ cannon, which lead to a reduction in troop capacity.
 **Damage Value:**
 > 6+ Soft-Skinned Vehicle
 
+**Options:**
+- front-facing MMG **[+15pt]**
+  
 **Capacity:**
 > 2 Soldiers
 
-### _<span style="color:red">Toyota Pick Up **[pt/pt/pt]**_
+### _<span style="color:red">Toyota Hilux **[pt/pt/pt]**_
 
 **Damage Value:**
 > 6+ Soft-Skinned Vehicle
