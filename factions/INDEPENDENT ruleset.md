@@ -196,7 +196,7 @@ fighting against the revolutionist forces.
 
 ## Combat Support units **[0 - 2]**
 
-### _<span style="color:red">Engineer squad **[pt/pt/pt]**_
+### _<span style="color:red">Demolition squad **[40pt/55pt/70pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -214,7 +214,7 @@ fighting against the revolutionist forces.
 - 1x LAW **[+25pt]**
 - Sprengrohr **[+15pt]**
 
-### _<span style="color:red">Sapper team **[pt/pt/pt]**_
+### _<span style="color:red">Sapper team **[25pt/35pt/50pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -232,7 +232,7 @@ fighting against the revolutionist forces.
 
 - Sapper
 
-### _<span style="color:red">Dragunov Sniper team **[pt/pt/pt]**_
+### _<span style="color:red">Dragunov Sniper team **[35pt/50pt/65pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -243,7 +243,7 @@ fighting against the revolutionist forces.
 - Team
 - Sniper
 
-### _<span style="color:red">AMR team **[pt/pt/pt]**_
+### _<span style="color:red">AMR team **[45pt/60pt/75pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -260,7 +260,7 @@ fighting against the revolutionist forces.
 
 ## Machine gun team **[0 - 1]**
 
-### _<span style="color:red">RPK MMG team **[pt/pt/pt]**_
+### _<span style="color:red">RPK MMG team **[35pt/50pt/65pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -271,7 +271,7 @@ fighting against the revolutionist forces.
 - Team
 - Fixed
 
-### _<span style="color:red">NSV HMG team **[pt/pt/pt]**_
+### _<span style="color:red">NSV HMG team **[49pt/70pt/91pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -282,7 +282,7 @@ fighting against the revolutionist forces.
 - Team
 - Fixed
 
-### _<span style="color:red">AGS-17 Plamja AGL team **[pt/pt/pt]**_
+### _<span style="color:red">AGS-17 Plamja AGL team **[60pt/80pt/100pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -300,7 +300,7 @@ fighting against the revolutionist forces.
 
 ## AT team **[0 -1]**
 
-### _<span style="color:red">RPG-7 team **[pt/pt/pt]**_
+### _<span style="color:red">RPG-7 team **[42pt/60pt/78pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -318,7 +318,7 @@ fighting against the revolutionist forces.
 
 ## Drone team **[0 -1]**
 
-### _<span style="color:red">UAV operator team **[pt/pt/pt]**_
+### _<span style="color:red">UAV operator team **[41pt/52pt/63pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -338,7 +338,7 @@ fighting against the revolutionist forces.
 
 ## Mortar team **[0 -1]**
 
-### _<span style="color:red">Light mortar team **[pt/pt/pt]**_
+### _<span style="color:red">Light mortar team **[24pt/35pt/46pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -355,7 +355,7 @@ fighting against the revolutionist forces.
 - Indirect Fire
 - Spotter (if selected)
 
-### _<span style="color:red">M1938 107mm Medium mortar team **[pt/pt/pt]**_
+### _<span style="color:red">M1938 107mm Medium mortar team **[35pt/50pt/65pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -373,7 +373,7 @@ fighting against the revolutionist forces.
 - Indirect Fire
 - Spotter (if selected)
 
-### _<span style="color:red">120mm Heavy mortar team **[pt/pt/pt]**_
+### _<span style="color:red">120mm Heavy mortar team **[46pt/65pt/84pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -396,7 +396,7 @@ fighting against the revolutionist forces.
 
 ## ATGM team **[ 0 - 1 ]**
 
-### _<span style="color:red">9M14 Malyutka ATGM team **[pt/pt/pt]**_
+### _<span style="color:red">9M14 Malyutka ATGM team **[60pt/75pt/90pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -413,7 +413,7 @@ fighting against the revolutionist forces.
 
 ## Artillery units **[ 0 - 1 ]**
 
-### _<span style="color:red">M1938 M-30 122mm light howitzer **[pt/pt/pt]**_
+### _<span style="color:red">M1938 M-30 122mm light howitzer **[40pt/50pt/60pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -431,7 +431,7 @@ fighting against the revolutionist forces.
 - Howitzer
 - Spotter (if selected)
 
-### _<span style="color:red">2A65 Msta-B 152mm medium howitzer **[pt/pt/pt]**_
+### _<span style="color:red">2A65 Msta-B 152mm medium howitzer **[60pt/75pt/90pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -449,7 +449,7 @@ fighting against the revolutionist forces.
 - Howitzer
 - Spotter (if selected)
 
-### _<span style="color:red">M1931 B-4 203mm heavy howitzer **[pt/pt/pt]**_
+### _<span style="color:red">M1931 B-4 203mm heavy howitzer **[92pt/115pt/138pt]**_
 
 #### <span style="color:pink">Setup
 >
@@ -501,7 +501,7 @@ If chosen in an IFV role, these units are connected to the first and second mand
 infantry units. If they are not or cannot be connected (due to troop size or weapon
 selection for example), the IFV rule is ignored.
 
-### _<span style="color:red">BTR-D **[pt/pt/pt]**_
+### _<span style="color:red">BTR-D **[102pt/120pt/138pt]**_
 
 **Damage Value:**
 > 9+ Medium Tank
@@ -535,7 +535,7 @@ selection for example), the IFV rule is ignored.
  passengers, but once disembarked, only one can be used per turn.*
 > - *If any further weapon is added  to the BTR-D, this also applies.*
 
-### _<span style="color:red">BTR-60P **[pt/pt/pt]**_
+### _<span style="color:red">BTR-60P **[85pt/100pt/115pt]**_
 
 Old, soviet-made personell carrier from the 60s.
 
@@ -548,17 +548,12 @@ Old, soviet-made personell carrier from the 60s.
 **Capacity:**
 > 14 Soldiers
 
-**Options:**
-
-- up to 3 MG3 **[+15pt]** **[pintle-mounted, open-topped MMG]**
-- Milan ATGM **[+35pt]** **[pintle-mounted, open-topped ATGM]**
-
 #### <span style="color:pink">Special Rules
 
 - IFV
 - Open Topped (if selected)
 
-### _<span style="color:red">BTR-60PB **[pt/pt/pt]**_
+### _<span style="color:red">BTR-60PB **[135pt/150pt/165pt]**_
 
 >Old, soviet-made personell carrier from the 60s. Reinforced by a turret with a 14.5mm auto
 cannon, which lead to a reduction in troop capacity.
@@ -567,7 +562,7 @@ cannon, which lead to a reduction in troop capacity.
 > 8+ Light Tank
 
 **Weapons:**
-> 14.5mm KPWT **[Turret-mounted, medium auto-cannon]**
+> 14.5mm KPWT **[Turret-mounted, light auto-cannon]**
 > 7.62mm PKT **[Turret-mounted co-axial MMG]**
 > Smoke screen **[Hull-mounted, front-facing smoke screen]**
 
@@ -578,13 +573,13 @@ cannon, which lead to a reduction in troop capacity.
 
 - IFV
 
-### _<span style="color:red">BRDM-2 **[pt/pt/pt]**_
+### _<span style="color:red">BRDM-2 **[90pt/105pt/120pt]**_
 
 **Damage Value:**
 > 7+ Armoured Carrier
 
 **Weapons:**
-> 14.5mm KPWT **[Turret-mounted, medium auto-cannon]**
+> 14.5mm KPWT **[Turret-mounted, light auto-cannon]**
 > 7.62mm PKT **[Turret-mounted co-axial MMG]**
 > Smoke screen **[Hull-mounted, front-facing smoke screen]**
 
@@ -597,7 +592,7 @@ cannon, which lead to a reduction in troop capacity.
 
 ## Supporting Vehicles **[ 0 - 1 ]**
 
-### _<span style="color:red">T-55 **[pt/pt/pt]**_
+### _<span style="color:red">T-55 **[144pt/159pt/174pt]**_
 
 **Damage Value:**
 > 9+ Medium Tank
@@ -613,22 +608,9 @@ cannon, which lead to a reduction in troop capacity.
 
 #### <span style="color:pink">Special Rules
 
-- Tiger Fear
+- Slow
+- Obsolete Main Gun
 - Open Topped (if selected)
-
-### _<span style="color:red">MARS II MLRS **[pt/pt/pt]**_
-
-**Damage Value:**
-> 8+ Light Tank
-
-**Weapons:**
-> Cal. 298 mm MLRS **[Turret-mounted rocket launcher]** <br>
-
-#### <span style="color:pink">Special Rules
-
-- Multiple Launcher
-- Indirect Fire
-- HE 3"
 
 ***
 </br>
