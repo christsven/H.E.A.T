@@ -4,7 +4,7 @@
 
 New rule additions and explanation in .excalidraw file
 
-[H.E.A.T Rules](https://github.com/christsven/H.E.A.T/blob/main/scenarios/SCENARIO%20Narva.md)
+[H.E.A.T Rules](https://github.com/christsven/H.E.A.T/blob/main/H.E.A.T.excalidraw)
 
 ## Factions
 
