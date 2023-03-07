@@ -70,7 +70,7 @@ the stressed personell.</br>
 ### _<span style="color:red">Forward reconnaissance group **[20pt/30pt/40pt]**_
 
 Reconnaissance infantry group, watching the area in front of friendly
-forces and [TODO]
+forces and reporting enemy troop movement.
 
 #### <span style="color:pink">Setup
 >
@@ -92,7 +92,7 @@ Ranger team of light infantry
 
 #### <span style="color:pink">Setup
 
->NCO (AR) + 4 AR
+>NCO (AR) + 3 AR
 
 #### <span style="color:pink">Reinforcment
 
@@ -114,7 +114,7 @@ Light Infantry ("Jäger") squad.
 
 #### <span style="color:pink">Setup
 >
->NCO (AR) + 4 AR
+>NCO (AR) + 3 AR
 
 #### <span style="color:pink">Reinforcment
 
@@ -130,12 +130,9 @@ Light Infantry ("Jäger") squad.
 
 ### _<span style="color:red">Narva resistance infantry squad **[35pt/50pt/65pt]**_
 
-Armored infantry squad, the core of any modern fighting force. Deployed as
-the infanty part of german IFVs.
-
 #### <span style="color:pink">Setup
 >
->NCO (AR) + 4 AR
+>NCO (AR) + 3 AR
 
 #### <span style="color:pink">Reinforcment
 
@@ -151,11 +148,9 @@ the infanty part of german IFVs.
 
 ### _<span style="color:red">PMC infantry squad **[-/60pt/85pt]**_
 
-Part of the NATO VJTF response division
-
 #### <span style="color:pink">Setup
 >
->NCO (AR) + 4 AR
+>NCO (AR) + 3 AR
 
 #### <span style="color:pink">Reinforcment
 
@@ -180,15 +175,17 @@ fighting against the revolutionist forces.
 
 #### <span style="color:pink">Setup
 >
->NCO (AR) + 4 AR
+>NCO (AR) + 2 AR
 
 #### <span style="color:pink">Reinforcment
 
 - up to 5 soldiers **[7pt/10pt/13p each]**
 
 **Options:**
-
+  
+- Rifle **[-3pt]**
 - 2x LMG **[+20pt]**
+- Shirkers **[-2pt each]**
 
 #### <span style="color:pink">Special Rules
 
@@ -203,7 +200,7 @@ fighting against the revolutionist forces.
 
 #### <span style="color:pink">Setup
 >
->NCO (AR) + 4 AR
+>NCO (AR) + 2 AR
 
 #### <span style="color:pink">Reinforcment
 
