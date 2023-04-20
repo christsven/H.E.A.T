@@ -8,7 +8,8 @@
 
 Due to being accustomed to the surrounding terrain features, INDEPENDENT 
 forces do not have to fulfill an order check to enter the map as reserve
-units.
+units.</br>
+*TLDR no order checks for all reserve transports*
 
 ### Foreign aid
 
@@ -16,7 +17,8 @@ As part of undisclosed weapon shipments from alligned nations, INDEPENDENT
 forces receive a free medium mortar as part of their artillery section.
 
 This unit is counted as a regular mortar with a spotter. It does not block
-a mortar slot.
+a mortar slot.</br>
+*TLDR free regular medium mortar with spotter*
 
 ### Old technology
 
@@ -27,7 +29,8 @@ These vehicle types do have to suffer one of the following modifiers:
 
 - Slow - vehicles suffer a 50% reduction in speed.
 - Unreliable - every order taken has to pass an order check.
-- Understaffed - +1 pin marker taken every time the unit suffers pins.
+- Understaffed - +1 pin marker taken every time the unit suffers pins.</br>
+*TLDR choose for every APC, IFV, tank or helicopter a malus.*
 
 ***
 
