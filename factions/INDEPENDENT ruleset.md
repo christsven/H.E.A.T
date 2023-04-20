@@ -207,6 +207,8 @@ Ranger team of light infantry
 
 ### _<span style="color:red">Demolition squad **[40pt/55pt/70pt]**_
 
+Infantry equipped with engineering material.
+  
 #### <span style="color:pink">Setup
 >
 >NCO (AR) + 2 AR
@@ -222,11 +224,16 @@ Ranger team of light infantry
 - 1x LMG **[+20pt]**
 - 1x LAW **[+25pt]**
 - Sprengrohr **[+15pt]**
+  
+Special Rules:
+- Engineers
 
 ### _<span style="color:red">Sapper team **[25pt/35pt/50pt]**_
 
+
+  
 #### <span style="color:pink">Setup
->
+
 > Sapper (AR)
 
 #### <span style="color:pink">Reinforcment
@@ -282,6 +289,9 @@ Ranger team of light infantry
 - Fixed
 
 ### _<span style="color:red">NSV HMG team **[49pt/70pt/91pt]**_
+  
+  Infantry unit equipped with an HMG, used to surpress infantry sections, 
+  light vehicles and helicopters.
 
 #### <span style="color:pink">Setup
 >
@@ -293,6 +303,8 @@ Ranger team of light infantry
 - Fixed
 
 ### _<span style="color:red">AGS-17 Plamja AGL team **[60pt/80pt/100pt]**_
+  
+  Infantry unit equipped with an AGL, used to surpress infantry sections.
 
 #### <span style="color:pink">Setup
 >
@@ -311,6 +323,9 @@ Ranger team of light infantry
 ## AT team **[0 -1]**
 
 ### _<span style="color:red">RPG-7 team **[42pt/60pt/78pt]**_
+  
+  Infantry section equipped with an AT RPG launcher. Used against small vehicles and lightly
+  armoured tanks.
 
 #### <span style="color:pink">Setup
 >
@@ -347,7 +362,7 @@ Ranger team of light infantry
 </br>
 
 ## Mortar team **[0 -1]**
-
+  
 ### _<span style="color:red">Light mortar team **[24pt/35pt/46pt]**_
 
 #### <span style="color:pink">Setup
