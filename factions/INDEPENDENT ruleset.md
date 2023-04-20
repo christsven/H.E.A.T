@@ -29,7 +29,8 @@ These vehicle types do have to suffer one of the following modifiers:
 
 - Slow - vehicles suffer a 50% reduction in speed.
 - Unreliable - every order taken has to pass an order check.
-- Understaffed - +1 pin marker taken every time the unit suffers pins.</br>
+- Understaffed - +1 pin marker taken every time the unit suffers pins.
+
 *TLDR choose for every APC, IFV, tank or helicopter a malus.*
 
 ***
