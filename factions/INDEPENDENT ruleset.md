@@ -80,7 +80,7 @@ forces and reporting enemy troop movement.
 
 - up to 3 soldiers **[7pt/10pt/13p each]**
 
-**Options:**
+### <span style="color:pink"> Options
 
 - NCO SMG/PWD **[+5pt]**
 - 2x SMG/PWD **[+5pt]**
@@ -98,7 +98,7 @@ Ranger team of light infantry
 
 - up to 2 soldiers **[7pt/10pt/13p each]**
 
-**Options:**
+### <span style="color:pink"> Options
 
 - NCO SMG/PWD **[+5pt]**
 - 3x SMG/PWD **[+5pt]**
@@ -118,7 +118,7 @@ Ranger team of light infantry
 
 - up to 5 soldiers **[7pt/10pt/13p each]**
 
-**Options:**
+### <span style="color:pink"> Options
 
 - NCO SMG/PWD **[+5pt]**
 - 3x SMG/PWD **[+5pt]**
@@ -134,7 +134,7 @@ Ranger team of light infantry
 
 - up to 5 soldiers **[7pt/10pt/13p each]**
 
-**Options:**
+### <span style="color:pink"> Options
 
 - NCO SMG/PWD **[+5pt]**
 - 1x DMR **[+10pt]**
@@ -149,7 +149,7 @@ Ranger team of light infantry
 
 - up to 5 soldiers **[7pt/10pt/13p each]**
 
-**Options:**
+### <span style="color:pink"> Options
 
 - NCO SMG/PWD **[+5pt]**
 - 2x SMG/PWD **[+5pt]**
@@ -167,7 +167,7 @@ Ranger team of light infantry
 
 - up to 5 soldiers **[7pt/10pt/13p each]**
 
-**Options:**
+### <span style="color:pink"> Options
 
 - NCO SMG/PWD **[+5pt]**
 - 2x SMG/PWD **[+5pt]**
@@ -189,7 +189,7 @@ Ranger team of light infantry
 
 - up to 5 soldiers **[7pt/10pt/13p each]**
 
-**Options:**
+### <span style="color:pink"> Options
   
 - Rifle **[-3pt]**
 - 2x LMG **[+20pt]**
@@ -214,7 +214,7 @@ Ranger team of light infantry
 
 - up to 5 soldiers **[7pt/10pt/13p each]**
 
-**Options:**
+### <span style="color:pink"> Options
 
 - NCO SMG/PWD **[+5pt]**
 - 2x SMG/PWD **[+5pt]**
@@ -232,7 +232,7 @@ Ranger team of light infantry
 
 - up to 2 soldiers **[7pt/10pt/13p each]**
 
-**Options:**
+### <span style="color:pink"> Options
 
 - 1x LAW **[+25pt]**
 - Sprengrohr **[+15pt]**
@@ -333,7 +333,7 @@ Ranger team of light infantry
 >
 >System-Operator (UAV)
 
-**Options:**
+### <span style="color:pink"> Options
 
 - up to 2 soldiers **[7pt/10pt/13p each]**
 
@@ -353,7 +353,7 @@ Ranger team of light infantry
 >
 >System-Operator (light mortar) + 1 loader
 
-**Options:**
+### <span style="color:pink"> Options
 
 - Spotter **[+10pt]**
 
@@ -370,7 +370,7 @@ Ranger team of light infantry
 >
 >System-Operator (medium mortar) + 2 loaders
 
-**Options:**
+### <span style="color:pink"> Options
 
 - Spotter **[+10pt]**
 
@@ -388,7 +388,7 @@ Ranger team of light infantry
 >
 >System-Operator (heavy mortar) + 3 loaders
 
-**Options:**
+### <span style="color:pink"> Options
 
 - Spotter **[+10pt]**
 
@@ -428,7 +428,7 @@ Ranger team of light infantry
 >
 >System-Operator (heavy mortar) + 2 loaders
 
-**Options:**
+### <span style="color:pink"> Options
 
 - Spotter **[+10pt]**
 
@@ -446,7 +446,7 @@ Ranger team of light infantry
 >
 >System-Operator (medium howitzer) + 3 loaders
 
-**Options:**
+### <span style="color:pink"> Options
 
 - Spotter **[+10pt]**
 
@@ -464,7 +464,7 @@ Ranger team of light infantry
 >
 >System-Operator (heavy howitzer) + 4 loaders
 
-**Options:**
+### <span style="color:pink"> Options
 
 - Spotter **[+10pt]**
 
@@ -487,7 +487,7 @@ Ranger team of light infantry
 >
 > Artillery Forward Observer (PDW, SMG or AR)
 
-**Options:**
+### <span style="color:pink"> Options
 
 - up to 2 soldiers (PDW, SMG or AR) **[7pt/10pt/13p each]**
 
@@ -513,7 +513,7 @@ selection for example), the IFV rule is ignored.
 **Capacity:**
 > 10 Soldiers
 
-**Options:**
+### <span style="color:pink"> Options
 
 - RPK-17 **[+15pt]** **[pintle-mounted, open-topped MMG]**
 - NSV **[+25pt]** **[pintle-mounted, open-topped HMG]**
@@ -651,7 +651,7 @@ cannon, which lead to a reduction in troop capacity.
 **Damage Value:**
 > 6+ Soft-Skinned Vehicle
 
-**Options:**
+### <span style="color:pink"> Options
 - front-facing MMG **[+15pt]**
   
 **Capacity:**
