@@ -6,27 +6,28 @@
 
 ### Territorial Knowledge
 
-Due to a lack of standardization in equipment between NATO forces, the
-strain on logistic is especially high. Transport units must perform an
-order check with 2 pin markers when moving out of reserve to represent
-the stressed personell.</br>
-*TLDR +2 pin on all reserve transports*
+Due to being accustomed to the surrounding terrain features, INDEPENDENT 
+forces do not have to fulfill an order check to enter the map as reserve
+units.
 
-### Subpar Equipment
+### Foreign aid
 
-Due to a lack of standardization in equipment between NATO forces, the
-strain on logistic is especially high. Transport units must perform an
-order check with 2 pin markers when moving out of reserve to represent
-the stressed personell.</br>
-*TLDR +2 pin on all reserve transports*
+As part of undisclosed weapon shipments from alligned nations, INDEPENDENT
+forces receive a free medium mortar as part of their artillery section.
 
-### ...but cheap
+This unit is counted as a regular mortar with a spotter. It does not block
+a mortar slot.
 
-Due to a lack of standardization in equipment between NATO forces, the
-strain on logistic is especially high. Transport units must perform an
-order check with 2 pin markers when moving out of reserve to represent
-the stressed personell.</br>
-*TLDR +2 pin on all reserve transports*
+### Old technology
+
+Most vehicles in the INDEPENDENT forces are old, salvaged material from
+soviet stockpiles, inferior to modern equipment.
+
+These vehicle types do have to suffer one of the following modifiers:
+
+- Slow - vehicles suffer a 50% reduction in speed.
+- Unreliable - every order taken has to pass an order check.
+- Understaffed - +1 pin marker taken every time the unit suffers pins.
 
 ***
 
@@ -399,6 +400,25 @@ Ranger team of light infantry
 - HE 3"
 - Indirect Fire
 - Spotter (if selected)
+  
+### _<span style="color:red">"Hell Cannon" propane mortar team **[56pt/75pt/94pt]**_
+
+#### <span style="color:pink">Setup
+>
+>System-Operator (propane mortar) + 3 loaders
+
+**Options:**
+
+- Spotter **[+10pt]**
+
+#### <span style="color:pink">Special Rules
+
+- Team
+- Fixed
+- HE 3"
+- Indirect Fire
+- Spotter (if selected)
+- Selfmade - *mortar shells hit (2D6 - zeroing D6) inch in a random direction from the selected target.*
 
 ***
 </br>
