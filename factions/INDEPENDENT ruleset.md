@@ -6,7 +6,7 @@
 
 ### Territorial Knowledge
 
-Due to being accustomed to the surrounding terrain features, INDEPENDENT 
+Due to being accustomed to the surrounding terrain features, INDEPENDENT
 forces do not have to fulfill an order check to enter the map as reserve
 units.</br>
 *TLDR no order checks for all reserve transports*
@@ -230,11 +230,10 @@ Infantry equipped with engineering material.
 - Sprengrohr **[+15pt]**
   
 Special Rules:
+
 - Engineers
 
 ### _<span style="color:red">Sapper team **[25pt/35pt/50pt]**_
-
-
   
 #### <span style="color:pink">Setup
 
