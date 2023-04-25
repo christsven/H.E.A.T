@@ -6,27 +6,32 @@
 
 ### Territorial Knowledge
 
-Due to a lack of standardization in equipment between NATO forces, the
-strain on logistic is especially high. Transport units must perform an
-order check with 2 pin markers when moving out of reserve to represent
-the stressed personell.</br>
-*TLDR +2 pin on all reserve transports*
+Due to being accustomed to the surrounding terrain features, INDEPENDENT 
+forces do not have to fulfill an order check to enter the map as reserve
+units.</br>
+*TLDR no order checks for all reserve transports*
 
-### Subpar Equipment
+### Foreign aid
 
-Due to a lack of standardization in equipment between NATO forces, the
-strain on logistic is especially high. Transport units must perform an
-order check with 2 pin markers when moving out of reserve to represent
-the stressed personell.</br>
-*TLDR +2 pin on all reserve transports*
+As part of undisclosed weapon shipments from alligned nations, INDEPENDENT
+forces receive a free medium mortar as part of their artillery section.
 
-### ...but cheap
+This unit is counted as a regular mortar with a spotter. It does not block
+a mortar slot.</br>
+*TLDR free regular medium mortar with spotter*
 
-Due to a lack of standardization in equipment between NATO forces, the
-strain on logistic is especially high. Transport units must perform an
-order check with 2 pin markers when moving out of reserve to represent
-the stressed personell.</br>
-*TLDR +2 pin on all reserve transports*
+### Old technology
+
+Most vehicles in the INDEPENDENT forces are old, salvaged material from
+soviet stockpiles, inferior to modern equipment.
+
+These vehicle types do have to suffer one of the following modifiers:
+
+- Slow - vehicles suffer a 50% reduction in speed.
+- Unreliable - every order taken has to pass an order check.
+- Understaffed - +1 pin marker taken every time the unit suffers pins.
+
+*TLDR choose for every APC, IFV, tank or helicopter a malus.*
 
 ***
 
@@ -206,6 +211,8 @@ Ranger team of light infantry
 
 ### _<span style="color:red">Demolition squad **[40pt/55pt/70pt]**_
 
+Infantry equipped with engineering material.
+  
 #### <span style="color:pink">Setup
 >
 >NCO (AR) + 2 AR
@@ -221,11 +228,16 @@ Ranger team of light infantry
 - 1x LMG **[+20pt]**
 - 1x LAW **[+25pt]**
 - Sprengrohr **[+15pt]**
+  
+Special Rules:
+- Engineers
 
 ### _<span style="color:red">Sapper team **[25pt/35pt/50pt]**_
 
+
+  
 #### <span style="color:pink">Setup
->
+
 > Sapper (AR)
 
 #### <span style="color:pink">Reinforcment
@@ -281,6 +293,9 @@ Ranger team of light infantry
 - Fixed
 
 ### _<span style="color:red">NSV HMG team **[49pt/70pt/91pt]**_
+  
+  Infantry unit equipped with an HMG, used to surpress infantry sections, 
+  light vehicles and helicopters.
 
 #### <span style="color:pink">Setup
 >
@@ -292,6 +307,8 @@ Ranger team of light infantry
 - Fixed
 
 ### _<span style="color:red">AGS-17 Plamja AGL team **[60pt/80pt/100pt]**_
+  
+  Infantry unit equipped with an AGL, used to surpress infantry sections.
 
 #### <span style="color:pink">Setup
 >
@@ -310,6 +327,9 @@ Ranger team of light infantry
 ## AT team **[0 -1]**
 
 ### _<span style="color:red">RPG-7 team **[42pt/60pt/78pt]**_
+  
+  Infantry section equipped with an AT RPG launcher. Used against small vehicles and lightly
+  armoured tanks.
 
 #### <span style="color:pink">Setup
 >
@@ -346,7 +366,7 @@ Ranger team of light infantry
 </br>
 
 ## Mortar team **[0 -1]**
-
+  
 ### _<span style="color:red">Light mortar team **[24pt/35pt/46pt]**_
 
 #### <span style="color:pink">Setup
@@ -399,6 +419,25 @@ Ranger team of light infantry
 - HE 3"
 - Indirect Fire
 - Spotter (if selected)
+  
+### _<span style="color:red">"Hell Cannon" propane mortar team **[56pt/75pt/94pt]**_
+
+#### <span style="color:pink">Setup
+>
+>System-Operator (propane mortar) + 3 loaders
+
+**Options:**
+
+- Spotter **[+10pt]**
+
+#### <span style="color:pink">Special Rules
+
+- Team
+- Fixed
+- HE 3"
+- Indirect Fire
+- Spotter (if selected)
+- Selfmade - *mortar shells hit (2D6 - zeroing D6) inch in a random direction from the selected target.*
 
 ***
 </br>
