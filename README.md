@@ -10,29 +10,33 @@ New rule additions and explanation in .excalidraw file
 Rules with basic factions for BLUFOR and INDEPENDENT in /factions
 *OPFOR rules are still WIP.*
 
-Units are described in a table as seen below:
+### Infantry/System operator unit template
 
-| Unit name |  |
-| :---- | :---- |
+Units such as infantry groups, artillery, mortars, etc. are described in a table as seen below:
+
+| Unit name | Unit type |
+| :---- | ---- |
 | Cost | Cost by veterancy |
-| Setup | NCO ( Weapon ) |
 | Reinforcement | Cost per additional unit |
-|Options|Rules: <ul><li>Item one.</li><li>Item two.</li></ul>Weapons: <ul><li>Item one.</li><li>Item two.</li></ul>|
-| Special Rules|Unit Rules: <ul><li>Item one.</li><li>Item two.</li></ul>Optional: <ul><li>Item one.</li><li>Item two.</li></ul> |
+| Standard Setup | NCO ( Weapon ) + x attendants ( Weapon ) |
+|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example weapon system</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example rule</td><td>Description of rule.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>|
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
+
+### Vehicle unit template
 
 Additionally, the following table is used for vehicles, as seen below.
 To better represent the sheer amount of modern vehicle variants, many
 vehicles have replacement options for their main weapon system, or can
 even be fielded without any at all.
 
-| Vehicle name | vehicle type |
-| :---- | :---- |
+| Vehicle name | Vehicle / helicopter type |
+| :---- | ---- |
 | Cost | Cost by veterancy |
-| Damage Value | NCO ( Weapon ) |
-| Weapon Systems | NCO ( Weapon ) |
-| Capacity | Troop Capacity |
-|Options|Rules: <ul><li>[ ] Item one.</li><li>Item two.</li></ul>Weapon Replacement: <ul><li>Item one.</li><li>Item two.</li></ul>Additional Weapons: <ul><li>Item one.</li><li>Item two.</li></ul>|
-| Special Rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example Rule</td><td>This rule does things.</td></tr><tr><td>Example Rule 2</td><td>This rule does other stuff.</td></tr></table><table><tr><td><b>Optional Rules</td><td><b>Description</td></tr><tr><td>Example Rule 3</td><td>This rule might be active, if for example</td><</tr><tr><td>Example Rule 4</td><td>certian weapon systems are chosen.</td>/tr></table>
+| Capacity | Troop capacity |
+| Damage value | Vehicle damage value |
+| Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Modifiers</td><td><b>Rules</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table> |
+|Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Rule</td><td>This rule does things.</td><td>+/-X [pt/unit]</td></tr><tr><td>...</td><td>...</td><td>+/-X [pt/unit]</td></tr></table><table><tr><td><b>Main Weapon Replacement</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Additional Weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>Modifiers and other information.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example Rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
 
 ### BLUFOR
 
