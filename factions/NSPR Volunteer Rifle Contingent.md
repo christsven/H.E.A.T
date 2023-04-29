@@ -247,11 +247,11 @@ Infantry section equipped with an AT RPG launcher. Used against small vehicles a
 |Options|-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Backblast</td><td>If this weapon is fired in an enclosed room or if there are units<br>within 3" of a 45° rk behind the exhaust, roll to damage for any <br>unit in this room or area.</td></tr><tr><td>Tandem HEAT round</td><td>Automatic grenade launcher, which rapidly fires 40mm ordnance.<br><br>Detailed description in [HEAT rules](../H.E.A.T.excalidraw). </td></tr></table>
 
-### 9M14 Malyutka ATGM team
+### 9K113 Konkurs ATGM team
 
 Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
-| 9M14 Malyutka ATGM team | Anti-Tank team |
+| 9K113 Konkurs ATGM team | Anti-Tank team |
 | :---- | ---- |
 | Cost | 60 pt /75 pt / 90 pt |
 | Reinforcement | - |
@@ -415,20 +415,9 @@ Old, soviet-made personell carrier from the 60s. Can be deployed reinforced by a
 |Options|<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td><td>+ 40 pt</td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.<br><br>Reduces the capacity to **8**.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>-</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
 
-### BRDM-2
-
-| BRDM-2 | APC / IFV Armoured Carrier |
-| :---- | ---- |
-| Cost | 90 pt / 105 pt / 120 pt |
-| Capacity | 2 soldiers |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Recce</td><td>Rulebook [pg. X]</td></tr></table>
-
 ***
 
-## Reinforcing Vehicles [ 0 - 1 ]
+## Extended Vehicle Pool [ 0 - 1 ]
 
 ### T-55
 
@@ -449,12 +438,23 @@ Old, soviet-made personell carrier from the 60s. Can be deployed reinforced by a
 | Capacity | 8 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Default weapon configuration |-
-|Options|<table><tr><td><b>Rules</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td></td><td><ul><li>front-facing</li></ul></td><td>+15 pt</td></tr></table>Since these weapons are mounted to the back flat, only one main weapon may be chosen.<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Back mounted MMG<br><br>Reduces troop capacity by **4**</td><td><ul><li>front-facing</li></ul></td><td>+15 pt</td></tr><tr><td>14.5mm DshK HMG</td><td>Back mounted HMG<br><br>Reduces troop capacity by **4**</td><td><ul><li>front-facing</li></ul></td><td>+20 pt</td></tr><tr><td>AGS-17 "Plamja" AGL</td><td>AGS-17 "Plamja" automatic<br> grenade launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>9M14 Malyutka ATGM launcher</td><td>9M14 Malyutka Anti-Tank Guided <br>Missile Launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 30 pt</td></tr></table>
+|Options|<table><tr><td><b>Rules</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>This vehicle is equipped with multiple<br>radios and acts as a command vehicle.<br><br>Removes troop carrying ability.</td><td><ul><li>Command</li><li>No longer carries <br>troops</li></ul></td><td>+45 pt</td></tr><tr><td>Medical Equipment</td><td>The back of the vehicle is modified to<br>tend for the wounded and transport<br>patients.<br><br>Removes troop carrying ability.</td><td><ul><li>Medic</li><li>No longer carries <br>troops</li><li>No armaments allowed</li></ul></td><td>+ 20 pt</td></tr><tr><td>Selfmade armour</td><td>Metal sheets, chicken wire, rebar, <br>concrete; This vehicle is equipped<br> with DIY armour, protecting it from small arms fire and shrappnel.<br><br> Also, it weights way too much now.</td><td><ul><li>Slow</li><li>7+ Damage Value</li></ul></td><td>+25 pt</td></tr></table>Since these weapons are mounted to the back flat, only one main weapon may be chosen.<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Back mounted MMG<br><br>Reduces troop capacity to **4**.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>14.5mm DshK HMG</td><td>Back mounted HMG<br><br>Reduces troop capacity to **4**.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+20 pt</td></tr><tr><td>AGS-17 "Plamja" AGL</td><td>AGS-17 "Plamja" automatic<br> grenade launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw). <br>Reduces troop capacity to **4**.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>9K113 Konkurs ATGM launcher</td><td>9K113 Konkurs Anti-Tank Guided <br>Missile Launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br>Reduces troop capacity to **4**.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 30 pt</td></tr><tr><td>SPG-9 recoilless rifle</td><td>SPG-9 recoilless rifle. Used to fire <br>projectiles similar to the BMP-1's 73 mm<br> 2A28 Grom.<br> Counts as a light anti-tank gun.<br><br>Reduces troop capacity to **4**.</td><td><ul><li>front-facing</li><li>light anti-tank gun</li><li>open-topped</li><li>Backblast</li></ul></td><td>+30 pt</td></tr><tr><td>UB-32 rocket pod system</td><td></td><td></td><td></td></tr><tr><td>M1938 107mm medium mortar</td><td>medium mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+ 30 pt</td></tr><tr><td>ZSU-23-2 medium autocannon</td><td></td><td></td><td></td></tr><tr><td>Several bags with C4 blocks</td><td></td><td></td><td></td></tr></table>
 | Special rules | -
+
+### BRDM-2
+
+| BRDM-2 | Armoured Carrier |
+| :---- | ---- |
+| Cost | 90 pt / 105 pt / 120 pt |
+| Capacity | 2 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+|Options|-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Recce</td><td>Rulebook [pg. X]</td></tr></table>
 
 ***
 
-## Tranports
+## Transport
 
 ### BTR-60P Transport
 
