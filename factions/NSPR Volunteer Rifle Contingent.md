@@ -391,161 +391,85 @@ If chosen in an IFV role, these units are connected to the first and second
 mandatory infantry units. If they are not or cannot be connected (due to troop
 size or weapon selection for example), the IFV rule is ignored.
 
-### M113
-
-A true workhorse of NATO forces, the M113 comes in dozens of variants and has
-been used by more countries than not since the 1960s. The Bundeswehr uses it
-for troop transport or in support roles, e. g. with a 120mm, custom made mortar
-weapon system in the rear.
+### BTR-D
 
 | M113 | APC / IFV Armoured Carrier |
 | :---- | ---- |
-| Cost | 110 pt / 135 pt / 150 pt |
-| Capacity | 15 soldiers |
+| Cost | 92 pt / 110 pt / 128 pt |
+| Capacity | 10 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>Rulebook [pg. X]<br><br>*This removes the ability to<br>use any main weapon option<br>and reduces the Capacity to **5**.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>Rulebook [pg. X]<br><br>*This removes the ability to<br>use any main weapon option<br>and reduces the Capacity to **5**.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-Tank Guided Missile Launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr><tr><td>Panzermörser 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Spotter _(if selected)_</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Open-Topped _(if selected)_</td><td>Rulebook [pg. X]</td></tr></table>
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>PKB 7.62mm MMG</td><td>PKB 7.62mm medium machine gun<br><br>The weapon is located in the front-left,<br>similar to a headlight.</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>PKB 7.62mm MMG</td><td>PKB 7.62mm medium machine gun<br><br>The weapon is located in the front-right,<br>similar to a headlight.</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+|Options|<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>ZSU-23-2<br>medium autocannon</td><td>ZSU-23-2 anti-air gun.<br>This weapon is secured by cables<br>on the sides of the tank, which<br>makes it less stable than a turret-<br>mounted gun, but it's better than<br>nothing, maybe?</td><td><ul><li>pintle-mounted</li><li>separted gun post</li></ul></td><td>+ 20 pt</td></tr></table>All weapons are mounted at the commander's hatch, so only one can be chosen.<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>AGS-17 "Plamja" AGL</td><td>AGS-17 "Plamja" automatic<br> grenade launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>9M14 Malyutka ATGM launcher</td><td>9M14 Malyutka Anti-Tank Guided <br>Missile Launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Airborne Restraints</td><td>Due to being designed as small as possible to be air-dropped over enemy territory, <br>the BTR-Ds two bow-mounted machine guns were operated by a single machine gunner.<br><br><ul><li>While actively transporting units, the second MMG can be operated by one of the passengers, but once disembarked, only one can be used per turn.</li><li>If any further weapon is added to the BTR-D, this also applies.</li></ul></td></tr><tr><td>Separted gun post</td><td>The cable-mounted ZSU is completely seperated from the inside of the tank.<br><br><ul><li> To operate it, the gunner has to exit the vehicle and get on his post.<br>This cannot happen after a FIRE or RUN.</li><li>The weapon suffers a -1 on the first turn the gunner disembarks. </li><li>Disembarking can happen beforehand to negate this effect.</li><li>Reentering does not require a whole turn, but cannot happen during a RUN order, <br>and not after already firing the weapon.</li></ul></td></tr></table>
 
-### TPz Fuchs 1A4/5
+### BTR-60P/PB
 
-Almost 60 years old and still found in most platoons, the TPz Fuchs is a
-versatile and reliable, if also old-fashioned, troop transport for the german
-armed forces. With almost as many variants and upgrade kits as the M113, this
-APC can be equipped with medical equipment, command utility or recon modifications.
+Old, soviet-made personell carrier from the 60s. Can be deployed reinforced by a turret with a 14.5mm auto cannon  (BTR-60PB), <br>which lead to a reduction in troop capacity.
 
-| TPz Fuchs 1A4/5 | APC / IFV Armoured Carrier |
+| BTR-60P/PB | APC / IFV Armoured Carrier |
 | :---- | ---- |
-| Cost | 95 pt / 110 pt / 125 pt |
-| Capacity | 8 soldiers |
+| Cost | 85 pt / 100 pt / 115 pt |
+| Capacity | 14 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>EBS Führungs- und <br>Funkfahrzeug <br>(*Command Vehicle*)</td><td>Rulebook [pg. X]<br><br>*This removes the ability to<br>use any main weapon option<br>and reduces the Capacity to **2**.*</td><td>+40 pt</td></tr><tr><td>EBS Sanitätsgruppe<br> mit Raumkühlanlage <br>(*Medic Vehicle)*</td><td>Rulebook [pg. X]<br><br>*This removes the ability to<br>use any  weapon option<br>and reduces the Capacity to **0**.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Milan ATGM launcher</td><td>Milan Anti-Tank Guided Missile Launcher.<br>Mounted at the commander's hatch in <br>the middle-right, blocking it for optional<br>MG 3.<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG3 MMG <br>(*3x possible*)</td><td>Medium machine guns,<br>either at the co-pilot's hatch (*front-right*),<br> the commander's hatch (*center-right*),<br> or the transport room hatch (*back-left*).<br></td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt each</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Open-Topped _(if selected)_</td><td>Rulebook [pg. X]</td></tr></table>
+|Options|<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td><td>+ 40 pt</td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.<br><br>Reduces the capacity to **8**.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>-</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
 
-### GTK Boxer
+### BRDM-2
 
-Set to replace the Fuchs, developed in 1962-69 and  
-
-| GTK Boxer | APC / IFV Armoured Carrier |
+| BRDM-2 | APC / IFV Armoured Carrier |
 | :---- | ---- |
 | Cost | 90 pt / 105 pt / 120 pt |
-| Capacity | 7 soldiers |
+| Capacity | 2 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 200 (7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr><tr><td>FLW 200 (12.7mm) HMG</td><td>Remote-controlled HMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 25 pt</td></tr><tr><td>FLW 200 (40mm HE) AGL</td><td>Remote-controlled AGL</td><td><ul><li>turret-mounted</li></ul></td><td>+ 35 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>AGL _(if selected)_</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>HE 1" _(if selected)_</td><td>Rulebook [pg. X]</td></tr></table>
-
-### SPz 1A3 Marder
-
-| SPz 1A3 Marder | APC / IFV Light Tank |
-| :---- | ---- |
-| Cost | 130 pt / 145 pt / 160 pt |
-| Capacity | 6 soldiers |
-| Damage value | 8+ Light Tank |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>20-mm MK 20 RH 202</td><td>20mm light autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Milan ATGM Launcher</td><td>Milan Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>+ 35 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>ATGM</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
-
-### SPz Puma
-
-| SPz Puma | APC / IFV Light Tank |
-| :---- | ---- |
-| Cost | 164 pt / 179 pt / 194 pt |
-| Capacity | 6 soldiers |
-| Damage value | 8+ Light Tank |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 4 MMG</td><td>MG 4 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>30-mm-MK 30-2/ABM</td><td>30mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Spike VR ATGM Launcher</td><td>Spike Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li><li>fire-and-forget</li></ul></td><td>+ 50 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>ATGM</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Fire-And-Forget</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
-
-### M2/M3 Bradley
-
-| M2/M3 Bradley | APC / IFV Light Tank |
-| :---- | ---- |
-| Cost | 144 pt / 159 pt / 174 pt |
-| Capacity | 6 soldiers |
-| Damage value | 8+ Light Tank |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>M240C MMG</td><td>M240C MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>25 mm M242 </td><td>25mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM Launcher</td><td>TOW Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>+ 35 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>ATGM</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+|Options|-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Recce</td><td>Rulebook [pg. X]</td></tr></table>
 
 ***
 
 ## Reinforcing Vehicles [ 0 - 1 ]
 
-### Hauptkampfpanzer Leopard 2A6
+### T-55
 
-| Hauptkampfpanzer<br> Leopard 2A6 | MBT Medium Tank |
+| T-55 | MBT Medium Tank |
 | :---- | ---- |
-| Cost | 210 pt / 225 pt / 240 pt |
+| Cost | 144 pt / 159 pt / 174 pt |
 | Capacity | - |
 | Damage value | 9+ Medium Tank |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>Rh-120 L/44 120 mm</td><td>120mm smoothbore heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG 3 MMG</td><td>Medium machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Tiger Fear</td><td>Rulebook [pg. X]</td></tr><tr><td>Open-Topped (*if selected*)</td><td>Rulebook [pg. X]</td></tr></table>
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>7.62mm SGMT MMG</td><td>7.62mm SGMT medium machine gun</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>D10-T 100mm</td><td>100mm rifle-boored heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr><tr><td>12.7mm DshK HMG</td><td>12.7mm DshK heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table> |
+|Options| -
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Slow</td><td>Vehicle suffers a 50% reduction in speed.</td></tr><tr><td>HE 2"</td><td>Rulebook [pg. X]</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrell to propell a kinetic round. While firing HE rounds<br> as a heavy AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td><tr><td>Open-Topped (*if selected*)</td><td>Rulebook [pg. X]</td></tr></table>
 
-### MARS II MLRS
+### Toyota Hilux
 
-| MARS II MLRS | Armoured Carrier |
+| Toyota Hilux | Soft-Skinned Vehicle |
 | :---- | ---- |
-| Cost | 181 pt / 196 pt / 211 pt |
-| Capacity | - |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>Cal. 298mm MLRS</td><td>Multiple Launcher Rocket System</td><td><ul><li>turret-mounted</li><li>rocket-launcher</li></ul></tr></table> |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher</td><td>Rulebook [pg. X]</td></tr><tr><td>Indirect Fire</td><td>Rulebook [pg. X]</td></tr><tr><td>HE 3"</td><td>Rulebook [pg. X]</td></tr></table>
-
-### Unterstützungshubschrauber Eurocopter Tiger
-
-| Unterstützungshubschrauber<br> Eurocopter Tiger | Medium helicopter |
-| :---- | ---- |
-| Cost | 145 pt / 160 pt / 175 pt |
-| Capacity | - |
-| Damage value | 7+ Medium Helicopter |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>30 mm (1.18 in) GIAT 30</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>70mm Hydra rockets</td><td></td><td><ul><li>front-facing</li><li>rocket-launcher</li></ul></td><td>+ 50 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>Rulebook [pg. X]</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>Rulebook [pg. X]</td></tr><tr><td>HE 3" (*if selected*)</td><td>Rulebook [pg. X]</td></tr></table>
+| Cost | 40 pt / 55 pt / 70 pt |
+| Capacity | 8 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Default weapon configuration |-
+|Options|<table><tr><td><b>Rules</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td></td><td><ul><li>front-facing</li></ul></td><td>+15 pt</td></tr></table>Since these weapons are mounted to the back flat, only one main weapon may be chosen.<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Back mounted MMG<br><br>Reduces troop capacity by **4**</td><td><ul><li>front-facing</li></ul></td><td>+15 pt</td></tr><tr><td>14.5mm DshK HMG</td><td>Back mounted HMG<br><br>Reduces troop capacity by **4**</td><td><ul><li>front-facing</li></ul></td><td>+20 pt</td></tr><tr><td>AGS-17 "Plamja" AGL</td><td>AGS-17 "Plamja" automatic<br> grenade launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>9M14 Malyutka ATGM launcher</td><td>9M14 Malyutka Anti-Tank Guided <br>Missile Launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 30 pt</td></tr></table>
+| Special rules | -
 
 ***
 
 ## Tranports
 
-### M113 Transport
+### BTR-60P Transport
 
-| M113 | Armoured Carrier |
+| BTR-60P | Armoured Carrier |
 | :---- | ---- |
-| Cost | 85 pt / 90 pt / 95 pt |
-| Capacity | 15 soldiers |
+| Cost | 70 pt / 75 pt / 80 pt |
+| Capacity | 14 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>Rulebook [pg. X]</td></tr></table>
-
-### TPz Fuchs 1A4/5 Transport
-
-| TPz Fuchs 1A4/5 | Armoured Carrier |
-| :---- | ---- |
-| Cost | 60 pt / 65 pt / 70 pt |
-| Capacity | 8 soldiers |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG3 MMG <br>(*3x possible*)</td><td>Medium machine guns,<br>either at the co-pilot's hatch (*front-right*),<br> the commander's hatch (*center-right*),<br> or the transport room hatch (*back-left*).<br></td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt each</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>Rulebook [pg. X]</td></tr></table>
-
-### GTK Boxer Tranport
-
-| GTK Boxer | Armoured Carrier |
-| :---- | ---- |
-| Cost | 55 pt / 60 pt / 65 pt |
-| Capacity | 7 soldiers |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Default weapon configuration | - |
 |Options|-
 | Special rules | -
 
-### MAN gl Transport
+### GAZ-51 Transport
 
-| MAN gl | Soft-Skinned Vehicle |
+| GAZ-51 | Soft-Skinned Vehicle |
 | :---- | ---- |
 | Cost | 25 pt / 30 pt / 35 pt |
 | Capacity | 16 soldiers |
@@ -554,9 +478,9 @@ Set to replace the Fuchs, developed in 1962-69 and
 |Options|-
 | Special rules | -
 
-### Wolf G5 Jeep
+### GAZ-69 Jeep
 
-| MAN gl | Soft-Skinned Vehicle |
+| GAZ-69 | Soft-Skinned Vehicle |
 | :---- | ---- |
 | Cost | 15 pt / 20 pt / 25 pt |
 | Capacity | 6 soldiers |
@@ -565,9 +489,31 @@ Set to replace the Fuchs, developed in 1962-69 and
 |Options|-
 | Special rules | -
 
-### Estonial Mil Mi-2B
+### Toyota Hilux Transport
 
-| MAN gl | Medium helicopter |
+| Toyota Hilux | Soft-Skinned Vehicle |
+| :---- | ---- |
+| Cost | 25 pt / 30 pt / 35 pt |
+| Capacity | 8 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Default weapon configuration |- |
+|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Back mounted MMG<br><br>Reduces troop capacity by **4**</td><td><ul><li>front-facing</li></ul></td><td>+15 pt</td></tr><tr><td>14.5mm DshK HMG</td><td>Back mounted HMG<br><br>Reduces troop capacity by **4**</td><td><ul><li>front-facing</li></ul></td><td>+25 pt</td></tr></table>
+| Special rules | -
+
+### R75 Ural Motorcycle
+
+| R75 Ural | Soft-Skinned Vehicle |
+| :---- | ---- |
+| Cost | 18 pt / 23 pt / 28 pt |
+| Capacity | 2 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Default weapon configuration |- |
+|Options| <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Side car mounted MMG</td><td><ul><li>front-facing</li></ul></td><td>+15 pt</td></tr></table>
+| Special rules | -
+
+### Mil Mi-2B
+
+| Mil Mi-2B | Medium helicopter |
 | :---- | ---- |
 | Cost | 50 pt / 55 pt / 60 pt |
 | Capacity | 16 soldiers |

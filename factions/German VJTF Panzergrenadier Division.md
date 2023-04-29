@@ -531,7 +531,7 @@ Set to replace the Fuchs, developed in 1962-69 and
 
 ### Wolf G5 Jeep
 
-| MAN gl | Soft-Skinned Vehicle |
+| Wolf G5 Jeep | Soft-Skinned Vehicle |
 | :---- | ---- |
 | Cost | 15 pt / 20 pt / 25 pt |
 | Capacity | 6 soldiers |
@@ -542,7 +542,7 @@ Set to replace the Fuchs, developed in 1962-69 and
 
 ### Estonial Mil Mi-2B
 
-| MAN gl | Medium helicopter |
+| Mil Mi-2B | Medium helicopter |
 | :---- | ---- |
 | Cost | 50 pt / 55 pt / 60 pt |
 | Capacity | 16 soldiers |
