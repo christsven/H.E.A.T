@@ -44,13 +44,13 @@ even be fielded without any at all.
 
 Roster for a modern, 2010-2020 era fictional NATO brigade, composed of a
 reinforced Bundeswehr Panzergrendier infantry platoon.
-[VJTF Roster](https://github.com/christsven/H.E.A.T/blob/main/factions/BLUFOR%20ruleset.md)
+[VJTF Roster](https://github.com/christsven/H.E.A.T/blob/main/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
 ### INDEPENDENT
 
 Roster for a non-symmetrical, platoon-sized independent force, composed
 of former soviet-army material.
-[NSPR Roster](https://github.com/christsven/H.E.A.T/blob/main/factions/INDEPENDENT%20ruleset.md)
+[NSPR Roster](https://github.com/christsven/H.E.A.T/blob/main/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
 
 ## Scenarios
 
