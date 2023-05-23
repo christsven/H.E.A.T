@@ -25,7 +25,7 @@ of Estonia. As a former soviet republic, many older, russian-born citizens
 remember the USSR in a positive light and see the westernization of society as
 a mistake. Most of them live right at the border with Russia, for example in
 the city of Narva (95.7% native russian speakers, 87.7% ethnic russians), right
-at the border.
+at the border, many of whom face lower living standards dhe to not speaking estonian.
 
 ### 2014 - Steadfast Jazz Disaster
 
@@ -44,7 +44,14 @@ NATO, fueling anti-west sentiment.
 
 ### 2015 - Spiraling protests
 
-Reoccuring protests demanding more autonomy from the western counties caused
+Reoccuring protests demanding more autonomy and accepting russian as a state
+language, civil unrest grew over the course of couple of months in early 2015.
+The refugee crisis,fueled conservative populism. First open calls for independence 
+followed razzias against popular far-right extremists, shortly before the election
+of parliament in March. The *"Iseseisvus rahvale"* party were elected by over 60% of
+voters in the Ida Viru county. After learning about their victory, party officials
+announced an independence referendum before the end of the year, which was sharply
+condemned by estonian and EU officials.
 
 ### 2016 - Outbreak of war
 
