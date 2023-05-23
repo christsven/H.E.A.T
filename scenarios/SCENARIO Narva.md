@@ -53,6 +53,12 @@ voters in the Ida Viru county. After learning about their victory, party officia
 announced an independence referendum before the end of the year, which was sharply
 condemned by estonian and EU officials.
 
+First clashes between paramilitary forces and police followed in March and April.
+The death of two policemen made global news in late April. The estonian, lithuanian 
+and latvian presiden called upon the treaty of the european union to aid against the
+threat of a civil war. A bombing of a military convoi redeploying from an excercise 
+in Sillamae in August started a discussiom to send NRF peace keeping mission to Estonia.
+
 ### 2016 - Outbreak of war
 
 ## BLUFOR introduction and goals
