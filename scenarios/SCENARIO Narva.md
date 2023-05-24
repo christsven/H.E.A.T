@@ -2,15 +2,15 @@
 
 ## Maps of Estonia and NSPR
 
-<img src="ressources/estonia_prewar.png">  width="550" height="355">
+<img src="ressources/estonia_prewar.png">
 
 *Map of Estonia before 19.04.2016*
 
-<img src="ressources/estonia_political_map.png">  width="550" height="355">
+<img src="ressources/estonia_political_map.png">
 
 *In the upper right corner, Ida-Viru County.*
 
-<img src="ressources/estonia-post-2015.png"> width="550" height="355">
+<img src="ressources/estonia-post-2015.png">
 
 *NSPR claimed territory and initial controlled territory*
 
@@ -65,11 +65,11 @@ started a discussion to send peace keeping mission to Estonia.
 
 ## BLUFOR introduction and goals
 
-<img src="ressources/nato.png">  width="260" height="200">
+<img src="ressources/nato.png">
 
 *NATO flag*
 
-<img src="ressources/NRF%20emblem.png">  width="220" height="275">
+<img src="ressources/NRF%20emblem.png">
 
 *Emblem of NATO response forces, stationed in the baltic countries*
 
@@ -79,7 +79,7 @@ started a discussion to send peace keeping mission to Estonia.
 
 ## INDEPENDENT introduction and goals
 
-<img src="ressources/NSPR%20flag.png">  width="326" height="220">
+<img src="ressources/NSPR%20flag.png">
 
 *Narva Socialist People's Republic flag*
 
