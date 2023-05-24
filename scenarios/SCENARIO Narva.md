@@ -44,20 +44,22 @@ NATO, fueling anti-west sentiment.
 
 ### 2015 - Spiraling protests
 
-Reoccuring protests demanding more autonomy and accepting russian as a state
-language, civil unrest grew over the course of couple of months in early 2015.
-The refugee crisis,fueled conservative populism. First open calls for independence 
-followed razzias against popular far-right extremists, shortly before the election
-of parliament in March. The *"Iseseisvus rahvale"* party were elected by over 60% of
-voters in the Ida Viru county. After learning about their victory, party officials
-announced an independence referendum before the end of the year, which was sharply
-condemned by estonian and EU officials.
+With reoccuring protests demanding more autonomy and accepting russian as a state
+language, civil unrest grew over the course of couple of months in early 2015,
+while thee refugee crisis fueled conservative populism. First open calls for 
+independence followed razzias against popular far-right extremists, shortly before 
+the election of parliament in March. The *"Iseseisvus rahvale"* party were elected 
+by over 80% of voters in the Ida Viru county during the fraud allegation ridden election run. 
+After learning about their victory, party officials announced an independence referendum
+before the end of the year, which was sharply condemned by estonian and EU officials.
 
 First clashes between paramilitary forces and police followed in March and April.
-The death of two policemen made global news in late April. The estonian, lithuanian 
-and latvian presiden called upon the treaty of the european union to aid against the
-threat of a civil war. A bombing of a military convoi redeploying from an excercise 
-in Sillamae in August started a discussiom to send NRF peace keeping mission to Estonia.
+The death of two policemen made global news in early May. The estonian, lithuanian 
+and latvian presidents called upon the treaty of the european union to aid against the
+threat of a civil war. 
+
+A bombing of a military convoi redeploying from an excercise in Sillamae in August
+started a discussion to send peace keeping mission to Estonia.
 
 ### 2016 - Outbreak of war
 
