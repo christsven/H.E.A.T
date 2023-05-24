@@ -2,15 +2,15 @@
 
 ## Maps of Estonia and NSPR
 
-<img src="ressources/estonia_prewar.png"  width="550" height="355">
+<img src="ressources/estonia_prewar.png">  width="550" height="355">
 
 *Map of Estonia before 19.04.2016*
 
-<img src="ressources/estonia_political_map.png"  width="550" height="355">
+<img src="ressources/estonia_political_map.png">  width="550" height="355">
 
 *In the upper right corner, Ida-Viru County.*
 
-<img src="ressources/estonia-post-2015.png"  width="550" height="355">
+<img src="ressources/estonia-post-2015.png"> width="550" height="355">
 
 *NSPR claimed territory and initial controlled territory*
 
@@ -25,7 +25,7 @@ of Estonia. As a former soviet republic, many older, russian-born citizens
 remember the USSR in a positive light and see the westernization of society as
 a mistake. Most of them live right at the border with Russia, for example in
 the city of Narva (95.7% native russian speakers, 87.7% ethnic russians), right
-at the border, many of whom face lower living standards dhe to not speaking estonian.
+at the border, many of whom face lower living standards due to not speaking estonian.
 
 ### 2014 - Steadfast Jazz Disaster
 
@@ -65,11 +65,11 @@ started a discussion to send peace keeping mission to Estonia.
 
 ## BLUFOR introduction and goals
 
-<img src="ressources/nato.png"  width="260" height="200">
+<img src="ressources/nato.png">  width="260" height="200">
 
 *NATO flag*
 
-<img src="ressources/NRF%20emblem.png"  width="220" height="275">
+<img src="ressources/NRF%20emblem.png">  width="220" height="275">
 
 *Emblem of NATO response forces, stationed in the baltic countries*
 
@@ -79,7 +79,7 @@ started a discussion to send peace keeping mission to Estonia.
 
 ## INDEPENDENT introduction and goals
 
-<img src="ressources/NSPR%20flag.png"  width="326" height="220">
+<img src="ressources/NSPR%20flag.png">  width="326" height="220">
 
 *Narva Socialist People's Republic flag*
 
