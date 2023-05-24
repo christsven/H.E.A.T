@@ -69,7 +69,7 @@ started a discussion to send peace keeping mission to Estonia.
 
 *NATO flag*
 
-<img src="ressources/NRF%20emblem.png">
+<img src="ressources/NRF emblem.png">
 
 *Emblem of NATO response forces, stationed in the baltic countries*
 
@@ -79,7 +79,7 @@ started a discussion to send peace keeping mission to Estonia.
 
 ## INDEPENDENT introduction and goals
 
-<img src="ressources/NSPR%20flag.png">
+<img src="ressources/NSPR flag.png">
 
 *Narva Socialist People's Republic flag*
 
