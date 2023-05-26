@@ -63,6 +63,29 @@ started a discussion to send peace keeping mission to Estonia.
 
 ### 2016 - Outbreak of war
 
+## Geography
+
+Ida Nivu lies at the russian-estonian land border as well as the Gulf of Finland in
+the north. To the south-east, a large part of the border runs through lake Peipsi.
+The terrain itself is largely flat with up to 30% composed of mires and bogs. These
+areas cover open fields with muddy, almost swampy terrain and waist-high vegetation.
+Additionally many small rivers and revines, some artificial, cover the landscape. While large parts are used for agriculture, there are still parts of forest and bushlands remaining.
+
+With the population centres along the northern coast most other parts of the Ida-Nivu are
+only compromised of small villages, connected by 
+
+### General Description
+
+### Points of interest
+
+#### Narva Plant
+
+#### Ash Hill
+
+#### Hermann Castle
+
+#### Meätaguse Manor
+
 ## BLUFOR introduction and goals
 
 <img src="ressources/nato.png">
