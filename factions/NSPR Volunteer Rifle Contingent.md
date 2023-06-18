@@ -70,7 +70,7 @@ and reporting enemy troop movement.
 | Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
 | Setup | NCO ( AR ) + 1 attendants ( AR ) |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>4x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr></table>|
-| Special rules | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>Rulebook [pg. X]</td></tr></table> |
 
 ### Scouting squad
 
@@ -85,35 +85,40 @@ and reporting enemy troop movement.
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>3x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr></table>|
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>Rulebook [pg. X]</td></tr></table>
 
-### Tankodesantniki squad
+### SMG squad
 
 Light infantry unit, which is able to perform flanking operations without
-motorized support.
+motorized support or operate in urban environments. Equipped with breaching
+material. They can be equipped with some SMGs.
 
-| Tankodesantniki squad | Infantry unit |
+| SMG squad | Infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants: 7 pt / 10 pt / 13 pt |
 | Setup | NCO ( AR ) + 3 attendants ( AR ) |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>3x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>Rulebook [pg. X].</td><td>+ 1 pt each</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sprengrohr</td><td>Can be used against mines, IEDs, or even walls and building sides to blow them open.<br><br>Activated by a successful FIRE order, roll a D6, 2+ to succeed. 6" range.<br>While 2 soldiers are using them, the other soldiers are able to attack other targets.</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Bangalore</td><td>Can be used against mines, IEDs, or even walls and building sides to blow them open.<br><br>Activated by a successful FIRE order, roll a D6, 2+ to succeed. 6" range.<br>While 2 soldiers are using them, the other soldiers are able to attack other targets.</td></tr></table>
 
 ### Marksman group
 
-| Tankodesantniki squad | Infantry unit |
+A small group with DMR support. Can take up to two DMRs.
+
+| Marksman group | Infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants: 7 pt / 10 pt / 13 pt |
-| Setup | NCO ( AR ) + 2 attendants ( AR ) |
+| Setup | NCO ( AR ) + 2 attendants ( 1x DMR, 1x AR ) |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+10 pt</td></tr></table>
 | Special rules | -
 
-### Narva resistance infantry squad
+### NSPR resistance infantry squad
 
 Armored infantry squad, the core of any modern fighting force. Deployed as the
-infanty part of german IFVs.
+infanty part of IFVs. Part of the more well-trained core force, these freedom
+fighters have at least undergone mandatory services and understand how a military
+unit has to behave.
 
-| Narva resistance infantry squad | Infantry unit |
+| NSPR resistance infantry squad | Infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants: 7 pt / 10 pt / 13 pt |
@@ -121,9 +126,13 @@ infanty part of german IFVs.
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>2x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table>
 | Special rules | -
 
-### PMC infantry squad
+### Bratstwa infantry squad
 
-| PMC infantry squad | Infantry unit |
+The right wing, paramilitary force "Bratstwa" are well-trained and equipped,
+and are used since the revolution began to strike down difficult targets,
+perform covert operations or support breakthrough attempts.
+
+| Bratstwa squad | Infantry unit |
 | :---- | ---- |
 | Cost | - / 60 pt / 85 pt |
 | Reinforcement | up to 5 attendants: - pt / 10 pt / 13 pt |
@@ -131,7 +140,12 @@ infanty part of german IFVs.
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>2x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Stubborn</td><td>Rulebook [pg. X]</td></tr></table>
 
-### Local "volunteer" squad
+### Volunteer rifle squad
+
+While NSPR forces have a somewhat regular core force, the majority of freedom-
+fighting revolutionaries consist of mostly untrained, unprofessional personell,
+with maybe the NCO and one or two trained leaders to keep everything together
+and follow orders.
 
 | Volunteer squad | Infantry unit |
 | :---- | ---- |
@@ -159,6 +173,9 @@ Support infantry, used to clear terrain or restrict enemy movement.
 
 ### Sapper team
 
+A small team with a lot of explosives, their role is to find any way to hinder
+enemy forces in the dynamic enviromnent of warfare.
+
 | Sapper team | Combat support unit |
 | :---- | ---- |
 | Cost | 25 pt / 35 pt / 50 pt |
@@ -168,6 +185,9 @@ Support infantry, used to clear terrain or restrict enemy movement.
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>Engineers are trained to operate mines and disable IEDs.<br><br>When engaging an IED, this unit may reroll failed IED checks. <br>They also only suffer +1 pin from decoys.</td></tr></table>
 
 ### Dragunov sniper team
+
+A sniper team, equipped with a SVD "Dragunov" rifle. One attendant helps with
+spotting and rangefinding.
 
 | Dragunov sniper team | Combat support unit |
 | :---- | ---- |
@@ -179,7 +199,10 @@ Support infantry, used to clear terrain or restrict enemy movement.
 
 ### AMR team
 
-Anti materiell rifle sniper team.
+Sniper team equipped with a heavy-hitting anti-materiell rifle. While AT rifles
+such as the PTRS-41 have become obsolete with modern armour development, these
+guns are still used against lightly armoured vehicles, buildings or heavier
+cover.
 
 | AMR team | Combat support unit |
 | :---- | ---- |
@@ -195,7 +218,7 @@ Anti materiell rifle sniper team.
 
 ### RPK MMG team
 
-RPK MMG team.
+A machine gun team equipped with a RPK.
 
 | RPK MMG team | Machine gun team |
 | :---- | ---- |
@@ -223,7 +246,7 @@ Infantry unit equipped with an AGL, used to surpress infantry sections.
 
 | AGS-17 Plamja team | Machine gun team |
 | :---- | ---- |
-| Cost | 60 pt / 80 pt / 100 pt |
+| Cost | 50 pt / 60 pt / 75 pt |
 | Reinforcement | - |
 | Setup | NCO ( AGL ) + 2 loaders |
 |Options|-

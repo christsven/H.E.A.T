@@ -57,8 +57,8 @@ and reporting enemy troop movement.
 | Cost | 20 pt / 30 pt / 40 pt |
 | Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
 | Setup | NCO ( AR ) + 1 attendants ( AR ) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>4x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr></table>|
-| Special rules | - |
+|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>3x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr></table>|
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>Rulebook [pg. X]</td></tr></table> |
 
 ### Aufklärergruppe
 
@@ -200,7 +200,7 @@ GraMaWa AGL team.
 
 | GraMaWa team | Machine gun team |
 | :---- | ---- |
-| Cost | 65 pt / 80 pt / 105 pt |
+| Cost | 50 pt / 60 pt / 75 pt |
 | Reinforcement | - |
 | Setup | NCO ( AGL ) + 2 loaders |
 |Options|-
@@ -540,12 +540,12 @@ Set to replace the Fuchs, developed in 1962-69 and
 |Options|-
 | Special rules | -
 
-### Estonial Mil Mi-2B
+### Unterstützungshubschrauber UH-1D "Huey"
 
-| Mil Mi-2B | Medium helicopter |
+| Unterstützungshubschrauber<br> UH-1D "Huey" | Light helicopter |
 | :---- | ---- |
-| Cost | 50 pt / 55 pt / 60 pt |
-| Capacity | 16 soldiers |
+| Cost | 35 pt / 50 pt / 65 pt |
+| Capacity | 8 soldiers |
 | Damage value | 7+ Medium helicopter |
 | Default weapon configuration |- |
 |Options|-
