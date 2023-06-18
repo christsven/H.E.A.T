@@ -164,17 +164,25 @@ oil shale industry of Ida-Viru, making it a valuable target to NSPR forces.
 Another former mining town with declining population. Most buildings are typical
 soviet blocks, and over 50% of the population are ethnically russian, with another
 20% from other former eastern bloc countries. Other than similar, neighboring
-towns, Jõhvi never developed any business to the same extend of oil shale mining, 
+towns, Jõhvi never developed any business to the same extend of oil shale mining,
 which led to a high level of unemployment.
 
 Almost 92% of Jõhvi voted for independence, and it is home to many of *Iseseisvus*
-*rahvale*'s most fierce supporters. Its vice president was born here, too.
+*rahvale*'s most fierce supporters.
 
 ##### Sillimäe
 
 <img src="ressources/Sillamae.png">
 
-A former closed city of the USSR,
+Sillamäe is a former closed city located in northeastern Estonia. Placed colse
+to the shores of the Gulf of Finland, it offers a unique blend of natural beauty
+and intriguing history. Once a secretive Soviet-era uranium processing center,
+Sillamäe has multiple locations of interest, with its city centre boasting former
+soviet architecture, an old city hall, a well equipped port and a valuable
+thermal power station.
+
+30 years after being opened up to the world, over 80% of inhabitants still are of
+russian ethnicity.
 
 ###### City Centre
 
@@ -185,6 +193,18 @@ A former closed city of the USSR,
 ##### Narva
 
 <img src="ressources/Narva.png">
+
+Narva is a historic city located in northeastern Estonia, situated on the banks
+of the Narva River, which forms the border with Russia. Known for its rich
+history andcultural heritage, Narva stands as a unique blend of Estonian and
+Russian influences. The city is renowned for its striking medieval fortress,
+Narva Castle, which overlooks the river and serves as a symbol of its past.
+
+Narva is characterized by its diverse architecture, showcasing a mix of medieval,
+Soviet-era, and modern buildings. The city has witnessed a fusion of cultures
+over the centuries, resulting in a vibrant atmosphere and a fascinating blend of
+traditions. Narva is home to a multicultural community, and both Estonian and
+Russian languages are widely spoken.
 
 ###### Enefit Power AS
 
@@ -204,6 +224,16 @@ A former closed city of the USSR,
 
 <img src="ressources/Alutaguse.png">
 
+Mäetaguse is a village located in the Ida-Viru County of northeastern Estonia.
+It is situated approximately 25 kilometers southwest of the city of Jõhvi.
+The village is known for its rich history, with settlements dating back to
+ancient times. Today, it serves as a residential area with a close-knit community
+and a slower pace of life. Mäetaguse is characterized by its predominantly rural
+landscape, surrounded by lush forests and picturesque countryside. The village
+is home to a small number of traditional wooden houses, reflecting the
+architectural style of the region. It offers basic amenities such as schools,
+a church, and local shops, providing a sense of community for its residents.
+
 ###### Mäetaguse town hall
 
 ##### Muraka national reserve
@@ -212,9 +242,33 @@ A former closed city of the USSR,
 
 ##### Agusalu national reserve
 
+Agusalu is a raised bog located in Estonia, specifically in the northeastern
+part of the country. It is situated in the Lahemaa National Park, which is known
+for its diverse and pristine natural landscapes. Agusalu is one of the largest
+and most well-preserved raised bogs in Estonia, covering an area of approximately
+9 square kilometers.
+
+>Raised bogs are unique ecosystems characterized by the accumulation of peat, which
+>is formed from decaying organic matter over thousands of years. Agusalu offers a
+>remarkable display of the typical features found in a raised bog, including an
+>undulating surface with hummocks, hollows, and pools. The bog is rich in
+>biodiversity, supporting a variety of plant species, such as sphagnum mosses,
+>cranberries, and heather, which are specially adapted to the acidic and nutrient
+>-poor conditions of the bog.
+
 #### South
 
 ##### Tudulinna
+
+Tudulinna is a small settlement located in the Lääne-Viru County of northeastern
+Estonia. It lies approximately 35 kilometers northwest of the city of Mustvee.
+The settlement has a relatively small population and is characterized by its
+rural and peaceful environment.
+
+Tudulinna serves as a local administrative center, providing basic services and
+amenities to its residents. The settlement is home to a school, a church, and a
+few local shops. The settlement is also located in proximity to Lake Peipus, one
+of the largest freshwater lakes in Europe-
 
 ###### Tudulinna hydroelectric dam
 
