@@ -10,19 +10,11 @@ This is the first setting for H.E.A.T. as a modern, but fictional war in
 northern europe. If you play this just as a unit roster for an army, a single
 match, or a full campaign is up to you.
 
-### Iseseisvus rahvale
+### Breakdown
 
-- civilan pushback
-- wanted democracy
-- 2 partners lead revolution
-- civil war between partners
-- SAF powerful force -> many coups
-- coup proofing -> multiple groups keep each oother in check
-- coup leader -> person in power
-- hemeti -> insurgent leader from rebel forces in discr. area
-- south sudan splits apart -> weakened position
-- hemetis forces become RSF, next to normal SAF army
-- hemetis was "bought" with control over minerals which were sold to neighbours
+A revolution in the eastern district of Ida Viru in Estonia plunged the region into a civil war. Many of the larger settlements were swiftly taken under control of the Narva Socialist People's Republic (NSPR), which has a standing force of around 10-13.000 men. The NSPR forces are a patchwork of former soldiers, poorly trained civilians and paramilitary groups, which are as differently trained as they are equipped, making use of old soviet equiment, civilian vehicles and more modern weaponry sponsored by foreign donors. Ideologically just as split, the NSPR is internally divided between left-leaning revolutionaries seeking their own state and far right militias such as "Bratstwa", who want to become part of the Russian Federation.
+
+NATO now sends the VJTF (currently lead by the Bundeswehr with a Panzergrenadierdivision) to fight off the separatists, which for now means a assymetrical fight for control over the various cities and facilities under NSPR control. The RF has condemned the use of NATO troops without a UN mandate and threatens to send their own force in an effort to protect ethnic russians in the region.
 
 ### Timetable
 
