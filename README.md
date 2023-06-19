@@ -3,7 +3,12 @@
 ## Ruleset
 
 New rule additions and explanation in .excalidraw file
-[H.E.A.T Rules](https://github.com/christsven/H.E.A.T/blob/main/H.E.A.T.excalidraw)
+
+[H.E.A.T Rules](https://github.com/christsven/H.E.A.T/blob/main/ruleset/H.E.A.T.excalidraw)
+
+or as a .png for easier use on mobile
+
+[H.E.A.T. Rules PNG](ruleset/HEAT-20230619-rules.png)
 
 ## Factions
 
@@ -44,12 +49,14 @@ even be fielded without any at all.
 
 Roster for a modern, 2010-2020 era fictional NATO brigade, composed of a
 reinforced Bundeswehr Panzergrendier infantry platoon.
+
 [VJTF Roster](https://github.com/christsven/H.E.A.T/blob/main/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
 ### INDEPENDENT
 
 Roster for a non-symmetrical, platoon-sized independent force, composed
 of former soviet-army material.
+
 [NSPR Roster](https://github.com/christsven/H.E.A.T/blob/main/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
 
 ## Scenarios
