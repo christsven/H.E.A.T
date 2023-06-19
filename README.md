@@ -8,7 +8,7 @@ New rule additions and explanation in .excalidraw file
 
 or as a .png for easier use on mobile
 
-[H.E.A.T. Rules PNG](ruleset/HEAT-20230619-rules.png)
+![H.E.A.T. Rules PNG](ruleset/H.E.A.T.png)
 
 ## Factions
 
