@@ -33,12 +33,22 @@
 
 ### NSPR
 
-- Oberleutnant
-- free medium mortar with Spotter
-- normal rifles
-- normal rifles
-- smg group
-- Sniper
+- Commander (OL) (Regular) 75pt
+   - +2 Men 20pt
+- free medium mortar with Spotter 0pt
+- NSPR Resistanve Squad (Regular) 50pt
+    - +3 Men 30pt
+    - +1 UGL 10pt
+    - +1 LAW 20pt
+- NSPR Resistance Squad (Inexperienced) 35pt
+    - +1 Man 7pt
+    - +2 LMG 40pt
+- Bratstwa Squad (Regular) 60pt
+    - +2 Men 20pt
+    - +1 UGL 10pt
+    - +2 SMG 10pt
+- Dragunov Sniper team (Regular) 50pt
+- Sapper
 - AGL
 - Hell Cannon
 - T-55
