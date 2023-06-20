@@ -35,7 +35,6 @@
 
 - Commander (OL) (Regular) 75pt
    - +2 Men 20pt
-- free medium mortar with Spotter 0pt
 - NSPR Resistanve Squad (Regular) 50pt
     - +3 Men 30pt
     - +1 UGL 10pt
@@ -55,7 +54,8 @@
     - +1 LAW 25pt
 - AGS 17 Plamja AGL team (Regular) 60pt
 - Hell Cannon (Regular) 75pt
-    - Spotter 10pt
+- Medium Mortar (Regular) 0pt
+    - Spotter 0pt
 - T-55 (Veteran) 174pt
    - Slow (Mandarory Modifier)
    
