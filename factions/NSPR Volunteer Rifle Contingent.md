@@ -182,7 +182,7 @@ enemy forces in the dynamic enviromnent of warfare.
 | Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
 | Setup | NCO ( AR ) |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+25 pt</td></tr><tr><td>Bangalore</td><td>Bangalore pipe</td><td>+15 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>Engineers are trained to operate mines and disable IEDs.<br><br>When engaging an IED, this unit may reroll failed IED checks. <br>They also only suffer +1 pin from decoys.</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>Engineers are trained to operate mines and disable IEDs.<br><br>When engaging an IED, this unit may reroll failed IED checks. <br>They also only suffer +1 pin from decoys.</td></tr><tr><td>Sapper</td><td>Sappers carry IEDs and mines as well as decoys.<br><br>Check HEAT Rules for more information.</td></tr></table>
 
 ### Dragunov sniper team
 
