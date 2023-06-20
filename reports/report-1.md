@@ -4,26 +4,27 @@
 
 ### VJTF
 
-Leutnant
-Bradley IFV with Panzergrenadiergruppe
-Unimog with Panzerpioniergruppe
-Fernspäher
-Artillery Forward observer
-Medium Mortar
-Spotter UAV
+- Leutnant
+- Bradley IFV with Panzergrenadiergruppe
+- Unimog with Panzerpioniergruppe
+- Fernspäher
+- Panzerfaustgruppe
+- Artillery Forward observer
+- Medium Mortar
+- Spotter UAV
 
 ### NSPR
 
-Oberleutnant
-Free medium mortar with Spotter
-Normal rifles
-Normal rifles
-SMG group
-Sniper
-AGL
-Hell Cannon
-T-55
-Toyota with ZU-23-2
+- Oberleutnant
+- free medium mortar with Spotter
+- normal rifles
+- normal rifles
+- smg group
+- Sniper
+- AGL
+- Hell Cannon
+- T-55
+- Toyota with ZU-23-2
 
 ## Gameplay - Sector Defense
 
