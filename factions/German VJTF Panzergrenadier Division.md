@@ -529,6 +529,17 @@ Set to replace the Fuchs, developed in 1962-69 and
 |Options|-
 | Special rules | -
 
+### Unimog
+
+| Unimog | Soft-Skinned Vehicle |
+| :---- | ---- |
+| Cost | 20 pt / 25 pt / 30 pt |
+| Capacity | 12 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Default weapon configuration |- |
+|Options|-
+| Special rules | -
+
 ### Wolf G5 Jeep
 
 | Wolf G5 Jeep | Soft-Skinned Vehicle |
