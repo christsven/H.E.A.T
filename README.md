@@ -64,3 +64,7 @@ of former soviet-army material.
 First attempt at scenario setting in /scenarios
 
 [Separatists in Estonia](https://github.com/christsven/H.E.A.T/blob/main/scenarios/SCENARIO%20Narva.md)
+
+## Match Reports
+
+(T+0: First contact)[/reports/report-1.md]
