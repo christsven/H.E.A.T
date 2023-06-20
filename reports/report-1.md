@@ -31,11 +31,13 @@
 - Medium Mortar (Regular) 50pt
 - UAV Operator (Inexperienced) 41pt
 
-### NSPR
+### NSPR (996pt)
 
 - Commander (OL) (Regular) 75pt
-   - +2 Men 20pt
-- NSPR Resistanve Squad (Regular) 50pt
+    - +2 Men 20pt
+- Scouting Scout (Inexperienced) 45pt
+    - +1 DMR 15pt
+- NSPR Resistance Squad (Regular) 50pt
     - +3 Men 30pt
     - +1 UGL 10pt
     - +1 LAW 20pt
