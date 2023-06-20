@@ -11,7 +11,7 @@
    - Panzergrenadiergruppe (Regular) 50pt
       - +2 Men 20pt
       - +1 UGL 10pt
-- Unimog (Inexperienced) 
+- Unimog (Inexperienced) 20pt
     - Panzerpioniergruppe (Inexperienced) 55pt
       - +3 Men 21pt
       - +1 LMG 20pt
