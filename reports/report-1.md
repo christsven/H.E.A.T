@@ -43,7 +43,6 @@
 - NSPR Resistance Squad (Inexperienced) 35pt
     - +1 Man 7pt
     - +2 LMG 40pt
-
 - BTR-D (Regular IFV) 110pt
    - ZSU-23-2 20pt
    - Unreliable (Mandatory Modifier)
