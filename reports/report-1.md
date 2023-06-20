@@ -1,6 +1,7 @@
 # T+0: First contact
 
-|DTG |170400Zapr16|
+|---|---|
+|DTG|170400Zapr16|
 |||
 |||
 
