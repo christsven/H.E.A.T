@@ -4,14 +4,26 @@
 
 ### VJTF
 
-- Leutnant
-- Bradley IFV with Panzergrenadiergruppe
-- Unimog with Panzerpioniergruppe
-- Fernspäher
-- Panzerfaustgruppe
-- Artillery Forward observer
-- Medium Mortar
-- Spotter UAV
+- Leutnant (Regular) 50pt
+  - +1 Attendant 10pt
+- Bradley IFV (Regular) 159pt
+   - TOW 35pt
+   - Panzergrenadiergruppe (Regular) 50pt
+      - +2 Men 20pt
+      - +1 UGL 10pt
+- Unimog (Inexperienced) 
+    - Panzerpioniergruppe (Inexperienced) 55pt
+      - +3 Men 21pt
+      - +1 LMG 20pt
+      - 1x LAW 20pt
+      - Sprengrohr 15pt
+- Fernspähergruppe (Veterans) 65pt
+    - +2 Men 26pt
+    - +1 DMR 15pt
+- Artillery Forward observer 100pt
+    - +1 Attendant 10pt
+- Medium Mortar (Regular) 50pt
+- UAV Operator (Inexperienced) 41pt
 
 ### NSPR
 
