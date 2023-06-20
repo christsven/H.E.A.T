@@ -1,5 +1,9 @@
 # T+0: First contact
 
+|DTG |170400Zapr16|
+|||
+|||
+
 ## Scenario
 
 The first contact between a VJTF forward deployed reconnaisance element attempting a fast breakthrough along Road 117 into Sonda, a NSPR-held village west of Kiviõli.
