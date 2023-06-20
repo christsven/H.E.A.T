@@ -6,6 +6,12 @@
 
 - Leutnant (Regular) 50pt
   - +1 Attendant 10pt
+- Aufklärergruppe (Regular) 60pt
+   - +2 Men 20pt
+   - NCO SMG 5pt
+   - 2x SMG 10pt
+- PzF 3 Trupp (Regular) 60pt
+- MG 5 Trupp (Regular) 50pt
 - Bradley IFV (Regular) 159pt
    - TOW 35pt
    - Panzergrenadiergruppe (Regular) 50pt
