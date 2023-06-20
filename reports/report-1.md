@@ -2,7 +2,7 @@
 
 ## List ideas
 
-### VJTF
+### VJTF (997pt)
 
 - Leutnant (Regular) 50pt
   - +1 Attendant 10pt
