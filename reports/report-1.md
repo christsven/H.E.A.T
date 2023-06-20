@@ -43,16 +43,23 @@
 - NSPR Resistance Squad (Inexperienced) 35pt
     - +1 Man 7pt
     - +2 LMG 40pt
-- Bratstwa Squad (Regular) 60pt
-    - +2 Men 20pt
-    - +1 UGL 10pt
-    - +2 SMG 10pt
+
+- BTR-D (Regular IFV) 110pt
+   - ZSU-23-2 20pt
+   - Unreliable (Mandatory Modifier)
+   - Bratstwa Squad (Regular) 60pt
+      - +2 Men 20pt
+      - +1 UGL 10pt
+      - +2 SMG 10pt
 - Dragunov Sniper team (Regular) 50pt
-- Sapper
-- AGL
-- Hell Cannon
-- T-55
-- Toyota with ZU-23-2
+- Sapper (Regular) 35pt
+    - +1 LAW 25pt
+- AGS 17 Plamja AGL team (Regular) 60pt
+- Hell Cannon (Regular) 75pt
+    - Spotter 10pt
+- T-55 (Veteran) 174pt
+   - Slow (Mandarory Modifier)
+   
 
 ## Gameplay - Sector Defense
 
