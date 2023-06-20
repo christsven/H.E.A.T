@@ -150,7 +150,7 @@ and follow orders.
 | Volunteer squad | Infantry unit |
 | :---- | ---- |
 | Cost | 30 pt / - / - |
-| Reinforcement | up to t attendants: 7 pt / - / - |
+| Reinforcement | up to 5 attendants: 7 pt / - / - |
 | Setup | NCO ( AR ) + 2 attendants ( AR ) |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Rifles</td><td>Old-fashioned, semi-automatic weapons</td><td>-3 pt each</td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Shirkers</td><td>Rulebook [pg. X].</td><td>-2 pt each</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Green</td><td>Rulebook [pg. X]</td></tr></table>
