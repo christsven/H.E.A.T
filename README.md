@@ -67,4 +67,4 @@ First attempt at scenario setting in /scenarios
 
 ## Match Reports
 
-(T+0: First contact)[/reports/report-1.md]
+[T+0: First contact](/reports/report-1.md)
