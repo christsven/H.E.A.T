@@ -27,11 +27,11 @@ Toyota with ZU-23-2
 
 ## Gameplay - Sector Defense
 
-***
+|---|---|
 |A(1)|B(1)|
-***
+|---|---|
 |C(1)|D(3)|
-***
+|---|---|
 
 NSPR Defenders start in D.
 
