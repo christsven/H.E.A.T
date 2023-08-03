@@ -140,7 +140,7 @@ Narva is characterized by its diverse architecture, showcasing a mix of medieval
 
 <img src="ressources/Alutaguse.png">
 
-Mäetaguse is a village located in the Ida-Viru County of northeastern Estonia. It is situated approximately 25 kilometers southwest of the city of Jõhvi. The village is known for its rich history, with settlements dating back to ancient times. Today, it serves as a residential area with a close-knit community and a slower pace of life. Mäetaguse is characterized by its predominantly rural landscape, surrounded by lush forests and picturesque countryside. The village is home to a small number of traditional wooden houses, reflecting the architectural style of the region. It offers basic amenities such as schools, a church, and local shops, providing a sense of community for its residents. 
+Mäetaguse is a village located in the Ida-Viru County of northeastern Estonia. It is situated approximately 25 kilometers southwest of the city of Jõhvi. The village is known for its rich history, with settlements dating back to ancient times. Today, it serves as a residential area with a close-knit community and a slower pace of life. Mäetaguse is characterized by its predominantly rural landscape, surrounded by lush forests and picturesque countryside. The village is home to a small number of traditional wooden houses, reflecting the architectural style of the region. It offers basic amenities such as schools, a church, and local shops, providing a sense of community for its residents.
 
 ###### Mäetaguse town hall
 
@@ -220,6 +220,6 @@ The war goal for NSPR is to somehow drive out the invaders and establish a funct
 
 Control over power stations, the oil shale production and excavation sites, quarries, city centres and the agricultural sites must be established and uphold without damaging too much infrastructre.
 
-Kivioli is an important site to the oil shale production, which needs to be restarted for power autonomy. Sillimäe has old uranium processing sites, which are a lucrative market for future potential economical problems. Kothla-Järve sits at the centre of the 
+Kivioli is an important site to the oil shale production, which needs to be restarted for power autonomy. Sillimäe has old uranium processing sites, which are a lucrative market for future potential economical problems. Kothla-Järve sits at the centre of the
 
 While Russia does seem like a natural ally against the West, depending too much on their intervention could lead to being integrated in the Russian Federation, or even a third world war.
