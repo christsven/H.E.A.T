@@ -78,11 +78,11 @@ Small, but well equipped infiltration groups for attacks with speedboats.
 
 | Speedboat infantry | infantry group |
 | :---- | ---- |
-| Cost | - pt /  |
+| Cost | - pt / 60 pt / 80 pt |
 | Reinforcement | Cost per additional unit |
 | Standard Setup | NCO ( Weapon ) + x attendants ( Weapon ) |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example weapon system</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example rule</td><td>Description of rule.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Speedboat Training</td><td>This unit is well-trained with fast embarking and disembarking maneuvers from its speedboat. Failed order checks during such an attempt can be rerolled.</td></tr></table>
 
 ##### Kiirpaatide Kommando Ründerühm
 
