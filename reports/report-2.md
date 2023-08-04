@@ -66,7 +66,7 @@ A mobile command and control centre in a truck. Highly mobile and with modern co
 | Cost | 100/120/140pt |
 | Capacity | 3 in front, 4 in each trunk |
 | Damage value | 6+ |
-| Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Description</td><td><b>Modifiers</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr></table> |
+| Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Description</td><td><b>Modifiers</b></td></tr><tr><td>Luftabwehr-MG 3</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table> |
 |Options|
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example Rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
 
