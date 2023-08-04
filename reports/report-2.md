@@ -82,3 +82,30 @@ Onboard the Rheinland Pfalz was a Bordeinsatzkompanie of the Seebataillon, a ger
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
 
 ## Gameplay
+
+NATO forces are allowed to be stationed 30" from the centre of the map. NSPR forces start 10" along the table edge. All boats start in reserve.
+
+### Scenario rules
+
+#### NATO/VJTF
+
+#### NSPR
+
+### Goals
+
+#### NATO/VJTF
+
+|Condition|Points|
+|:---|----|
+|Points per destroyed enemy unit|1 VP|
+|Points per round the Gefechtsstand survives|0.5 VP|
+|Points for getting the Gefechtsstand offmap|3 VP|
+
+#### NSPR
+
+|Condition|Points|
+|:---|----|
+|Points per destroyed enemy unit|1 VP|
+|Points for destruction of Gefechtsstand|3 VP|
+|Points for getting into Gefechtsstand|2 VP|
+|Points for stealing the Gefechtsstand|5 VP|
