@@ -63,12 +63,13 @@ A mobile command and control centre in a truck. Highly mobile and with modern co
 
 | Artilleriegefechtsstand | Truck |
 | :---- | ---- |
-| Cost | 100/120/140pt |
+| Cost | 100 pt /120 pt / 140 pt |
 | Capacity | 3 in front, 4 in each trunk |
 | Damage value | 6+ |
 | Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Description</td><td><b>Modifiers</b></td></tr><tr><td>Luftabwehr-MG 3</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table> |
 |Options|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example Rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>127mm Artillery</td><td>The Rheinland Pfalz acts as an offmap heavy mortar with range anywhere on the table. Any platoon-spotter can communicate with the Rheinland Pfalz as long as the Gefechtsstand is operational and in friendly control.</td>
+<td><tr>Intelligence Reports</tr>Inside the two trunks are valuable reports, radio tables, etc.. Any enemy can board the trunks just as a buildingn as long as the Gefechtsstand is still standing. With a successfull RALLY, the data is counted as stolen via the onboard radios.</tr></td><td><tr><td>Open-Topped</td><td>Rulebook</td></tr></table>
 
 #### NSPR
 
