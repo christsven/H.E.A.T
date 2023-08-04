@@ -15,6 +15,8 @@ Onboard the Rheinland Pfalz was a Bordeinsatzkompanie of the Seebataillon, a ger
 
 ##### Speedboat/Einsatzboot "Buster"
 
+Small and fast vessels for infantry groups. Does not require a driver and is fully operated by the squad itself. Too small for anything besides the soldiers.
+
 | Speedboat | Ship |
 | :---- | ---- |
 | Cost | 15pt |
@@ -39,6 +41,9 @@ Onboard the Rheinland Pfalz was a Bordeinsatzkompanie of the Seebataillon, a ger
 
 ##### Marineinfanteriegruppe
 
+Reinstated in 2014, Germany has a regiment-sized contingent of actual marines, trained for incursions by sea, stealth operations with motorless row boats, rescue maneuvers and anti-piracy missions. Equipped in a similar fashion to normal grenadiers.
+
+
 | Unit name | Unit type |
 | :---- | ---- |
 | Cost | Cost by veterancy |
@@ -48,6 +53,8 @@ Onboard the Rheinland Pfalz was a Bordeinsatzkompanie of the Seebataillon, a ger
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
 
 ##### Marineoffizier
+
+An officer group from the Bordeinsatzkompanie, trained to lead the Marineinfanterie during missions.
 
 | Unit name | Platoon leader |
 | :---- | ---- |
@@ -59,7 +66,7 @@ Onboard the Rheinland Pfalz was a Bordeinsatzkompanie of the Seebataillon, a ger
 
 ##### Artilleriegefechtsstand
 
-A mobile command and control centre in a truck. Highly mobile and with modern communication and fire control systems, these modern HQs are designed to work in a dynamic environment with enemy artillery in mind.
+A mobile command and control centre in a truck. Highly mobile and with modern communication and fire control systems, these modern HQs are designed to work in a dynamic environment with the constant threat of enemy artillery in mind.
 
 | Artilleriegefechtsstand | Truck |
 | :---- | ---- |
@@ -74,7 +81,7 @@ A mobile command and control centre in a truck. Highly mobile and with modern co
 
 ##### Kiirpaatide Ründerühm
 
-Small, but well equipped infiltration groups for attacks with speedboats.
+Small, but well equipped infiltration groups for attacks with speedboats. Many of the boats are from the soldiers themselves, as they often come from the coastal regions of Ida Viru.
 
 | Speedboat infantry | infantry group |
 | :---- | ---- |
@@ -110,6 +117,8 @@ NATO forces are allowed to be stationed 30" from the centre of the map. NSPR for
 
 #### NATO/VJTF
 
+
+
 |Condition|Points|
 |:---|----|
 |Points per destroyed enemy unit|1 VP|
@@ -117,6 +126,8 @@ NATO forces are allowed to be stationed 30" from the centre of the map. NSPR for
 |Points for getting the Gefechtsstand offmap|3 VP|
 
 #### NSPR
+
+Either destroy the HQ and cripple the ship artillery for a while to halt the enemy in the north, or capture the truck to sell it for much needed ammunition and supplies eastwards. Even just getting some of the information contained in the trucks would be a small win, as it would disrupt encryption and communication for the northern attack formations.
 
 |Condition|Points|
 |:---|----|
