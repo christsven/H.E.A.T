@@ -107,5 +107,5 @@ NATO forces are allowed to be stationed 30" from the centre of the map. NSPR for
 |:---|----|
 |Points per destroyed enemy unit|1 VP|
 |Points for destruction of Gefechtsstand|3 VP|
-|Points for getting into Gefechtsstand|2 VP|
+|Points for extracting information|2 VP|
 |Points for stealing the Gefechtsstand|5 VP|
