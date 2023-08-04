@@ -63,7 +63,7 @@ A mobile command and control centre in a truck. Highly mobile and with modern co
 
 | Artilleriegefechtsstand | Truck |
 | :---- | ---- |
-| Cost | 100 pt /120 pt / 140 pt |
+| Cost | 100 pt / 120 pt / 140 pt |
 | Capacity | 3 in front, 4 in each trunk |
 | Damage value | 6+ |
 | Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Description</td><td><b>Modifiers</b></td></tr><tr><td>Luftabwehr-MG 3</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table> |
@@ -74,9 +74,11 @@ A mobile command and control centre in a truck. Highly mobile and with modern co
 
 ##### Kiirpaatide Ründerühm
 
-| Unit name | infantry group |
+Small, but well equipped infiltration groups for attacks with speedboats.
+
+| Speedboat infantry | infantry group |
 | :---- | ---- |
-| Cost | Cost by veterancy |
+| Cost | - pt /  |
 | Reinforcement | Cost per additional unit |
 | Standard Setup | NCO ( Weapon ) + x attendants ( Weapon ) |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example weapon system</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example rule</td><td>Description of rule.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>|
@@ -84,9 +86,11 @@ A mobile command and control centre in a truck. Highly mobile and with modern co
 
 ##### Kiirpaatide Kommando Ründerühm
 
+Working in combination with the other assault groups, this officer is supported by marine infantry.
+
 | Unit name | Platoon leader |
 | :---- | ---- |
-| Cost | Cost by veterancy |
+| Cost | Cost by Veterancy |
 | Reinforcement | Cost per additional unit |
 | Standard Setup | NCO ( Weapon ) + x attendants ( Weapon ) |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example weapon system</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example rule</td><td>Description of rule.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>|
