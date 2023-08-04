@@ -5,11 +5,15 @@
 
 ## Scenario
 
+A german command and control post in Aseri was chosen as a target for a combined land and sea incursion by NSPR forces. The Gefechtsstand at the site is used for artillery coordination from the nearby Frigate "Rheinland-Pfalz" (F225), which provides fire support for the northern attack formations along the E20 towards Kõthla-Järve. The command post is highly mobile and able to relocate in minutes, but was unable to do so quickly enough to outrun the attackers. Now the vulnerable truck is stuck in the logistics hub and waiting for rescue.
+
+Onboard the Rheinland Pfalz was a Bordeinsatzkompanie of the Seebataillon, a german marine infantry contingent. Trained for sea landings and rescue operations, they are a valuable asset with their speedboats.
+
 ### Special Units
 
 #### Vehicles
 
-##### Speedboat
+##### Speedboat/Einsatzboot "Buster"
 
 | Vehicle name | Vehicle / helicopter type |
 | :---- | ---- |
