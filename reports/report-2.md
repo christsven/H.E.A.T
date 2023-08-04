@@ -15,20 +15,20 @@ Onboard the Rheinland Pfalz was a Bordeinsatzkompanie of the Seebataillon, a ger
 
 ##### Speedboat/Einsatzboot "Buster"
 
-| Vehicle name | Vehicle / helicopter type |
+| Speedboat | Ship |
 | :---- | ---- |
-| Cost | Cost by veterancy |
-| Capacity | Troop capacity |
-| Damage value | Vehicle damage value |
-| Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Modifiers</td><td><b>Rules</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table> |
-|Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Rule</td><td>This rule does things.</td><td>+/-X [pt/unit]</td></tr><tr><td>...</td><td>...</td><td>+/-X [pt/unit]</td></tr></table><table><tr><td><b>Main Weapon Replacement</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Additional Weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>Modifiers and other information.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example Rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
+| Cost | 15pt |
+| Capacity | 7 |
+| Damage value | 6+ |
+| Default weapon configuration ||
+|Options||
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Movement</td><td>Movement set is the same as a wheeled car on the road.</td></tr><tr><td>Self operated</td><td>These ships do not get their own order dice, since they are operated by the infantry group itself. They can be destroyed or stolen, but do not effect the final VP score.</table>
 
 ##### Landeboot
 
-| Vehicle name | Vehicle / helicopter type |
+| Landing craft | Ship |
 | :---- | ---- |
-| Cost | Cost by veterancy |
+| Cost | 20 pt / 25 pt / 30 pt |
 | Capacity | Troop capacity |
 | Damage value | Vehicle damage value |
 | Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Modifiers</td><td><b>Rules</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table> |
