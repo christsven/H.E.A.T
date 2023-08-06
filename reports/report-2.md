@@ -21,21 +21,23 @@ Small and fast vessels for infantry groups. Does not require a driver and is ful
 | :---- | ---- |
 | Cost | 15pt |
 | Capacity | 7 |
-| Damage value | 6+ |
-| Default weapon configuration ||
-|Options||
+| Damage value | 6+ Soft-skinned vehicle |
+| Default weapon configuration |-|
+|Options|-|
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Movement</td><td>Movement set is the same as a wheeled car on the road.</td></tr><tr><td>Self operated</td><td>These ships do not get their own order dice, since they are operated by the infantry group itself. They can be destroyed or stolen, but do not effect the final VP score.</table>
 
-##### Landeboot
+##### LCVP 1604
+
+Big transport vessels, which are slower than speedboats, but offer protection against small arms.
 
 | Landing craft | Ship |
 | :---- | ---- |
-| Cost | 20 pt / 25 pt / 30 pt |
-| Capacity | Troop capacity |
-| Damage value | Vehicle damage value |
-| Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Modifiers</td><td><b>Rules</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table> |
-|Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Rule</td><td>This rule does things.</td><td>+/-X [pt/unit]</td></tr><tr><td>...</td><td>...</td><td>+/-X [pt/unit]</td></tr></table><table><tr><td><b>Main Weapon Replacement</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Additional Weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>Modifiers and other information.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example Rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
+| Cost | 50 pt / 55 pt / 60 pt |
+| Capacity | 140 |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | -|
+|Options|<table><tr><td><b>Main Weapon Replacement</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun, pintle mounted. Operated by crew.</td><td>+ 20 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Movement</td><td>Movement set is the same as a tracked vehicle.</td></tr></table>
 
 #### VJTF
 
