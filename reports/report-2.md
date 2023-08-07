@@ -47,7 +47,7 @@ _Regarding other vehicles to be transported, maybe just talk to your opponent be
 
 Reinstated in 2014, Germany has a regiment-sized contingent of actual marines, trained for incursions by sea, stealth operations with motorless row boats, rescue maneuvers and anti-piracy missions. Equipped in a similar fashion to normal grenadiers.
 
-| Panzergrenadiergruppe | Infantry unit |
+| Marineinfan-teriegruppe | Infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants: 7 pt / 10 pt / 13 pt |
