@@ -36,7 +36,7 @@ Big transport vessels, which are slower than speedboats, but offer protection ag
 | Capacity | 140 |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | -|
-|Options|<table><tr><td><b>Main Weapon Replacement</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun, pintle mounted. Operated by crew.</td><td>+ 20 pt</td></tr></table>
+|Options|<table><tr><td><b>Main Weapon Replacement</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun. Operated by crew.<br><br><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 20 pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Movement</td><td>Movement set is the same as a tracked vehicle.</td></tr></table>
 
 #### VJTF
