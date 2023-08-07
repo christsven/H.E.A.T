@@ -47,26 +47,25 @@ _Regarding other vehicles to be transported, maybe just talk to your opponent be
 
 Reinstated in 2014, Germany has a regiment-sized contingent of actual marines, trained for incursions by sea, stealth operations with motorless row boats, rescue maneuvers and anti-piracy missions. Equipped in a similar fashion to normal grenadiers.
 
-
-| Unit name | Unit type |
+| Panzergrenadiergruppe | Infantry unit |
 | :---- | ---- |
-| Cost | Cost by veterancy |
-| Reinforcement | Cost per additional unit |
-| Standard Setup | NCO ( Weapon ) + x attendants ( Weapon ) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example weapon system</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example rule</td><td>Description of rule.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | up to 5 attendants: 7 pt / 10 pt / 13 pt |
+| Setup | NCO ( AR ) + 3 attendants ( AR ) |
+|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>2x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Speedboat Training</td><td>This unit is well-trained with fast embarking and disembarking maneuvers from its speedboat. Failed order checks during such an attempt can be rerolled.</td></tr></table>
 
 ##### Marineoffizier
 
 An officer group from the Bordeinsatzkompanie, trained to lead the Marineinfanterie during missions.
 
-| Unit name | Platoon leader |
+| Marineoffizier | Platoon Leader |
 | :---- | ---- |
-| Cost | Cost by veterancy |
-| Reinforcement | Cost per additional unit |
-| Standard Setup | NCO ( Weapon ) + x attendants ( Weapon ) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example weapon system</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example rule</td><td>Description of rule.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt|
+| Setup | NCO ( PDW, SMG, AR )|
+|Options|-|
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action!</td><td>Rulebook [pg. X]</td></tr><tr><td>Command</td><td>Rulebook [pg. X]</td></tr><tr><td>Speedboat Training</td><td>This unit is well-trained with fast embarking and disembarking maneuvers from its speedboat. Failed order checks during such an attempt can be rerolled.</td></tr></table>
 
 ##### Artilleriegefechtsstand
 
