@@ -75,7 +75,7 @@ A mobile command and control centre in a truck. Highly mobile and with modern co
 | :---- | ---- |
 | Cost | 100 pt / 120 pt / 140 pt |
 | Capacity | 3 in front, 4 in each trunk |
-| Damage value | 6+ |
+| Damage value | 6+ Soft-skinned vehicle |
 | Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Description</td><td><b>Modifiers</b></td></tr><tr><td>Luftabwehr-MG 3</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table> |
 |Options|
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>127mm Artillery</td><td>The Rheinland Pfalz acts as an offmap heavy mortar with range anywhere on the table. Any platoon-spotter can communicate with the Rheinland Pfalz as long as the Gefechtsstand is operational and in friendly control.</td></tr><tr><td>Intelligence Reports</td><td>Inside the two trunks are valuable reports, radio tables, code tables. Any enemy can board the trunks just as a building as long as the Gefechtsstands last round did not end in an ADVANCE or RUN.<br><br>With a successfull RALLY, the data is counted as stolen via the onboard radios.</td></tr><tr><td>Open-Topped</td><td>Rulebook</td></tr></table></table>
