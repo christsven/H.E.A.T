@@ -33,11 +33,13 @@ Big transport vessels, which are slower than speedboats, but offer protection ag
 | Landing craft | Ship |
 | :---- | ---- |
 | Cost | 50 pt / 55 pt / 60 pt |
-| Capacity | 140 |
+| Capacity | 140 soldiers, jeep (40 soldiers equivalent), truck (100 soldiers equivalent)|
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | -|
 |Options|<table><tr><td><b>Main Weapon Replacement</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun. Operated by crew.<br><br><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 20 pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Movement</td><td>Movement set is the same as a tracked vehicle.</td></tr></table>
+
+_Regarding other vehicles to be transported, maybe just talk to your opponent beforehand if they are ok with your list/idea. But as long as its reasonable, it should be fine._
 
 #### VJTF
 
