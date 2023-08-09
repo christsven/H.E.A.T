@@ -369,8 +369,7 @@ size or weapon selection for example), the IFV rule is ignored.
 ### M113
 
 A true workhorse of NATO forces, the M113 comes in dozens of variants and has
-been used by more countries than not since the 1960s. The Bundeswehr uses it
-for troop transport or in support roles, e. g. with a 120mm, custom made mortar
+been used by more countries than not since the 1960s. The Bundeswehr uses it nowadays in support roles, e. g. with a 120mm, custom made mortar
 weapon system in the rear.
 
 | M113 | APC / IFV Armoured Carrier |
