@@ -120,7 +120,7 @@ NATO forces are allowed to be stationed 30" from the centre of the map. NSPR for
 
 #### NATO/VJTF
 
-Fend off the attack and preserve the command post. Artillery coordination is vital for the northern attackers, as the E20 is full of fortified positions which lead to potentionally even more fortified villages and towns. With the limited ordinance pool the VJTF has in its arsenal, NATO cannot afford heavy casualties.
+Fend off the attack and preserve the command post. Artillery coordination is vital for the northern formations, as the E20 is full of fortified positions which lead to potentionally even heavier prepared villages and towns. With the limited ordinance pool the VJTF has in its arsenal, NATO cannot afford heavy casualties.
 
 |Condition|Points|
 |:---|----|
@@ -130,7 +130,7 @@ Fend off the attack and preserve the command post. Artillery coordination is vit
 
 #### NSPR
 
-Either destroy the HQ and cripple the ship artillery for a while to halt the enemy in the north, or capture the truck to sell it for much needed ammunition and supplies eastwards. Even just getting some of the information contained in the trucks would be a small win, as it would disrupt encryption and communication for the northern attack formations.
+Either destroy the command post and cripple the ship artillery for a while to halt the enemy in the north, or capture the truck to sell it for much needed ammunition and supplies eastwards. Even just getting some of the information contained in the trucks would be a small victory, as it would disrupt encryption and communication for the northern attack formations.
 
 |Condition|Points|
 |:---|----|
