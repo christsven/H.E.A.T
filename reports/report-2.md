@@ -120,7 +120,7 @@ NATO forces are allowed to be stationed 30" from the centre of the map. NSPR for
 
 #### NATO/VJTF
 
-
+Fend off the attack and preserve the command post. Artillery coordination is vital for the northern attackers, as the E20 is full of fortified positions which lead to potentionally even more fortified villages and towns. With the limited ordinance pool the VJTF has in its arsenal, NATO cannot afford heavy casualties.
 
 |Condition|Points|
 |:---|----|
