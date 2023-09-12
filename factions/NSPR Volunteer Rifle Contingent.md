@@ -300,11 +300,11 @@ This team is equipped with a small quadcopter and varying payload, depending on 
 
 ## Mortar team [ 0 - 1 ]
 
-### 60mm light mortar team
+### RM-38 50mm light mortar team
 
 light mortar team.
 
-| 60mm light mortar team | Mortar team |
+| 50mm light mortar team | Mortar team |
 | :---- | ---- |
 | Cost | 24 pt / 35 pt / 46 pt |
 | Reinforcement | Spotter +10 pt |
@@ -324,7 +324,7 @@ medium mortar team.
 |Options|-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>HE 2"</td><td>Rulebook [pg. X]</td></tr><tr><td>Indirect Fire</td><td>Rulebook [pg. X]</td></tr><tr><td>Spotter</td><td>Rulebook [pg. X]</td></tr></table>
 
-### 120mm heavy mortar team
+### 120mm 2S12 "Sani" heavy mortar team
 
 heavy mortar team.
 
