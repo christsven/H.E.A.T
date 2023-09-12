@@ -5,7 +5,7 @@
 
 ## Scenario
 
-A german command and control post in Aseri was chosen as a target for a combined land and sea incursion by NSPR forces. The Gefechtsstand at the site is used for artillery coordination from the nearby Frigate "Rheinland-Pfalz" (F225), which provides fire support for the northern attack formations along the E20 towards Kõthla-Järve. The command post is highly mobile and able to relocate in minutes, but taken off-guard by the surprise attack. Now the vulnerable truck is stuck with a small platoon of infantry in the logistics hub and waiting for rescue.
+A german command and control post in Aseri was chosen as a target for a combined land and sea incursion by NSPR forces. The Gefechtsstand at the site is used for artillery coordination from the nearby Frigate "Rheinland-Pfalz" (F225), which provides fire support for the northern attack formations along the E20 towards Kõthla-Järve. The command post is usually highly mobile and able to relocate in minutes, but was taken off-guard by the surprise attack. Now the vulnerable truck is stuck with a small platoon of infantry in the logistics hub and waiting for rescue.
 
 Onboard the Rheinland Pfalz is a Bordeinsatzkompanie of the Seebataillon, a german marine infantry contingent. Trained for sea landings and rescue operations, they are a valuable asset with their speedboats. They dispatched as soon as they noticed the attackers approaching and are minutes away from breaching shore.
 
@@ -24,7 +24,7 @@ Small and fast vessels for infantry groups. Does not require a driver and is ful
 | Damage value | 6+ Soft-skinned vehicle |
 | Default weapon configuration |-|
 |Options|-|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Movement</td><td>Movement set is the same as a wheeled car on the road.</td></tr><tr><td>Self operated</td><td>These ships do not get their own order dice, since they are operated by the infantry group itself. They can be destroyed or stolen, but do not effect the final VP score.</table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Movement</td><td>Movement set is the same as a wheeled car on the road.</td></tr><tr><td>Self operated</td><td>These ships do not get their own order dice, since they are operated by the infantry group itself. They can be destroyed or stolen, but do not affect the final VP score.</table>
 
 ##### LCVP 1604
 
@@ -78,7 +78,7 @@ A mobile command and control centre in a truck. Highly mobile and with modern co
 | Damage value | 6+ Soft-skinned vehicle |
 | Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Description</td><td><b>Modifiers</b></td></tr><tr><td>Luftabwehr-MG 3</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table> |
 |Options|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>127mm Artillery</td><td>The Rheinland Pfalz acts as an offmap heavy mortar with range anywhere on the table. Any platoon-spotter can communicate with the Rheinland Pfalz as long as the Gefechtsstand is operational and in friendly control.</td></tr><tr><td>Intelligence Reports</td><td>Inside the two trunks are valuable reports, radio tables, code tables. Any enemy can board the trunks just as a building as long as the Gefechtsstands last round did not end in an ADVANCE or RUN.<br><br>With a successfull RALLY, the data is counted as stolen via the onboard radios.</td></tr><tr><td>Open-Topped</td><td>Rulebook</td></tr></table></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>127mm Artillery</td><td>The Rheinland Pfalz acts as an offmap heavy mortar with range anywhere on the table. Any platoon-spotter can communicate with the Rheinland Pfalz as long as the Gefechtsstand is operational and in friendly control.</td></tr><tr><td>Intelligence Reports</td><td>Inside the two trunks are valuable reports, radio tables, code tables. Any enemy can board the trunks just as a building as long as the Gefechtsstands last round did not end in an ADVANCE or RUN.<br><br>With a successfull RALLY, the data is counted as stolen via the onboard radios.</td></tr><tr><td>Breached</td><td>The vehicle can be captured by a successful ADVANCE from besides within 6 inch of the trucks doors, just like a building.</td></tr><tr><td>Open-Topped</td><td>Rulebook</td></tr></table></table>
 
 #### NSPR
 
@@ -112,9 +112,20 @@ NATO forces are allowed to be stationed 30" from the centre of the map. NSPR for
 
 ### Scenario rules
 
+These are rules outlining specific details of this scenario.
+
 #### NATO/VJTF
 
+| Rule | Description |
+| :---- | ---- |
+| Surprise attack | NATO forces were not ready when the attack begun. Only half of all order dice are allowed to start on the table, the rest is in reserve. |
+| Starting position | The NATO player chooses a place on the map for the command post. It has to be within the middle third of the table, counted from the starting edges of both forces. Same goes for any of the other on-table units. Helicopters start grounded. |
+
 #### NSPR
+
+| Rule | Description |
+| :---- | ---- |
+| Starting position | Units start alongside the opposite edge of NATO forces within 12" of the map border. Any amount of unit starts in reserve. Helicopters are allowed to start airborne. |
 
 ### Goals
 
