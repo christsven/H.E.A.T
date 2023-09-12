@@ -108,8 +108,6 @@ Working in combination with the other assault groups, this officer is supported 
 
 ## Gameplay
 
-NATO forces are allowed to be stationed 30" from the centre of the map. NSPR forces start 10" along the table edge. All boats start in reserve.
-
 ### Scenario rules
 
 These are rules outlining specific details of this scenario.
