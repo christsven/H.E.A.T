@@ -12,8 +12,7 @@ or as a .png for easier use on mobile
 
 ## Factions
 
-Rules with basic factions for BLUFOR and INDEPENDENT in /factions
-*OPFOR rules are still WIP.*
+Factions are ordered by alignment as seen from a NATO perspective. BLUFOR are all NATO or NATO-allied forces, OPFOR represents all enemy forces and INDEPENDENT is used for other factions.
 
 ### BLUFOR
 
@@ -31,17 +30,35 @@ of former soviet-army material.
 
 [NSPR Roster](https://github.com/christsven/H.E.A.T/blob/main/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
 
-## Scenarios
+### OPFOR
 
-First attempt at scenario setting in /scenarios
+Roster for a generic Russian Federation ground force, with equipment used as present in the 2010s to 2020s.
+
+[OPFOR Roster]()
+
+## Theatre
+
+For use in a campaign or as a more restrictive ruleset.
+
+### Civil war in Estonia
+
+A war scenario in Europe right next to the russian border.
+
+A very volatile situation ready to escalate to a full-blown land war between NATO and Russia over a single misstep on either side.
 
 [Separatists in Estonia](https://github.com/christsven/H.E.A.T/blob/main/scenarios/SCENARIO%20Narva.md)
 
-## Match Reports
+#### Scenarios
+
+A list of game scenarios for singular matches, set in the estonian civil war.
+
+[Suprise Attack](/reports/report-2.md)
+
+#### Match Reports
+
+Personal matches with ruleset and lists.
 
 [T+0: First contact](/reports/report-1.md)
-
-[T+1: Gefechtsstand](/reports/report-2.md)
 
 ## Templates
 
