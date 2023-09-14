@@ -52,7 +52,9 @@ A very volatile situation ready to escalate to a full-blown land war between NAT
 
 A list of game scenarios for singular matches, set in the estonian civil war.
 
-[Suprise Attack](/reports/report-2.md)
+[Surprise Attack](/reports/report-2.md)
+
+[Logistical Operations](/scenarios/)
 
 #### Match Reports
 
