@@ -451,20 +451,40 @@ The MT-LB is a Soviet multi-purpose, fully amphibious, tracked armored fighting 
 
 ***
 
-## Extended Vehicle Pool [ 0 - 1 ]
+## Extended vehicle pool [ 0 - 1 ]
+
+The NSPR uses what it has. Their arsenal is a patchwork of anything that drives and has a gun, and utilizes old tanks and APCs just as much as modern civilian vehicles. A fast pickup with an AA gun, a mortar on a truck, T-54 old enough to predate the Berlin wall.
 
 ### T-55
 
-| T-55 | MBT Medium Tank |
+| T-55 | MBT medium tank |
 | :---- | ---- |
 | Cost | 144 pt / 159 pt / 174 pt |
 | Capacity | - |
 | Damage value | 9+ Medium Tank |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>7.62mm SGMT MMG</td><td>7.62mm SGMT medium machine gun</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>D10-T 100mm</td><td>100mm rifle-boored heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr><tr><td>12.7mm DshK HMG</td><td>12.7mm DshK heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table> |
 |Options| -
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Slow</td><td>Vehicle suffers a 50% reduction in speed.</td></tr><tr><td>HE 2"</td><td>Rulebook [pg. X]</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrell to propell a kinetic round. While firing HE rounds<br> as a heavy AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td><tr><td>Open-Topped (*if selected*)</td><td>Rulebook [pg. X]</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Slow</td><td>Vehicle suffers a 50% reduction in speed.</td></tr><tr><td>HE 2"</td><td>Rulebook [pg. X]</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrel to propell a kinetic round. While firing HE rounds<br> as a heavy AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td><tr><td>Open-Topped (*if selected*)</td><td>Rulebook [pg. X]</td></tr></table>
+
+### PT-76
+
+Developed in the 60s and since used in most soviet armies, the PT-76 and its derivatives serve to this day as light reconnaissance tanks. An amphibious tank with a 76.2mm main gun, capable of damaging lightly armoured vehicles.
+
+| PT-76 | Light reconnaissance tank |
+| :---- | ---- |
+| Cost | 144 pt / 159 pt / 174 pt |
+| Capacity | - |
+| Damage value | 9+ Medium Tank |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>turret-mounted</li><li>coaxial</li></ul></tr><tr><td>7.62mm SGMT MMG</td><td>7.62mm SGMT medium machine gun</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>D56-T 76.2mm</td><td>7.2mm rifle-boored light anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr><tr><td>12.7mm DshK HMG</td><td>12.7mm DshK heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table> |
+|Options| -
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>HE 1"</td><td>Rulebook [pg. X]</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrel to propell a kinetic round. While firing HE rounds<br> as a light AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td><tr><td>Open-Topped (*if selected*)</td><td>Rulebook [pg. X]</td></tr></table>
+
 
 ### Toyota Hilux
+
+In this role the Hilux serves the full spectrum of armoured support. With almost anything the separtists deemed small enough to work being bolted to one, this fast pickup can serve as an anti-infantry, anti-tank or anti-air role, as artillery, as a driving bomb. 
+
+Versatility, courtesy of Japan.
 
 | Toyota Hilux | Soft-Skinned Vehicle |
 | :---- | ---- |
