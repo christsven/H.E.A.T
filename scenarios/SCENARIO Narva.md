@@ -178,7 +178,7 @@ The Very High Readiness Joint Task Force (VJTF) is a multinational rapid reactio
 
 The VJTF is characterized by its high readiness and ability to rapidly deploy within a few days' notice. It serves as a visible demonstration of NATO's commitment to collective defense and the security of its member states. The force is capable of conducting a range of missions, including crisis response, deterrence, and reinforcement operations.
 
-The VJTF acts as a deterrent by demonstrating NATO's preparedness and resolve to respond to any potential threats to the alliance. It provides an enhanced level of assurance to member states in times of increased tensions or instability. The force is trained and equipped to operate in a wide range of scenarios, from conventional warfare to hybrid threats and emerging security challenges.
+It acts as a deterrent by demonstrating NATO's preparedness and resolve to respond to any potential threats to the alliance. It provides an enhanced level of assurance to member states in times of increased tensions or instability. The force is trained and equipped to operate in a wide range of scenarios, from conventional warfare to hybrid threats and emerging security challenges.
 
 ### Deployment situation
 
@@ -202,7 +202,7 @@ The vehicle pool is a mix of former soviet equipment, some stolen western/estoni
 
 After outbreak of war, the NSPR managed to control Narva and Sillimäe without much resistance, since their populations were largely supportive or even part of the political or military organisations of the NSPR. Without much delay, NSPR engineers began hardening positions around the city, preparing them as strongholds against the looming NATO forces.
 
-While the two largest settlements are under control, central POI for the economical effort and logistical centres were taken swiftly to create a decentralized net of holdouts for assymetrical defense. Power stations, important crossroads, the north-south connection to Tudulinna were a high priority. Former quarries and parts of the national forests are used to hide equipment and house medical facilities for casualties.
+Whith the two largest settlements under control, central POI for the economical effort and logistical centres were taken swiftly to create a decentralized net of holdouts for assymetrical defense. Power stations, important crossroads, the north-south connection to Tudulinna were a high priority. Former quarries and parts of the national forests are used to hide equipment and house medical facilities for casualties.
 
 Populist rethoric and disinformation campaigns lead to a polarized society in the years prior, and many unsupportive of the revolution were driven to move west, but not many people had the monetary supportnecessary for this. There still are parts of the population which did not approve of the coup, and some even took to arms, forming small counter-revolutionary cells. They are especially prevalent in Kothla-Järve, which NSPR never managed to fully get under their control.
 
