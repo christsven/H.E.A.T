@@ -6,7 +6,7 @@
 
 ## Scenario introduction
 
-This is the first setting for H.E.A.T. as a modern, but fictional war innorthern europe. If you play this just as a unit roster for an army, a single match, or a full campaign is up to you.
+This is the first setting for H.E.A.T. as a modern, but fictional war in northern europe. If you play this just as a unit roster for an army, a single match, or a full campaign is up to you.
 
 ### Breakdown
 
