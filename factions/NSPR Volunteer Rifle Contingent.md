@@ -1,8 +1,8 @@
 # **NSPR Volunteer Rifle Contingent**
 
-## Special rules
+## Army modifiers
 
-### Territorial Knowledge
+### Territorial knowledge
 
 Due to being accustomed to the surrounding terrain features, INDEPENDENT
 forces do not have to fulfill an order check to enter the map as reserve
