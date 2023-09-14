@@ -8,35 +8,60 @@ used in another scale, adjustments might be necessary.
 
 ## Weapons
 
-These weapons are operated by a single unit, which uses it as its primary 
-weapon.
+These weapons are operated by a single unit, which uses it as its primary weapon.
 
-| Small arms | Range | Shots | Penetration | Special rules |
-| :---- | ---- | ---- | ---- | ---- |
+| Small arms | Range | Shots | PEN | Special rules |
+| :---- | :----: | :----: | :----: | ---- |
 | Pistol | 0" - 6" | 1 | - | Assault |
 | Personal defense weapon | 0" - 12" | 3 | - | Assault |
 | Submachine gun | 0" - 18" | 2 | - | Assault |
 | Assault rifle | 0" - 12" | 2 | - | - |
 | Assault rifle | 12" - 24" | 1 | - | - |
+| Rifle | 0" - 24" | 1 | - | - |
 | Designated marksman rifle | 24" - 38" | 1 | - | DMR |
 | Shotgun | 0" - 12" | D3 | - | Assault |
+| Underbarrel grenade launcher | 6" - 20" | 1 | HE | HE 1", Indirect Fire |
 
 The following weapons systems are operated by teams. The number of attendants
 indicates the unit's size to function properly, if deployed as an infantry group.
-This does not apply if operated as e. g. a vehicle weapon. 
+This does not apply if operated as e. g. a vehicle weapon.
 
-| Weapon systems | Attendants | Range | Shots | Penetration | Special rules |
-| :---- | ---- | ---- | ----| ---- | ---- |
+| Infantry weapon systems | Attendants | Range | Shots | PEN | Special rules |
+| :---- | :----: | :----: | :----: | :----: | ---- |
+| Light machine gun ||||||
+| Medium machine gun ||||||
+| Heavy machine gun ||||||
+| Sniper ||||||
+| Anti-materiel rifle ||||||
+| Flamethrower (Infantry) ||||||
 
-These weapon systems are only operated as a weapon system on a vehicle.
+| Vehicle weapon systems | Attendants | Range | Shots | PEN | Special rules |
+| :---- | :----: | :----: | :----: | :----: | ---- |
+| Light anti-tank gun ||||||
+| Medium anti-tank gun ||||||
+| Heavy anti-tank gun ||||||
+| Super-heavy anti-tank gun ||||||
+| Light autocannon ||||||
+| Medium autocannon ||||||
+| Heavy autocannon ||||||
+| Flamethrower (Vehicle) ||||||
 
-| Main weapon systems | Range | Shots | Penetration | Special rules |
-| :---- | ---- | ---- | ---- | ---- |
+| Indirect fire systems | Attendants | Range | Shots | PEN | Special rules |
+| :---- | :----: | :----: | :----: | :----: | ---- |
+| Light mortar ||||||
+| Medium mortar ||||||
+| Heavy mortar ||||||
+| Light howitzer ||||||
+| Medium howitzer ||||||
+| Heavy howitzer ||||||
+| howitzer ||||||
 
 Additional weapon systems, explosives, mines, ...
 
-| Weapon | Range | Shots | Penetration | Special rules |
-| :---- | ---- | ---- | ---- | ---- |
+| Explosives | Attendants | Range | Shots | Penetration | Special rules |
+| :---- | :----: | :----: | :----: | :----: | ---- |
+| Rocket propelled grenade ||||||
+| Tandem HEAT charge ||||||
 | Improvised Explosive Device |
 
 ## Gameplay Rules
@@ -61,10 +86,25 @@ Additional weapon systems, explosives, mines, ...
 
 #### AGLs
 
+#### Smoke Screens
+
 ## Additional Rules and Systems
 
-### Smoke Screens
-
 ### Adjustments
+
+#### Weapon choice
+
+Since modern infantry structures and their weapon arsenal are not as restricted
+as they were in the second world war, instead of only providing a choice of a
+few SMGs next to a bunch of rifles and paying more points for them, the way
+units choose their weapons is changed.
+
+Now a squad has a base weapon for each soldier and deviating from that weapon
+costs 3 points. This applies to **ARs**, **SMGs**, **PDWs** and **shotguns**.
+
+A squad can change out none, a couple or even all their weapons, and we count the
+logistical strain by adding up the points, since we don't really have that much
+of a buff anymore by using SMGs. It's much more about the role the unit is supposed
+to fulfill.
 
 #### Spotters
