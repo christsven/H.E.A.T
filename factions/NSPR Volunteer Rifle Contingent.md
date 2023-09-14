@@ -453,11 +453,11 @@ The MT-LB is a Soviet multi-purpose, fully amphibious, tracked armored fighting 
 
 ## Extended vehicle pool [ 0 - 1 ]
 
-The NSPR uses what it has. Their arsenal is a patchwork of anything that drives and has a gun, and utilizes old tanks and APCs just as much as modern civilian vehicles. A fast pickup with an AA gun, a mortar on a truck, T-54 old enough to predate the Berlin wall.
+The NSPR uses what it has. Their arsenal is a patchwork of anything that drives and has a gun, and utilizes old tanks and APCs just as much as modern civilian vehicles. A fast pickup with an AA gun, a mortar on a truck, T-54s old enough to predate the Berlin wall.
 
-### T-55
+### T-54/T-55
 
-| T-55 | MBT medium tank |
+| T-54/T-55 | MBT medium tank |
 | :---- | ---- |
 | Cost | 144 pt / 159 pt / 174 pt |
 | Capacity | - |
@@ -472,12 +472,12 @@ Developed in the 60s and since used in most soviet armies, the PT-76 and its der
 
 | PT-76 | Light reconnaissance tank |
 | :---- | ---- |
-| Cost | 144 pt / 159 pt / 174 pt |
+| Cost | 98 pt / 112 pt / 138 pt |
 | Capacity | - |
-| Damage value | 9+ Medium Tank |
+| Damage value | 8+ Light tank |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>turret-mounted</li><li>coaxial</li></ul></tr><tr><td>7.62mm SGMT MMG</td><td>7.62mm SGMT medium machine gun</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>D56-T 76.2mm</td><td>7.2mm rifle-boored light anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr><tr><td>12.7mm DshK HMG</td><td>12.7mm DshK heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table> |
 |Options| -
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>HE 1"</td><td>Rulebook [pg. X]</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrel to propell a kinetic round. While firing HE rounds<br> as a light AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td><tr><td>Open-Topped (*if selected*)</td><td>Rulebook [pg. X]</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>HE 1"</td><td>Rulebook [pg. X]</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrel to propell a kinetic round. While firing HE rounds<br> as a light AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td></tr><tr><td>Open-Topped (*if selected*)</td><td>Rulebook [pg. X]</td></tr></table>
 
 
 ### Toyota Hilux
