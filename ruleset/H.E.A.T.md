@@ -54,7 +54,6 @@ This does not apply if operated as e. g. a vehicle weapon.
 | Light howitzer ||||||
 | Medium howitzer ||||||
 | Heavy howitzer ||||||
-| howitzer ||||||
 
 Additional weapon systems, explosives, mines, ...
 
