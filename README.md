@@ -2,9 +2,9 @@
 
 ## Ruleset
 
-New rule additions and explanation in .excalidraw file
+Former rules saved as .excalidraw file while I work on the markdown readable variant.
 
-[H.E.A.T Rules](https://github.com/christsven/H.E.A.T/blob/main/ruleset/H.E.A.T.excalidraw)
+[H.E.A.T Rules](/ruleset/H.E.A.T.md)
 
 or as a .png for easier use on mobile
 
@@ -19,9 +19,9 @@ Factions are ordered by alignment as seen from a NATO perspective. BLUFOR are al
 #### VJTF Armoured Infantry Brigade
 
 Roster for a modern, 2010-2020 era fictional NATO brigade, composed of a
-reinforced Bundeswehr Panzergrendier infantry platoon.
+reinforced Bundeswehr Panzergrenadier infantry platoon.
 
-[VJTF Roster](https://github.com/christsven/H.E.A.T/blob/main/factions/German%20VJTF%20Panzergrenadier%20Division.md)
+[VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
 ### INDEPENDENT
 
