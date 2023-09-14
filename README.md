@@ -28,7 +28,7 @@ reinforced Bundeswehr Panzergrendier infantry platoon.
 Roster for a non-symmetrical, platoon-sized independent force, composed
 of former soviet-army material.
 
-[NSPR Roster](https://github.com/christsven/H.E.A.T/blob/main/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
+[NSPR Roster](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
 
 ### OPFOR
 
@@ -42,17 +42,19 @@ For use in a campaign or as a more restrictive ruleset.
 
 ### Civil war in Estonia
 
-A war scenario in Europe right next to the russian border.
+War in Europe right next to the russian border.
 
 A very volatile situation ready to escalate to a full-blown land war between NATO and Russia over a single misstep on either side.
 
-[Separatists in Estonia](https://github.com/christsven/H.E.A.T/blob/main/scenarios/SCENARIO%20Narva.md)
+[Separatists in Estonia](/scenarios/SCENARIO%20Narva.md)
 
 #### Scenarios
 
 A list of game scenarios for singular matches, set in the estonian civil war.
 
-[Suprise Attack](/reports/report-2.md)
+[Surprise Attack](/reports/report-2.md)
+
+[Logistical Operations](/scenarios/scenario-logistics.md)
 
 #### Match Reports
 
