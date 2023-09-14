@@ -42,7 +42,7 @@ For use in a campaign or as a more restrictive ruleset.
 
 ### Civil war in Estonia
 
-A war scenario in Europe right next to the russian border.
+War in Europe right next to the russian border.
 
 A very volatile situation ready to escalate to a full-blown land war between NATO and Russia over a single misstep on either side.
 
