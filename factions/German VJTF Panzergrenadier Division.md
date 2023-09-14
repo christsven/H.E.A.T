@@ -2,7 +2,7 @@
 
 ***
 
-## Special rules
+## Army modifiers
 
 ### (Non-)Standardization
 
