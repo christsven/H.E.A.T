@@ -10,13 +10,15 @@ Due to a lack of standardization in equipment between NATO forces, the
 strain on logistic is higher than for other forces. Transport units must
 perform an order check with 2 pin markers when moving out of reserve to
 represent the stressed personell.</br>
+
 *TLDR +2 pin on all reserve transports*
 
 ### High Training standards
 
 Many NATO soldiers had extensive pre-deployment training in JMRCs,
-allowing them to perform better under stressfull situations. Regular or
+allowing them to perform better under stressful situations. Regular or
 Veteran infantry units are allowed to reroll failed moral checks.</br>
+
 *TLDR reroll failed morale checks for reg/vet infantry groups*
 
 ***
