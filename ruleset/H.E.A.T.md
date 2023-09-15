@@ -59,9 +59,9 @@ Additional weapon systems, explosives, mines, ...
 
 | Explosives | Attendants | Range | Shots | Penetration | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
-| Rocket propelled grenade ||||||
-| Tandem HEAT charge ||||||
-| Improvised Explosive Device |
+| Rocket propelled grenade launcher | 1 | 6" - 36" | 1 | +5 | Team, Backblast, Shaped charge |
+| Tandem HEAT charge launcher | 1 | 6" - 30" | 1 | +7 | Team, Backblast, Shaped charge
+| Improvised Explosive Device | 1 | placed down | 1 | HE | HE 3", IED |
 
 ## Gameplay Rules
 
