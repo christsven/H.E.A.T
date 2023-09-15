@@ -285,7 +285,7 @@ which takes a successful RALLY order.
 | :--- | :--- |
 | Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order<br>Unit is connected via a wireless connection to the operator |
 
-#### ATGMs
+#### Anti-Tank guided missiles
 
 ##### Introduction
 
@@ -293,8 +293,7 @@ Anti-Tank guided missiles are stationary AT weapons, capable of effectively
 engaging any armoured target over several kilometers. They are most often wire-
 guided, thus being able to strike targets which move after deployment.
 
-This places the system operator at a risk of being attacked while the missile is
-still mid-air.
+This places the system operator at a risk of being attacked while the missile is still mid-air.
 
 ##### Gameplay
 
@@ -316,15 +315,19 @@ ATGM groups are treated the same way as any other team weapon.
 
 ##### Special rules
 
+#### Underbarrel grenade launchers
+
 #### Tandem HEAT charges
 
 #### LAWs
 
-#### DMRs
+#### Designated Marksmen
 
-#### Sappers and IEDs
+#### IEDs
 
-#### AGLs
+##### Sappers
+
+#### Automatic grenade launchers
 
 #### Bangalores
 
