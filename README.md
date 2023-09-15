@@ -16,14 +16,22 @@ Factions are ordered by alignment as seen from a NATO perspective. BLUFOR are al
 
 ### BLUFOR
 
-#### VJTF Armoured Infantry Brigade
+#### VJTF armoured infantry brigade
 
 Roster for a modern, 2010-2020 era fictional NATO brigade, composed of a
 reinforced Bundeswehr Panzergrenadier infantry platoon.
 
 [VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
+#### UN peacekeeping and support brigade
+
+Roster for a UNFOR support brigade composed of french and american equipment.
+
+[UNFOR Roster]
+
 ### INDEPENDENT
+
+#### NSPR armoured infantry platoon
 
 Roster for a non-symmetrical, platoon-sized independent force, composed
 of former soviet-army material.
