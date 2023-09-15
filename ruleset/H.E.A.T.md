@@ -31,9 +31,9 @@ This does not apply if operated as e. g. a vehicle weapon.
 | Light machine gun | 1 | 0" - 36" | 4 | - | Team |
 | Medium machine gun | 1 | 0" - 36" | 5 | - | Team, Fixed |
 | Heavy machine gun | 2 | 0" - 36" | 3 | +1 | Team, Fixed |
-| Sniper | 12" - 48" | 1 | 1 | - | Team, Sniper|
-| Anti-materiel rifle | 12" - 36" | 1 | 1 | +2 | Team, Sniper |
-| Flamethrower (Infantry) | 0" - 6" | 1 | D6 | +3 | Team, Flamethrower |
+| Sniper | 1 | 12" - 48" | 1 | - | Team, Sniper|
+| Anti-materiel rifle | 1 | 12" - 36" | 1 | +2 | Team, Sniper |
+| Flamethrower (Infantry) | 1 | 0" - 6" | D6 | +3 | Team, Flamethrower |
 
 | Vehicle weapon systems | Attendants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
