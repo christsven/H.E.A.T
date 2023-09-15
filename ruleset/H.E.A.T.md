@@ -99,7 +99,9 @@ few SMGs next to a bunch of rifles and paying more points for them, the way
 units choose their weapons is changed.
 
 Now a squad has a base weapon for each soldier and deviating from that weapon
-costs 3 points. This applies to **ARs**, **SMGs**, **PDWs** and **shotguns**.
+costs 3 points. This applies to **ARs**, **SMGs**, **PDWs** and **shotguns**. 
+
+A pistol can be used, which returns 3 points, since its a step back.
 
 A squad can change out none, a couple or even all their weapons, and we count the
 logistical strain by adding up the points, since we don't really have that much
