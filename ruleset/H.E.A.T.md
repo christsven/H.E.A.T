@@ -285,7 +285,7 @@ which takes a successful RALLY order.
 | :--- | :--- |
 | Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order<br>Unit is connected via a wireless connection to the operator |
 
-#### Anti-Tank guided missiles
+#### Anti-Tank guided missiles (ATGM)
 
 ##### Introduction
 
@@ -315,19 +315,21 @@ ATGM groups are treated the same way as any other team weapon.
 
 ##### Special rules
 
-#### Underbarrel grenade launchers
+#### Underbarrel grenade launchers (UGL)
 
 #### Tandem HEAT charges
 
-#### LAWs
+#### Light anti-tank weapons (LAW)
 
-#### Designated Marksmen
+#### Designated Marksmen (DMR)
 
-#### IEDs
+#### Improvised explosive devices (IED)
 
 ##### Sappers
 
-#### Automatic grenade launchers
+#### Automatic grenade launchers (AGL)
+
+#### Manportable air defense systems (MANPADS)
 
 #### Bangalores
 
