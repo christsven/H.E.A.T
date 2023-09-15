@@ -61,7 +61,7 @@ Additional weapon systems, explosives, mines, ...
 | :---- | :----: | :----: | :----: | :----: | ---- |
 | Rocket propelled grenade launcher | 1 | 6" - 36" | 1 | +5 | Team, Backblast, Shaped charge |
 | Tandem HEAT charge launcher | 1 | 6" - 30" | 1 | +7 | Team, Backblast, Shaped charge |
-| Anti-Tank guided missile launcher | 2 | ∞ | 1 | +7  | Team, Fixed, Backblast, ATGM |
+| Anti-Tank guided missile launcher | 2 | ∞ (32" per turn) | 1 | +7  | Team, Fixed, Backblast, ATGM |
 | Improvised Explosive Device | 1 | placed down | 1 | HE | HE 3", IED |
 
 ## Gameplay Rules
