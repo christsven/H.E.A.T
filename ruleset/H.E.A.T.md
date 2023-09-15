@@ -41,9 +41,9 @@ This does not apply if operated as e. g. a vehicle weapon.
 | Medium anti-tank gun | 3 | 0" - 60" | 1 | +5 | HE 1" |
 | Heavy anti-tank gun | 3 | 0" - 72" | 1 | +6 | HE 2" |
 | Super-heavy anti-tank gun | 3 | 0" - 82" | 1 | +7 | HE 3"|
-| Light autocannon ||||||
-| Medium autocannon ||||||
-| Heavy autocannon ||||||
+| Light autocannon | 2 | 0" - 48" | 2 | +2 | Team, Fixed, HE 1" |
+| Medium autocannon | 2 | 0" - 60" | 2 | +3 | Team, HE 1" |
+| Heavy autocannon | 3 | 0" - 72" | 2 | +3 | Team, HE 2" |
 | Flamethrower (Vehicle) | - | 0" - 12" | D6+1 | +3 | Flamethrower |
 
 | Indirect fire systems | Attendants | Range | Shots | PEN | Special rules |
