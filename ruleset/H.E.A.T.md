@@ -37,23 +37,23 @@ This does not apply if operated as e. g. a vehicle weapon.
 
 | Vehicle weapon systems | Attendants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
-| Light anti-tank gun ||||||
-| Medium anti-tank gun ||||||
-| Heavy anti-tank gun ||||||
-| Super-heavy anti-tank gun ||||||
+| Light anti-tank gun | 2 | 0" - 48" | 1 | +4 | HE 1" |
+| Medium anti-tank gun | 3 | 0" - 60" | 1 | +5 | HE 1" |
+| Heavy anti-tank gun | 3 | 0" - 72" | 1 | +6 | HE 2" |
+| Super-heavy anti-tank gun | 3 | 0" - 82" | 1 | +7 | HE 3"|
 | Light autocannon ||||||
 | Medium autocannon ||||||
 | Heavy autocannon ||||||
-| Flamethrower (Vehicle) ||||||
+| Flamethrower (Vehicle) | - | 0" - 12" | D6+1 | +3 | Flamethrower |
 
 | Indirect fire systems | Attendants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
-| Light mortar ||||||
-| Medium mortar ||||||
-| Heavy mortar ||||||
-| Light howitzer ||||||
-| Medium howitzer ||||||
-| Heavy howitzer ||||||
+| Light mortar | 1 | 12" - 24" | 1 | HE | Team, Indirect Fire, HE 1" |
+| Medium mortar | 2 | 12" - 60" | 1 | HE | Team, Fixed, Indirect Fire, HE 2" |
+| Heavy mortar | 2 | 12" - 72" | 1 | HE | Team, Fixed, Indirect Fire, HE 3" |
+| Light howitzer | 2 | 0" - 48" (24" - 60") | 1 | HE | Team, Fixed, Howitzer, HE 2" |
+| Medium howitzer | 3 | 0" - 60" (30" - 72") | 1 | HE | Team, Fixed, Howitzer, HE 3" |
+| Heavy howitzer | 3 | 0" - 72" (36" - 84") | 1 | HE | Team, Fixed, Howitzer, HE 4" |
 
 Additional weapon systems, explosives, mines, ...
 
