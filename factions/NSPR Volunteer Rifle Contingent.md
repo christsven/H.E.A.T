@@ -1,4 +1,4 @@
-# **NSPR Volunteer Rifle Contingent**
+# **NSPR volunteer rifle contingent**
 
 ## Army modifiers
 
