@@ -6,7 +6,11 @@ This is a ruleset for a modern, platoon-sized tabletop wargame. While size- and
 modelagnostic, weapon ranges and distances are balanced towards a 28mm size. If
 used in another scale, adjustments might be necessary.
 
-As a note: modern vehicles for 28mm are often scaled to "true" size, which is 1/50 in relation to the miniatures. While I personally dont care about size too much, it is noticable on the table if you mix up a 1/56 M113 next to a 1/50 or even 1/48 M1 Abrams. Just a heads up, so you wont be too surprised when the "28mm" vehicles suddenly turn out way bigger than most WW2 era vehicles.
+As a note: modern vehicles for 28mm are often scaled to "true" size, which is
+1/50 in relation to the miniatures. While I personally dont care about size too
+much, it is noticable on the table if you mix up a 1/56 M113 next to a 1/50 or
+even 1/48 M1 Abrams. Just a heads up, so you wont be too surprised when the "28mm"
+vehicles suddenly turn out way bigger than most WW2 era vehicles.
 
 ## Weapons
 
@@ -22,7 +26,7 @@ These weapons are operated by a single unit, which uses it as its primary weapon
 | Rifle | 0" - 24" | 1 | - | - |
 | Designated marksman rifle | 24" - 38" | 1 | - | DMR |
 | Shotgun | 0" - 12" | D3 | - | Assault |
-| Underbarrel grenade launcher | 6" - 20" | 1 | HE | HE 1", Indirect Fire |
+| Underbarrel grenade launcher | 6" - 20" | 1 | HE | Indirect Fire, HE 1" |
 
 The following weapons systems are operated by teams. The number of attendants
 indicates the unit's size to function properly, if deployed as an infantry group.
@@ -42,29 +46,30 @@ This does not apply if operated as e. g. a vehicle weapon.
 | Light anti-tank gun | 2 | 0" - 48" | 1 | +4 | HE 1" |
 | Medium anti-tank gun | 3 | 0" - 60" | 1 | +5 | HE 1" |
 | Heavy anti-tank gun | 3 | 0" - 72" | 1 | +6 | HE 2" |
-| Super-heavy anti-tank gun | 3 | 0" - 82" | 1 | +7 | HE 3"|
+| Super-heavy<>anti-tank gun | 3 | 0" - 82" | 1 | +7 | HE 3"|
 | Light autocannon | 2 | 0" - 48" | 2 | +2 | Team, Fixed, HE 1" |
 | Medium autocannon | 2 | 0" - 60" | 2 | +3 | Team, HE 1" |
 | Heavy autocannon | 3 | 0" - 72" | 2 | +3 | Team, HE 2" |
 | Flamethrower (Vehicle) | - | 0" - 12" | D6+1 | +3 | Flamethrower |
 
-| Indirect fire systems | Attendants | Range | Shots | PEN | Special rules |
+| Indirect fire<br>systems | Attendants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
-| Light mortar | 1 | 12" - 24" | 1 | HE | Team, Indirect Fire, HE 1" |
-| Medium mortar | 2 | 12" - 60" | 1 | HE | Team, Fixed, Indirect Fire, HE 2" |
-| Heavy mortar | 2 | 12" - 72" | 1 | HE | Team, Fixed, Indirect Fire, HE 3" |
-| Light howitzer | 2 | 0" - 48" (24" - 60") | 1 | HE | Team, Fixed, Howitzer, HE 2" |
-| Medium howitzer | 3 | 0" - 60" (30" - 72") | 1 | HE | Team, Fixed, Howitzer, HE 3" |
-| Heavy howitzer | 3 | 0" - 72" (36" - 84") | 1 | HE | Team, Fixed, Howitzer, HE 4" |
+| Light mortar | 1 | 12" - 24" | 1 | HE | Team,<br> Indirect Fire, HE 1" |
+| Medium mortar | 2 | 12" - 60" | 1 | HE | Team, Fixed,<br> Indirect Fire, HE 2" |
+| Heavy mortar | 2 | 12" - 72" | 1 | HE | Team, Fixed,<br> Indirect Fire, HE 3" |
+| Light howitzer | 2 | 0" - 48"<br>(24" - 60") | 1 | HE | Team, Fixed,<br> Howitzer, HE 2" |
+| Medium howitzer | 3 | 0" - 60"<br>(30" - 72") | 1 | HE | Team, Fixed,<br> Howitzer, HE 3" |
+| Heavy howitzer | 3 | 0" - 72"<br>(36" - 84") | 1 | HE | Team, Fixed,<br> Howitzer, HE 4" |
 
 Additional weapon systems, explosives, mines, ...
 
-| Explosives | Attendants | Range | Shots | Penetration | Special rules |
+| Explosives | Attendants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
-| Rocket propelled grenade launcher | 1 | 6" - 36" | 1 | +5 | Team, Backblast, Shaped charge |
-| Tandem HEAT charge launcher | 1 | 6" - 24" | 1 | +7 | Team, Backblast, Shaped charge |
-| Anti-Tank guided missile launcher | 2 | ∞ (32" per turn) | 1 | +7  | Team, Fixed, Backblast, ATGM |
-| Improvised Explosive Device | 1 | placed down | 1 | HE | HE 3", IED |
+| Rocket propelled<br>grenade launcher | 1 | 6" - 36" | 1 | +5 | Team, Backblast,<br> Shaped charge |
+| Tandem HEAT<br>charge launcher | 1 | 6" - 24" | 1 | +7 | Team, Backblast,<br> Shaped charge |
+| Anti-Tank guided<br>missile launcher | 2 | ∞<br>(32" per turn) | 1 | +7  | Team, Fixed,<br> Backblast, ATGM |
+| Improvised<br>Explosive Device | 1 | placed down | 1 | HE | IED, HE 3" |
+| Bangalore | - | 0" - 6" | 1 | HE | Bangalore,<br>Single-Shot, HE 1" |
 
 ## Gameplay Rules
 
@@ -180,9 +185,9 @@ The helicopter gets the "Open Topped" rule while having open rear/side doors. As
 soon as the helicoter succesfully performs a RUN order, or the turn is over, the
 rule does no longer apply.
 
-Recon units like spotters are allowed to perform their role from the helicopter
-in 45° arks from the opening they are looking from. The door has to be open to
-do this.
+Reconnaissance units like spotters are allowed to perform their role from the
+helicopter in 45° arks from the opening they are looking from. The door has to be
+open to do this.
 
 ###### Shooting at a helicopter
 
@@ -206,8 +211,13 @@ carried around by hand.
 
 ##### Gameplay
 
-The drone operator team (DOT) consists of 1 operator (SMG or PDW) and can be
-reinforced by up to 2 attendants (AR/SMG/PDW).
+Drones are steered by an operator who has a wireless connection to the device.
+As soon as either the drone or the operator is lost, the DOT is considered
+destroyed.  <mark> **TODO**
+
+The UAV uses the same damage value as its team.
+
+###### Default unit costs
 
 | Veterancy | Cost | Cost<br>attendant |
 | ---- | ---- | ---- |
@@ -215,18 +225,11 @@ reinforced by up to 2 attendants (AR/SMG/PDW).
 | Regular | 50 pt | 10 pt |
 | Veteran | 65 pt | 13 pt |
 
- As soon as either the drone or the operator is lost, the DOT is considered
- destroyed.
-
-The UAV uses the same damage value as its team.
-
 ##### Movement
 
-They can be suspended at any height below 2' (60cm).
-
-Per activation, either the operator or the UAV can perform an action.
-
-The UAV is able to move in 30" (RUN)/ 15" (ADVANCE) in any direction.
+A drone can be suspended at any height below 2' (60cm). Per activation, either
+the operator or the UAV can perform an action. The UAV is able to move in
+30" (RUN)/ 15" (ADVANCE) in any direction.
 
 It can stay airbound for 2 consecutive rounds before potentially losing battery
 charge:
@@ -234,38 +237,33 @@ charge:
 ![drone battery image](image-1.png)
 
 The UAV can be recovered by the DOT by moving within 1" of the grounded drone.
-
 If turn ends with the grounded UAV closer to enemy forces than friendly ones, it
-is considered destroyed.
-
-The battery pack is reset every time the DOT is within 1" of the grounded UAV.
+is considered destroyed. The battery pack is reset every time the DOT is within
+1" of the grounded UAV.
 
 ##### Range
 
 Similar to the battery pack, the range of an airborne UAV is limited by the wire-
-less connection range to the DOT.
-
-If the UAV ends its turn more than 60" away from the DOT, upon activation the
-following test has to be passed:
+less connection range to the DOT. If the UAV ends its turn more than 60" away from
+the DOT, upon activation the following test has to be passed:
 
 ![drone range image](image-2.png)
 
 ##### Variants
 
-###### Reconaissance
+###### Reconnaissance
 
-Enables capable of spotting enemy targets in direct LoS.
+Enables capable of spotting enemy targets in direct LoS. The DOT can commicate
+with any unit within the DOTs platoon and any unit capable of indirect fire in 12"
+around the DOT, once per turn.
 
-Can commicate with any unit within the DOTs platoon or any unit capable of indirect
-fire in 12" around the DOT, once per turn.
-
-The communication does require or use up an activation, but is blocked if the
+The communication does not require or use up an activation, but is blocked if the
 DOT is DOWN.
 
 ###### IED (+10 pt)
 
-The UAV carries an improvised high explosive with it, capable of being dropped
-on enemy units:
+The UAV carries an improvised high explosive with it, capable of being dropped on
+enemy units:
 
 ![ied drop image](image-3.png)
 
@@ -297,11 +295,18 @@ Anti-Tank guided missiles are stationary AT weapons, capable of effectively
 engaging any armoured target over several kilometers. They are most often wire-
 guided, thus being able to strike targets which move after deployment.
 
-This places the system operator at a risk of being attacked while the missile is still mid-air.
+This places the system operator at a risk of being attacked while the missile is
+still mid-air.
 
 ##### Gameplay
 
-Any ATGM team consists of 1 system operators (SMG or PDW) + 2 loader (SMG or PDW).
+ATGMs come in different forms, but mostly consist of a stationary or fixed weapon
+system with a weapon operator, similar to an anti-tank gun or machine gun position.
+
+They can also come as vehicle mounted systems. For details on target selection,
+shooting and guiding over multiple rounds, see rule section.
+
+###### Default weapon costs
 
 | Veterancy | Cost |
 | ---- | ---- |
@@ -309,19 +314,28 @@ Any ATGM team consists of 1 system operators (SMG or PDW) + 2 loader (SMG or PDW
 | Regular | 85 pt |
 | Veteran | 110 pt |
 
-ATGM groups are treated the same way as any other team weapon.
-
-##### ATGM rule
+##### Rule
 
 | Rule | Description |
 | :--- | :--- |
-| ATGM | <li>ATGMs can be fired at any vehicle in its LoS, but the missile requires some time to<br>approach targets at greater distances.</li><li>Any vehicle in the ATGMs LoS can be targeted, regardless of distance to target.</li><li>Upon firing, the missile approaches the target in a straight line at 32" per turn.</li><li>If the target ends the turn out of LoS or the ATGM operator unit goes DOWN<br>or moves, the missile is destroyed.</li> |
+| ATGM | <li>ATGMs can be fired at any vehicle in its LoS, but the missilerequires some time to<br>approach targets at greater distances.</li><li>Any vehicle in the ATGMs LoS can be targeted, regardless of distance to target.</li><li>Upon firing, the missile approaches the target in a straight line at 32" per turn.</li><li>If the target ends the turn out of LoS or the ATGM operator unit goes DOWN<br>or moves, the missile is destroyed.</li> |
 
 ##### Special rules
+
+Some weapons also can have other special rules describing the system.
+
+| Rule | Description |
+| :--- | :--- |
+| Fire-And-Forget | <li>The targeting and movement of the missile stays the same, but the system<br> operator is not required to interact with the missile anymore.<li>Pathfinding for the missile is always in a straight line toward the target <li>If at the end of turn the missile loses LoS, it is considered destroyed |
+| Backblast | If this weapon is fired in an enclosed room or if there are units within 3" of a 45°<br> ark behind the exhaust, roll to damage for any unit in this room or area.|
 
 ****
 
 #### Underbarrel grenade launchers (UGL)
+
+##### Introduction
+
+##### Gameplay
 
 ****
 
@@ -329,11 +343,17 @@ ATGM groups are treated the same way as any other team weapon.
 
 ##### Introduction
 
-Heavier versions of the usual AT rocket propelled grenades. While having a more limited range due to a larger and heavier configuration, the multiple stages of detonation provided by a Tandem HEAT round are capable of striking through moddrn reactive armour and heavy defenses.
+Heavier versions of the usual AT rocket propelled grenades. While having a more
+limited range due to a larger and heavier configuration, the multiple stages of
+detonation provided by a Tandem HEAT round are capable of striking through modern
+reactive armour and heavy defenses.
 
 ##### Gameplay
 
-Most RPGs have an option to be equipped with Tandem HEAT rounds. They do not replace the normal RPG round,giving you the option of using both. Before attacking, announce which type is used by the system operator. Attacks are performed the same way as any normal RPG attack.
+Most RPGs have an option to be equipped with Tandem HEAT rounds. They do not
+replace the normal RPG round,giving you the option of using both. Before attacking,
+announce which type is used by the system operator. Attacks are performed the
+same way as any normal RPG attack.
 
 PEN values and range as seen in the weapons chart.
 
@@ -341,7 +361,7 @@ PEN values and range as seen in the weapons chart.
 
 | Rule | Description |
 | :--- | :--- |
-| Tandem HEAT Charge | Optional Upgrade for most RPGs. If chosen and selected for an attack, announce before roling to hit. Damage values and range as seen in weapons chart. |
+| Tandem HEAT Charge | Optional Upgrade for most RPGs. If chosen and selected for <br>an attack, announce before roling to hit.<br><br> Damage values and range as seen in weapons chart. |
 
 ****
 
@@ -349,35 +369,90 @@ PEN values and range as seen in the weapons chart.
 
 ##### Introduction
 
-LAWs are lightweight, fire and forget AT rockets. They are fired from a disposable missile launch platform. These weapons are issued at squad-level and provide normal infantry units with anti-tank capabilizies.
+Light anti-tank weapons (LAW) are lightweight, fire and forget AT rockets. They
+are fired from a disposable missile launch platform. These weapons are issued at
+squad-level and provide normal infantry units with anti-tank capabilizies.
 
 ##### Rule
 
 | Rule | Description |
 | :--- | :--- |
-| LAW | Fires a single AT warhead against any vehicle. An attack is performed the same way as a normal attack against a vehicle, e. g. with an RPG. PEN value as seen in weapons chart. Single-Use, once fired, the weapon is no longer available.|
+| LAW | Fires a single AT warhead against any vehicle. An attack is performed the<br> same way as a normal attack against a vehicle, e. g. with an RPG. <br><br>PEN value as seen in weapons chart. Single-Use, once fired, the weapon is<br> no longer available.|
 
 ****
 
-#### Designated Marksmen (DMR)
+#### Designated marksmen role (DMR)
 
 ****
 
 #### Improvised explosive devices (IED)
 
-****
-
 ##### Sappers
 
+****
+
 #### Automatic grenade launchers (AGL)
+
+##### Introduction
+
+Automatic Grenade Launchers (AGL) are stationary weapon systems used to fire high
+explosive grenades.
+
+##### Gameplay
+
+Similar to machine guns, these weapons are fixed-position guns controlling areas
+and channeling enemy forces. They fire multiple grenades per salvo, which can easily
+decimate infantry groups.
+
+###### Default unit costs
+
+| Veterancy | Cost |
+| ---- | ---- |
+| Inexperienced | 50 pt |
+| Regular | 60 pt |
+| Veteran | 75 pt |
+
+##### Rule
+
+| Rule | Description |
+| :--- | :--- |
+| AGL | A platform to fire HE grenades from. The system functions fires 2 HE shots at a<br> target, for each hit the HE template can be placed over the unit. They need to<br>connect to each other and can overlap.<br><br> When firing at buildings, the HE hits are rolled as described in the HE section. |
 
 ****
 
 #### Manportable air defense systems (MANPADS)
 
+##### Introduction
+
+##### Gameplay
+
+##### Rule
+
 ****
 
 #### Bangalores
+
+##### Introduction
+
+Used since before World War 1, these long torpedoes are used to blow holes or
+clear mines from a safe cover, even while under fire. Prominently featured in
+"Saving Private Ryan" to blow holes in razor wire fortifications.
+
+##### Gameplay
+
+Bangalores serve a multitude of roles:
+
+| Example situation | Example  |
+| :--- | :--- |
+| Removing light fortifications |  |
+| Blowing a door-sized hole into walls |  |
+| Using as a HE weapon against infantry or vehicle || |
+| Removing mines and IEDs | See IED section|
+
+##### Rule
+
+| Rule | Description |
+| :--- | :--- |
 
 ****
 
@@ -385,15 +460,19 @@ LAWs are lightweight, fire and forget AT rockets. They are fired from a disposab
 
 ##### Introduction
 
-Modern vehicles are equopped with smoke grenade laumchers to quickly provide cover in case of an emergency situation. They are forward facing and enable maneuvering and retreat if necessary.
+Modern vehicles are equopped with smoke grenade laumchers to quickly provide cover
+in case of an emergency situation. They are forward facing and enable maneuvering
+and retreat if necessary.
 
 ##### Gameplay
 
-Once per vehicle, a unit equipped with a smoke screen can active it by going DOWN. (You dont activate with the DOWN, it can be performed without using up the smoke screen, but using it leads to your vehicle to go DOWN.
+Once per vehicle, a unit equipped with a smoke screen can active it by going DOWN.
+(You dont activate with the DOWN, it can be performed without using up the smoke
+screen, but using it leads to your vehicle to go DOWN.)
 
-The smoke screen consists of two 2" smoke markers which are placed in front of the vehicle.
-
-The smoke behaves the same as any other smoke, drifting and vanishing just like a smoke round.
+The smoke screen consists of two 2" smoke markers which are placed in front of
+the vehicle. Built-up smoke behaves the same as any other smoke, drifting and
+vanishing just like a smoke round.
 
 ## Additional Rules and Systems
 
@@ -407,7 +486,7 @@ few SMGs next to a bunch of rifles and paying more points for them, the way
 units choose their weapons is changed.
 
 Now a squad has a base weapon for each soldier and deviating from that weapon
-costs 3 points. This applies to **ARs**, **SMGs**, **PDWs** and **shotguns**. 
+costs 3 points. This applies to **ARs**, **SMGs**, **PDWs** and **shotguns**.
 
 A pistol can be used, which returns 3 points, since its a step back.
 
@@ -418,8 +497,15 @@ to fulfill.
 
 #### Spotters
 
-Since modern forces use raduos extensively on squad-, platoon- and up to battalion-level, any spotter can spot for any gun in his platoon, just like a UAV spots for its entire platoon. 
+Since modern forces use raduos extensively on squad-, platoon- and up to battalion-
+level, any spotter can spot for any gun in his platoon, just like a UAV spots for
+its entire platoon.
 
-There is still an option for any gun to bring a designated spotter, since you are still allowed to field multiple spotters, but it is not mandatory.
+There is still an option for any gun to bring a designated spotter, since you are
+still allowed to field multiple spotters, but it is not mandatory.
 
-If a gun has begun zeroing in on a position, it is not bound to a specific spotter. If they went from 6 to 4 on spotter A and spotter B takes over due to A dying or repositioning, the zeroing is not affected. But without a spotter correcting shots, it is also unable to further zero in and lower its value. A direct hit also needs to be observed to notify the artillery that zeroing has finished.
+If a gun has begun zeroing in on a position, it is not bound to a specific spotter.
+If they went from 6 to 4 on spotter A and spotter B takes over due to A dying or
+repositioning, the zeroing is not affected. But without a spotter correcting shots,
+it is also unable to further zero in and lower its value. A direct hit also needs
+to be observed to notify the artillery that zeroing has finished.
