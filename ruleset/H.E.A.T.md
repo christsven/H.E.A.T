@@ -367,6 +367,18 @@ LAWs are lightweight, fire and forget AT rockets. They are fired from a disposab
 
 #### Smoke Screens
 
+##### Introduction
+
+Modern vehicles are equopped with smoke grenade laumchers to quickly provide cover in case of an emergency situation. They are forward facing and enable maneuvering and retreat if necessary.
+
+##### Gameplay
+
+Once per vehicle, a unit equipped with a smoke screen can active it by going DOWN. (You dont activate with the DOWN, it can be performed without using up the smoke screen, but using it leads to your vehicle to go DOWN.
+
+The smoke screen consists of two 2" smoke markers which are placed in front of the vehicle.
+
+The smoke behaves the same as any other smoke, drifting and vanishing just like a smoke round.
+
 ## Additional Rules and Systems
 
 ### Adjustments
