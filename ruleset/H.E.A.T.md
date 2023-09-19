@@ -327,6 +327,16 @@ ATGM groups are treated the same way as any other team weapon.
 
 #### Tandem HEAT charges
 
+##### Introduction
+
+Heavier versions of the usual AT rocket propelled grenades. While having a more limited range due to a larger and heavier configuration, the multiple stages of detonation provided by a Tandem HEAT round are capable of striking through moddrn reactive armour and heavy defenses.
+
+##### Gameplay
+
+Most RPGs have an option to be equipped with Tandem HEAT rounds. They do not replace the normal RPG round,giving you the option of using both. Before attacking, announce which type is used by the system operator. Attacks are performed the same way as any normal RPG attack.
+
+PEN values and range as seen in the weapons chart.
+
 ****
 
 #### Light anti-tank weapons (LAW)
