@@ -331,6 +331,16 @@ ATGM groups are treated the same way as any other team weapon.
 
 #### Light anti-tank weapons (LAW)
 
+##### Introduction
+
+LAWs are lightweight, fire and forget AT rockets. They are fired from a disposable missile launch platform. These weapons are issued at squad-level and provide normal infantry units with anti-tank capabilizies.
+
+##### Rule
+
+| Rule | Description |
+| :--- | :--- |
+| LAW | Fires a single AT warhead against any vehicle. An attack is performed the same way as a normal attack against a vehicle, e. g. with an RPG. PEN value as seen in weapons chart. Single-Use, once fired, the weapon is no longer available.|
+
 ****
 
 #### Designated Marksmen (DMR)
