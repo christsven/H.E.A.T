@@ -337,6 +337,12 @@ Most RPGs have an option to be equipped with Tandem HEAT rounds. They do not rep
 
 PEN values and range as seen in the weapons chart.
 
+##### Rule
+
+| Rule | Description |
+| :--- | :--- |
+| Tandem HEAT Charge | Optional Upgrade for most RPGs. If chosen and selected for an attack, announce before roling to hit. Damage values and range as seen in weapons chart. |
+
 ****
 
 #### Light anti-tank weapons (LAW)
