@@ -379,3 +379,9 @@ of a buff anymore by using SMGs. It's much more about the role the unit is suppo
 to fulfill.
 
 #### Spotters
+
+Since modern forces use raduos extensively on squad-, platoon- and up to battalion-level, any spotter can spot for any gun in his platoon, just like a UAV spots for its entire platoon. 
+
+There is still an option for any gun to bring a designated spotter, since you are still allowed to field multiple spotters, but it is not mandatory.
+
+If a gun has begun zeroing in on a position, it is not bound to a specific spotter. If they went from 6 to 4 on spotter A and spotter B takes over due to A dying or repositioning, the zeroing is not affected. But without a spotter correcting shots, it is also unable to further zero in and lower its value. A direct hit also needs to be observed to notify the artillery that zeroing has finished.
