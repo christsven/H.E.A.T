@@ -74,13 +74,13 @@ Additional weapon systems, explosives, mines, ...
 
 ##### Introduction
 
-With the advancements of tank engines in the first world war tanks started to
-outpace theinfantry it was trying to catch up to. As a result, half-tracks and
+With the advancements of tank engines in the first world war tanks, started to
+outpace the infantry it was trying to catch up to. As a result, half-tracks and
 other armoured personnel carriers (APC) became widespread. After the war, these
 mostly unarmed vehicles grew into a more interconnected role with the infantry
 they were transporting, giving rise to mechanized infantry, who fight in
 conjunction with their carrier. This type of carrier, mostly armed with at least
-a 20mm autocannon or ATGM systems, are called infantry fighting vehicles (IFVs).
+a 20mm autocannon or ATGM systems, is called "infantry fighting vehicle" (IFV).
 
 ##### Mechanics
 
