@@ -32,7 +32,7 @@ The following weapons systems are operated by teams. The number of attendants
 indicates the unit's size to function properly, if deployed as an infantry group.
 This does not apply if operated as e. g. a vehicle weapon.
 
-| Infantry weapon systems | Attendants | Range | Shots | PEN | Special rules |
+| Infantry weapon systems | Atten-<br>dants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
 | Light machine gun | 1 | 0" - 36" | 4 | - | Team |
 | Medium machine gun | 1 | 0" - 36" | 5 | - | Team, Fixed |
@@ -41,18 +41,18 @@ This does not apply if operated as e. g. a vehicle weapon.
 | Anti-materiel rifle | 1 | 12" - 36" | 1 | +2 | Team, Sniper |
 | Flamethrower (Infantry) | 1 | 0" - 6" | D6 | +3 | Team, Flamethrower |
 
-| Vehicle weapon systems | Attendants | Range | Shots | PEN | Special rules |
+| Vehicle weapon systems | Atten-<br>dants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
 | Light anti-tank gun | 2 | 0" - 48" | 1 | +4 | HE 1" |
 | Medium anti-tank gun | 3 | 0" - 60" | 1 | +5 | HE 1" |
 | Heavy anti-tank gun | 3 | 0" - 72" | 1 | +6 | HE 2" |
-| Super-heavy<>anti-tank gun | 3 | 0" - 82" | 1 | +7 | HE 3"|
+| Super-heavy<br>anti-tank gun | 3 | 0" - 82" | 1 | +7 | HE 3"|
 | Light autocannon | 2 | 0" - 48" | 2 | +2 | Team, Fixed, HE 1" |
 | Medium autocannon | 2 | 0" - 60" | 2 | +3 | Team, HE 1" |
 | Heavy autocannon | 3 | 0" - 72" | 2 | +3 | Team, HE 2" |
 | Flamethrower (Vehicle) | - | 0" - 12" | D6+1 | +3 | Flamethrower |
 
-| Indirect fire<br>systems | Attendants | Range | Shots | PEN | Special rules |
+| Indirect fire<br>systems | Atten-<br>dants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
 | Light mortar | 1 | 12" - 24" | 1 | HE | Team,<br> Indirect Fire, HE 1" |
 | Medium mortar | 2 | 12" - 60" | 1 | HE | Team, Fixed,<br> Indirect Fire, HE 2" |
@@ -63,7 +63,7 @@ This does not apply if operated as e. g. a vehicle weapon.
 
 Additional weapon systems, explosives, mines, ...
 
-| Explosives | Attendants | Range | Shots | PEN | Special rules |
+| Explosives | Atten-<br>dants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
 | Rocket propelled<br>grenade launcher | 1 | 6" - 36" | 1 | +5 | Team, Backblast,<br> Shaped charge |
 | Tandem HEAT<br>charge launcher | 1 | 6" - 24" | 1 | +7 | Team, Backblast,<br> Shaped charge |
