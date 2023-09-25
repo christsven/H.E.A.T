@@ -115,6 +115,8 @@ carrier, a pin is added to any order test performed.
 
 #### Helicopters
 
+
+![helicopters](./ressources/helicopters.excalidraw.png)
 ##### Introduction
 
 Helicopters are another post-WW2 addition to all conventional ground forces.
