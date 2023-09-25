@@ -1,5 +1,7 @@
 # H.E.A.T
 
+![heatjaks](./ressources/introduction.excalidraw.png)
+
 ## Introduction
 
 This is a ruleset for a modern, platoon-sized tabletop wargame. While size- and
@@ -13,6 +15,8 @@ even 1/48 M1 Abrams. Just a heads up, so you wont be too surprised when the "28m
 vehicles suddenly turn out way bigger than most WW2 era vehicles.
 
 ## Weapons
+
+![weapons chart image](./ressources/weapon-chart.excalidraw.png)
 
 These weapons are operated by a single unit, which uses it as its primary weapon.
 
@@ -274,7 +278,7 @@ which takes a successful RALLY order.
 
 The UAV carries a powerful AT warhead instead of a HE round.
 
-![at ied drop image](./ressources/pngs/image-4.png)
+![at ied drop image](./ressources/excalidraws/drone-at-ied-flowchart.excalidraw.png)
 
 Upon dropping the payload, the UAV can be recovered by the DOT to be rearmed,
 which takes a successful RALLY order.
@@ -415,6 +419,8 @@ multiple LAWs, and the maximum amount is described in their unit template.
 ****
 
 #### Automatic grenade launchers (AGL)
+
+![weapons chart image](./ressources/agl.excalidraw.png)
 
 ##### Introduction
 
