@@ -173,7 +173,7 @@ From there, they also get the 6" move range.
 The helicopter is able to attack anything in 45° arks, distances measured from
 the weapon barrels themselves.
 
-![Attack vectors](image.png)
+![Attack vectors](./ressources/pngs/image.png)
 
 ###### Attacking from a helicopter
 
@@ -234,7 +234,7 @@ the operator or the UAV can perform an action. The UAV is able to move in
 It can stay airbound for 2 consecutive rounds before potentially losing battery
 charge:
 
-![drone battery image](image-1.png)
+![drone battery image](./ressources/pngs/image-1.png)
 
 The UAV can be recovered by the DOT by moving within 1" of the grounded drone.
 If turn ends with the grounded UAV closer to enemy forces than friendly ones, it
@@ -247,7 +247,7 @@ Similar to the battery pack, the range of an airborne UAV is limited by the wire
 less connection range to the DOT. If the UAV ends its turn more than 60" away from
 the DOT, upon activation the following test has to be passed:
 
-![drone range image](image-2.png)
+![drone range image](./ressources/pngs/image-2.png)
 
 ##### Variants
 
@@ -260,21 +260,21 @@ around the DOT, once per turn.
 The communication does not require or use up an activation, but is blocked if the
 DOT is DOWN.
 
-###### IED (+10 pt)
+###### IED variant
 
 The UAV carries an improvised high explosive with it, capable of being dropped on
 enemy units:
 
-![ied drop image](image-3.png)
+![ied drop image](./ressources/pngs/image-3.png)
 
 Upon dropping the payload, the UAV can be recovered by the DOT to be rearmed,
 which takes a successful RALLY order.
 
-###### AT IED (+25 pt)
+###### Anti-tank IED variant
 
 The UAV carries a powerful AT warhead instead of a HE round.
 
-![at ied drop image](image-4.png)
+![at ied drop image](./ressources/pngs/image-4.png)
 
 Upon dropping the payload, the UAV can be recovered by the DOT to be rearmed,
 which takes a successful RALLY order.
@@ -302,9 +302,17 @@ still mid-air.
 
 ATGMs come in different forms, but mostly consist of a stationary or fixed weapon
 system with a weapon operator, similar to an anti-tank gun or machine gun position.
+They can also come as vehicle mounted systems.
 
-They can also come as vehicle mounted systems. For details on target selection,
-shooting and guiding over multiple rounds, see rule section.
+ATGMs can be fired at any vehicle in its LoS, but the missile requires some time
+to approach targets at greater distances. Any vehicle in the ATGMs LoS can be
+targeted, regardless of distance to target. Upon firing, the missile approaches
+the target in a straight line at 32" per turn.
+
+If the target ends the turn out of LoS or the ATGM operator unit goes DOWN or
+moves, the missile is destroyed. This behaviour can be mitigated by using more
+modern equipment, which is no longer wire-guided. For details on that, see the
+"Fire-and-Forget"-special rule.
 
 ###### Default weapon costs
 
@@ -318,7 +326,7 @@ shooting and guiding over multiple rounds, see rule section.
 
 | Rule | Description |
 | :--- | :--- |
-| ATGM | <li>ATGMs can be fired at any vehicle in its LoS, but the missilerequires some time to<br>approach targets at greater distances.</li><li>Any vehicle in the ATGMs LoS can be targeted, regardless of distance to target.</li><li>Upon firing, the missile approaches the target in a straight line at 32" per turn.</li><li>If the target ends the turn out of LoS or the ATGM operator unit goes DOWN<br>or moves, the missile is destroyed.</li> |
+| ATGM | Fixed weapon system. Fires missiles behaving according to ATGM ruleset. |
 
 ##### Special rules
 
@@ -326,8 +334,8 @@ Some weapons also can have other special rules describing the system.
 
 | Rule | Description |
 | :--- | :--- |
-| Fire-And-Forget | <li>The targeting and movement of the missile stays the same, but the system<br> operator is not required to interact with the missile anymore.<li>Pathfinding for the missile is always in a straight line toward the target <li>If at the end of turn the missile loses LoS, it is considered destroyed |
-| Backblast | If this weapon is fired in an enclosed room or if there are units within 3" of a 45°<br> ark behind the exhaust, roll to damage for any unit in this room or area.|
+| Fire-And-Forget | <li>The targeting and movement of the missile stays the same, but the system<br> operator is not required to interact with the missile anymore.<li>Pathfinding for the missile is always in a straight line toward the target. <li>If at the end of turn the missile loses LoS, it is considered destroyed. |
+| Backblast | If this weapon is fired in an enclosed room or if there are units within 3" of a 45°<br> ark behind the exhaust, roll to damage for any unit in this room or area. |
 
 ****
 
@@ -351,7 +359,7 @@ reactive armour and heavy defenses.
 ##### Gameplay
 
 Most RPGs have an option to be equipped with Tandem HEAT rounds. They do not
-replace the normal RPG round,giving you the option of using both. Before attacking,
+replace the normal RPG round, giving you the option of using both. Before attacking,
 announce which type is used by the system operator. Attacks are performed the
 same way as any normal RPG attack.
 
@@ -369,19 +377,34 @@ PEN values and range as seen in the weapons chart.
 
 ##### Introduction
 
-Light anti-tank weapons (LAW) are lightweight, fire and forget AT rockets. They
+Light anti-tank weapons (LAW) are lightweight, fire-and-forget AT rockets. They
 are fired from a disposable missile launch platform. These weapons are issued at
 squad-level and provide normal infantry units with anti-tank capabilizies.
+
+##### Gameplay
+
+Fires a single AT warhead against any unit. An attack is performed the same way
+as a normal attack against a vehicle, e. g. with an RPG. The PEN value can be found
+in the weapons chart.
+
+The weapon is single-Use and once fired, it is discarded. A squad can carry
+multiple LAWs, and the maximum amount is described in their unit template.
 
 ##### Rule
 
 | Rule | Description |
 | :--- | :--- |
-| LAW | Fires a single AT warhead against any vehicle. An attack is performed the<br> same way as a normal attack against a vehicle, e. g. with an RPG. <br><br>PEN value as seen in weapons chart. Single-Use, once fired, the weapon is<br> no longer available.|
+| LAW | A single-use AT weapon. |
 
 ****
 
-#### Designated marksmen role (DMR)
+#### Designated marksman rifles (DMR)
+
+##### Introduction
+
+##### Gameplay
+
+##### Rule
 
 ****
 

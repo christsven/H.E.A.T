@@ -1,0 +1,354 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "type": "text",
+      "version": 414,
+      "versionNonce": 123847811,
+      "isDeleted": false,
+      "id": "1hUrGZyuQb9HNoOjiuGG7",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 961.9118028060797,
+      "y": 419.1237382577483,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 236.79981994628906,
+      "height": 25,
+      "seed": 1867484259,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "XD6vshGzo7S8N27FXRp6m",
+          "type": "arrow"
+        },
+        {
+          "id": "tRS87ZBH5y-aFo-0sD_1S",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1695657523164,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "D6 - (rounds in air - 2)",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "D6 - (rounds in air - 2)",
+      "lineHeight": 1.25,
+      "baseline": 18
+    },
+    {
+      "type": "arrow",
+      "version": 802,
+      "versionNonce": 652410893,
+      "isDeleted": false,
+      "id": "XD6vshGzo7S8N27FXRp6m",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1076.7543052237656,
+      "y": 447.6428648045303,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 131.10306813100715,
+      "height": 76.51263165663238,
+      "seed": 721815555,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "Vyp8xeRUKSDZtl3vu_cUb"
+        }
+      ],
+      "updated": 1695657523375,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "1hUrGZyuQb9HNoOjiuGG7",
+        "focus": -0.17087222224588544,
+        "gap": 3.5191265467819903
+      },
+      "endBinding": {
+        "elementId": "28W_3a_37mup3gCg2Ir2t",
+        "focus": -0.4321963771353962,
+        "gap": 5.381096375785205
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -131.10306813100715,
+          76.51263165663238
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "version": 370,
+      "versionNonce": 1247144707,
+      "isDeleted": false,
+      "id": "Vyp8xeRUKSDZtl3vu_cUb",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1005.8121461582623,
+      "y": 473.3991806328465,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 10.78125,
+      "height": 25,
+      "seed": 229380003,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1695657523164,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "1",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "XD6vshGzo7S8N27FXRp6m",
+      "originalText": "1",
+      "lineHeight": 1.25,
+      "baseline": 21
+    },
+    {
+      "type": "arrow",
+      "version": 833,
+      "versionNonce": 784474317,
+      "isDeleted": false,
+      "id": "tRS87ZBH5y-aFo-0sD_1S",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1076.309993796422,
+      "y": 447.64286480453075,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 130.90775055599397,
+      "height": 74.16630833432703,
+      "seed": 695214915,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "4gyM-W3679AM_xuJbSyTk"
+        }
+      ],
+      "updated": 1695657523375,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "1hUrGZyuQb9HNoOjiuGG7",
+        "focus": 0.22978549733358059,
+        "gap": 3.519126546782445
+      },
+      "endBinding": {
+        "elementId": "ddVKu4lIqlVZ3uar9PTuW",
+        "focus": 0.23651025395032382,
+        "gap": 3.3060204534784816
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          130.90775055599397,
+          74.16630833432703
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "version": 370,
+      "versionNonce": 711149123,
+      "isDeleted": false,
+      "id": "4gyM-W3679AM_xuJbSyTk",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1129.5324237619193,
+      "y": 472.22601897169426,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 24.462890625,
+      "height": 25,
+      "seed": 1185989347,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1695657523164,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "2+",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "tRS87ZBH5y-aFo-0sD_1S",
+      "originalText": "2+",
+      "lineHeight": 1.25,
+      "baseline": 21
+    },
+    {
+      "type": "rectangle",
+      "version": 457,
+      "versionNonce": 591889891,
+      "isDeleted": false,
+      "id": "Y6te4H14TJ4FEyRTeXYAA",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 810.207594782741,
+      "y": 404.9421201848413,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 527.584810434518,
+      "height": 234.11575963031737,
+      "seed": 503082627,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [],
+      "updated": 1695657523164,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 482,
+      "versionNonce": 1623380355,
+      "isDeleted": false,
+      "id": "28W_3a_37mup3gCg2Ir2t",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 832.1902952175127,
+      "y": 529.5365928369479,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 238.65985107421875,
+      "height": 75,
+      "seed": 1376888355,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "XD6vshGzo7S8N27FXRp6m",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1695657523164,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Battery pack is empty;\nThe UAV crashes D3\" in\na random direction.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Battery pack is empty;\nThe UAV crashes D3\" in\na random direction.",
+      "lineHeight": 1.25,
+      "baseline": 68
+    },
+    {
+      "type": "text",
+      "version": 554,
+      "versionNonce": 1118342339,
+      "isDeleted": false,
+      "id": "ddVKu4lIqlVZ3uar9PTuW",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1109.0911303426833,
+      "y": 525.1151935923363,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 195.3998565673828,
+      "height": 25,
+      "seed": 702474691,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "tRS87ZBH5y-aFo-0sD_1S",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1695657523164,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "UAV stays airborne.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "UAV stays airborne.",
+      "lineHeight": 1.25,
+      "baseline": 18
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
