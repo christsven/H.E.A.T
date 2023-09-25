@@ -81,6 +81,8 @@ Additional weapon systems, explosives, mines, ...
 
 #### IFVs
 
+![ifvs](./ressources/ifvs.excalidraw.png)
+
 ##### Introduction
 
 With the advancements of tank engines in the first world war tanks, started to
