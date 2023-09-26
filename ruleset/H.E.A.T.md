@@ -357,7 +357,19 @@ Some weapons also can have other special rules describing the system.
 
 ##### Introduction
 
+Underbarrel grenade launchers are modular components which are fixed to another weapon, mostly assault rifles. They fire 40mm HE rounds or other projectiles in a ballistic trajectory.
+
 ##### Gameplay
+
+UGLs behave similarly enough to light mortars that we treat them the same way, as to not add unnecessary new rules. They cannot use a spotter and fire in direct line of sight according to normal indirect fire rules.
+
+They have the choice between HE rounds (HE 1") and smoke rounds (HE 1"). Range and other stats can be found in the weapons chart. A unit can either fire its gun or the underbarrel grenade launcher. It does not require a loader or assistant.
+
+##### Rule
+
+| Rule | Description |
+| :--- | :--- |
+| UGL | Line-of-Sight-only "light mortar". Can fire either HE rounds or smoke rounds (HE 1"). Range and stats check in weapons chart.
 
 ****
 
