@@ -214,16 +214,20 @@ to check against the following chart:
 
 ##### Introduction
 
-Drones are small quadrotor helicopters, often extremely small and capable to be
-carried around by hand.
+Drones are wireless-controlled air vehicles, from quadrotor helicopters to giant weapon systems. 
+
+They are a very recent development in warfare, used by all sides for reconnaissance, deployment of weapons or other purposes.
 
 ##### Gameplay
 
+Due to the scale at which H.E.A.T takes place, large autonomous systems like the Heron drone are a tad to ambitious for the time being. 
+In this chapter we cover small quadrocopter drones, as used for example by irregular forces in Afghanistan or more recently Karabach/Ukraine.
+
 Drones are steered by an operator who has a wireless connection to the device.
 As soon as either the drone or the operator is lost, the DOT is considered
-destroyed.  <mark> **TODO**
+destroyed. In any given round either the operator or his drone acts, just like a spotter and artillery.
 
-The UAV uses the same damage value as its team.
+The UAV uses the same damage value as its team. They always deploy grounded with the operator, except if the scenario rules state otherwise.
 
 ###### Default unit costs
 
@@ -237,9 +241,11 @@ The UAV uses the same damage value as its team.
 
 A drone can be suspended at any height below 2' (60cm). Per activation, either
 the operator or the UAV can perform an action. The UAV is able to move in
-30" (RUN)/ 15" (ADVANCE) in any direction.
+30" (RUN)/ 15" (ADVANCE) in any direction. 
 
-It can stay airbound for 2 consecutive rounds before potentially losing battery
+Landing and starting do not require a full round as a helicopter, and can just move from the operators position to any other height. A UAV counts as grounded if it ends the turn within 1" of the DOT or on the ground.
+
+It can stay airbound for 4 consecutive rounds before potentially losing battery
 charge:
 
 ![drone battery image](./ressources/pngs/image-1.png)
