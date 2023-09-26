@@ -1,6 +1,6 @@
 # H.E.A.T
 
-[heatjaks](/ruleset/ressources/introduction.excalidraw.png)
+![heatjaks](/ruleset/ressources/introduction.excalidraw.png)
 
 ## Ruleset
 
