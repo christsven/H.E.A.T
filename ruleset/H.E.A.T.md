@@ -71,7 +71,8 @@ Additional weapon systems, explosives, mines, ...
 | :---- | :----: | :----: | :----: | :----: | ---- |
 | Rocket propelled<br>grenade launcher | 1 | 6" - 36" | 1 | +5 | Team, Backblast,<br> Shaped charge |
 | Tandem HEAT<br>charge launcher | 1 | 6" - 24" | 1 | +7 | Team, Backblast,<br> Shaped charge |
-| Anti-Tank guided<br>missile launcher | 2 | ∞<br>(32" per turn) | 1 | +7  | Team, Fixed,<br> Backblast, ATGM |
+| Anti-tank guided<br>missile launcher | 1 | 90" <br>(30" per turn) | 1 | +7  | Team, Fixed,<br> Backblast, ATGM |
+| Man-portable<br>anti air defense<br>system | 1 | 90" | 1 | +4 | Team, Fixed,<br>Backblast, MANPADS
 | Improvised<br>Explosive Device | 1 | placed down | 1 | HE | IED, HE 3" |
 | Bangalore | - | 0" - 6" | 1 | HE | Bangalore,<br>Single-Shot, HE 1" |
 
@@ -487,9 +488,21 @@ decimate infantry groups.
 
 ##### Introduction
 
+Man-portable air defense systems, or MANPADS, are anti-air missile launchers, which are used to fight airborne targets such as helicopters or jets on a squad-level. They offer protection against low-flying attackers for infantry formations without using expensive vehicleborn weaponry.
+
 ##### Gameplay
 
+Since MANPADS are about 3x as fast as ATGMs (as a comparison, a TOW flies at around 278-320m/s, while a Stinger missile flies at Mach 2.2 or 745m/s), they do not get the ATGM inch-per-round treatment. Rather, an attacked vehicle is able to react based on its condition and distance to the attacker, as seen below:
+
+<>
+
+The MANPADS team consists of a gunner and a loader, and behaves otherwise similar to an RPG team. The weapon is fixed and cannot be fired after moving. A direct LoS is required. MANPADS can also be deployed on a tripod as a stationary weapon system.
+
 ##### Rule
+
+| Rule | Description |
+| :--- | :--- |
+| MANPADS | Portable air defense system. Fires from a fixed position. Details see rule section. |
 
 ****
 
