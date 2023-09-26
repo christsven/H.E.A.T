@@ -1,5 +1,7 @@
 # H.E.A.T
 
+[heatjaks](/ruleset/ressources/introduction.excalidraw.png)
+
 ## Ruleset
 
 Former rules saved as .excalidraw file while I work on the markdown readable variant.
