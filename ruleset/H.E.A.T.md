@@ -322,7 +322,7 @@ They can also come as vehicle mounted systems.
 ATGMs can be fired at any vehicle in its LoS, but the missile requires some time
 to approach targets at greater distances. Any vehicle in the ATGMs LoS can be
 targeted, regardless of distance to target. Upon firing, the missile approaches
-the target in a straight line at 32" per turn.
+the target in a straight line at the speed given in the weapons chart.
 
 If the target ends the turn out of LoS or the ATGM operator unit goes DOWN or
 moves, the missile is destroyed. This behaviour can be mitigated by using more
