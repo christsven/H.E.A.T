@@ -542,3 +542,28 @@ If they went from 6 to 4 on spotter A and spotter B takes over due to A dying or
 repositioning, the zeroing is not affected. But without a spotter correcting shots,
 it is also unable to further zero in and lower its value. A direct hit also needs
 to be observed to notify the artillery that zeroing has finished.
+
+#### Indirect fire rework
+
+To better use smoke grenades (and make artillery less frustrating to use imho), we reworked target selection and what happens to missed shots, since it is kind of ridiculous that a missed shot just despawns and does not affect the battlefield.
+
+This might not sit right with every player, so I would call this optional. But I do recommend to use at least the reworked target selection.
+
+##### Target Selection
+
+To better use artillery in an area denial role, or to use smoke more preventive, we decided to target markers in addition to units. This has several advantages:
+
+- Target an area to generate a smoke barrier
+- Target cover or houses to destroy them
+- Saturate areas to channel enemy options in movement
+- Stay zeroed on a point, in case a unit returns
+
+##### Failing to hit roll
+
+Even if a round does not hit, firing a HE 4"-equivalent projectile at anything will ruin that general areas day. So it is frustrating that usually, a round just vanishes if they miss. 
+
+To mitigate this, we came up with following formula to calculate misfire:
+
+<mark> TODO </mark>
+
+Just throw an order dice to get the direction with the little arrows on each face and use the formula to calculate distance. Place the template directly above and roll to hit for anything below, be it house or man. Any unit below is also allowed to go DOWN, as this might be a bit overpowered otherwise. And this rule is buff enough already for artillery.
