@@ -2,6 +2,8 @@
 
 ![heatjaks](/ruleset/ressources/introduction.excalidraw.png)
 
+This is H.E.A.T, a 28mm platoon-sized wargame expansion. Ideal for 2010-2020 era symmetrical or assymetrical warfare.
+
 ## Ruleset
 
 Former rules saved as .excalidraw file while I work on the markdown readable variant.
