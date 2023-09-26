@@ -467,7 +467,7 @@ decimate infantry groups.
 
 ##### Introduction
 
-Used since before World War 1, these long torpedoes are used to blow holes or
+Invented even before World War 1, these long torpedoes are used to blow holes or
 clear mines from a safe cover, even while under fire. Prominently featured in
 "Saving Private Ryan" to blow holes in razor wire fortifications.
 
@@ -480,12 +480,19 @@ Bangalores serve a multitude of roles:
 | Removing light fortifications |  |
 | Blowing a door-sized hole into walls |  |
 | Using as a HE weapon against infantry or vehicle || |
-| Removing mines and IEDs | See IED section|
+| Removing mines and IEDs | See IED section |
+
+If you find a completely new way to use these and its credible enough, try to reuse
+one of these formulas.
+
+Bangalores are single-use. Any unit can carry any amount of them, but
+a maximum can be set in the squad template.
 
 ##### Rule
 
 | Rule | Description |
 | :--- | :--- |
+| Bangalore | Multipurpose, single-use explosives. Usable against vehicles, buildings, fortifications. | 
 
 ****
 
