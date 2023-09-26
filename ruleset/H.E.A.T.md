@@ -28,7 +28,7 @@ These weapons are operated by a single unit, which uses it as its primary weapon
 | Assault rifle | 0" - 12" | 2 | - | - |
 | Assault rifle | 12" - 24" | 1 | - | - |
 | Rifle | 0" - 24" | 1 | - | - |
-| Designated marksman rifle | 24" - 38" | 1 | - | DMR |
+| Designated marksman rifle | 0" - 38" | 1 | - | DMR |
 | Shotgun | 0" - 12" | D3 | - | Assault |
 | Underbarrel grenade launcher | 6" - 20" | 1 | HE | UGL |
 
@@ -428,9 +428,21 @@ multiple LAWs, and the maximum amount is described in their unit template.
 
 ##### Introduction
 
+DMRs extend the range of a squad and are used for accurate fire to about 600m, compared to most normal service rifles' 300-400m effective range.
+
 ##### Gameplay
 
+DMRs are basically longer range rifles. They act as part of the squad, rather than a stationary sniper, which is why they dont get the sniper rule (and are way cheaper). They can however extend the effective range of a squad, if only for one soldier, which can be handy in some situations.
+
+If chosen, a DMR replaces the AR of one soldier in a squad. If none are present, the unit also costs the +5pt for switching the main weapon out in addition to the DMR cost (see Adjustments).
+
+Otherwise, the DMR counts as a normal rifle with an extended range. For details, check weapons chart.
+
 ##### Rule
+
+| Rule | Description |
+| :--- | :--- |
+| DMR | Extended range rifle. Replaces one AR in the squad. See weapon chart for details. |
 
 ****
 
