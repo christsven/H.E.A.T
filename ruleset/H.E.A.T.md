@@ -30,7 +30,7 @@ These weapons are operated by a single unit, which uses it as its primary weapon
 | Rifle | 0" - 24" | 1 | - | - |
 | Designated marksman rifle | 24" - 38" | 1 | - | DMR |
 | Shotgun | 0" - 12" | D3 | - | Assault |
-| Underbarrel grenade launcher | 6" - 20" | 1 | HE | Indirect Fire, HE 1" |
+| Underbarrel grenade launcher | 6" - 20" | 1 | HE | UGL |
 
 The following weapons systems are operated by teams. The number of attendants
 indicates the unit's size to function properly, if deployed as an infantry group.
