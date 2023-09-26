@@ -544,6 +544,12 @@ The smoke screen consists of two 2" smoke markers which are placed in front of
 the vehicle. Built-up smoke behaves the same as any other smoke, drifting and
 vanishing just like a smoke round.
 
+##### Rule
+
+| Rule | Description |
+| :--- | :--- |
+| Smoke Screen | Single-use smoke screen. 2x HE 2" in front of the vehicle. Unit goes DOWN when used. |
+
 ## Additional Rules and Systems
 
 ### Adjustments
