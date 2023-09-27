@@ -343,11 +343,11 @@ heavy howitzer.
 Forward observer
 
 | Airforce forward<br>observer | Divisional Reinforcements |
-| :---- | ---- |
+| :--- | ---- |
 | Cost | - pt / 75 pt / 90 pt |
-| Reinforcement | up to 2 attendants ( PDW, SMG or AR ) |
-| Setup | NCO ( PDW, SMG or AR ) |
-|Options|-
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt |
+| Setup | NCO (SMG) |
+| Options | -
 | Special rules | -
 
 ### Artillery forward observer
@@ -357,8 +357,8 @@ Forward observer
 | Artillery forward<br>observer | Divisional Reinforcements |
 | :---- | ---- |
 | Cost | - pt / 100 pt / 115 pt |
-| Reinforcement | up to 2 attendants ( PDW, SMG or AR ) |
-| Setup | NCO ( PDW, SMG or AR ) |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt |
+| Setup | NCO (SMG) |
 |Options|-
 | Special rules | -
 
@@ -374,9 +374,9 @@ A true workhorse of NATO forces, the M113 comes in dozens of variants and has
 been used by more countries than not since the 1960s. The Bundeswehr uses it nowadays in support roles, e. g. with a 120mm, custom made mortar
 weapon system in the rear.
 
-| M113 | APC / IFV Armoured Carrier |
+| M113 | APC Armoured Carrier |
 | :---- | ---- |
-| Cost | 110 pt / 135 pt / 150 pt |
+| Cost | 100 pt / 125 pt / 140 pt |
 | Capacity | 15 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
