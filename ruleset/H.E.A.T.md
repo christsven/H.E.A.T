@@ -588,7 +588,7 @@ a maximum can be set in the squad template.
 
 ##### Introduction
 
-Modern vehicles are equopped with smoke grenade laumchers to quickly provide cover
+Modern vehicles are equipped with smoke grenade laumchers to quickly provide cover
 in case of an emergency situation. They are forward facing and enable maneuvering
 and retreat if necessary.
 
@@ -607,6 +607,27 @@ vanishing just like a smoke round.
 | Rule | Description |
 | :--- | :--- |
 | Smoke Screen | Single-use smoke screen. 2x HE 2" in front of the vehicle. Unit goes DOWN when used. |
+
+****
+
+#### Smoke Grenades
+
+##### Introduction
+
+Smoke grenades are used by infantry formations to reduce visibility during 
+engagement over open terrain.
+
+##### Gameplay
+
+Smoke grenades come as an upgrade to infantry groups. If equipped, they count as a singular action to throw, and the entire squad uses their grenades for maximum cover. This can be done once per squad. 
+
+Uses a FIRE or ADVANCE action. 3 HE 1" smoke markers are placed at any point within 12" of the infantry squad. The clouds behaves like any other smoke, see rulesbook. After usage, the squad cannot perform another smoke barrage.
+
+##### Rule
+
+| Rule | Description
+| :--- | :--- |
+| Smoke grenades | Single-Use action upgrade for infantry units. Requires successful FIRE or ADVANCE order. Place 3x 1" smoke markers within 12" of the squad. |
 
 ## Additional Rules and Systems
 
