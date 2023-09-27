@@ -196,6 +196,18 @@ MG5 MMG team.
 |Options|-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr></table>
 
+### KSK Quad MMG
+
+A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special services.
+
+| MG3 quad | Machine gun quad |
+| :---- | ---- |
+| Cost | - pt / 65 pt / 80 pt |
+| Reinforcement | - |
+| Setup | NCO ( MMG ) |
+|Options|-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td> See [H.E.A.T. Rules]()</table>
+
 ### GraMaWa team
 
 GraMaWa AGL team.
