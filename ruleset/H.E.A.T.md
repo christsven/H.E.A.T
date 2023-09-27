@@ -539,7 +539,7 @@ Man-portable air defense systems, or MANPADS, are anti-air missile launchers, wh
 
 Since MANPADS are about 3x as fast as ATGMs (as a comparison, a TOW flies at around 278-320m/s, while a Stinger missile flies at Mach 2.2 or 745m/s), they do not get the ATGM inch-per-round treatment. Rather, an attacked vehicle is able to react based on its condition and distance to the attacker, as seen below:
 
-<>
+[manpads flowchart]()
 
 The MANPADS team consists of a gunner and a loader, and behaves otherwise similar to an RPG team. The weapon is fixed and cannot be fired after moving. A direct LoS is required. MANPADS can also be deployed on a tripod as a stationary weapon system.
 
