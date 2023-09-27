@@ -563,13 +563,13 @@ Bangalores serve a multitude of roles:
 
 | Example situation | Example  |
 | :--- | :--- |
-| Removing light fortifications |  |
-| Blowing a door-sized hole into walls |  |
-| Using as a HE weapon against infantry or vehicle || |
-| Removing mines and IEDs | See IED section |
+| Removing light fortifications | Roll D2, on a 2, light forticiation is destroyed / a non-obscured pathway for infantry is breached. |
+| Blowing a door-sized hole into walls | Roll D3, on a 3, an entryway is breached into a wall. Roll to hit against any unit inside if breached. |
+| Using as a HE weapon against infantry or vehicle | |
+| Removing mines and IEDs | Roll D3, on a 1 nothing happens, on a 2 the explosive detonates (check with HE template if anyone is in range and roll to hit), on a 3 explosive is considered disarmed without harm.|
 
 If you find a completely new way to use these and its credible enough, try to reuse
-one of these formulas.
+one of these formulas or make up your own.
 
 Bangalores are single-use. Any unit can carry any amount of them, but
 a maximum can be set in the squad template.
