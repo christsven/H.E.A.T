@@ -73,7 +73,8 @@ Additional weapon systems, explosives, mines, ...
 | Tandem HEAT<br>charge launcher | 1 | 6" - 24" | 1 | +7 | Team, Backblast,<br> Shaped charge |
 | Anti-tank guided<br>missile launcher | 1 | 90" <br>(30" per turn) | 1 | +7  | Team, Fixed,<br> Backblast, ATGM |
 | Man-portable<br>anti air defense<br>system | 1 | 90" | 1 | +4 | Team, Fixed,<br>Backblast, MANPADS
-| Improvised<br>Explosive Device | 1 | placed down | 1 | HE | IED, HE 3" |
+| Improvised<br>Explosive Device | 1 | placed down | 1 | HE | Explosive, IED,<br>HE 3" |
+| Mine | 1 | placed down | 1 | HE | Explosive, HE 3" |
 | Bangalore | - | 0" - 6" | 1 | HE | Bangalore,<br>Single-Shot, HE 1" |
 
 ## Gameplay Rules
@@ -492,6 +493,7 @@ Engineers are a counter to mines and IEDs, and only suffer a +1 Stress pin for a
 | Sapper | Carries 3 IEDs and unlimited decoys. These can be placed as a FIRE or ADVANCE order. Any engineer rule bonus applies as well.|
 | Engineer | If failing check against decoy, only receive +1 stress pin. Can reroll a 3-5 roll against a mine or IED, if triggered by the unit. |
 | IED | Remote-controlled explosive device. Can be conceiled deployed or on a vehicle. For details, see [IED section](). |
+| Explosive | A conceiled deployed marker with a 3" range. If any unit is within 3, roll against flowchart check in [IED section]()  |
 
 
 ****
@@ -565,8 +567,8 @@ Bangalores serve a multitude of roles:
 | :--- | :--- |
 | Removing light fortifications | Roll D2, on a 2, light forticiation is destroyed / a non-obscured pathway for infantry is breached. |
 | Blowing a door-sized hole into walls | Roll D3, on a 3, an entryway is breached into a wall. Roll to hit against any unit inside if breached. |
-| Using as a HE weapon against infantry or vehicle | |
-| Removing mines and IEDs | Roll D3, on a 1 nothing happens, on a 2 the explosive detonates (check with HE template if anyone is in range and roll to hit), on a 3 explosive is considered disarmed without harm.|
+| Using as a HE weapon against infantry or vehicle | Use as a single use weapon with values of weapons chart. |
+| Removing mines and IEDs | Roll D3, on a 1 nothing happens, on a 2 the explosive detonates (check with HE template if anyone is in range and roll to hit), on a 3 explosive is considered disarmed without harm. |
 
 If you find a completely new way to use these and its credible enough, try to reuse
 one of these formulas or make up your own.
