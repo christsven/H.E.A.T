@@ -459,9 +459,11 @@ For the purposes of pragmaticality, we treat IEDs and mines the same way.
 
 Mines and IEDs are indicated by markers on the map, maybe something like a base or chip. Under each has to be clearly marked, whether the marker is for a mine/IED or a decoy, since the sapper unit (see below) also has a stockpile of duds to fake mined areas. If a marker is not clearly marked as either, it is considered a decoy.
 
-Once an enemy unit comes within 3" of a marker, following test has to be made:
+Conceiled deployed IEDs are treated the same way as mines, but if for some reason the player thinks its better to remote-detonate an IED at any point, that is possible. As soon as an enemy comes within 3" of a marker, the following test is rolled:
 
 ![IED mine test flowchart]()
+
+If for some reason an IED should not be detonated by this test, it still counts as disarmed and destroyed.
 
 ##### Sapper
 
