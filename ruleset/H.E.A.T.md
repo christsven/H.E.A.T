@@ -447,9 +447,50 @@ Otherwise, the DMR counts as a normal rifle with an extended range. For details,
 
 ****
 
-#### Improvised explosive devices (IED)
+#### Improvised explosive devices (IED) and mines
 
-##### Sappers
+Improvised explosive device, or IEDs, are selfmade, sometimes remotely triggered bombs. They can be manufactured with all kinds of objects, be it military-grade high explosives in a pipe or industrial mining explosives in a truckbed.
+
+Mines are also explosives, but usually reserved to conventional forces as a way to inhibit enemy troop movement and attritional usage against vehicles.
+
+For the purposes of pragmaticality, we treat IEDs and mines the same way.
+
+##### Gameplay
+
+Mines and IEDs are indicated by markers on the map, maybe something like a base or chip. Under each has to be clearly marked, whether the marker is for a mine/IED or a decoy, since the sapper unit (see below) also has a stockpile of duds to fake mined areas. If a marker is not clearly marked as either, it is considered a decoy.
+
+Once an enemy unit comes within 3" of a marker, following test has to be made:
+
+![IED mine test flowchart]()
+
+##### Sapper
+
+The sapper is a specialized unit reserved to rebel and insurgent forces. A sapper team consists of the operator and one attendant. They carry IEDs and decoys, which can be deployed within 1" of the unit as a FIRE order or as the attack action of an ADVANCE order. Any sapper carries 3 IEDs and an unlimited amount of decoys.
+
+###### Attacking vehicles
+
+If a sapper comes within 1" of a vehicle, he can attach IEDs to the vehicle after a successful FIRE or as the attack action of an ADVANCE order. 
+
+While the sapper is still alive, the IED can be triggered at any point. The vehicle is automatically counted as hit and rolls for damage according to the weapons chart values for an IED. Any other unit, including enemy forces, within the appropriate HE template also roll to hit.
+
+##### Engineer
+
+The engineer is a part of any conventional army. They are the multi-tool of a ground force and are well-versed in dealing with explosives and fortifications, both deploying and destroying. 
+
+Other than sappers, engineers are infantry units with their specialty as a bonus rather than single-purpose operators.
+
+Engineers are a counter to mines and IEDs, and only suffer a +1 Stress pin for a decoy, regardless of their roll when engaging one. Also, they get to reroll a 3-5 on the IED flowchart, if it actually is an explosive. This only applies if the unit itself triggeres a conceiled marker, not if they are hit by an explosion.
+
+##### Vehicle-born IEDs
+
+##### Rules
+
+| Rules | Descriptions |
+| :--- | :--- |
+| Sapper | Carries 3 IEDs and unlimited decoys. These can be placed as a FIRE or ADVANCE order. Any engineer rule bonus applies as well.|
+| Engineer | If failing check against decoy, only receive +1 stress pin. Can reroll a 3-5 roll against a mine or IED, if triggered by the unit. |
+| IED | Remote-controlled explosive device. Can be conceiled deployed or on a vehicle. For details, see [IED section](). |
+
 
 ****
 
