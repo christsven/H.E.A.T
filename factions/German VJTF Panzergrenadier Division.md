@@ -374,6 +374,19 @@ Forward observer
 |Options|-
 | Special rules | -
 
+### M113 Feuerleitpanzer
+
+This variant of the M113 APC is used as a platoon spotter. Any indirect fire unit that is able to coordinate with a spotter can use this APC as its spotter (Check [Rule adjustments]()).
+
+| M113 | APC Armoured Carrier |
+| :---- | ---- |
+| Cost | 50 pt / 55 pt / 60 pt |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | - |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Spotter</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Spotter _(if selected)_</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr>></table>
+
 ## Armoured Personell Carriers / Infantry Fighting Vehicles
 
 If chosen in an IFV role, these units are connected to the first and second
