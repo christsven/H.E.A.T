@@ -97,6 +97,12 @@ a 20mm autocannon or ATGM systems, is called "infantry fighting vehicle" (IFV).
 
 ##### Mechanics
 
+The IFV shares its slots (2 per platoon) with APCs and is not mandatory. Some IFVs also can switch out their crew compartments for weapon systems or other upgrades, rendering them unable to fulfill this role. 
+
+If chosen as an IFV, they connect to one of the two mandatory infantry groups. Keep the maximum carry capacity in mind, if this is the case, as they do need to fit into their IFV.
+
+The role comes at no further cost, since the bonus of having their NCO switched out for the vehicle is mitigated by needing to stay relatively close to the IFV.
+
 The IFV combines transport capabilities with a combat role. Since they work
 extensively interconnected with the infantry they carry, the NCO role of the
 infantry group is filled by the IFV itself.
