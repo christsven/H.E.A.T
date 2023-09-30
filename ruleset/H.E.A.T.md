@@ -128,7 +128,7 @@ carrier, a pin is added to any order test performed.
 
 #### Helicopters
 
-![helicopters](./ressources/helicopters.excalidraw.png)
+![helicopters](./ressources/helicopter.excalidraw.png)
 
 ##### Introduction
 
@@ -194,7 +194,7 @@ From there, they also get the 6" move range.
 The helicopter is able to attack anything in 45° arks, distances measured from
 the weapon barrels themselves.
 
-![Attack vectors](./ressources/pngs/image.png)
+![Attack vectors](./ressources/pngs/../helicopters-sides-diagram.excalidraw.png)
 
 ###### Attacking from a helicopter
 
@@ -269,7 +269,7 @@ it ends the turn within 1" of the DOT or on the ground.
 It can stay airbound for 4 consecutive rounds before potentially losing battery
 charge:
 
-![drone battery image](./ressources/pngs/image-1.png)
+![drone battery image](./ressources/drone-rule-batterypack-flowchart.excalidraw.png)
 
 The UAV can be recovered by the DOT by moving within 1" of the grounded drone.
 If turn ends with the grounded UAV closer to enemy forces than friendly ones, it
@@ -282,7 +282,7 @@ Similar to the battery pack, the range of an airborne UAV is limited by the wire
 less connection range to the DOT. If the UAV ends its turn more than 60" away from
 the DOT, upon activation the following test has to be passed:
 
-![drone range image](./ressources/pngs/image-2.png)
+![drone range image](./ressources/drone-rule-range-flowchart.excalidraw.png)
 
 ##### Variants
 
@@ -300,7 +300,7 @@ DOT is DOWN.
 The UAV carries an improvised high explosive with it, capable of being dropped on
 enemy units:
 
-![ied drop image](./ressources/pngs/image-3.png)
+![ied drop image](./ressources/drone-ied-flowchart.excalidraw.png)
 
 Upon dropping the payload, the UAV can be recovered by the DOT to be rearmed,
 which takes a successful RALLY order.
@@ -309,7 +309,7 @@ which takes a successful RALLY order.
 
 The UAV carries a powerful AT warhead instead of a HE round.
 
-![at ied drop image](./ressources/excalidraws/drone-at-ied-flowchart.excalidraw.png)
+![at ied drop image](./ressources/drone-at-ied-flowchart.excalidraw.png)
 
 Upon dropping the payload, the UAV can be recovered by the DOT to be rearmed,
 which takes a successful RALLY order.
@@ -323,6 +323,8 @@ which takes a successful RALLY order.
 ****
 
 #### Anti-Tank guided missiles (ATGM)
+
+![atgm picture](./ressources/atgm.excalidraw.png)
 
 ##### Introduction
 
@@ -376,6 +378,8 @@ Some weapons also can have other special rules describing the system.
 
 #### Underbarrel grenade launchers (UGL)
 
+![ugl picture](./ressources/underbarrel-grenade-launcher.excalidraw.png)
+
 ##### Introduction
 
 Underbarrel grenade launchers are modular components which are fixed to another
@@ -401,6 +405,8 @@ the underbarrel grenade launcher. It does not require a loader or assistant.
 ****
 
 #### Tandem HEAT charges
+
+![tandem picture](./ressources/tandem-heat-charge.excalidraw.png)
 
 ##### Introduction
 
@@ -428,6 +434,8 @@ PEN values and range as seen in the weapons chart.
 
 #### Light anti-tank weapons (LAW)
 
+![law image](./ressources/law.excalidraw.png)
+
 ##### Introduction
 
 Light anti-tank weapons (LAW) are lightweight, fire-and-forget AT rockets. They
@@ -452,6 +460,8 @@ multiple LAWs, and the maximum amount is described in their unit template.
 ****
 
 #### Designated marksman rifles (DMR)
+
+![dmr image](./ressources/dmr.excalidraw.png)
 
 ##### Introduction
 
@@ -482,6 +492,8 @@ check weapons chart.
 
 #### Improvised explosive devices (IED) and mines
 
+![ied image](./ressources/ied.excalidraw.png)
+
 Improvised explosive device, or IEDs, are selfmade, sometimes remotely triggered
 bombs. They can be manufactured with all kinds of objects, be it military-grade
 high explosives in a pipe or industrial mining explosives in a truckbed.
@@ -503,7 +515,7 @@ the player thinks its better to remote-detonate an IED at any point, that is
 possible. As soon as an enemy comes within 3" of a marker, the following test is
 rolled:
 
-![IED mine test flowchart]()
+![IED mine test flowchart](./ressources/mines-decoys-flowchart.excalidraw.png)
 
 ##### Sapper
 
@@ -547,12 +559,11 @@ unit itself triggeres a conceiled marker, not if they are hit by an explosion.
 | IED | Remote-controlled explosive device. Can be placed on ground or on a vehicle.<br> For details, see [IED section](). |
 | Explosive | A conceiled deployed marker with a 3" range.<br>If any unit is within 3, roll against flowchart check in [IED section]()  |
 
-
 ****
 
 #### Automatic grenade launchers (AGL)
 
-![weapons chart image](./ressources/agl.excalidraw.png)
+![weapons chart image](./ressources/agl.excalidraw.svg)
 
 ##### Introduction
 
@@ -585,6 +596,8 @@ decimate infantry groups.
 
 ##### Introduction
 
+![manpads image](./ressources/manpads.excalidraw.png)
+
 Man-portable air defense systems, or MANPADS, are anti-air missile launchers,
 which are used to fight airborne targets such as helicopters or jets on a squad-
 level. They offer protection against low-flying attackers for infantry formations
@@ -601,7 +614,7 @@ based on its condition and distance to the attacker, as seen below:
 
 The MANPADS team consists of a gunner and a loader, and behaves otherwise similar
 to an RPG team. The weapon is fixed and cannot be fired after moving. A direct LoS
-is required. 
+is required.
 
 MANPADS can also be deployed on a tripod as a stationary weapon system.
 
@@ -614,6 +627,8 @@ MANPADS can also be deployed on a tripod as a stationary weapon system.
 ****
 
 #### Bangalores
+
+![bangalore image](./ressources/bangalore.excalidraw.png)
 
 ##### Introduction
 
@@ -694,6 +709,8 @@ see rulesbook. After usage, the squad cannot perform another smoke barrage.
 | Rule | Description
 | :--- | :--- |
 | Smoke grenades | Single-Use action upgrade for infantry units.<br>Requires successful FIRE or ADVANCE order.<br>Place 3x 1" smoke markers within 12" of the squad. |
+
+****
 
 ## Additional Rules and Systems
 
