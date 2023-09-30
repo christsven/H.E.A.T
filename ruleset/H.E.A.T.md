@@ -97,11 +97,16 @@ a 20mm autocannon or ATGM systems, is called "infantry fighting vehicle" (IFV).
 
 ##### Mechanics
 
-The IFV shares its slots (2 per platoon) with APCs and is not mandatory. Some IFVs also can switch out their crew compartments for weapon systems or other upgrades, rendering them unable to fulfill this role. 
+The IFV shares its slots (2 per platoon) with APCs and is not mandatory. Some
+IFVs also can switch out their crew compartments for weapon systems or other
+upgrades, rendering them unable to fulfill this role.
 
-If chosen as an IFV, they connect to one of the two mandatory infantry groups. Keep the maximum carry capacity in mind, if this is the case, as they do need to fit into their IFV.
+If chosen as an IFV, they connect to one of the two mandatory infantry groups.
+Keep the maximum carry capacity in mind, if this is the case, as they do need to
+fit into their IFV.
 
-The role comes at no further cost, since the bonus of having their NCO switched out for the vehicle is mitigated by needing to stay relatively close to the IFV.
+The role comes at no further cost, since the bonus of having their NCO switched
+out for the vehicle is mitigated by needing to stay relatively close to the IFV.
 
 The IFV combines transport capabilities with a combat role. Since they work
 extensively interconnected with the infantry they carry, the NCO role of the
@@ -123,8 +128,8 @@ carrier, a pin is added to any order test performed.
 
 #### Helicopters
 
-
 ![helicopters](./ressources/helicopters.excalidraw.png)
+
 ##### Introduction
 
 Helicopters are another post-WW2 addition to all conventional ground forces.
@@ -222,20 +227,26 @@ to check against the following chart:
 
 ##### Introduction
 
-Drones are wireless-controlled air vehicles, from quadrotor helicopters to giant weapon systems. 
+Drones are wireless-controlled air vehicles, from quadrotor helicopters to giant
+weapon systems.
 
-They are a very recent development in warfare, used by all sides for reconnaissance, deployment of weapons or other purposes.
+They are a very recent development in warfare, used by all sides for reconnaissance,
+deployment of weapons or other purposes.
 
 ##### Gameplay
 
-Due to the scale at which H.E.A.T takes place, large autonomous systems like the Heron drone are a tad to ambitious for the time being. 
-In this chapter we cover small quadrocopter drones, as used for example by irregular forces in Afghanistan or more recently Karabach/Ukraine.
+Due to the scale at which H.E.A.T takes place, large autonomous systems like the
+Heron drone are a tad to ambitious for the time being.
+In this chapter we cover small quadrocopter drones, as used for example by
+irregular forces in Afghanistan or more recently Karabach/Ukraine.
 
 Drones are steered by an operator who has a wireless connection to the device.
 As soon as either the drone or the operator is lost, the DOT is considered
-destroyed. In any given round either the operator or his drone acts, just like a spotter and artillery.
+destroyed. In any given round either the operator or his drone acts, just like a
+spotter and artillery.
 
-The UAV uses the same damage value as its team. They always deploy grounded with the operator, except if the scenario rules state otherwise.
+The UAV uses the same damage value as its team. They always deploy grounded with
+the operator, except if the scenario rules state otherwise.
 
 ###### Default unit costs
 
@@ -249,9 +260,11 @@ The UAV uses the same damage value as its team. They always deploy grounded with
 
 A drone can be suspended at any height below 2' (60cm). Per activation, either
 the operator or the UAV can perform an action. The UAV is able to move in
-30" (RUN)/ 15" (ADVANCE) in any direction. 
+30" (RUN)/ 15" (ADVANCE) in any direction.
 
-Landing and starting do not require a full round as a helicopter, and can just move from the operators position to any other height. A UAV counts as grounded if it ends the turn within 1" of the DOT or on the ground.
+Landing and starting do not require a full round as a helicopter, and can just
+move from the operators position to any other height. A UAV counts as grounded if
+it ends the turn within 1" of the DOT or on the ground.
 
 It can stay airbound for 4 consecutive rounds before potentially losing battery
 charge:
@@ -365,19 +378,25 @@ Some weapons also can have other special rules describing the system.
 
 ##### Introduction
 
-Underbarrel grenade launchers are modular components which are fixed to another weapon, mostly assault rifles. They fire 40mm HE rounds or other projectiles in a ballistic trajectory.
+Underbarrel grenade launchers are modular components which are fixed to another
+weapon, mostly assault rifles. They fire 40mm HE rounds or other projectiles in
+a ballistic trajectory.
 
 ##### Gameplay
 
-UGLs behave similarly enough to light mortars that we treat them the same way, as to not add unnecessary new rules. They cannot use a spotter and fire in direct line of sight according to normal indirect fire rules.
+UGLs behave similarly enough to light mortars that we treat them the same way,
+as to not add unnecessary new rules. They cannot use a spotter and fire in direct
+line of sight according to normal indirect fire rules.
 
-They have the choice between HE rounds (HE 1") and smoke rounds (HE 1"). Range and other stats can be found in the weapons chart. A unit can either fire its gun or the underbarrel grenade launcher. It does not require a loader or assistant.
+They have the choice between HE rounds (HE 1") and smoke rounds (HE 1"). Range and
+other stats can be found in the weapons chart. A unit can either fire its gun or
+the underbarrel grenade launcher. It does not require a loader or assistant.
 
 ##### Rule
 
 | Rule | Description |
 | :--- | :--- |
-| UGL | Line-of-Sight-only "light mortar". Can fire either HE rounds or smoke rounds (HE 1"). Range and stats check in weapons chart.
+| UGL | Line-of-Sight-only "light mortar". Can fire either HE rounds or smoke rounds (HE 1").<br>Range and stats check in weapons chart.
 
 ****
 
@@ -418,8 +437,8 @@ squad-level and provide normal infantry units with anti-tank capabilizies.
 ##### Gameplay
 
 Fires a single AT warhead against any unit. An attack is performed the same way
-as a normal attack against a vehicle, e. g. with an RPG. The PEN value can be found
-in the weapons chart.
+as a normal attack against a vehicle, e. g. with an RPG. The PEN value can be
+found in the weapons chart.
 
 The weapon is single-Use and once fired, it is discarded. A squad can carry
 multiple LAWs, and the maximum amount is described in their unit template.
@@ -436,59 +455,86 @@ multiple LAWs, and the maximum amount is described in their unit template.
 
 ##### Introduction
 
-DMRs extend the range of a squad and are used for accurate fire to about 600m, compared to most normal service rifles' 300-400m effective range.
+DMRs extend the range of a squad and are used for accurate fire to about 600m,
+compared to most normal service rifles' 300-400m effective range.
 
 ##### Gameplay
 
-DMRs are basically longer range rifles. They act as part of the squad, rather than a stationary sniper, which is why they dont get the sniper rule (and are way cheaper). They can however extend the effective range of a squad, if only for one soldier, which can be handy in some situations.
+DMRs are basically longer range rifles. They act as part of the squad, rather
+than a stationary sniper, which is why they dont get the sniper rule (and are way
+cheaper). They can however extend the effective range of a squad, if only for one
+soldier, which can be handy in some situations.
 
-If chosen, a DMR replaces the AR of one soldier in a squad. If none are present, the unit also costs the +5pt for switching the main weapon out in addition to the DMR cost (see Adjustments).
+If chosen, a DMR replaces the AR of one soldier in a squad. If none are present,
+the unit also costs the +5pt for switching the main weapon out in addition to the
+DMR cost (see Adjustments).
 
-Otherwise, the DMR counts as a normal rifle with an extended range. For details, check weapons chart.
+Otherwise, the DMR counts as a normal rifle with an extended range. For details,
+check weapons chart.
 
 ##### Rule
 
 | Rule | Description |
 | :--- | :--- |
-| DMR | Extended range rifle. Replaces one AR in the squad. See weapon chart for details. |
+| DMR | Extended range rifle. Replaces one AR in the squad.<br>Check weapons chart for details. |
 
 ****
 
 #### Improvised explosive devices (IED) and mines
 
-Improvised explosive device, or IEDs, are selfmade, sometimes remotely triggered bombs. They can be manufactured with all kinds of objects, be it military-grade high explosives in a pipe or industrial mining explosives in a truckbed.
+Improvised explosive device, or IEDs, are selfmade, sometimes remotely triggered
+bombs. They can be manufactured with all kinds of objects, be it military-grade
+high explosives in a pipe or industrial mining explosives in a truckbed.
 
-Mines are also explosives, but usually reserved to conventional forces as a way to inhibit enemy troop movement and attritional usage against vehicles.
+Mines are also explosives, but usually reserved to conventional forces as a way
+to inhibit enemy troop movement and attritional usage against vehicles.
 
 For the purposes of pragmaticality, we treat IEDs and mines the same way.
 
 ##### Gameplay
 
-Mines and IEDs are indicated by markers on the map, maybe something like a base or chip. Under each has to be clearly marked, whether the marker is for a mine/IED or a decoy, since the sapper unit (see below) also has a stockpile of duds to fake mined areas. If a marker is not clearly marked as either, it is considered a decoy.
+Mines and IEDs are indicated by markers on the map, maybe something like a base
+or chip. Under each has to be clearly marked, whether the marker is for a mine/IED
+or a decoy, since the sapper unit (see below) also has a stockpile of duds to fake
+mined areas. If a marker is not clearly marked as either, it is considered a decoy.
 
-Conceiled deployed IEDs are treated the same way as mines, but if for some reason the player thinks its better to remote-detonate an IED at any point, that is possible. As soon as an enemy comes within 3" of a marker, the following test is rolled:
+Conceiled deployed IEDs are treated the same way as mines, but if for some reason
+the player thinks its better to remote-detonate an IED at any point, that is
+possible. As soon as an enemy comes within 3" of a marker, the following test is
+rolled:
 
 ![IED mine test flowchart]()
 
-If for some reason an IED should not be detonated by this test, it still counts as disarmed and destroyed.
-
 ##### Sapper
 
-The sapper is a specialized unit reserved to rebel and insurgent forces. A sapper team consists of the operator and one attendant. They carry IEDs and decoys, which can be deployed within 1" of the unit as a FIRE order or as the attack action of an ADVANCE order. Any sapper carries 3 IEDs and an unlimited amount of decoys.
+The sapper is a specialized unit reserved to rebel and insurgent forces. A sapper
+team consists of the operator and one attendant. They carry IEDs and decoys, which
+can be deployed within 1" of the unit as a FIRE order or as the attack action of
+an ADVANCE order. Any sapper carries 3 IEDs and an unlimited amount of decoys.
 
 ###### Attacking vehicles
 
-If a sapper comes within 1" of a vehicle, he can attach IEDs to the vehicle after a successful FIRE or as the attack action of an ADVANCE order. 
+If a sapper comes within 1" of a vehicle, he can attach IEDs to the vehicle after
+a successful FIRE or as the attack action of an ADVANCE order.
 
-While the sapper is still alive, the IED can be triggered at any point. The vehicle is automatically counted as hit and rolls for damage according to the weapons chart values for an IED. Any other unit, including enemy forces, within the appropriate HE template also roll to hit.
+While the sapper is still alive, the IED can be triggered at any point. The
+vehicle is automatically counted as hit and rolls for damage according to the
+weapons chart values for an IED. Any other unit, including enemy forces, within
+the appropriate HE template also roll to hit.
 
 ##### Engineer
 
-The engineer is a part of any conventional army. They are the multi-tool of a ground force and are well-versed in dealing with explosives and fortifications, both deploying and destroying. 
+The engineer is a part of any conventional army. They are the multi-tool of a
+ground force and are well-versed in dealing with explosives and fortifications,
+both deploying and destroying.
 
-Other than sappers, engineers are infantry units with their specialty as a bonus rather than single-purpose operators.
+Other than sappers, engineers are infantry units with their specialty as a bonus
+rather than single-purpose operators.
 
-Engineers are a counter to mines and IEDs, and only suffer a +1 Stress pin for a decoy, regardless of their roll when engaging one. Also, they get to reroll a 3-5 on the IED flowchart, if it actually is an explosive. This only applies if the unit itself triggeres a conceiled marker, not if they are hit by an explosion.
+Engineers are a counter to mines and IEDs, and only suffer a +1 Stress pin for a
+decoy, regardless of their roll when engaging one. Also, they get to reroll a 3-5
+on the IED flowchart, if it actually is an explosive. This only applies if the
+unit itself triggeres a conceiled marker, not if they are hit by an explosion.
 
 ##### Vehicle-born IEDs
 
@@ -496,10 +542,10 @@ Engineers are a counter to mines and IEDs, and only suffer a +1 Stress pin for a
 
 | Rules | Descriptions |
 | :--- | :--- |
-| Sapper | Carries 3 IEDs and unlimited decoys. These can be placed as a FIRE or ADVANCE order. Any engineer rule bonus applies as well.|
-| Engineer | If failing check against decoy, only receive +1 stress pin. Can reroll a 3-5 roll against a mine or IED, if triggered by the unit. |
-| IED | Remote-controlled explosive device. Can be conceiled deployed or on a vehicle. For details, see [IED section](). |
-| Explosive | A conceiled deployed marker with a 3" range. If any unit is within 3, roll against flowchart check in [IED section]()  |
+| Sapper | Carries 3 IEDs and unlimited decoys. These can be placed as a FIRE<br> or ADVANCE order. Any engineer rule bonus applies as well.|
+| Engineer | If failing check against decoy, only receive +1 stress pin.<br>Can reroll a 3-5 roll against a mine or IED, if triggered by the unit. |
+| IED | Remote-controlled explosive device. Can be placed on ground or on a vehicle.<br> For details, see [IED section](). |
+| Explosive | A conceiled deployed marker with a 3" range.<br>If any unit is within 3, roll against flowchart check in [IED section]()  |
 
 
 ****
@@ -539,15 +585,25 @@ decimate infantry groups.
 
 ##### Introduction
 
-Man-portable air defense systems, or MANPADS, are anti-air missile launchers, which are used to fight airborne targets such as helicopters or jets on a squad-level. They offer protection against low-flying attackers for infantry formations without using expensive vehicleborn weaponry.
+Man-portable air defense systems, or MANPADS, are anti-air missile launchers,
+which are used to fight airborne targets such as helicopters or jets on a squad-
+level. They offer protection against low-flying attackers for infantry formations
+without using expensive vehicleborn weaponry.
 
 ##### Gameplay
 
-Since MANPADS are about 3x as fast as ATGMs (as a comparison, a TOW flies at around 278-320m/s, while a Stinger missile flies at Mach 2.2 or 745m/s), they do not get the ATGM inch-per-round treatment. Rather, an attacked vehicle is able to react based on its condition and distance to the attacker, as seen below:
+Since MANPADS are about 3x as fast as ATGMs (as a comparison, a TOW flies at around
+278-320m/s, while a Stinger missile flies at Mach 2.2 or 745m/s), they do not get
+the ATGM inch-per-round treatment. Rather, an attacked vehicle is able to react
+based on its condition and distance to the attacker, as seen below:
 
 [manpads flowchart]()
 
-The MANPADS team consists of a gunner and a loader, and behaves otherwise similar to an RPG team. The weapon is fixed and cannot be fired after moving. A direct LoS is required. MANPADS can also be deployed on a tripod as a stationary weapon system.
+The MANPADS team consists of a gunner and a loader, and behaves otherwise similar
+to an RPG team. The weapon is fixed and cannot be fired after moving. A direct LoS
+is required. 
+
+MANPADS can also be deployed on a tripod as a stationary weapon system.
 
 ##### Rule
 
@@ -571,10 +627,10 @@ Bangalores serve a multitude of roles:
 
 | Example situation | Example  |
 | :--- | :--- |
-| Removing light fortifications | Roll D2, on a 2, light forticiation is destroyed / a non-obscured pathway for infantry is breached. |
-| Blowing a door-sized hole into walls | Roll D3, on a 3, an entryway is breached into a wall. Roll to hit against any unit inside if breached. |
+| Removing light fortifications | Roll D2, on a 2, light forticiation is destroyed/<br>a non-obscured pathway for infantry is breached. |
+| Blowing a door-sized hole into walls | Roll D3, on a 3, an entryway is breached into a wall.<br>Roll to hit against any unit inside if breached. |
 | Using as a HE weapon against infantry or vehicle | Use as a single use weapon with values of weapons chart. |
-| Removing mines and IEDs | Roll D3, on a 1 nothing happens, on a 2 the explosive detonates (check with HE template if anyone is in range and roll to hit), on a 3 explosive is considered disarmed without harm. |
+| Removing mines and IEDs | Roll D3 <li>on a 1 nothing happens, <li> on a 2 the explosive detonates<br>(*check with HE template if anyone is in range and roll to hit*),<li> on a 3 explosive is considered disarmed without harm. |
 
 If you find a completely new way to use these and its credible enough, try to reuse
 one of these formulas or make up your own.
@@ -586,7 +642,7 @@ a maximum can be set in the squad template.
 
 | Rule | Description |
 | :--- | :--- |
-| Bangalore | Multipurpose, single-use explosives. Usable against vehicles, buildings, fortifications. | 
+| Bangalore | Multipurpose, single-use explosives.<br>Usable against vehicles, buildings, fortifications. |
 
 ****
 
@@ -612,7 +668,7 @@ vanishing just like a smoke round.
 
 | Rule | Description |
 | :--- | :--- |
-| Smoke Screen | Single-use smoke screen. 2x HE 2" in front of the vehicle. Unit goes DOWN when used. |
+| Smoke Screen | Single-use smoke screen. 2x HE 2" in front of the vehicle.<br>Unit goes DOWN when used. |
 
 ****
 
@@ -620,20 +676,24 @@ vanishing just like a smoke round.
 
 ##### Introduction
 
-Smoke grenades are used by infantry formations to reduce visibility during 
+Smoke grenades are used by infantry formations to reduce visibility during an
 engagement over open terrain.
 
 ##### Gameplay
 
-Smoke grenades come as an upgrade to infantry groups. If equipped, they count as a singular action to throw, and the entire squad uses their grenades for maximum cover. This can be done once per squad. 
+Smoke grenades come as an upgrade to infantry groups. If equipped, they count as
+a singular action to throw, and the entire squad uses their grenades for maximum
+cover. This can be done once per squad.
 
-Uses a FIRE or ADVANCE action. 3 HE 1" smoke markers are placed at any point within 12" of the infantry squad. The clouds behaves like any other smoke, see rulesbook. After usage, the squad cannot perform another smoke barrage.
+Uses a FIRE or ADVANCE action. 3 HE 1" smoke markers are placed at any point
+within 12" of the infantry squad. The clouds behaves like any other smoke,
+see rulesbook. After usage, the squad cannot perform another smoke barrage.
 
 ##### Rule
 
 | Rule | Description
 | :--- | :--- |
-| Smoke grenades | Single-Use action upgrade for infantry units. Requires successful FIRE or ADVANCE order. Place 3x 1" smoke markers within 12" of the squad. |
+| Smoke grenades | Single-Use action upgrade for infantry units.<br>Requires successful FIRE or ADVANCE order.<br>Place 3x 1" smoke markers within 12" of the squad. |
 
 ## Additional Rules and Systems
 
@@ -673,13 +733,17 @@ to be observed to notify the artillery that zeroing has finished.
 
 #### Indirect fire rework
 
-To better use smoke grenades (and make artillery less frustrating to use imho), we reworked target selection and what happens to missed shots, since it is kind of ridiculous that a missed shot just despawns and does not affect the battlefield.
+To better use smoke grenades (and make artillery less frustrating to use imho),
+we reworked target selection and what happens to missed shots, since it is kind
+of ridiculous that a missed shot just despawns and does not affect the battlefield.
 
-This might not sit right with every player, so I would call this optional. But I do recommend to use at least the reworked target selection.
+This might not sit right with every player, so I would call this optional. But I
+do recommend to use at least the reworked target selection.
 
 ##### Target Selection
 
-To better use artillery in an area denial role, or to use smoke more preventive, we decided to target markers in addition to units. This has several advantages:
+To better use artillery in an area denial role, or to use smoke more preventive,
+we decided to target markers in addition to units. This has several advantages:
 
 - Target an area to generate a smoke barrier
 - Target cover or houses to destroy them
@@ -688,10 +752,16 @@ To better use artillery in an area denial role, or to use smoke more preventive,
 
 ##### Failing to hit roll
 
-Even if a round does not hit, firing a HE 4"-equivalent projectile at anything will ruin that general areas day. So it is frustrating that usually, a round just vanishes if they miss. 
+Even if a round does not hit, firing a HE 4"-equivalent projectile at anything
+will ruin that general areas day. So it is frustrating that usually, a round
+just vanishes if they miss.
 
 To mitigate this, we came up with following formula to calculate misfire:
 
-<mark> TODO </mark>
+**D6 * zeroing value**
 
-Just throw an order dice to get the direction with the little arrows on each face and use the formula to calculate distance. Place the template directly above and roll to hit for anything below, be it house or man. Any unit below is also allowed to go DOWN, as this might be a bit overpowered otherwise. And this rule is buff enough already for artillery.
+Just throw an order dice to get the direction with the little arrows on each face
+and use the formula to calculate distance. Place the template directly above and
+roll to hit for anything below, be it house or man. Any unit below is also allowed
+to go DOWN, as this might be a bit overpowered otherwise. And this rule is buff
+enough already for artillery.
