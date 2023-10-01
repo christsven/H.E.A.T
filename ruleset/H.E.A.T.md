@@ -18,6 +18,8 @@ vehicles suddenly turn out way bigger than most WW2 era vehicles.
 
 ![weapons chart image](./ressources/weapon-chart.excalidraw.png)
 
+### Small arms weapons chart
+
 These weapons are operated by a single unit, which uses it as its primary weapon.
 
 | Small arms | Range | Shots | PEN | Special rules |
@@ -36,6 +38,8 @@ The following weapons systems are operated by teams. The number of attendants
 indicates the unit's size to function properly, if deployed as an infantry group.
 This does not apply if operated as e. g. a vehicle weapon.
 
+### Team-based weapons chart
+
 | Infantry weapon systems | Atten-<br>dants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
 | Light machine gun | 1 | 0" - 36" | 4 | - | Team |
@@ -44,6 +48,8 @@ This does not apply if operated as e. g. a vehicle weapon.
 | Sniper | 1 | 12" - 48" | 1 | - | Team, Sniper|
 | Anti-materiel rifle | 1 | 12" - 36" | 1 | +2 | Team, Sniper |
 | Flamethrower (Infantry) | 1 | 0" - 6" | D6 | +3 | Team, Flamethrower |
+
+### Vehicle-mounted or fixed weapon systems chart
 
 | Vehicle weapon systems | Atten-<br>dants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
@@ -56,6 +62,8 @@ This does not apply if operated as e. g. a vehicle weapon.
 | Heavy autocannon | 3 | 0" - 72" | 2 | +3 | Team, HE 2" |
 | Flamethrower (Vehicle) | - | 0" - 12" | D6+1 | +3 | Flamethrower |
 
+### Indirect fire weapons chart
+
 | Indirect fire<br>systems | Atten-<br>dants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
 | Light mortar | 1 | 12" - 24" | 1 | HE | Team,<br> Indirect Fire, HE 1" |
@@ -64,6 +72,8 @@ This does not apply if operated as e. g. a vehicle weapon.
 | Light howitzer | 2 | 0" - 48"<br>(24" - 60") | 1 | HE | Team, Fixed,<br> Howitzer, HE 2" |
 | Medium howitzer | 3 | 0" - 60"<br>(30" - 72") | 1 | HE | Team, Fixed,<br> Howitzer, HE 3" |
 | Heavy howitzer | 3 | 0" - 72"<br>(36" - 84") | 1 | HE | Team, Fixed,<br> Howitzer, HE 4" |
+
+### Explosives and rockets weapons chart
 
 Additional weapon systems, explosives, mines, ...
 
@@ -663,6 +673,8 @@ a maximum can be set in the squad template.
 
 #### Smoke Screens
 
+![smoke screen image](./ressources/smoke-screen.excalidraw.png)
+
 ##### Introduction
 
 Modern vehicles are equipped with smoke grenade laumchers to quickly provide cover
@@ -688,6 +700,9 @@ vanishing just like a smoke round.
 ****
 
 #### Smoke Grenades
+
+![ich nebel selbst](./ressources/smoke-grenade.excalidraw.png)
+
 
 ##### Introduction
 
