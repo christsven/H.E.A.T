@@ -397,6 +397,8 @@ size or weapon selection for example), the IFV rule is ignored.
 
 ### M113
 
+![m113 image](./../ruleset/ressources/ifvs.excalidraw.png)
+
 A true workhorse of NATO forces, the M113 comes in dozens of variants and has
 been used by more countries than not since the 1960s. The Bundeswehr uses it nowadays in support roles, e. g. with a 120mm, custom made mortar
 weapon system in the rear.
@@ -513,7 +515,7 @@ Set to replace the Fuchs, developed in 1962-69 and
 
 ***
 
-## Tranports
+## Transports
 
 ### M113 Transport
 
