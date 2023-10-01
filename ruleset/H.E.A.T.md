@@ -354,7 +354,7 @@ They can also come as vehicle mounted systems.
 ATGMs can be fired at any vehicle in its LoS, but the missile requires some time
 to approach targets at greater distances. Any vehicle in the ATGMs LoS can be
 targeted, regardless of distance to target. Upon firing, the missile approaches
-the target in a straight line at the speed given in the weapons chart.
+the target in a straight line at the speed given in the [weapons chart](#explosives-and-rockets-weapons-chart).
 
 If the target ends the turn out of LoS or the ATGM operator unit goes DOWN or
 moves, the missile is destroyed. This behaviour can be mitigated by using more
@@ -403,14 +403,14 @@ as to not add unnecessary new rules. They cannot use a spotter and fire in direc
 line of sight according to normal indirect fire rules.
 
 They have the choice between HE rounds (HE 1") and smoke rounds (HE 1"). Range and
-other stats can be found in the weapons chart. A unit can either fire its gun or
+other stats can be found in the [weapons chart](#explosives-and-rockets-weapons-chart). A unit can either fire its gun or
 the underbarrel grenade launcher. It does not require a loader or assistant.
 
 ##### Rule
 
 | Rule | Description |
 | :--- | :--- |
-| UGL | Line-of-Sight-only "light mortar". Can fire either HE rounds or smoke rounds (HE 1").<br>Range and stats check in weapons chart.
+| UGL | Line-of-Sight-only "light mortar". Can fire either HE rounds or smoke rounds (HE 1").<br>Range and stats check in [weapons chart](#explosives-and-rockets-weapons-chart).
 
 ****
 
@@ -432,13 +432,13 @@ replace the normal RPG round, giving you the option of using both. Before attack
 announce which type is used by the system operator. Attacks are performed the
 same way as any normal RPG attack.
 
-PEN values and range as seen in the weapons chart.
+PEN values and range as seen in the [weapons chart](#explosives-and-rockets-weapons-chart).
 
 ##### Rule
 
 | Rule | Description |
 | :--- | :--- |
-| Tandem HEAT Charge | Optional Upgrade for most RPGs. If chosen and selected for <br>an attack, announce before roling to hit.<br><br> Damage values and range as seen in weapons chart. |
+| Tandem HEAT Charge | Optional Upgrade for most RPGs. If chosen and selected for <br>an attack, announce before roling to hit.<br><br> Damage values and range as seen in [weapons chart](#explosives-and-rockets-weapons-chart). |
 
 ****
 
@@ -456,7 +456,7 @@ squad-level and provide normal infantry units with anti-tank capabilizies.
 
 Fires a single AT warhead against any unit. An attack is performed the same way
 as a normal attack against a vehicle, e. g. with an RPG. The PEN value can be
-found in the weapons chart.
+found in the [weapons chart](#explosives-and-rockets-weapons-chart).
 
 The weapon is single-Use and once fired, it is discarded. A squad can carry
 multiple LAWs, and the maximum amount is described in their unit template.
@@ -465,7 +465,7 @@ multiple LAWs, and the maximum amount is described in their unit template.
 
 | Rule | Description |
 | :--- | :--- |
-| LAW | A single-use AT weapon. |
+| LAW | A single-use AT weapon.<br>Check [weapons chart](#explosives-and-rockets-weapons-chart) for details. |
 
 ****
 
@@ -490,13 +490,13 @@ the unit also costs the +5pt for switching the main weapon out in addition to th
 DMR cost (see Adjustments).
 
 Otherwise, the DMR counts as a normal rifle with an extended range. For details,
-check weapons chart.
+check [weapons chart](#small-arms-weapons-chart).
 
 ##### Rule
 
 | Rule | Description |
 | :--- | :--- |
-| DMR | Extended range rifle. Replaces one AR in the squad.<br>Check weapons chart for details. |
+| DMR | Extended range rifle. Replaces one AR in the squad.<br>Check [weapons chart](#small-arms-weapons-chart) for details. |
 
 ****
 
@@ -541,7 +541,7 @@ a successful FIRE or as the attack action of an ADVANCE order.
 
 While the sapper is still alive, the IED can be triggered at any point. The
 vehicle is automatically counted as hit and rolls for damage according to the
-weapons chart values for an IED. Any other unit, including enemy forces, within
+[weapons chart](#explosives-and-rockets-weapons-chart) values for an IED. Any other unit, including enemy forces, within
 the appropriate HE template also roll to hit.
 
 ##### Engineer
@@ -566,8 +566,8 @@ unit itself triggeres a conceiled marker, not if they are hit by an explosion.
 | :--- | :--- |
 | Sapper | Carries 3 IEDs and unlimited decoys. These can be placed as a FIRE<br> or ADVANCE order. Any engineer rule bonus applies as well.|
 | Engineer | If failing check against decoy, only receive +1 stress pin.<br>Can reroll a 3-5 roll against a mine or IED, if triggered by the unit. |
-| IED | Remote-controlled explosive device. Can be placed on ground or on a vehicle.<br> For details, see [IED section](). |
-| Explosive | A conceiled deployed marker with a 3" range.<br>If any unit is within 3, roll against flowchart check in [IED section]()  |
+| IED | Remote-controlled explosive device. Can be placed on ground or on a vehicle.<br> For details, see [IED section](#improvised-explosive-devices-ied-and-mines). |
+| Explosive | A conceiled deployed marker with a 3" range.<br>If any unit is within 3, roll against [flowchart](#gameplay-7). |
 
 ****
 
@@ -620,7 +620,7 @@ Since MANPADS are about 3x as fast as ATGMs (as a comparison, a TOW flies at aro
 the ATGM inch-per-round treatment. Rather, an attacked vehicle is able to react
 based on its condition and distance to the attacker, as seen below:
 
-[manpads flowchart]()
+[manpads flowchart](./manpads-flowchart.excalidraw.png)
 
 The MANPADS team consists of a gunner and a loader, and behaves otherwise similar
 to an RPG team. The weapon is fixed and cannot be fired after moving. A direct LoS
@@ -632,7 +632,7 @@ MANPADS can also be deployed on a tripod as a stationary weapon system.
 
 | Rule | Description |
 | :--- | :--- |
-| MANPADS | Portable air defense system. Fires from a fixed position. Details see rule section. |
+| MANPADS | Portable air defense system. Fires from a fixed position.<br>Roll against [flowchart](#gameplay-9) when firing at enemy unit. |
 
 ****
 
@@ -653,8 +653,8 @@ Bangalores serve a multitude of roles:
 | Example situation | Example  |
 | :--- | :--- |
 | Removing light fortifications | Roll D2, on a 2, light forticiation is destroyed/<br>a non-obscured pathway for infantry is breached. |
-| Blowing a door-sized hole into walls | Roll D3, on a 3, an entryway is breached into a wall.<br>Roll to hit against any unit inside if breached. |
-| Using as a HE weapon against infantry or vehicle | Use as a single use weapon with values of weapons chart. |
+| Blowing a door-sized hole<br>into walls | Roll D3, on a 3, an entryway is breached into a wall.<br>Roll to hit against any unit inside if breached. |
+| Using as a HE weapon<br>against infantry or vehicle | Use as a single use weapon with values of [weapons chart](#explosives-and-rockets-weapons-chart). |
 | Removing mines and IEDs | Roll D3 <li>on a 1 nothing happens, <li> on a 2 the explosive detonates<br>(*check with HE template if anyone is in range and roll to hit*),<li> on a 3 explosive is considered disarmed without harm. |
 
 If you find a completely new way to use these and its credible enough, try to reuse
@@ -702,7 +702,6 @@ vanishing just like a smoke round.
 #### Smoke Grenades
 
 ![ich nebel selbst](./ressources/smoke-grenade.excalidraw.png)
-
 
 ##### Introduction
 
