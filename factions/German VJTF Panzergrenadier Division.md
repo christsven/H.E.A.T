@@ -1,5 +1,7 @@
 # **BLUFOR VJTF Armored Infantry Brigade**
 
+![vjtf logo](ressources/vjtf-logo.excalidraw.png)
+
 ***
 
 ## Army modifiers
@@ -409,6 +411,8 @@ weapon system in the rear.
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Spotter _(if selected)_</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Open-Topped _(if selected)_</td><td>Rulebook [pg. X]</td></tr></table>
 
 ### TPz Fuchs 1A4/5
+
+![tpz fuchs](ressources/tpz-fuchs.excalidraw.png)
 
 Almost 60 years old and still found in most platoons, the TPz Fuchs is a
 versatile and reliable, if also old-fashioned, troop transport for the german

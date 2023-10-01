@@ -1,5 +1,7 @@
 # **NSPR volunteer rifle contingent**
 
+![nspr logo](./ressources/nspr-rifle-contingent-logo.excalidraw.png)
+
 ## Army modifiers
 
 ### Territorial knowledge
