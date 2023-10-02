@@ -97,7 +97,7 @@ material. They can be equipped with some SMGs.
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants: 7 pt / 10 pt / 13 pt |
-| Setup | NCO ( AR ) + 3 attendants ( AR ) |
+| Setup | NCO ( AR ) + 3 attendants ( AR ),<br>1x Sprengrohr |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>3x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>Rulebook [pg. X].</td><td>+ 1 pt each</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Bangalore</td><td>Can be used against mines, IEDs, or even walls and building sides to blow them open.<br><br>Activated by a successful FIRE order, roll a D6, 2+ to succeed. 6" range.<br>While 2 soldiers are using them, the other soldiers are able to attack other targets.</td></tr></table>
 
