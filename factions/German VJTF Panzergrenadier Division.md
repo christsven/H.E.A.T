@@ -208,7 +208,7 @@ A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special servi
 | Reinforcement | - |
 | Setup | NCO ( MMG ) |
 |Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td> See [H.E.A.T. Rules]()</table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td>See [H.E.A.T. Rules]()</td></tr><tr><td>Rear-mounted MMG</td><td>Fire ark of MG3 is to the back and 90°<br>to each side(so 9 and 3 o'clock from<br>the drivers perspective).</table>
 
 ### GraMaWa team
 
