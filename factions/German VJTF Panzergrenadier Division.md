@@ -458,7 +458,7 @@ versatile and reliable, if also old-fashioned, troop transport for the german
 armed forces. With almost as many variants and upgrade kits as the M113, this
 APC can be equipped with medical equipment, command utility or recon modifications.
 
-| TPz Fuchs 1A4/5 | APC / IFV Armoured Carrier |
+| TPz Fuchs 1A4/5 | APC / IFV |
 | :---- | ---- |
 | Cost | 95 pt / 110 pt / 125 pt |
 | Capacity | 8 soldiers |
@@ -471,7 +471,7 @@ APC can be equipped with medical equipment, command utility or recon modificatio
 
 Set to replace the Fuchs, developed in 1962-69 and  
 
-| GTK Boxer | APC / IFV Armoured Carrier |
+| GTK Boxer | APC / IFV |
 | :---- | ---- |
 | Cost | 90 pt / 105 pt / 120 pt |
 | Capacity | 7 soldiers |
@@ -482,33 +482,33 @@ Set to replace the Fuchs, developed in 1962-69 and
 
 ### SPz 1A3 Marder
 
-| SPz 1A3 Marder | APC / IFV Light Tank |
+| SPz 1A3 Marder | APC / IFV |
 | :---- | ---- |
-| Cost | 130 pt / 145 pt / 160 pt |
+| Cost | 120 pt / 135 pt / 150 pt |
 | Capacity | 6 soldiers |
-| Damage value | 8+ Light Tank |
+| Damage value | 7+ Armoured carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>20-mm MK 20 RH 202</td><td>20mm light autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Milan ATGM Launcher</td><td>Milan Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>+ 35 pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>ATGM</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
 
 ### SPz Puma
 
-| SPz Puma | APC / IFV Light Tank |
+| SPz Puma | APC / IFV |
 | :---- | ---- |
 | Cost | 164 pt / 179 pt / 194 pt |
 | Capacity | 6 soldiers |
-| Damage value | 8+ Light Tank |
+| Damage value | 8+ Light tank |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 4 MMG</td><td>MG 4 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>30-mm-MK 30-2/ABM</td><td>30mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Spike VR ATGM Launcher</td><td>Spike Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li><li>fire-and-forget</li></ul></td><td>+ 50 pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>ATGM</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Fire-And-Forget</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
 
 ### M2/M3 Bradley
 
-| M2/M3 Bradley | APC / IFV Light Tank |
+| M2/M3 Bradley | APC / IFV |
 | :---- | ---- |
-| Cost | 144 pt / 159 pt / 174 pt |
+| Cost | 134 pt / 149 pt / 164 pt |
 | Capacity | 6 soldiers |
-| Damage value | 8+ Light Tank |
+| Damage value | 7+ Armoured carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>M240C MMG</td><td>M240C MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>25 mm M242 </td><td>25mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM Launcher</td><td>TOW Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>+ 35 pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>ATGM</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
