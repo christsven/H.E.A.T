@@ -253,23 +253,6 @@ under the german designation "MELLS" for "Mehrrollenf√§higes Leichtes Lenkflugk√
 
 ***
 
-## Drone team [ 0 - 1 ]
-
-### UAV operator team
-
-Just being tested as parts of modern conventional forces, small UAVs are becoming an integral part of modern
-warfare. This team is equipped with a small quadcopter and varying payload, depending on mission objective.
-
-| UAV team | UAV team |
-| :---- | ---- |
-| Cost | 41 pt / 52 pt / 63 pt |
-| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
-| Setup | NCO ( UAV ) |
-|Options|<table><tr><td><b>Payload</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>IED </td><td>Rigged IED, set to explode a HE payload on release.<br><br>See UAV section in [HEAT rules](../H.E.A.T.excalidraw).<td>+10 pt</td></tr><tr><td>AT IED</td><td>Heavier payload which is able to damage or destroy vehicels.<br><br>See IED section in [HEAT rules](../H.E.A.T.excalidraw).<td>+25 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br><br>Detailed description in [HEAT rules](../H.E.A.T.excalidraw). </td></tr></table>
-
-***
-
 ## Mortar team [ 0 - 1 ]
 
 ### M224 LWCMS 60mm light mortar team
