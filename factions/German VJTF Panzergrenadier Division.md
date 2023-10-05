@@ -391,9 +391,46 @@ This variant of the M113 APC is used as a platoon spotter. Any indirect fire uni
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles
 
-If chosen in an IFV role, these units are connected to the first and second
-mandatory infantry units. If they are not or cannot be connected (due to troop
-size or weapon selection for example), the IFV rule is ignored.
+If a vehicle has the IFV rule and is chosen in an IFV role, these vehicles are connected to the first and second mandatory infantry units.
+
+Any vehicle that has the IFV rule can also choose to ignore it and act on its own.
+
+### LGS Fennek
+
+Small and fast car used for reconnaissance and command roles.
+
+| Fennek | Light armoured car |
+| :---- | ---- |
+| Cost | 60 pt / 65 pt / 70 pt |
+| Capacity | 8 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | - |
+
+### ATF Dingo 1
+
+Mine resistant personell carrier.
+
+| ATF Dingo 1 | MRAP Carrier |
+| :---- | ---- |
+| Cost | 60 pt / 65 pt / 70 pt |
+| Capacity | 2 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | -
+| Options | TODO
+| Special rules | -
+
+### ATF Dingo 2
+
+Larger version of the Dingo on an Unimog 5000 frame.
+
+| ATF Dingo 2 | MRAP Carrier |
+| :---- | ---- |
+| Cost | 70 pt / 80 pt / 90 pt |
+| Capacity | 5 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | -
+| Options | TODO |
+| Special rules | -
 
 ### M113
 
@@ -406,7 +443,7 @@ weapon system in the rear.
 | M113 | APC Armoured Carrier |
 | :---- | ---- |
 | Cost | 100 pt / 125 pt / 140 pt |
-| Capacity | 15 soldiers |
+| Capacity | 11 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
 |Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Gefechtsstand<br>*Command Vehicle*</td><td>Rulebook [pg. X]<br><br>*This removes the ability to<br>use any main weapon option<br>and reduces the Capacity to **5**.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>Rulebook [pg. X]<br><br>*This removes the ability to<br>use any main weapon option<br>and reduces the Capacity to **5**.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-Tank Guided Missile Launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr><tr><td>Panzermörser 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table>
