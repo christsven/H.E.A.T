@@ -410,9 +410,9 @@ Forward observer
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles
 
-If chosen in an IFV role, these units are connected to the first and second
-mandatory infantry units. If they are not or cannot be connected (due to troop
-size or weapon selection for example), the IFV rule is ignored.
+If a vehicle has the IFV rule and is chosen in an IFV role, these vehicles are connected to the first and second mandatory infantry units.
+
+Any vehicle that has the IFV rule can also choose to ignore it and act on its own.
 
 ### BTR-D
 
