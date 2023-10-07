@@ -207,9 +207,9 @@ A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special servi
 | :---- | ---- |
 | Cost | - pt / 65 pt / 80 pt |
 | Reinforcement | - |
-| Setup | NCO (MMG) |
-| Options |-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Quad Bike</td><td>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes) for more information.</table>
+| Setup | NCO ( MMG ) |
+|Options|-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes)</td></tr><tr><td>Rear-mounted MMG</td><td>Fire ark of MG3 is to the back and 90° to each side(so 9 and 3 o'clock from the drivers perspective).</table>
 
 ### GraMaWa team
 
@@ -395,9 +395,46 @@ that is able to coordinate with a spotter can use this APC as its spotter
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles
 
-If chosen in an IFV role, these units are connected to the first and second
-mandatory infantry units. If they are not or cannot be connected (due to troop
-size or weapon selection for example), the IFV rule is ignored.
+If a vehicle has the IFV rule and is chosen in an IFV role, these vehicles are connected to the first and second mandatory infantry units.
+
+Any vehicle that has the IFV rule can also choose to ignore it and act on its own.
+
+### LGS Fennek
+
+Small and fast car used for reconnaissance and command roles.
+
+| Fennek | Light armoured car |
+| :---- | ---- |
+| Cost | 60 pt / 65 pt / 70 pt |
+| Capacity | 8 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | - |
+
+### ATF Dingo 1
+
+Mine resistant personell carrier.
+
+| ATF Dingo 1 | MRAP Carrier |
+| :---- | ---- |
+| Cost | 60 pt / 65 pt / 70 pt |
+| Capacity | 2 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | -
+| Options | TODO
+| Special rules | -
+
+### ATF Dingo 2
+
+Larger version of the Dingo on an Unimog 5000 frame.
+
+| ATF Dingo 2 | MRAP Carrier |
+| :---- | ---- |
+| Cost | 70 pt / 80 pt / 90 pt |
+| Capacity | 5 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | -
+| Options | TODO |
+| Special rules | -
 
 ### M113
 
@@ -411,7 +448,7 @@ in the rear.
 | M113 | APC Armoured Carrier |
 | :---- | ---- |
 | Cost | 100 pt / 125 pt / 140 pt |
-| Capacity | 15 soldiers |
+| Capacity | 11 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
 | Options |<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Gefechtsstand<br>*Command Vehicle*</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr><tr><td>Panzermörser 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table>
@@ -426,7 +463,7 @@ versatile and reliable, if also old-fashioned, troop transport for the german
 armed forces. With almost as many variants and upgrade kits as the M113, this
 APC can be equipped with medical equipment, command utility or recon modifications.
 
-| TPz Fuchs 1A4/5 | APC / IFV Armoured Carrier |
+| TPz Fuchs 1A4/5 | APC / IFV |
 | :---- | ---- |
 | Cost | 95 pt / 110 pt / 125 pt |
 | Capacity | 8 soldiers |
@@ -461,7 +498,7 @@ gradually being replaced by more modern IFV designs in some armed forces.
 
 | SPz 1A3 Marder | APC / IFV |
 | :---- | ---- |
-| Cost | 130 pt / 145 pt / 160 pt |
+| Cost | 120 pt / 135 pt / 150 pt |
 | Capacity | 6 soldiers |
 | Damage value | 7+ Armoured carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>20-mm MK 20 RH 202</td><td>20mm light autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
@@ -482,8 +519,9 @@ gradually being replaced by more modern IFV designs in some armed forces.
 ### M2/M3 Bradley
 
 | M2/M3 Bradley | APC / IFV |
+| M2/M3 Bradley | APC / IFV |
 | :---- | ---- |
-| Cost | 144 pt / 159 pt / 174 pt |
+| Cost | 134 pt / 149 pt / 164 pt |
 | Capacity | 6 soldiers |
 | Damage value | 7+ Armoured carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>M240C MMG</td><td>M240C MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>25 mm M242 </td><td>25mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |

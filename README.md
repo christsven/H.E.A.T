@@ -6,13 +6,9 @@ This is H.E.A.T, a 28mm platoon-sized wargame expansion. Ideal for 2010-2020 era
 
 ## Ruleset
 
-Former rules saved as .excalidraw file while I work on the markdown readable variant.
+Currently updated ruleset can be found in the link below, for the older variant [here](ruleset/H.E.A.T.png).
 
-[H.E.A.T Rules](/ruleset/H.E.A.T.md)
-
-or as a .png for easier use on mobile
-
-![H.E.A.T. Rules PNG](ruleset/H.E.A.T.png)
+[H.E.A.T Ruleset](ruleset/H.E.A.T.md)
 
 ## Factions
 
