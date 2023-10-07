@@ -32,20 +32,20 @@ Veteran infantry units are allowed to reroll failed moral checks.</br>
 | Leutnant | Platoon Leader |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
-| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt|
-| Setup | NCO ( PDW, SMG, AR )|
-|Options|-|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action!</td><td>Rulebook [pg. X]</td></tr><tr><td>Command</td><td>Rulebook [pg. X]</td></tr></table>
+| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (as depicted) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action!</td><td>-</td></tr><tr><td>Command</td><td>-</td></tr></table>
 
 ### Oberleutnant
 
 | Oberleutnant | Platoon Leader |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
-| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt|
-| Setup | NCO ( PDW, SMG, AR )|
-|Options|-|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action! (2x)</td><td>Rulebook [pg. X]</td></tr><tr><td>Command</td><td>Rulebook [pg. X]</td></tr></table>
+| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (as depicted) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action! (2x)</td><td>-</td></tr><tr><td>Command</td><td>-</td></tr></table>
 
 ***
 
@@ -53,16 +53,17 @@ Veteran infantry units are allowed to reroll failed moral checks.</br>
 
 ### Aufklärertrupp
 
-Reconnaissance infantry team, watching the area in front of friendly forces
-and reporting enemy troop movement.
+Small reconnaissance infantry team, watching the area in front of friendly forces
+and reporting enemy troop movement. Can be fielded on quad bikes for faster
+repositioning.
 
 | Aufklärertrupp | Infantry unit |
 | :---- | ---- |
 | Cost | 20 pt / 30 pt / 40 pt |
-| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
-| Setup | NCO ( AR ) + 1 attendants ( AR ) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>3x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr></table>|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>Rulebook [pg. X]</td></tr></table> |
+| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 1 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+20 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Quad Bikes</td><td>Unit is equipped with quad bikes.<br><br>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes) for more information.</td><td>+15 pt/unit</td></tr></table>|
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
 
 ### Aufklärergruppe
 
@@ -72,10 +73,10 @@ and reporting enemy troop movement.
 | Aufklärergruppe | Infantry unit |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
-| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
-| Setup | NCO ( AR ) + 2 attendants ( AR ) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>4x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr></table>|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>Rulebook [pg. X]</td></tr></table>
+| Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 2 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+20 pt</td></tr></table>|
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table>
 
 ### Jägergruppe
 
@@ -85,10 +86,10 @@ motorized support.
 | Jägergruppe | Infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
-| Reinforcement | up to 5 attendants: 7 pt / 10 pt / 13 pt |
-| Setup | NCO ( AR ) + 3 attendants ( AR ) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>4x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Sprengrohr</td><td>Bangalore pipe</td><td>+15 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>Rulebook [pg. X].</td><td>+ 1 pt each</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sprengrohr</td><td>Can be used against mines, IEDs, or even walls and building sides to blow them open.<br><br>Activated by a successful FIRE order, roll a D6, 2+ to succeed. 6" range.<br>While 2 soldiers are using them, the other soldiers are able to attack other targets.</td></tr></table>
+| Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 3 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Sprengrohr<br>(*Bangalore*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-.</td><td>+ 1 pt each</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table>
 
 ### Panzergrenadiergruppe
 
@@ -98,9 +99,9 @@ infanty part of german IFVs.
 | Panzergrenadiergruppe | Infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
-| Reinforcement | up to 5 attendants: 7 pt / 10 pt / 13 pt |
-| Setup | NCO ( AR ) + 3 attendants ( AR ) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>2x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table>
+| Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 3 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table>
 | Special rules | -
 
 ### NATO VJTF Rapid Response squad
@@ -111,11 +112,11 @@ conventional threats.
 
 | Panzergrenadiergruppe | Infantry unit |
 | :---- | ---- |
-| Cost | - / 60 pt / 85 pt |
-| Reinforcement | up to 5 attendants: - pt / 10 pt / 13 pt |
-| Setup | NCO ( AR ) + 3 attendants ( AR ) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>2x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Stubborn</td><td>Rulebook [pg. X]</td></tr></table>
+| Cost | - / 60 pt / 75 pt |
+| Reinforcement | up to 5 attendants (AR): - pt / 10 pt / 13 pt |
+| Setup | NCO (AR) + 3 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Stubborn</td><td>-</td></tr></table>
 
 ### Fernspähergruppe
 
@@ -124,11 +125,11 @@ report movement back to the command structure.
 
 | Fernspähergruppe | Infantry unit |
 | :---- | ---- |
-| Cost | 35 pt / 50 pt / 65 pt |
-| Reinforcement | up to 3 attendants: 7 pt / 10 pt / 13 pt |
-| Setup | NCO ( AR ) + 2 attendants ( AR ) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Recon training</td><td>These soldiers are trained to operate and maneuver ineven the toughest terrain.<br><br>When using an ADVANCE to move through difficult terrain, throw a D2, and on <br>a positive result the team may instead use the RUN distance.</td></tr><tr><td>Rangers</td><td>Rulebook [pg. X]</td></tr><tr><td>Stubborn</td><td>Rulebook [pg. X]</td></tr></table>
+| Cost | - / 65 pt / 80 pt |
+| Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 2 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Stubborn</td><td>-</td></tr><tr><td>Recon training</td><td>These soldiers are trained to operate and maneuver<br> in even the toughest terrain.<br><br>When using an ADVANCE to move through rough<br>terrain, throw a D2, and on a positive result the team<br>may instead use the RUN distance.</td></table>
 
 ***
 
@@ -141,10 +142,10 @@ Support infantry, used to clear terrain or restrict enemy movement.
 | Panzerpioniergruppe | Combat support unit |
 | :---- | ---- |
 | Cost | 40 pt / 55 pt / 70 pt |
-| Reinforcement | up to 5 attendants: 7 pt / 10 pt / 13 pt |
-| Setup | NCO ( AR ) + 2 attendants ( AR ) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>SMG / PDW (NCO)</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>2x SMG / PDW</td><td>Small machine gun</td><td>+5 pt</td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Sprengrohr</td><td>Bangalore pipe</td><td>+15 pt</td></tr><tr><td>Mines</td><td>See IED section in [HEAT rules](../H.E.A.T.excalidraw). They behave the same as IEDs<br>but cannot be disguised. Conventional forces do not use decoys.<td>+15 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sprengrohr</td><td>Can be used against mines, IEDs, or even walls and building sides to blow them open.<br><br>Activated by a successful FIRE order, roll a D6, 2+ to succeed. 6" range.<br>While 2 soldiers are using them, the other soldiers are able to attack other targets.</td></tr><tr><td>Enginners</td><td>Engineers are trained to operate mines and disable IEDs.<br><br>When engaging an IED, this unit may reroll failed IED checks. They also only<br> suffer +1 pin from decoys.</td></tr></table>
+| Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (SMG) + 2 attendants (SMG) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Sprengrohr<br>(*Bangalore*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Mines</td><td>See IED section in [ruleset](../ruleset/H.E.A.T.md#improvised-explosive-devices-ied-and-mines).<br>They behave the same as IEDs,<br>but can't be disguised.<br>Conventional forces don't use decoys.<td>+15 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr></table>
 
 ### G22A2 sniper team
 
@@ -154,9 +155,9 @@ Standard issued german sniper team.
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
-| Setup | NCO ( SNIPER ) + 1 attendant ( AR ) |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>Rulebook [pg. X]</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr></table>
+| Setup | NCO (SNIPER) + 1 attendant (SMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>-</td></tr><tr><td>Team</td><td>-</td></tr></table>
 
 ### G82 AMR team
 
@@ -166,9 +167,9 @@ Anti materiell rifle sniper team.
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | - |
-| Setup | NCO ( AMR ) + 1 attendant ( AR ) |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>Rulebook [pg. X]</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr></table>
+| Setup | NCO (AMR) + 1 attendant (SMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>-</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table>
 
 ***
 
@@ -182,9 +183,9 @@ MG5 MMG team.
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
-| Setup | NCO ( MMG ) + 2 loaders |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr></table>
+| Setup | NCO (MMG) + 2 loaders (SMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table>
 
 ### .50cal Browning HMG team
 
@@ -194,9 +195,9 @@ MG5 MMG team.
 | :---- | ---- |
 | Cost | 49 pt / 70 pt / 91 pt |
 | Reinforcement | - |
-| Setup | NCO ( HMG ) + 2 loaders |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr></table>
+| Setup | NCO (HMG) + 2 loaders (SMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table>
 
 ### KSK Quad MMG
 
@@ -206,9 +207,9 @@ A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special servi
 | :---- | ---- |
 | Cost | - pt / 65 pt / 80 pt |
 | Reinforcement | - |
-| Setup | NCO ( MMG ) |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td> See [H.E.A.T. Rules]()</table>
+| Setup | NCO (MMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Quad Bike</td><td>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes) for more information.</table>
 
 ### GraMaWa team
 
@@ -218,9 +219,9 @@ GraMaWa AGL team.
 | :---- | ---- |
 | Cost | 50 pt / 60 pt / 75 pt |
 | Reinforcement | - |
-| Setup | NCO ( AGL ) + 2 loaders |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>HE 1"</td><td>Rulebook [pg. X]</td></tr><tr><td>AGL</td><td>Automatic grenade launcher, which rapidly fires 40mm ordnance.<br><br>Detailed description in [HEAT rules](../H.E.A.T.excalidraw). </td></tr></table>
+| Setup | NCO (AGL) + 2 loaders (SMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>AGL</td><td>Automatic grenade launcher, which<br>rapidly fires 40mm ordnance.<br><br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl). </td></tr></table>
 
 ***
 
@@ -234,9 +235,9 @@ Anti-tank rocket team, equipped with Panzerfaust 3, which is the standard issue 
 | :---- | ---- |
 | Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | - |
-| Setup | NCO ( AGL ) + 2 loaders |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Backblast</td><td>If this weapon is fired in an enclosed room or if there are units<br>within 3" of a 45° rk behind the exhaust, roll to damage for any <br>unit in this room or area.</td></tr><tr><td>Tandem HEAT round</td><td>Automatic grenade launcher, which rapidly fires 40mm ordnance.<br><br>Detailed description in [HEAT rules](../H.E.A.T.excalidraw). </td></tr></table>
+| Setup | NCO (AGL) + 1 loader (SMG) |
+| Options | <table><table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</td></tr><tr><td>Tandem HEAT Charge</td><td>Heavier charge than  normal<br>round, but less range.<br>Check [ruleset](../ruleset/H.E.A.T.md#tandem-heat-charges) for details.</td><td>+15 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table>
 
 ### MELLS ATGM team
 
@@ -247,9 +248,9 @@ under the german designation "MELLS" for "Mehrrollenfähiges Leichtes Lenkflugk�
 | :---- | ---- |
 | Cost | 60 pt /75 pt / 90 pt |
 | Reinforcement | - |
-| Setup | NCO ( ATGM ) + 2 loaders |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Fire-And-Forget</td><td>Weapon team is not required to stay stationary during flight.<br><br>See ATGM section in [HEAT rules](../H.E.A.T.excalidraw).<td>+20 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td><tr><td>ATGM</td><td>Anti-Tank guided missile.<br><br>Detailed description in [HEAT rules](../H.E.A.T.excalidraw). </td></tr></table>
+| Setup | NCO (ATGM) + 2 loaders (SMG) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Fire-And-Forget</td><td>Weapon team is not required to stay<br>stationary during flight.<br><br>See ATGM section in [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).<td>+20 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table>
 
 ***
 
@@ -257,16 +258,17 @@ under the german designation "MELLS" for "Mehrrollenfähiges Leichtes Lenkflugk�
 
 ### UAV operator team
 
-Just being tested as parts of modern conventional forces, small UAVs are becoming an integral part of modern
-warfare. This team is equipped with a small quadcopter and varying payload, depending on mission objective.
+Just being tested as parts of modern conventional forces, small UAVs are becoming
+an integral part of modern warfare. This team is equipped with a small quadcopter
+for forward reconnaissance.
 
 | UAV team | UAV team |
 | :---- | ---- |
 | Cost | 41 pt / 52 pt / 63 pt |
-| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
-| Setup | NCO ( UAV ) |
-|Options|<table><tr><td><b>Payload</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>IED </td><td>Rigged IED, set to explode a HE payload on release.<br><br>See UAV section in [HEAT rules](../H.E.A.T.excalidraw).<td>+10 pt</td></tr><tr><td>AT IED</td><td>Heavier payload which is able to damage or destroy vehicels.<br><br>See IED section in [HEAT rules](../H.E.A.T.excalidraw).<td>+25 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br><br>Detailed description in [HEAT rules](../H.E.A.T.excalidraw). </td></tr></table>
+| Reinforcement | up to 2 attendants (SMG): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (UAV) |
+| Options | -
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br><br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr></table>
 
 ***
 
@@ -280,9 +282,9 @@ light mortar team.
 | :---- | ---- |
 | Cost | 24 pt / 35 pt / 46 pt |
 | Reinforcement | Spotter +10 pt |
-| Setup | NCO ( LIGHT MORTAR ) + 1 loader |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>HE 1"</td><td>Rulebook [pg. X]</td></tr><tr><td>Indirect Fire</td><td>Rulebook [pg. X]</td></tr><tr><td>Spotter</td><td>Rulebook [pg. X]</td></tr></table>
+| Setup | NCO (LIGHT MORTAR) + 1 loader |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
 ### M252 81mm medium mortar team
 
@@ -292,21 +294,21 @@ medium mortar team.
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | Spotter +10 pt |
-| Setup | NCO ( MEDIUM MORTAR ) + 2 loader |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>HE 2"</td><td>Rulebook [pg. X]</td></tr><tr><td>Indirect Fire</td><td>Rulebook [pg. X]</td></tr><tr><td>Spotter</td><td>Rulebook [pg. X]</td></tr></table>
+| Setup | NCO (MEDIUM MORTAR) + 1 loader |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
-### 120mm heavy mortar team
+### Mörser 120 mm heavy mortar team
 
-heavy mortar team.
+Mörser 120mm with "Erdsporen" for non-vehicle deployment.
 
 | 120mm heavy<br>mortar team | Mortar team |
 | :---- | ---- |
 | Cost | 46 pt / 65 pt / 84 pt |
-| Reinforcement | Spotter +10 pt |
-| Setup | NCO ( HEAVY MORTAR ) + 3 loader |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>HE 3"</td><td>Rulebook [pg. X]</td></tr><tr><td>Indirect Fire</td><td>Rulebook [pg. X]</td></tr><tr><td>Spotter</td><td>Rulebook [pg. X]</td></tr></table>
+| Reinforcement | Spotter (PDW) +10 pt |
+| Setup | NCO (HEAVY MORTAR) + 2 loader |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
 ***
 
@@ -319,10 +321,10 @@ light howitzer.
 | M119 105mm<br>light howitzer | Artillery |
 | :---- | ---- |
 | Cost | 40 pt / 50 pt / 60 pt |
-| Reinforcement | Spotter +10 pt |
-| Setup | NCO ( LIGHT HOWITZER ) + 3 loader |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>HE 2"</td><td>Rulebook [pg. X]</td></tr><tr><td>Howitzer</td><td>Rulebook [pg. X]</td></tr><tr><td>Spotter</td><td>Rulebook [pg. X]</td></tr></table>
+| Reinforcement | Spotter (PDW) +10 pt |
+| Setup | NCO (LIGHT HOWITZER) + 3 loader |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
 ### M777 155mm medium howitzer
 
@@ -331,10 +333,10 @@ medium howitzer.
 | M777 155mm<br>medium howitzer | Artillery |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
-| Reinforcement | Spotter +10 pt |
-| Setup | NCO ( MEDIUM HOWITZER ) + 3 loader |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>HE 3"</td><td>Rulebook [pg. X]</td></tr><tr><td>Howitzer</td><td>Rulebook [pg. X]</td></tr><tr><td>Spotter</td><td>Rulebook [pg. X]</td></tr></table>
+| Reinforcement | Spotter (PDW) +10 pt |
+| Setup | NCO (MEDIUM HOWITZER) + 3 loader |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
 ### Heavy howitzer
 
@@ -343,10 +345,10 @@ heavy howitzer.
 | Heavy howitzer | Artillery |
 | :---- | ---- |
 | Cost | 92 pt / 115 pt / 138 pt |
-| Reinforcement | Spotter +10 pt |
-| Setup | NCO ( HEAVY HOWITZER ) + 4 loader |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>HE 4"</td><td>Rulebook [pg. X]</td></tr><tr><td>Howitzer</td><td>Rulebook [pg. X]</td></tr><tr><td>Spotter</td><td>Rulebook [pg. X]</td></tr></table>
+| Reinforcement | Spotter (PDW) +10 pt |
+| Setup | NCO (HEAVY HOWITZER) + 4 loader |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 4"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
 ***
 
@@ -359,7 +361,7 @@ Forward observer
 | Airforce forward<br>observer | Divisional Reinforcements |
 | :--- | ---- |
 | Cost | - pt / 75 pt / 90 pt |
-| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (SMG) |
 | Options | -
 | Special rules | -
@@ -371,14 +373,16 @@ Forward observer
 | Artillery forward<br>observer | Divisional Reinforcements |
 | :---- | ---- |
 | Cost | - pt / 100 pt / 115 pt |
-| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (SMG) |
-|Options|-
+| Options |-
 | Special rules | -
 
 ### M113 Feuerleitpanzer
 
-This variant of the M113 APC is used as a platoon spotter. Any indirect fire unit that is able to coordinate with a spotter can use this APC as its spotter (Check [Rule adjustments]()).
+This variant of the M113 APC is used as a platoon spotter. Any indirect fire unit
+that is able to coordinate with a spotter can use this APC as its spotter
+(Check [Rule adjustments](../ruleset/H.E.A.T.md#spotters)).
 
 | M113 | APC Armoured Carrier |
 | :---- | ---- |
@@ -387,7 +391,7 @@ This variant of the M113 APC is used as a platoon spotter. Any indirect fire uni
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | - |
 | Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Spotter</td><td>Detailed rules see [Rule adjustments]()</table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Spotter</td><td>Detailed rules see [Rule adjustments](../ruleset/H.E.A.T.md#spotters).</td></tr></table>
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles
 
@@ -400,17 +404,18 @@ size or weapon selection for example), the IFV rule is ignored.
 ![m113 image](./../ruleset/ressources/ifvs.excalidraw.png)
 
 A true workhorse of NATO forces, the M113 comes in dozens of variants and has
-been used by more countries than not since the 1960s. The Bundeswehr uses it nowadays in support roles, e. g. with a 120mm, custom made mortar
-weapon system in the rear.
+been used by more countries than not since the 1960s. The Bundeswehr uses it
+nowadays in support roles, e. g. with a 120mm, custom made mortar weapon system
+in the rear.
 
 | M113 | APC Armoured Carrier |
 | :---- | ---- |
 | Cost | 100 pt / 125 pt / 140 pt |
 | Capacity | 15 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Gefechtsstand<br>*Command Vehicle*</td><td>Rulebook [pg. X]<br><br>*This removes the ability to<br>use any main weapon option<br>and reduces the Capacity to **5**.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>Rulebook [pg. X]<br><br>*This removes the ability to<br>use any main weapon option<br>and reduces the Capacity to **5**.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-Tank Guided Missile Launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr><tr><td>Panzermörser 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Spotter _(if selected)_</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Open-Topped _(if selected)_</td><td>Rulebook [pg. X]</td></tr></table>
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options |<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Gefechtsstand<br>*Command Vehicle*</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr><tr><td>Panzermörser 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table>
 
 ### TPz Fuchs 1A4/5
 
@@ -426,55 +431,64 @@ APC can be equipped with medical equipment, command utility or recon modificatio
 | Cost | 95 pt / 110 pt / 125 pt |
 | Capacity | 8 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>EBS Führungs- und <br>Funkfahrzeug <br>(*Command Vehicle*)</td><td>Rulebook [pg. X]<br><br>*This removes the ability to<br>use any main weapon option<br>and reduces the Capacity to **2**.*</td><td>+40 pt</td></tr><tr><td>EBS Sanitätsgruppe<br> mit Raumkühlanlage <br>(*Medic Vehicle)*</td><td>Rulebook [pg. X]<br><br>*This removes the ability to<br>use any  weapon option<br>and reduces the Capacity to **0**.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Milan ATGM launcher</td><td>Milan Anti-Tank Guided Missile Launcher.<br>Mounted at the commander's hatch in <br>the middle-right, blocking it for optional<br>MG 3.<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG3 MMG <br>(*3x possible*)</td><td>Medium machine guns,<br>either at the co-pilot's hatch (*front-right*),<br> the commander's hatch (*center-right*),<br> or the transport room hatch (*back-left*).<br></td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt each</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Open-Topped _(if selected)_</td><td>Rulebook [pg. X]</td></tr></table>
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Gefechtsstand<br>*Command Vehicle*</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Milan ATGM launcher</td><td>Milan Anti-Tank Guided Missile Launcher.<br>Mounted at the commander's hatch in <br>the middle-right, blocking it for optional<br>MG 3.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG3 MMG <br>(*3x possible*)</td><td>Medium machine guns,<br>either at the co-pilot's hatch (*front-right*),<br> the commander's hatch (*center-right*),<br> or the transport room hatch (*back-left*).<br></td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt each</td></tr></table>
+| Special rules |  <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table>
 
 ### GTK Boxer
 
-Set to replace the Fuchs, developed in 1962-69 and  
+The GTK Boxer is a German-designed and manufactured Infantry Fighting Vehicle (IFV)
+known for its versatility and modular design. It is part of the Boxer family of
+armored vehicles, which includes various configurations for different military roles.
+The GTK Boxer IFV is specifically designed to transport and support infantry
+troops on the battlefield.
 
-| GTK Boxer | APC / IFV Armoured Carrier |
+| GTK Boxer | APC / IFV |
 | :---- | ---- |
 | Cost | 90 pt / 105 pt / 120 pt |
 | Capacity | 7 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 200 (7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr><tr><td>FLW 200 (12.7mm) HMG</td><td>Remote-controlled HMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 25 pt</td></tr><tr><td>FLW 200 (40mm HE) AGL</td><td>Remote-controlled AGL</td><td><ul><li>turret-mounted</li></ul></td><td>+ 35 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>AGL _(if selected)_</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>HE 1" _(if selected)_</td><td>Rulebook [pg. X]</td></tr></table>
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options |_Only one FLW can be mounted per vehicle._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 200<br>(7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr><tr><td>FLW 200<br>(12.7mm) HMG</td><td>Remote-controlled HMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 25 pt</td></tr><tr><td>FLW 200<br>(40mm HE) GraMaWa</td><td>Remote-controlled AGL</td><td><ul><li>turret-mounted</li></ul></td><td>+ 35 pt</td></tr></table>
+| Special rules | <table<tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>AGL _(if selected)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl).</td></tr><tr><td>HE 1" _(if selected)_</td><td>-</td></tr></table>
 
 ### SPz 1A3 Marder
 
-| SPz 1A3 Marder | APC / IFV Light Tank |
+The Marder is a German Infantry Fighting Vehicle (IFV) that has been in service
+since the 1970s. It was designed to transport infantry troops and support them
+on the battlefield. While it has seen several upgrades over the years, it is
+gradually being replaced by more modern IFV designs in some armed forces.
+
+| SPz 1A3 Marder | APC / IFV |
 | :---- | ---- |
 | Cost | 130 pt / 145 pt / 160 pt |
 | Capacity | 6 soldiers |
-| Damage value | 8+ Light Tank |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>20-mm MK 20 RH 202</td><td>20mm light autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Milan ATGM Launcher</td><td>Milan Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>+ 35 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>ATGM</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
+| Damage value | 7+ Armoured carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>20-mm MK 20 RH 202</td><td>20mm light autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Milan ATGM Launcher</td><td>Milan Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>+ 35 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>ATGM<br>_(if selected)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td></tr></table>
 
 ### SPz Puma
 
-| SPz Puma | APC / IFV Light Tank |
+| SPz Puma | APC / IFV |
 | :---- | ---- |
 | Cost | 164 pt / 179 pt / 194 pt |
 | Capacity | 6 soldiers |
 | Damage value | 8+ Light Tank |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 4 MMG</td><td>MG 4 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>30-mm-MK 30-2/ABM</td><td>30mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Spike VR ATGM Launcher</td><td>Spike Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li><li>fire-and-forget</li></ul></td><td>+ 50 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>ATGM</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Fire-And-Forget</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 4 MMG</td><td>MG 4 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>30-mm-MK 30-2/ABM</td><td>30mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Spike VR ATGM Launcher</td><td>Spike Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li><li>fire-and-forget</li></ul></td><td>+ 50 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>ATGM</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td></tr><tr><td>Fire-And-Forget</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td></tr></table>
 
 ### M2/M3 Bradley
 
-| M2/M3 Bradley | APC / IFV Light Tank |
+| M2/M3 Bradley | APC / IFV |
 | :---- | ---- |
 | Cost | 144 pt / 159 pt / 174 pt |
 | Capacity | 6 soldiers |
-| Damage value | 8+ Light Tank |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>M240C MMG</td><td>M240C MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>25 mm M242 </td><td>25mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM Launcher</td><td>TOW Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>+ 35 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>ATGM</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
+| Damage value | 7+ Armoured carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>M240C MMG</td><td>M240C MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>25 mm M242 </td><td>25mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM Launcher</td><td>TOW Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>+ 35 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>ATGM</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td></tr></table>
 
 ***
 
@@ -482,14 +496,23 @@ Set to replace the Fuchs, developed in 1962-69 and
 
 ### Hauptkampfpanzer Leopard 2A6
 
+The Leopard 2A6 features a powerful 120mm smoothbore gun, advanced armor
+protection, and state-of-the-art technology. With a crew of four, it is known for
+its exceptional firepower, mobility, and survivability on the battlefield. The
+tank's composite armor provides excellent protection against various threats,
+and it is equipped with advanced fire control systems, thermal imaging, and other
+modern features that enhance its accuracy and situational awareness. The Leopard
+2A6 is used by several countries and is recognized for its combat effectiveness
+and reliability.
+
 | Hauptkampfpanzer<br> Leopard 2A6 | MBT Medium Tank |
 | :---- | ---- |
 | Cost | 210 pt / 225 pt / 240 pt |
 | Capacity | - |
 | Damage value | 9+ Medium Tank |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>Rh-120 L/44 120 mm</td><td>120mm smoothbore heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG 3 MMG</td><td>Medium machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Tiger Fear</td><td>Rulebook [pg. X]</td></tr><tr><td>Open-Topped (*if selected*)</td><td>Rulebook [pg. X]</td></tr></table>
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>Rh-120 L/44 120 mm</td><td>120mm smoothbore heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG 3 MMG</td><td>Medium machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Tiger Fear</td><td>-</td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table>
 
 ### MARS II MLRS
 
@@ -498,9 +521,9 @@ Set to replace the Fuchs, developed in 1962-69 and
 | Cost | 181 pt / 196 pt / 211 pt |
 | Capacity | - |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>Cal. 298mm MLRS</td><td>Multiple Launcher Rocket System</td><td><ul><li>turret-mounted</li><li>rocket-launcher</li></ul></tr></table> |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher</td><td>Rulebook [pg. X]</td></tr><tr><td>Indirect Fire</td><td>Rulebook [pg. X]</td></tr><tr><td>HE 3"</td><td>Rulebook [pg. X]</td></tr></table>
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>Cal. 298mm MLRS</td><td>Multiple Launcher Rocket System</td><td><ul><li>turret-mounted</li><li>rocket-launcher</li></ul></tr></table> |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table>
 
 ### Unterstützungshubschrauber Eurocopter Tiger
 
@@ -510,8 +533,8 @@ Set to replace the Fuchs, developed in 1962-69 and
 | Capacity | - |
 | Damage value | 7+ Medium Helicopter |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>30 mm (1.18 in) GIAT 30</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>70mm Hydra rockets</td><td></td><td><ul><li>front-facing</li><li>rocket-launcher</li></ul></td><td>+ 50 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>Rulebook [pg. X]</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>Rulebook [pg. X]</td></tr><tr><td>HE 3" (*if selected*)</td><td>Rulebook [pg. X]</td></tr></table>
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>70mm Hydra rockets</td><td></td><td><ul><li>front-facing</li><li>rocket-launcher</li></ul></td><td>+ 50 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table>
 
 ***
 
@@ -524,9 +547,9 @@ Set to replace the Fuchs, developed in 1962-69 and
 | Cost | 85 pt / 90 pt / 95 pt |
 | Capacity | 15 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>Rulebook [pg. X]</td></tr></table>
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>-</td></tr></table>
 
 ### TPz Fuchs 1A4/5 Transport
 
@@ -535,9 +558,9 @@ Set to replace the Fuchs, developed in 1962-69 and
 | Cost | 60 pt / 65 pt / 70 pt |
 | Capacity | 8 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG3 MMG <br>(*3x possible*)</td><td>Medium machine guns,<br>either at the co-pilot's hatch (*front-right*),<br> the commander's hatch (*center-right*),<br> or the transport room hatch (*back-left*).<br></td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt each</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>Rulebook [pg. X]</td></tr></table>
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG3 MMG <br>(*3x possible*)</td><td>Medium machine guns,<br>either at the co-pilot's hatch (*front-right*),<br> the commander's hatch (*center-right*),<br> or the transport room hatch (*back-left*).<br></td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt each</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>-</td></tr></table>
 
 ### GTK Boxer Tranport
 
@@ -546,8 +569,8 @@ Set to replace the Fuchs, developed in 1962-69 and
 | Cost | 55 pt / 60 pt / 65 pt |
 | Capacity | 7 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-|Options|-
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options |-
 | Special rules | -
 
 ### MAN gl Transport
@@ -558,7 +581,7 @@ Set to replace the Fuchs, developed in 1962-69 and
 | Capacity | 16 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Default weapon configuration |- |
-|Options|-
+| Options |-
 | Special rules | -
 
 ### Unimog
@@ -569,7 +592,7 @@ Set to replace the Fuchs, developed in 1962-69 and
 | Capacity | 12 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Default weapon configuration |- |
-|Options|-
+| Options |-
 | Special rules | -
 
 ### Wolf G5 Jeep
@@ -580,7 +603,7 @@ Set to replace the Fuchs, developed in 1962-69 and
 | Capacity | 6 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Default weapon configuration |- |
-|Options|-
+| Options |-
 | Special rules | -
 
 ### Unterstützungshubschrauber UH-1D "Huey"
@@ -591,5 +614,5 @@ Set to replace the Fuchs, developed in 1962-69 and
 | Capacity | 8 soldiers |
 | Damage value | 7+ Medium helicopter |
 | Default weapon configuration |- |
-|Options|-
+| Options |-
 | Special rules | -
