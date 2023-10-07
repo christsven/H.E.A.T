@@ -322,7 +322,7 @@ light howitzer.
 | :---- | ---- |
 | Cost | 40 pt / 50 pt / 60 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (LIGHT HOWITZER) + 3 loader |
+| Setup | NCO (LIGHT HOWITZER) + 2 loader |
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
@@ -334,7 +334,7 @@ medium howitzer.
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (MEDIUM HOWITZER) + 3 loader |
+| Setup | NCO (MEDIUM HOWITZER) + 2 loader |
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
@@ -346,7 +346,7 @@ heavy howitzer.
 | :---- | ---- |
 | Cost | 92 pt / 115 pt / 138 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (HEAVY HOWITZER) + 4 loader |
+| Setup | NCO (HEAVY HOWITZER) + 3 loader |
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 4"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
