@@ -57,12 +57,12 @@ Small reconnaissance infantry team, watching the area in front of friendly force
 and reporting enemy troop movement. Can be fielded on quad bikes for faster
 repositioning.
 
-| Aufklärertrupp | Infantry unit |
+| Aufklärertrupp | Light infantry unit |
 | :---- | ---- |
 | Cost | 20 pt / 30 pt / 40 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 1 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+20 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Quad Bikes</td><td>Unit is equipped with quad bikes.<br><br>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes) for more information.</td><td>+15 pt/unit</td></tr></table>|
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+20 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Quad Bikes</td><td>Unit is equipped with quad bikes.<br><br>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes) for more information.</td><td>+15 pt/unit</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
 
 ### Aufklärergruppe
@@ -144,7 +144,7 @@ Support infantry, used to clear terrain or restrict enemy movement.
 | Cost | 40 pt / 55 pt / 70 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (SMG) + 2 attendants (SMG) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Sprengrohr<br>(*Bangalore*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Mines</td><td>See IED section in [ruleset](../ruleset/H.E.A.T.md#improvised-explosive-devices-ied-and-mines).<br>They behave the same as IEDs,<br>but can't be disguised.<br>Conventional forces don't use decoys.<td>+15 pt</td></tr></table>
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Sprengrohr<br>(*Bangalore*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Mines</td><td>See IED section in [ruleset](../ruleset/H.E.A.T.md#improvised-explosive-devices-ied-and-mines).<br>They behave the same as IEDs,<br>but can't be disguised.<br>Conventional forces don't use decoys.<td>+20 pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr></table>
 
 ### G22A2 sniper team
@@ -209,7 +209,7 @@ A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special servi
 | Reinforcement | - |
 | Setup | NCO ( MMG ) |
 |Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes)</td></tr><tr><td>Rear-mounted MMG</td><td>Fire ark of MG3 is to the back and 90° to each side(so 9 and 3 o'clock from the drivers perspective).</table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes)</td></tr><tr><td>Rear-mounted MMG</td><td>Fire ark of MG3 is to the back and 90° to each side<br>(so 9 and 3 o'clock from the drivers perspective).</table>
 
 ### GraMaWa team
 
@@ -266,9 +266,9 @@ for forward reconnaissance.
 | :---- | ---- |
 | Cost | 41 pt / 52 pt / 63 pt |
 | Reinforcement | up to 2 attendants (SMG): 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (UAV) |
+| Setup | NCO (PDW) |
 | Options | -
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br><br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr></table>
 
 ***
 
@@ -281,8 +281,8 @@ light mortar team.
 | M224 LWCMS 60mm<br>light mortar team | Mortar team |
 | :---- | ---- |
 | Cost | 24 pt / 35 pt / 46 pt |
-| Reinforcement | Spotter +10 pt |
-| Setup | NCO (LIGHT MORTAR) + 1 loader |
+| Reinforcement | Spotter (PDW) +10 pt |
+| Setup | NCO (LIGHT MORTAR) + 1 loader (PISTOL) |
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
@@ -294,7 +294,7 @@ medium mortar team.
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | Spotter +10 pt |
-| Setup | NCO (MEDIUM MORTAR) + 1 loader |
+| Setup | NCO (MEDIUM MORTAR) + 1 loader (PISTOL) |
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
@@ -306,7 +306,7 @@ Mörser 120mm with "Erdsporen" for non-vehicle deployment.
 | :---- | ---- |
 | Cost | 46 pt / 65 pt / 84 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (HEAVY MORTAR) + 2 loader |
+| Setup | NCO (HEAVY MORTAR) + 2 loader (PISTOL) |
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
@@ -322,7 +322,7 @@ light howitzer.
 | :---- | ---- |
 | Cost | 40 pt / 50 pt / 60 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (LIGHT HOWITZER) + 2 loader |
+| Setup | NCO (LIGHT HOWITZER) + 2 loader (PISTOL) |
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
@@ -334,7 +334,7 @@ medium howitzer.
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (MEDIUM HOWITZER) + 2 loader |
+| Setup | NCO (MEDIUM HOWITZER) + 2 loader (PISTOL) |
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
@@ -346,7 +346,7 @@ heavy howitzer.
 | :---- | ---- |
 | Cost | 92 pt / 115 pt / 138 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (HEAVY HOWITZER) + 3 loader |
+| Setup | NCO (HEAVY HOWITZER) + 3 loader (PISTOL) |
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 4"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
@@ -427,7 +427,7 @@ Mine resistant personell carrier.
 | Options | TODO
 | Special rules | -
 
-### ATF Dingo 2
+#### ATF Dingo 2
 
 Larger version of the Dingo on an Unimog 5000 frame.
 
@@ -543,6 +543,8 @@ gradually being replaced by more modern IFV designs in some armed forces.
 ## Reinforcing Vehicles [ 0 - 1 ]
 
 ### Hauptkampfpanzer Leopard 2A6
+
+![leopard mbt image](../factions/ressources/leopard-mbt.excalidraw.png)
 
 The Leopard 2A6 features a powerful 120mm smoothbore gun, advanced armor
 protection, and state-of-the-art technology. With a crew of four, it is known for
