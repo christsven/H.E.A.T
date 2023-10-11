@@ -401,6 +401,8 @@ Any vehicle that has the IFV rule can also choose to ignore it and act on its ow
 
 ### LGS Fennek
 
+![fennek apc picture](../factions/ressources/fennek-apc.excalidraw.png)
+
 Small and fast car used for reconnaissance and command roles.
 
 | Fennek | Light armoured car |
@@ -411,6 +413,8 @@ Small and fast car used for reconnaissance and command roles.
 | Default weapon configuration | - |
 
 ### ATF Dingo 1
+
+![dingo mrap picture](../factions/ressources/dingo-apc.excalidraw.png)
 
 Mine resistant personell carrier.
 
@@ -438,7 +442,7 @@ Larger version of the Dingo on an Unimog 5000 frame.
 
 ### M113
 
-![m113 image](./../ruleset/ressources/ifvs.excalidraw.png)
+![m113 apc image](./../ruleset/ressources/ifvs.excalidraw.png)
 
 A true workhorse of NATO forces, the M113 comes in dozens of variants and has
 been used by more countries than not since the 1960s. The Bundeswehr uses it
@@ -474,6 +478,8 @@ APC can be equipped with medical equipment, command utility or recon modificatio
 
 ### GTK Boxer
 
+![gtk boxer picture](../factions/ressources/gtk-boxer.excalidraw.png)
+
 The GTK Boxer is a German-designed and manufactured Infantry Fighting Vehicle (IFV)
 known for its versatility and modular design. It is part of the Boxer family of
 armored vehicles, which includes various configurations for different military roles.
@@ -491,6 +497,9 @@ troops on the battlefield.
 
 ### SPz 1A3 Marder
 
+![amrder ifv picture](../factions/ressources/marder-ifv.excalidraw.png)
+
+
 The Marder is a German Infantry Fighting Vehicle (IFV) that has been in service
 since the 1970s. It was designed to transport infantry troops and support them
 on the battlefield. While it has seen several upgrades over the years, it is
@@ -507,6 +516,8 @@ gradually being replaced by more modern IFV designs in some armed forces.
 
 ### SPz Puma
 
+![spz puma image](../factions/ressources/spz-puma.excalidraw.png)
+
 | SPz Puma | APC / IFV |
 | :---- | ---- |
 | Cost | 164 pt / 179 pt / 194 pt |
@@ -518,7 +529,6 @@ gradually being replaced by more modern IFV designs in some armed forces.
 
 ### M2/M3 Bradley
 
-| M2/M3 Bradley | APC / IFV |
 | M2/M3 Bradley | APC / IFV |
 | :---- | ---- |
 | Cost | 134 pt / 149 pt / 164 pt |
