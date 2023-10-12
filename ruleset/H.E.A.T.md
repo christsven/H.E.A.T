@@ -258,14 +258,6 @@ spotter and artillery.
 The UAV uses the same damage value as its team. They always deploy grounded with
 the operator, except if the scenario rules state otherwise.
 
-###### Default unit costs
-
-| Veterancy | Cost | Cost<br>attendant |
-| ---- | ---- | ---- |
-| Inexperienced | 35 pt | 7 pt |
-| Regular | 50 pt | 10 pt |
-| Veteran | 65 pt | 13 pt |
-
 ##### Movement
 
 A drone can be suspended at any height below 2' (60cm). Per activation, either
@@ -360,14 +352,6 @@ If the target ends the turn out of LoS or the ATGM operator unit goes DOWN or
 moves, the missile is destroyed. This behaviour can be mitigated by using more
 modern equipment, which is no longer wire-guided. For details on that, see the
 "Fire-and-Forget"-special rule.
-
-###### Default weapon costs
-
-| Veterancy | Cost |
-| ---- | ---- |
-| Inexperienced | 60 pt |
-| Regular | 85 pt |
-| Veteran | 110 pt |
 
 ##### Rule
 
@@ -586,14 +570,6 @@ Similar to machine guns, these weapons are fixed-position guns controlling areas
 and channeling enemy forces. They fire multiple grenades per salvo, which can easily
 decimate infantry groups.
 
-###### Default unit costs
-
-| Veterancy | Cost |
-| ---- | ---- |
-| Inexperienced | 50 pt |
-| Regular | 60 pt |
-| Veteran | 75 pt |
-
 ##### Rule
 
 | Rule | Description |
@@ -620,7 +596,7 @@ Since MANPADS are about 3x as fast as ATGMs (as a comparison, a TOW flies at aro
 the ATGM inch-per-round treatment. Rather, an attacked vehicle is able to react
 based on its condition and distance to the attacker, as seen below:
 
-[manpads flowchart](./manpads-flowchart.excalidraw.png)
+![manpads flowchart](./ressources/manpads-flowchart.excalidraw.png)
 
 The MANPADS team consists of a gunner and a loader, and behaves otherwise similar
 to an RPG team. The weapon is fixed and cannot be fired after moving. A direct LoS
@@ -633,6 +609,7 @@ MANPADS can also be deployed on a tripod as a stationary weapon system.
 | Rule | Description |
 | :--- | :--- |
 | MANPADS | Portable air defense system. Fires from a fixed position.<br>Roll against [flowchart](#gameplay-9) when firing at enemy unit. |
+| Countermeasures | Anti-missile countermeasures, released to confuse<br>the rocket target lock. If able to release,this adds a<br>-2 to hit modifier to a MANPADS attack roll.Not single-use,<br>can be used multiple times.|
 
 ****
 

@@ -408,6 +408,22 @@ Forward observer
 
 ***
 
+## Anti-Air systems [ 0 - 1 ]
+
+### Strela ground team
+
+Small team of infantry with a MANPADS Strela Surface-to-air-missile launcher.
+
+| MANPADS<br>team | Infantry unit |
+| :---- | ---- |
+| Cost | 50 pt / 65 pt / 80 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (MANPADS) + 1 loader (SMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>MANPADS</td><td>See [ruleset](../ruleset/H.E.A.T.md#manportable-air-defense-systems-manpads) for more information.</td></tr></table>
+
+***
+
 ## Armoured Personell Carriers / Infantry Fighting Vehicles
 
 If a vehicle has the IFV rule and is chosen in an IFV role, these vehicles are connected to the first and second mandatory infantry units.
