@@ -62,7 +62,7 @@ A list of game scenarios for singular matches, set in the estonian civil war.
 
 [Surprise Attack](/reports/report-2.md)
 
-[Logistical Operations](/scenarios/scenario-logistics.md)
+[Logistical Operations](/scenarios/report-3.md)
 
 #### Match Reports
 
