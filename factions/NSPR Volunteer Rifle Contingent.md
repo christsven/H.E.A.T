@@ -5,16 +5,27 @@
 ## Links
 
 [Platoon Leader](#armoured-personell-carriers--infantry-fighting-vehicles)
+
 [Infantry Units](#infantry-units--2---5)
+
 [Combat Support Units](#combat-support-units--0---1)
+
 [Machine gun](#machine-gun-team--0---1)
+
 [AT](#anti-tank-team--0---1)
+
 [AA](#anti-air-systems--0---1)
+
 [Drone](#drone-team--0---1)
+
 [Mortar](#mortar-team--0---1)
+
 [Artillery](#artillery--0---1)
+
 [IFVs and APCs](#armoured-personell-carriers--infantry-fighting-vehicles)
+
 [Heavy Armour](#extended-vehicle-pool--0---1)
+
 [Transports](#transport)
 
 ## Army modifiers
