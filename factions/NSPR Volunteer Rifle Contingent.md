@@ -2,6 +2,21 @@
 
 ![nspr logo](./ressources/nspr-rifle-contingent-logo.excalidraw.png)
 
+## Links
+
+[Platoon Leader](#armoured-personell-carriers--infantry-fighting-vehicles)
+[Infantry Units](#infantry-units--2---5)
+[Combat Support Units](#combat-support-units--0---1)
+[Machine gun](#machine-gun-team--0---1)
+[AT](#anti-tank-team--0---1)
+[AA](#anti-air-systems--0---1)
+[Drone](#drone-team--0---1)
+[Mortar](#mortar-team--0---1)
+[Artillery](#artillery--0---1)
+[IFVs and APCs](#armoured-personell-carriers--infantry-fighting-vehicles)
+[Heavy Armour](#extended-vehicle-pool--0---1)
+[Transports](#transport)
+
 ## Army modifiers
 
 ### Territorial knowledge
@@ -37,6 +52,8 @@ These vehicle types do have to suffer one of the following modifiers:
 
 ## Platoon leader **[ 1 ]**
 
+![platoon leader](../factions/ressources/platoon-leader-nspr.excalidraw.png)
+
 ### Assistant Commander
 
 | Assistant Commander | Platoon Leader |
@@ -60,6 +77,8 @@ These vehicle types do have to suffer one of the following modifiers:
 ***
 
 ## Infantry Units **[ 2 - 5 ]**
+
+![infantry! ](../factions/ressources/infantry-nspr.excalidraw.png)
 
 ### Forward reconnaissance team
 
@@ -434,7 +453,7 @@ Any vehicle that has the IFV rule can also choose to ignore it and act on its ow
 
 ![btr d image](../factions/ressources/btrd.excalidraw.png)
 
-| M113 | APC / IFV Armoured Carrier |
+| M113 | Armoured Carrier |
 | :---- | ---- |
 | Cost | 92 pt / 110 pt / 128 pt |
 | Capacity | 10 soldiers |
@@ -451,13 +470,28 @@ Old, soviet-made personell carrier from the 60s. Can be deployed reinforced by a
 turret with a 14.5mm auto cannon  (BTR-60PB), which lead to a reduction in troop
 capacity.
 
-| BTR-60P/PB | APC / IFV Armoured Carrier |
+| BTR-60P/PB | Armoured Carrier |
 | :---- | ---- |
 | Cost | 85 pt / 100 pt / 115 pt |
 | Capacity | 14 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
 |Options|<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td><td>+ 40 pt</td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.<br><br>Reduces the capacity to **8**.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>-</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
+
+### BTR-80
+
+![btr 80](../factions/ressources/btr80.excalidraw.png)
+
+More modern version of the older BTR series.
+
+| BTR-80 | Armoured Carrier |
+| :---- | ---- |
+| Cost | 110 pt / 120 pt / 130 pt |
+| Capacity | 7 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table> |
+|Options|-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
 
 ### MT-LB
@@ -467,7 +501,7 @@ capacity.
 The MT-LB is a Soviet multi-purpose, fully amphibious, tracked armored fighting
 vehicle in use since the 1970s.
 
-| BTR-60P/PB | APC / IFV Armoured Carrier |
+| BTR-60P/PB | Armoured Carrier |
 | :---- | ---- |
 | Cost | 70 pt / 85 pt / 100 pt |
 | Capacity | 11 soldiers |
