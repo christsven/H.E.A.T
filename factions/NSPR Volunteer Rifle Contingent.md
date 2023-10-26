@@ -500,6 +500,8 @@ predate the Berlin wall.
 
 ### PT-76
 
+![pt 76 image](../factions/ressources/pt76.excalidraw.png)
+
 Developed in the 60s and since used in most soviet armies, the PT-76 and its
 derivatives serve to this day as light reconnaissance tanks. An amphibious tank
 with a 76.2mm main gun, capable of damaging lightly armoured vehicles.
@@ -514,6 +516,8 @@ with a 76.2mm main gun, capable of damaging lightly armoured vehicles.
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Amphibious</td><td>Rulebook</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrel to propell a kinetic round. While firing HE rounds<br> as a light AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table>
 
 ### Toyota Hilux
+
+![toyota technical image](../factions/ressources/toyota.excalidraw.png)
 
 In this role the Hilux serves the full spectrum of armoured support. With almost
 anything the separtists deemed small enough to work being bolted to one, this
