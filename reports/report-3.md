@@ -12,6 +12,8 @@ The NSPR forces on site were alerted to the attack and have called for backup.
 
 The centre of the map should contain a logistical site in any form, for example with warehouses, office buildings, storate sites, etc. It should take up an area about 12" in all directions around the centre. One or two sites are designated as Victory points. Ending the match within 1" of the VP earns the player 2 VP. Any destroyed unit earns 1 VP.
 
+****
+
 #### NATO/VJTF
 
 | Rule | Description |
@@ -28,6 +30,8 @@ The centre of the map should contain a logistical site in any form, for example 
 | KSK Quad MG3 ||||||
 | M252 81mm Medium mortar ||||||
 | Bradley M2A3 ||||||
+
+****
 
 #### NSPR
 
