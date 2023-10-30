@@ -23,13 +23,24 @@ The centre of the map should contain a logistical site in any form, for example 
 | Unit name | Units | Veterancy | Weaponry | Special Rules | Cost |
 | :---- | ---- | ---- | ---- | ---- | ---- |
 | Fernspäher ||||||
-| Panzergrenadiere |||
-| KSK Quad MG3 |||
-|||||
-| Bradley M2A3 |||
+| Panzergrenadiere ||||||
+| KSK Quad MG3 ||||||
+| M252 81mm Medium mortar ||||||
+| Bradley M2A3 ||||||
 
 #### NSPR
 
 | Rule | Description |
 | :---- | ---- |
 | Starting position | The NSPR forces start within the logistical hub. They may be placed anywhere within the compound. Helicopters start grounded. Up to 25% of dice may start in reserve and enter from the opposite side of NATO forces. |
+
+##### Unit list example
+
+
+| Unit name | Units | Veterancy | Weaponry | Special Rules | Cost |
+| :---- | ---- | ---- | ---- | ---- | ---- |
+| Patrol Squad ||||||
+| Resistance Infantry Squad ||||||
+| Plamja AGL ||||||
+| Konkurs ATGM ||||||
+| Mi-2 Helicopter (T) ||||||
