@@ -22,6 +22,7 @@ The centre of the map should contain a logistical site in any form, for example 
 
 | Unit name | Units | Veterancy | Weaponry | Special Rules | Cost |
 | :---- | ---- | ---- | ---- | ---- | ---- |
+| Leutnant ||||||
 | Fernspäher ||||||
 | Panzergrenadiere ||||||
 | KSK Quad MG3 ||||||
@@ -39,8 +40,10 @@ The centre of the map should contain a logistical site in any form, for example 
 
 | Unit name | Units | Veterancy | Weaponry | Special Rules | Cost |
 | :---- | ---- | ---- | ---- | ---- | ---- |
+| Assistant Commander ||||||
 | Patrol Squad ||||||
 | Resistance Infantry Squad ||||||
 | Plamja AGL ||||||
 | Konkurs ATGM ||||||
+| Medium mortar ||||| Free |
 | Mi-2 Helicopter (T) ||||||
