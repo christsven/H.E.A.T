@@ -43,7 +43,7 @@ The centre of the map should contain a logistical site in any form, for example 
 | Assistant Commander ||||||
 | Patrol Squad ||||||
 | Resistance Infantry Squad ||||||
-| Plamja AGL ||||||
 | Konkurs ATGM ||||||
+| Toyota w/ AGS-17 ||||||
 | Medium mortar ||||| Free |
 | Mi-2 Helicopter (T) ||||||
