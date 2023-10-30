@@ -18,6 +18,16 @@ The centre of the map should contain a logistical site in any form, for example 
 | :---- | ---- |
 | Starting position | NATO forces start on one side within 10" of the table edge, chosen by the player. Any amount of units may start in reserve, only helicopters are required to start in reserve. |
 
+##### Unit list example
+
+| Unit name | Units | Veterancy | Weaponry | Special Rules | Cost |
+| :---- | ---- | ---- | ---- | ---- | ---- |
+| Fernspäher ||||||
+| Panzergrenadiere |||
+| KSK Quad MG3 |||
+|||||
+| Bradley M2A3 |||
+
 #### NSPR
 
 | Rule | Description |
