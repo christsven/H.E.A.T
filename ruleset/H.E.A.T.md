@@ -51,6 +51,8 @@ This does not apply if operated as e. g. a vehicle weapon.
 
 ### Vehicle-mounted or fixed weapon systems chart
 
+Every following unit is counted as a system operator plus the given amount of attendants.
+
 | Vehicle weapon systems | Atten-<br>dants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
 | Light anti-tank gun | 2 | 0" - 48" | 1 | +4 | HE 1" |
@@ -64,6 +66,8 @@ This does not apply if operated as e. g. a vehicle weapon.
 
 ### Indirect fire weapons chart
 
+Every following unit is counted as a system operator plus the given amount of attendants.
+
 | Indirect fire<br>systems | Atten-<br>dants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
 | Light mortar | 1 | 12" - 24" | 1 | HE | Team,<br> Indirect Fire, HE 1" |
@@ -74,6 +78,8 @@ This does not apply if operated as e. g. a vehicle weapon.
 | Heavy howitzer | 3 | 0" - 72"<br>(36" - 84") | 1 | HE | Team, Fixed,<br> Howitzer, HE 4" |
 
 ### Explosives and rockets weapons chart
+
+Every following unit is counted as a system operator plus the given amount of attendants.
 
 Additional weapon systems, explosives, mines, ...
 
