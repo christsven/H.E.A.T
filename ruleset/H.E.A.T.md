@@ -48,6 +48,7 @@ This does not apply if operated as e. g. a vehicle weapon.
 | Sniper | 1 | 12" - 48" | 1 | - | Team, Sniper|
 | Anti-materiel rifle | 1 | 12" - 36" | 1 | +2 | Team, Sniper, Fixed |
 | Flamethrower (Infantry) | 1 | 0" - 6" | D6 | +3 | Team, Flamethrower |
+| Automatic grenade launcher | 1 | 0" - 36" | 2 | HE | Team, Fixed, HE 1" |
 
 ### Vehicle-mounted or fixed weapon systems chart
 
