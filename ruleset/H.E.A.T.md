@@ -338,7 +338,7 @@ which takes a successful RALLY order.
 
 | Rule | Description |
 | :--- | :--- |
-| Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order<br>Unit is connected via a wireless connection to the operator |
+| Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order |
 
 ****
 
