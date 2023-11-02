@@ -20,9 +20,11 @@
 
 [Drone](./NSPR%20Volunteer%20Rifle%20Contingent.md#drone-team--0---1)
 
-[Mortar](./NSPR%20Volunteer%20Rifle%20Contingent.md#mortar-team--0---1)-
+[Mortar](./NSPR%20Volunteer%20Rifle%20Contingent.md#mortar-team--0---1-)
 
-[Artillery](./NSPR%20Volunteer%20Rifle%20Contingent.md#artillery--0---1)
+[Artillery](./NSPR%20Volunteer%20Rifle%20Contingent.md#artillery--0---1-)
+
+[Artillery Support](./NSPR%20Volunteer%20Rifle%20Contingent.md#artillery-support--0---1-)
 
 [IFVs and APCs](./NSPR%20Volunteer%20Rifle%20Contingent.md#armoured-personell-carriers--infantry-fighting-vehicles)
 
@@ -247,6 +249,16 @@ cover.
 | Setup | NCO (AMR) + 1 attendant (SMG) |
 |Options|-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>-</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table>
+
+### Medic
+
+| Medic | Combat support unit |
+| :---- | ---- |
+| Cost | - / - / 45 pt |
+| Reinforcement | - |
+| Setup | NCO (unarmed) |
+|Options|-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Medic</td><td>-</td></tr></table>
 
 ***
 

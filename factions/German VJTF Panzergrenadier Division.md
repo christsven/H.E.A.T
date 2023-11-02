@@ -202,6 +202,17 @@ Anti materiell rifle sniper team.
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>-</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table>
 
+### Sani
+
+| Medic | Combat support unit |
+| :---- | ---- |
+| Cost | - / - / 45 pt |
+| Reinforcement | - |
+| Setup | NCO (unarmed) |
+|Options|-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Medic</td><td>-</td></tr></table>
+
+
 ***
 
 ## Machine gun team [ 0 - 1 ]
