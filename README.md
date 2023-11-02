@@ -23,11 +23,23 @@ reinforced Bundeswehr Panzergrenadier infantry platoon.
 
 [VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
-#### UN peacekeeping and support brigade
+#### WIP: UN peacekeeping and support brigade
 
 Roster for a UNFOR support brigade composed of french and american equipment.
 
 [UNFOR Roster]()
+
+#### WIP: Baltic Security Partnership Brigade
+
+Fictional treaty brigade formed in Scenario. Composed of lithuanian, estonian and latvian equipment.
+
+[BASEP Roster]()
+
+#### WIP: Estonian 1. Jalaväebrigaad
+
+Estonian 1. Infantry brigade roster.
+
+[Estonian Roster]()
 
 ### INDEPENDENT
 
@@ -39,6 +51,8 @@ of former soviet-army material.
 [NSPR Roster](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
 
 ### OPFOR
+
+#### WIP: Russian Forces
 
 Roster for a generic Russian Federation ground force, with equipment used as present in the 2010s to 2020s.
 
