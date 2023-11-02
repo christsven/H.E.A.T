@@ -2,6 +2,8 @@
 
 ![nspr logo](./ressources/nspr-rifle-contingent-logo.excalidraw.png)
 
+***
+
 ## Links
 
 [Platoon Leader](./NSPR%20Volunteer%20Rifle%20Contingent.md#platoon-leader--1)
@@ -27,6 +29,8 @@
 [Heavy Armour](./NSPR%20Volunteer%20Rifle%20Contingent.md#extended-vehicle-pool--0---1)
 
 [Transports](./NSPR%20Volunteer%20Rifle%20Contingent.md#transport)
+
+***
 
 ## Army modifiers
 
