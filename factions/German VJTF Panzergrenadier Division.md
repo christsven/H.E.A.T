@@ -32,7 +32,6 @@
 
 [Transports](German%20VJTF%20Panzergrenadier%20Division.md#transports)
 
-
 ***
 
 ## Army modifiers
