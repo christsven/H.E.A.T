@@ -25,9 +25,9 @@ reinforced Bundeswehr Panzergrenadier infantry platoon.
 
 #### WIP: UN peacekeeping and support brigade
 
-Roster for a UNFOR support brigade composed of french and american equipment.
+Roster for a UNFIBAL support brigade composed of french and american equipment.
 
-[UNFOR Roster]()
+[UNFIBAL Roster]()
 
 #### WIP: Baltic Security Partnership Brigade
 
