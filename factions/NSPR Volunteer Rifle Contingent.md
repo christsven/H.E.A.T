@@ -4,29 +4,29 @@
 
 ## Links
 
-[Platoon Leader](#armoured-personell-carriers--infantry-fighting-vehicles)
+[Platoon Leader](./NSPR%20Volunteer%20Rifle%20Contingent.md#platoon-leader--1)
 
-[Infantry Units](#infantry-units--2---5)
+[Infantry Units](./NSPR%20Volunteer%20Rifle%20Contingent.md#infantry-units--2---5)
 
-[Combat Support Units](#combat-support-units--0---1)
+[Combat Support Units](./NSPR%20Volunteer%20Rifle%20Contingent.md#combat-support-units--0---1)
 
-[Machine gun](#machine-gun-team--0---1)
+[Machine gun](./NSPR%20Volunteer%20Rifle%20Contingent.md#machine-gun-team--0---1)
 
-[AT](#anti-tank-team--0---1)
+[AT](./NSPR%20Volunteer%20Rifle%20Contingent.md#anti-tank-team--0---1)
 
-[AA](#anti-air-systems--0---1)
+[AA](./NSPR%20Volunteer%20Rifle%20Contingent.md#anti-air-systems--0---1)
 
-[Drone](#drone-team--0---1)
+[Drone](./NSPR%20Volunteer%20Rifle%20Contingent.md#drone-team--0---1)
 
-[Mortar](#mortar-team--0---1)
+[Mortar](./NSPR%20Volunteer%20Rifle%20Contingent.md#mortar-team--0---1)-
 
-[Artillery](#artillery--0---1)
+[Artillery](./NSPR%20Volunteer%20Rifle%20Contingent.md#artillery--0---1)
 
-[IFVs and APCs](#armoured-personell-carriers--infantry-fighting-vehicles)
+[IFVs and APCs](./NSPR%20Volunteer%20Rifle%20Contingent.md#armoured-personell-carriers--infantry-fighting-vehicles)
 
-[Heavy Armour](#extended-vehicle-pool--0---1)
+[Heavy Armour](./NSPR%20Volunteer%20Rifle%20Contingent.md#extended-vehicle-pool--0---1)
 
-[Transports](#transport)
+[Transports](./NSPR%20Volunteer%20Rifle%20Contingent.md#transport)
 
 ## Army modifiers
 
