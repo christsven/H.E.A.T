@@ -237,6 +237,18 @@ to check against the following chart:
 | 2-3 | <li>+D3 pin marker to helicopter crew. </li><li>The unit goes DOWN.</li><li>Severe damage to the vehicle leads to a reduction in movement<br> speed by half, except downwards movements.</li><li>If the helicopter has a rotating weapon, roll for turret jam.</li> |
 | +4 |<li>The helicopter is considered destroyed.</li><li>It crashes 3D6 in a random direction, where it causes an explosion (HE 2").</li><li>Any passengers are considered destroyed.</li> |
 
+### Minor Additions
+
+#### Quad Bikes
+
+Quad Bikes are used by small units for traversing difficult terrain. They can be mounted on them, similar to how bicycles work. They move on any surface with the distances of a wheeled vehicle, but dont get the on-road bonus.
+
+Unit mounted on a quad bike c
+
+| Rule | Description |
+| ---- | ---- |
+| Quad Bikes | Behave the same as bicycles. Move as a wheeled vehicle without on road bonus. Can be chosen as an upgrade to a unit if available in unit options. |
+
 ### Weapon Systems
 
 #### Drones
