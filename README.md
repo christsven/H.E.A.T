@@ -2,17 +2,25 @@
 
 ![heatjaks](/ruleset/ressources/introduction.excalidraw.png)
 
-This is H.E.A.T, a 28mm platoon-sized wargame expansion. Ideal for 2010-2020 era symmetrical or assymetrical warfare.
+This is H.E.A.T, a 28mm platoon-sized wargame expansion. Ideal for 2010-2020 era
+symmetrical or assymetrical warfare.
+
+***
 
 ## Ruleset
 
-Currently updated ruleset can be found in the link below, for the older variant [here](ruleset/H.E.A.T.png).
+Currently updated ruleset can be found in the link below, for the older variant
+[here](ruleset/H.E.A.T.png).
 
 [H.E.A.T Ruleset](ruleset/H.E.A.T.md)
 
+***
+
 ## Factions
 
-Factions are ordered by alignment as seen from a NATO perspective. BLUFOR are all NATO or NATO-allied forces, OPFOR represents all enemy forces and INDEPENDENT is used for other factions.
+Factions are ordered by alignment as seen from a NATO perspective. BLUFOR are
+all NATO or NATO-allied forces, OPFOR represents all enemy forces and INDEPENDENT
+is used for other factions.
 
 ### BLUFOR
 
@@ -23,23 +31,25 @@ reinforced Bundeswehr Panzergrenadier infantry platoon.
 
 [VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
-#### WIP: UN peacekeeping and support brigade
-
-Roster for a UNFIBAL support brigade composed of french and american equipment.
-
-[UNFIBAL Roster]()
-
 #### WIP: Baltic Security Partnership Brigade
 
-Fictional treaty brigade formed in Scenario. Composed of lithuanian, estonian and latvian equipment.
+Fictional treaty Light Air Cavalry brigade formed in Scenario.
 
-[BASEP Roster]()
+Composed of lithuanian, estonian and latvian equipment.
 
-#### WIP: Estonian 1. Jalaväebrigaad
+[BASEP Roster](/factions/Baltic%20Security%20Partnership%20Brigade.md)
+
+#### TODO: Estonian 1. Jalaväebrigaad
 
 Estonian 1. Infantry brigade roster.
 
 [Estonian Roster]()
+
+#### TODO: UN peacekeeping and support brigade
+
+Roster for a UNFIBAL support brigade composed of french and american equipment.
+
+[UNFIBAL Roster]()
 
 ### INDEPENDENT
 
@@ -52,11 +62,14 @@ of former soviet-army material.
 
 ### OPFOR
 
-#### WIP: Russian Forces
+#### TODO: Russian Forces
 
-Roster for a generic Russian Federation ground force, with equipment used as present in the 2010s to 2020s.
+Roster for a generic Russian Federation ground force, with equipment used as
+present in the 2010s to 2020s.
 
 [OPFOR Roster]()
+
+***
 
 ## Theatre
 
@@ -66,7 +79,8 @@ For use in a campaign or as a more restrictive ruleset.
 
 War in Europe right next to the russian border.
 
-A very volatile situation ready to escalate to a full-blown land war between NATO and Russia over a single misstep on either side.
+A very volatile situation ready to escalate to a full-blown land war between NATO
+and Russia over a single misstep on either side.
 
 [Separatists in Estonia](/scenarios/SCENARIO%20Narva.md)
 
@@ -84,11 +98,14 @@ Personal matches with ruleset and lists.
 
 [T+0: First contact](/reports/report-1.md)
 
+***
+
 ## Templates
 
 ### Infantry/System operator unit template
 
-Units such as infantry groups, artillery, mortars, etc. are described in a table as seen below:
+Units such as infantry groups, artillery, mortars, etc. are described in a table
+as seen below:
 
 | Unit name | Unit type |
 | :---- | ---- |

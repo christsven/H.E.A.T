@@ -1,7 +1,5 @@
 # Breakaway Socialist Republic of Narva
 
-***
-
 <img src="ressources/NSPR flag.png" style="max-width: 50%">
 
 ## Scenario introduction
@@ -13,6 +11,8 @@ This is the first setting for H.E.A.T. as a modern, but fictional war in norther
 A revolution in the eastern district of Ida Viru in Estonia plunged the region into a civil war. Many of the larger settlements were swiftly taken under control of the Narva Socialist People's Republic (NSPR), which has a standing force of around 10-13.000 men. The NSPR forces are a patchwork of former soldiers, poorly trained civilians and paramilitary groups, which are as differently trained as they are equipped, making use of old soviet equiment, civilian vehicles and more modern weaponry sponsored by foreign donors. Ideologically just as split, the NSPR is internally divided between left-leaning revolutionaries seeking their own state and far right militias such as "Bratstwa", who want to become part of the Russian Federation.
 
 NATO now sends the VJTF (currently lead by the Bundeswehr with a Panzergrenadierdivision) to fight off the separatists, which for now means a assymetrical fight for control over the various cities and facilities under NSPR control. The RF has condemned the use of NATO troops without a UN mandate and threatens to send their own force in an effort to protect ethnic russians in the region.
+
+***
 
 ### Timetable
 
@@ -35,6 +35,59 @@ First clashes between paramilitary forces and police followed in March and April
 A bombing of a military convoi redeploying from an excercise in Sillamäe in August started a discussion to send peace keeping mission to Estonia.
 
 #### 2016 - Outbreak of war
+
+// TODO
+
+***
+
+### Baltic Security Partnership
+
+The BASEP was founded in 2013 as a reaction to tension arrising in several counties
+of the baltic states at the russian border. It was established as a combined
+brigade of all 3 state's ground force with the aim to signal cohesion and willingness
+to defend each other.
+
+Mission goals include:
+
+- Security in border regions
+- Operations within national parks
+- Low or non mechanized infantry operations
+
+Some other properties of this light infantry include
+
+- Fast Deployment in swamp and bogs
+- Modularity in equipment with NATO partners
+
+With large parts of the estonian and lithuanian forces being either reservists,
+volunteers and border guards, some of these structures were integrated into this
+newly formed brigade. Also, an air cavalry battalion is establised as a heavier
+support for the light infantry sections.
+
+- Headquarters and Signal Company
+- __1st Light Infantry Battalion "*Łauma*"__
+  - Headquarters and Support Company
+  - First Light Infantry Company
+  - Second Light Infantry Company
+  - Third Light Infantry Company (Reserve)
+  - Combat Service Support Company
+- __2st Light Infantry Battalion "*Kaukas*"__ (Reserve)
+  - Headquarters and Support Company (Reserve)
+  - First Light Infantry Company (Reserve)
+  - Second Light Infantry Company (Reserve)
+  - Third Light Infantry Company (Reserve)
+  - Combat Service Support Company (Reserve)
+- __Air Cavalry Battalion "*Vēja māte*"__
+  - Headquarters and Support Company
+  - First Air Cavalry Company
+  - Second Air Cavalry Company
+  - Aviation Company, General Support
+- __Artillery Company__ (Reserve)
+- __Combat Support Battalion__
+  - Signal Company
+  - Supply and Transport Company
+  - Technical Support and Maintenance Company
+  - Medical Company
+
 
 ***
 
