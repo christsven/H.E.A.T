@@ -10,7 +10,7 @@ full campaign is up to you.
 
 ### Breakdown
 
-A revolution in the eastern district of Ida Viru in Estonia plunged the region
+A revolution in the eastern district of Ida Viru in Estonia plunged Estonia
 into a civil war. Many of the larger settlements were swiftly taken under control
 of the Narva Socialist People's Republic (NSPR), which has a standing force of
 around 10-13.000 men. The NSPR forces are a patchwork of former soldiers, poorly
