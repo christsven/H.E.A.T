@@ -22,14 +22,14 @@ The centre of the map should contain a logistical site in any form, for example 
 
 ##### Unit list example
 
-| Unit name | Units | Veterancy | Weaponry | Special Rules | Cost |
-| :---- | ---- | ---- | ---- | ---- | ---- |
-| Leutnant ||||||
-| Fernspäher ||||||
-| Panzergrenadiere ||||||
-| KSK Quad MG3 ||||||
-| M252 81mm Medium mortar ||||||
-| Bradley M2A3 ||||||
+| Unit name | Units | Veterancy | Weaponry | Single-Use | Special Rules | Cost |
+| :---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Leutnant |||||||
+| Fernspäher |||||||
+| Panzergrenadiere |||||||
+| KSK Quad MG3 |||||||
+| M252 81mm Medium mortar |||||||
+| Bradley M2A3 |||||||
 
 ****
 
@@ -42,12 +42,12 @@ The centre of the map should contain a logistical site in any form, for example 
 ##### Unit list example
 
 
-| Unit name | Units | Veterancy | Weaponry | Special Rules | Cost |
-| :---- | ---- | ---- | ---- | ---- | ---- |
-| Assistant Commander ||||||
-| Patrol Squad ||||||
-| Resistance Infantry Squad ||||||
-| Konkurs ATGM ||||||
-| Toyota w/ AGS-17 ||||||
-| Medium mortar ||||| Free |
-| Mi-2 Helicopter (T) ||||||
+| Unit name | Units | Veterancy | Weaponry | Single-Use | Special Rules | Cost |
+| :---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Assistant Commander |||||||
+| Patrol Squad |||||||
+| Resistance Infantry Squad |||||||
+| Konkurs ATGM |||||||
+| Toyota w/ AGS-17 |||||||
+| Medium mortar |||||| Free |
+| Mi-2 Helicopter (T) |||||||
