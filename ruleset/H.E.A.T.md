@@ -129,9 +129,8 @@ The IFV combines transport capabilities with a combat role. Since they work
 extensively interconnected with the infantry they carry, the NCO role of the
 infantry group is filled by the IFV itself.
 
-The infantry group and the IFV are still two different units, but they are
-"connected" to each other; an IFV cannot be deployed without a connected infantry
-group.
+The infantry group and the IFV are still two different units with
+separate order dice.
 
 If the infantry unit is destroyed, the IFV does not need to be removed and serves
 as a normal vehicle. If the connected unit is separated by more than 36" from its
