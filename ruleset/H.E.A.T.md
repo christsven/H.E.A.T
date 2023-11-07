@@ -304,6 +304,8 @@ the DOT, upon activation the following test has to be passed:
 
 ![drone range image](./ressources/drone-rule-range-flowchart.excalidraw.png)
 
+After losing connection, the DOT can try again next round, but has to pass the test again.
+
 ##### Variants
 
 ###### Reconnaissance
