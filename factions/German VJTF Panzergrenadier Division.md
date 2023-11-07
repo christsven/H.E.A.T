@@ -140,7 +140,7 @@ Part of the NATO VJTF response regiment, during 2015 era consisting of german
 armoured infantry. Able to deploy rapidly and well equipped to face most
 conventional threats.
 
-| Panzergrenadiergruppe | Infantry unit |
+| Rapid Response<br>squad | Infantry unit |
 | :---- | ---- |
 | Cost | - / 60 pt / 75 pt |
 | Reinforcement | up to 5 attendants (AR): - pt / 10 pt / 13 pt |
@@ -153,7 +153,7 @@ conventional threats.
 Special reconaissance infantry, able to strike deep into enemy territory and
 report movement back to the command structure.
 
-| Fernspähergruppe | Infantry unit |
+| Fernspäher-<br>gruppe | Infantry unit |
 | :---- | ---- |
 | Cost | - / 65 pt / 80 pt |
 | Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -169,7 +169,7 @@ report movement back to the command structure.
 
 Support infantry, used to clear terrain or restrict enemy movement.
 
-| Panzerpioniergruppe | Combat support unit |
+| Panzerpionier-<br>gruppe | Combat support unit |
 | :---- | ---- |
 | Cost | 40 pt / 55 pt / 70 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt each |
