@@ -5,16 +5,12 @@
 This is H.E.A.T, a 28mm platoon-sized wargame expansion. Ideal for 2010-2020 era
 symmetrical or assymetrical warfare.
 
-***
-
 ## Ruleset
 
 Currently updated ruleset can be found in the link below, for the older variant
 [here](ruleset/H.E.A.T.png).
 
 [H.E.A.T Ruleset](ruleset/H.E.A.T.md)
-
-***
 
 ## Factions
 
@@ -69,8 +65,6 @@ present in the 2010s to 2020s.
 
 [OPFOR Roster]()
 
-***
-
 ## Theatre
 
 For use in a campaign or as a more restrictive ruleset.
@@ -97,8 +91,6 @@ A list of game scenarios for singular matches, set in the estonian civil war.
 Personal matches with ruleset and lists.
 
 [T+0: First contact](/reports/report-1.md)
-
-***
 
 ## Templates
 
