@@ -87,7 +87,7 @@ Small reconnaissance infantry team, watching the area in front of friendly force
 and reporting enemy troop movement. Can be fielded on quad bikes for faster
 repositioning.
 
-| Aufklärertrupp | Light infantry unit |
+| Aufklärer-<br>trupp | Light infantry unit |
 | :---- | ---- |
 | Cost | 20 pt / 30 pt / 40 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -100,7 +100,7 @@ repositioning.
 Reconnaissance infantry group, watching the area in front of friendly forces
 and reporting enemy troop movement.
 
-| Aufklärergruppe | Infantry unit |
+| Aufklärer-<br>gruppe | Infantry unit |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -126,7 +126,7 @@ motorized support.
 Armored infantry squad, the core of any modern fighting force. Deployed as the
 infanty part of german IFVs.
 
-| Panzergrenadiergruppe | Infantry unit |
+| Panzergrenadier-<br>gruppe | Infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
