@@ -243,7 +243,7 @@ to check against the following chart:
 
 Quad Bikes are used by small units for traversing difficult terrain. They can be mounted on them, similar to how bicycles work. They move on any surface with the distances of a wheeled vehicle, but dont get the on-road bonus.
 
-Unit mounted on a quad bike c
+Unit mounted on a quad bike cannot fire their weapons.
 
 | Rule | Description |
 | ---- | ---- |
