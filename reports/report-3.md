@@ -45,10 +45,11 @@ The centre of the map should contain a logistical site in any form, for example 
 
 | Unit name | Units | Veterancy | Weaponry | Single-Use | Special Rules | Cost |
 | :---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Assistant Commander |||||||
-| Patrol Squad |||||||
-| Resistance Infantry Squad |||||||
-| Konkurs ATGM |||||||
-| Toyota w/ AGS-17 |||||||
-| Medium mortar |||||| Free |
-| Mi-2 Helicopter (T) |||||||
+| Assistant Commander | 3 | SMG | Regulars | - | Snap to Action 1x, Command | ? |
+| Patrol Squad | 6 ||||||
+| Resistance Infantry Squad | 6 ||||||
+| Konkurs ATGM | 2 ||||||
+| Toyota w/ AGS-17 | 1 ||||||
+| Medium mortar | 2 ||||| Free |
+| Spotter||||
+| Mi-2 Helicopter (T/7+) |||||||
