@@ -30,7 +30,7 @@ The centre of the map should contain a logistical site in any form, for example 
 | KSK Quad MG3 | 1 | Regular | MMG | - | Rearfacing MMG,<br>Quad Bike| ? |
 | M252 81mm Medium mortar | 2 | Regular | M. Mortar,<br>2x PDW | - | - | ? |
 | Spotter | 1 | Regular | 1x PDW | - | - | ? |
-| Bradley M2A3 | 7? | Regular | M. autocannon,<br>Coax. MMG,<br>Coax. ATGM | - | IFV | ? |
+| Bradley M2A3 (7+) | 6 | Regular | M. autocannon,<br>Coax. MMG,<br>Smoke Screen | - | IFV | ? |
 
 ****
 
