@@ -25,7 +25,7 @@ The centre of the map should contain a logistical site in any form, for example 
 | Unit name | Units/Cap | Veterancy | Weaponry | Single-Use | Special Rules | Cost |
 | :---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Leutnant | 2 | Regular | 2x AR | - | Snap to Action 1x, Command | ? |
-| Fernspäher | | Veterans | AR,<br>2x DMR | ? | ? | ? |
+| Fernspäher | 5 | Regular | 3x AR,<br>2x DMR | ? | Stubborn,<br>Recon Training,< | ? |
 | Panzergrenadiere | 6 | Regular | 5x AR,<br>1x LMG,<br>1x UGL | IFV | ? |
 | KSK Quad MG3 | 1 | Regular | MMG | - | Rearfacing MMG,<br>Quad Bike| ? |
 | M252 81mm Medium mortar | 2 | Regular | M. Mortar,<br>2x PDW | - | - | ? |
