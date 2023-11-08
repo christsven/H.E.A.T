@@ -52,4 +52,4 @@ The centre of the map should contain a logistical site in any form, for example 
 | Toyota w/ AGS-17 | 1 | Veteran | 1x AGL | - | - | ? |
 | Medium mortar | 2 | Regular | M. Mortar,<br>1x Pistol | - | - | - |
 | Spotter | 1 | Regular | PDW | - | - | - |
-| Mi-2 Helicopter (T/7+) | ||||||
+| Mi-2 Helicopter (T/7+) | 16 | Regular | - | - | - | 55 pt |
