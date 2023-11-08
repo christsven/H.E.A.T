@@ -29,7 +29,7 @@ The centre of the map should contain a logistical site in any form, for example 
 | Panzergrenadiere | 6 | Regular | 5x AR,<br>1x LMG,<br>1x UGL | ? | IFV | ? |
 | KSK Quad MG3 | 1 | Regular | MMG | - | Rearfacing MMG,<br>Quad Bike| ? |
 | M252 81mm Medium mortar | 2 | Regular | M. Mortar,<br>1x Pistol | - | - | ? |
-| Spotter | 1 | Regular | 1x PDW | - | - | ? |
+| *Spotter* | 1 | Regular | 1x PDW | - | - | ? |
 | Bradley M2A3 (7+) | 6 | Regular | M. autocannon,<br>Coax. MMG,<br>Smoke Screen | - | IFV | ? |
 
 ****
@@ -51,5 +51,5 @@ The centre of the map should contain a logistical site in any form, for example 
 | Konkurs ATGM | 2 | Regular | 1x ATGM | - | - | ? |
 | Toyota w/ AGS-17 | 1 | Veteran | 1x AGL | - | - | ? |
 | Medium mortar | 2 | Regular | M. Mortar,<br>1x Pistol | - | - | - |
-| Spotter | 1 | Regular | PDW | - | - | - |
+| *Spotter* | 1 | Regular | PDW | - | - | - |
 | Mi-2 Helicopter (T/7+) | 16 | Regular | - | - | - | 55 pt |
