@@ -49,7 +49,7 @@ The centre of the map should contain a logistical site in any form, for example 
 | Patrol Squad | 6 | Regular | 6x SMG, 1x UGL |LAW, Bangalore | Tough Fighters | ? |
 | Resistance Infantry Squad | 6 | Regular | 5x AR, 1x LMG | - | - | ? |
 | Konkurs ATGM | 2 | Regular | 1x ATGM | - | - | ? |
-| Toyota w/ AGS-17 | 1 | Veteran | 1x AGL | - | - | ? |
+| Toyota w/ AGS-17 (+7) | 1 | Veteran | 1x AGL | Slow 2x,<br>Selfmade Armour | - | ? |
 | Medium mortar | 2 | Regular | M. Mortar,<br>1x Pistol | - | - | - |
 | *Spotter* | 1 | Regular | PDW | - | - | - |
 | Mi-2 Helicopter (T/7+) | 16 | Regular | - | - | - | 55 pt |
