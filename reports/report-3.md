@@ -45,7 +45,7 @@ The centre of the map should contain a logistical site in any form, for example 
 
 | Unit name | Units | Veterancy | Weaponry | Single-Use | Special Rules | Cost |
 | :---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Assistant Commander | 3 | SMG | Regular | - | Snap to Action 1x, Command | ? |
+| Assistant Commander | 3 | Regular | 3x SMG | - | Snap to Action 1x, Command | ? |
 | Patrol Squad | 6 | Regular | 6x SMG, 1x UGL |LAW, Bangalore | Tough Fighters | ? |
 | Resistance Infantry Squad | 6 | Regular | 5x AR, 1x LMG | - | - | ? |
 | Konkurs ATGM | 2 | Regular | 1x ATGM | - | - | ? |
