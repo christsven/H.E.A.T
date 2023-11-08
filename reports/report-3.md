@@ -28,7 +28,7 @@ The centre of the map should contain a logistical site in any form, for example 
 | Fernspäher | 5 | Regular | 3x AR,<br>2x DMR | ? | Stubborn,<br>Rangers,<br>Recon Training | ? |
 | Panzergrenadiere | 6 | Regular | 5x AR,<br>1x LMG,<br>1x UGL | ? | IFV | ? |
 | KSK Quad MG3 | 1 | Regular | MMG | - | Rearfacing MMG,<br>Quad Bike| ? |
-| M252 81mm Medium mortar | 2 | Regular | M. Mortar,<br>2x PDW | - | - | ? |
+| M252 81mm Medium mortar | 2 | Regular | M. Mortar,<br>1x Pistol | - | - | ? |
 | Spotter | 1 | Regular | 1x PDW | - | - | ? |
 | Bradley M2A3 (7+) | 6 | Regular | M. autocannon,<br>Coax. MMG,<br>Smoke Screen | - | IFV | ? |
 
@@ -50,6 +50,6 @@ The centre of the map should contain a logistical site in any form, for example 
 | Resistance Infantry Squad | 6 | Regular | 5x AR, 1x LMG | - | - | ? |
 | Konkurs ATGM | 2 | Regular | 1x ATGM | - | - | ? |
 | Toyota w/ AGS-17 | 1 | Veteran | 1x AGL | - | - | ? |
-| Medium mortar | 2 | Regular | M. Mortar,<br>2x PDW | - | - | - |
+| Medium mortar | 2 | Regular | M. Mortar,<br>1x Pistol | - | - | - |
 | Spotter | 1 | Regular | PDW | - | - | - |
 | Mi-2 Helicopter (T/7+) | ||||||
