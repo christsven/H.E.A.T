@@ -2,7 +2,7 @@
 
 ## Background
 
-A logistical centre for the oil shale production sites northwest of Kiviõli was unveiled by VJTF forces as a NSPR storage site. A platoon is sent to destroy the site.
+A logistical centre for the oil shale production sites northwest of Kiviõli was unveiled by VJTF forces as a NSPR ammunition storage site. A reinforced armoured infantry platoon is sent to destroy the site.
 
 The NSPR forces on site were alerted to the attack and have called for backup.
 
