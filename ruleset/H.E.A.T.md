@@ -176,9 +176,9 @@ as well and are performed to/from 6" height (always measured from bottom of hull
 The minimum flight height is 6", the maximum is 60".
 
 Horizontal movement works the same as normal vehicle movement. The helicopter can
-move either vertical or horizontal in a single turn as described below.
+move either only horizontally, which is faster, or change its altitude as well.
 
-| Type | Horizontal<br>(RUN) | Horizontal<br>(ADVANCE) | Horizontal<br>(RUN) | Horizontal<br>(ADVANCE) |
+| Type | Horizontal<br>(RUN) | Horizontal<br>(ADVANCE) | Vertical<br>(RUN) | Vertical<br>(ADVANCE) |
 | :--: | :--: | :--: | :--: | :--: |
 | **Light** | 48" (1) | 24" (2) | 20" (2) | 10" (2) |
 | **Medium** | 36" (1) | 18" (2) | 20" (2) | 10" (2) |
