@@ -180,10 +180,10 @@ move either only horizontally, which is faster, or change its altitude as well.
 
 | Type | Horizontal<br>(RUN) | Horizontal<br>(ADVANCE) | Vertical<br>(RUN) | Vertical<br>(ADVANCE) |
 | :--: | :--: | :--: | :--: | :--: |
-| **Light** | 48" (1) | 24" (2) | 20" (2) | 10" (2) |
-| **Medium** | 36" (1) | 18" (2) | 20" (2) | 10" (2) |
-| **Large** | 24" (0) | 12" (1) | 10" (1) | 5" (2) |
-| **Giant** | 20" (0) | 10" (1) | 10" (1) | 5" (2) |
+| **Light** | 48" (1) | 24" (2) | 20" (1) | 10" (2) |
+| **Medium** | 36" (1) | 18" (2) | 20" (1) | 10" (2) |
+| **Large** | 24" (0) | 12" (1) | 10" (0) | 5" (1) |
+| **Giant** | 20" (0) | 10" (1) | 10" (0) | 5" (1) |
 
 *In Brackets: Allowed 45° turns.*
 
