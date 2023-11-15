@@ -577,6 +577,10 @@ gradually being replaced by more modern IFV designs in some armed forces.
 
 ### SPz Puma
 
+The Puma began its development around 1998 as a replacement for the aging Marder IFVs. As one of the heaviest and most modern APCs in the world, it features a remotely controlled weapon station, improved equipment and night fighting capabilities. The weapon station is modular and can be switched out for different purposes. It also uses the israeli Spike ATGM instead of the older MILAN system.
+
+This vehicle is just being introduced into the Heer and is only available in small numbers for field testing.
+
 ![spz puma image](../factions/ressources/spz-puma.excalidraw.png)
 
 | SPz Puma | APC / IFV |
