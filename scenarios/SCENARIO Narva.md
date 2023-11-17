@@ -101,9 +101,9 @@ casualties.
 
 Populist rethoric and disinformation campaigns lead to a polarized society in the
 years prior, and many unsupportive of the revolution were driven to move west,
-but not many people had the monetary supportnecessary for this. There still are
+but not many people had the monetary support necessary for this. There still are
 parts of the population which did not approve of the coup, and some even took to
-arms, forming small counter-revolutionary cells. Large parts of these men are
+arms, forming small counter-revolutionary cells. The majority of these people are
 enlisted in the volunteer structures of the estonian forces.
 
 While this was enough to gain control in some parts of the country, the many small
