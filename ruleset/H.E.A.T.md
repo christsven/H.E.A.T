@@ -727,6 +727,8 @@ see rulesbook. After usage, the squad cannot perform another smoke barrage.
 
 ### Adjustments
 
+These are adjustments or rule rewrites my group worked out as house rules. Take them as you will, but this ruleset is written with all of them in mind as normal rules. Feel free to change them around in your personal games, or dont use them at all. Your loss :D
+
 #### Weapon choice
 
 Since modern infantry structures and their weapon arsenal are not as restricted
@@ -793,3 +795,13 @@ and use the formula to calculate distance. Place the template directly above and
 roll to hit for anything below, be it house or man. Any unit below is also allowed
 to go DOWN, as this might be a bit overpowered otherwise. And this rule is buff
 enough already for artillery.
+
+#### Troop capacity and true capacity
+
+The troop capacity value for a vehicle represents the seats a vehicle has per passenger. But there are tons of examples of people using for example the top of a tank to ride into battle, or sit on the flatbed of a truck, holding onto the sides of a Jeep, etc.
+
+Since it would completely arbitrary to set a fixed limit to this, or categorize it, any vehicle is allowed to carry "unauthorized" passengers of any amount, as long as at least one seat is taken up by someone of their squad or team.
+
+You first fill all slots of a vehicle with a squad, and then you overfill. So no 10 NCOs on the flatbed of a truck with their 100 soldiers clinging to the sides! :D It's just for the rest of the last squad.
+
+As soon as you overfill a vehicle, it is only allowed to drive at ADVANCE speed. Otherwise, the units outside are treated the same as the rest of the squad.
