@@ -36,6 +36,12 @@
 
 ## Army modifiers
 
+### Cavalry Training
+
+Units in this Brigade are specifically trained to be deployed by helicopter. Combat landings and disembarking are the norm. Due to this training, regulars are allowed to disembark by rapelling, and any failed order test to leave a helicopter may be rerolled.
+
+*TLDR: Regs are allowed to rapell, reroll failed helicopter disembark order tests*
+
 ***
 
 ## Platoon leader [ 1 ]
