@@ -805,3 +805,9 @@ Since it would completely arbitrary to set a fixed limit to this, or categorize 
 You first fill all slots of a vehicle with a squad, and then you overfill. So no 10 NCOs on the flatbed of a truck with their 100 soldiers clinging to the sides! :D It's just for the rest of the last squad.
 
 As soon as you overfill a vehicle, it is only allowed to drive at ADVANCE speed. Otherwise, the units outside are treated the same as the rest of the squad.
+
+#### Tank Hunter rule in modern combat
+
+Since the times of tank hunting infantry running up to a tank and hurling grenades into the engine compartment are over, the rule has been removed.
+
+As a replacement we now have more units with LAWs, increasing survivability and lethality of infantry. If a unit does have the IED rule or explosives though, they are treated the same way as if they were tank hunters, just to keep the option open. Normal infantry against tank combat is also still allowed. But maybe pack one or two LAWs next time.
