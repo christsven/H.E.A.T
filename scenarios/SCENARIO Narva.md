@@ -62,9 +62,9 @@ NATO, fueling anti-west sentiment.
 
 As a reaction to the annexation of Crimea, the baltic states increased the budgets
 for the large reservist and volunteer forces of their respective armed forces.
-Furthermore, a [joined air cavalry unit](#baltic-security-partnership) was established as a sign of unison and
-resolve against russian aggression and dissent in not only the estonian, but
-also the other baltic border counties with Russia.
+Furthermore, a [joined air cavalry unit](#baltic-security-partnership) was
+established as a sign of unison and resolve against russian aggression and dissent
+in not only the estonian, but also the other baltic border counties with Russia.
 
 #### 2015 - Spiraling protests
 
@@ -110,7 +110,7 @@ While this was enough to gain control in some parts of the country, the many sma
 villages and settlements surrounding the cities were too many to be militarily
 controlled.
 
-<img src="ressources/estonia-post-2015.png" style="max-width: 50%">
+![estonia map](ressources/estonia-map.excalidraw.png)
 
 *NSPR claimed territory and initial controlled territory*
 
@@ -242,13 +242,9 @@ or even a third world war.
 
 ### General Description
 
-<img src="ressources/estonia_prewar.png" style="max-width: 50%">
+![estonia map](ressources/estonia-map.excalidraw.png)
 
 *Map of Estonia before 19.04.2016*
-
-<img src="ressources/estonia_political_map.png" style="max-width: 50%">
-
-*In the upper right corner, Ida-Viru County.*
 
 Ida Viru lies at the russian-estonian land border as well as the Gulf of Finland
 in the north. To the south-east, a large part of the border runs through Lake
