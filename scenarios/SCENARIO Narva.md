@@ -169,7 +169,7 @@ support for the light infantry sections.
 *UNFIBAL Logo*
 
 The *Force des Nations unies chargée du maintien de la paix à l'Estonie* is a
-United Nations peacekeeping operation established in 2015
+United Nations peacekeeping operation established in 2015.
 
 #### Main contributors and equipment
 
