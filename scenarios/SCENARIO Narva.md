@@ -312,7 +312,7 @@ high hills were created by oil shale extraction.
 
 ##### Kohtla-Järve
 
-![](ressources/kivioli.excalidraw.png)
+![](ressources/kohtla.excalidraw.png)
 
 Kothla-Järve is a large town in the centre of Ida-Viru, the fifth-largest in Estonia.
 Established as a mining town in the 1920s, it is a key element in the oil shale
