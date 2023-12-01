@@ -1,6 +1,6 @@
 # Breakaway Socialist Republic of Narva
 
-<img src="ressources/NSPR flag.png" style="max-width: 50%">
+![estonia map](ressources/estonia-map.excalidraw.png)
 
 ## Scenario introduction
 
@@ -110,13 +110,11 @@ While this was enough to gain control in some parts of the country, the many sma
 villages and settlements surrounding the cities were too many to be militarily
 controlled.
 
-![estonia map](ressources/estonia-map.excalidraw.png)
-
-*NSPR claimed territory and initial controlled territory*
-
 ***
 
 ### Baltic Security Partnership
+
+![BASEP logo](/factions/ressources/bsp-logo-no-text.excalidraw.png)
 
 The BASEP was founded in 2014 as a reaction to tension arrising in several counties
 of the baltic states at the russian border. It was established as a combined
@@ -170,11 +168,11 @@ support for the light infantry sections.
 
 ### VJTF
 
-<img src="ressources/nato.png">
+![nato logo](ressources/NATO-logo.excalidraw.png)
 
 *NATO flag*
 
-<img src="ressources/NRF emblem.png">
+![nsr logo](ressources/nrf-logo.excalidraw.png)
 
 *Emblem of NATO response forces, stationed in the baltic countries*
 
@@ -193,7 +191,7 @@ reinforcement operations.
 
 ### NSPR
 
-<img src="ressources/NSPR flag.png" style="max-width: 50%">
+![nspr logo](ressources/flag-nspr.excalidraw.png)
 
 *Narva Socialist People's Republic flag*
 
