@@ -292,7 +292,7 @@ troop transportation for either side of the conflict.
 
 ##### Kiviõli/Püssi
 
-<img src="ressources/Kiviõli.png">
+![](ressources/kivioli.excalidraw.png)
 
 With the name literally being "oil shale" in estonian, it is no secret what type
 of industry is prevalent in Kiviõli. After the dissolution of the USSR, this town
@@ -312,7 +312,7 @@ high hills were created by oil shale extraction.
 
 ##### Kohtla-Järve
 
-<img src="ressources/Kohtla-Jarve.png">
+![](ressources/kivioli.excalidraw.png)
 
 Kothla-Järve is a large town in the centre of Ida-Viru, the fifth-largest in Estonia.
 Established as a mining town in the 1920s, it is a key element in the oil shale
@@ -320,7 +320,7 @@ industry of Ida-Viru, making it a valuable target to NSPR forces.
 
 ##### Jõhvi
 
-<img src="ressources/Jõhvi.png">
+![](ressources/johvi.excalidraw.png)
 
 Another former mining town with declining population. Most buildings are typical
 soviet blocks, and over 50% of the population are ethnically russian, with another
@@ -333,7 +333,7 @@ Almost 92% of Jõhvi voted for independence, and it is home to many of *Iseseisv
 
 ##### Sillimäe
 
-<img src="ressources/Sillamae.png">
+![](ressources/sillimae.excalidraw.png)
 
 Sillamäe is a former closed city located in northeastern Estonia. Placed colse to
 the shores of the Gulf of Finland, it offers a unique blend of natural beauty and
@@ -350,7 +350,7 @@ Further points of interest:
 
 ##### Narva
 
-<img src="ressources/Narva.png">
+![](ressources/narva.excalidraw.png)
 
 Narva is a historic city located in northeastern Estonia, situated on the banks
 of the Narva River, which forms the border with Russia. Known for its rich history
@@ -374,7 +374,7 @@ Further points of interest:
 
 ##### Mäetaguse
 
-<img src="ressources/Alutaguse.png">
+![](ressources/alugatuse.excalidraw.png)
 
 Mäetaguse is a village located in the Ida-Viru County of northeastern Estonia.
 It is situated approximately 25 kilometers southwest of the city of Jõhvi. The
