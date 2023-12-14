@@ -177,7 +177,9 @@ support for the light infantry sections.
 *UNFIBAL Logo*
 
 The *Force des Nations unies chargée du maintien de la paix à l'Estonie* is a
-United Nations peacekeeping operation established in 2015.
+United Nations peacekeeping operation established in 2015. UN troops were largely composed of bangladeshi forces, with some african nations like Rwanda, Ghana and Egypt. 
+
+The mission aided in policing duties where normal police was no longer present or completely overwhelmed, as well as security operations around critical infrastructure. While some clashes did occur, most civilians received their presence as a welcome help.
 
 #### Main contributors and equipment
 
