@@ -183,6 +183,14 @@ The mission aided in policing duties where normal police was no longer present o
 
 #### Main contributors and equipment
 
+Force composition of UNFIBAL forces consists mainly of bangladeshi, rwandan, ghanaian and egyptian personell. 
+
+Other countries also contribute specialized personell or commanding officers, but the bulk of policing and sercurity forces come from those nations. 
+
+Their equipment is also provided by their consecutive armies, but european and western nations did contribute vehicles, as their equipment is better suited for the east european theatre.
+
+This lead to a patchworked force with vehicles from all over the world, mostly old and under-weaponized, since peacekeepers main focus is not lethal in nature. Still, some security detachments for places of interest do have access to APCs and IFVs, and a very small number of tanks was also provided.
+
 ### VJTF
 
 ![nato logo](ressources/NATO-logo.excalidraw.png)
