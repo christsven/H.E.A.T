@@ -92,6 +92,14 @@ established to aid police forces.
 
 #### 2016 - Outbreak of war
 
+After multiple years of preperation, events in April of 2016 lead to civil war. The rotation of german forces to the country was used to strike, while the logistical process was still ongoing.
+
+The garrisons of the armed forces in Ida Viru, mainly used for training of new recruits, but also for the newly refurbished territorial defense units as well as the Baltic Brigade, were hit simultanously. Across all of estonia, bombs and surprise attacks of small cells disabled bridges and important connections to the east.
+
+Refugees fleeing to the West quickly overwhelmed peacekeeping forces, who tried to keep the main roads and connections out of Ida Viru open. This also hindered the estonian armed forces from quickly intervening, as the few intact roads were full of civilian cars.
+
+The Kremlin heavily lobbied against a NATO intervention and declared any aerial attacks against NSPR forces as a provocation and a reason for its own participation in the conflict. Due to the already tense political situation in many european nations, this was accepted as a deescalatory agreement. Still, the VJTF would intervene, as the NSPR only has minimal CAS capabilities anyway.
+
 With the largest settlements under control, central POI for the economical effort
 and logistical centres were taken swiftly to create a decentralized net of holdouts
 for assymetrical defense. Power stations, important crossroads, the north-south
