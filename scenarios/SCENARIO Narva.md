@@ -237,7 +237,7 @@ Kivioli is an important site to the oil shale production, which needs to be
 restarted for power autonomy. Sillimäe has old uranium processing sites, which
 are a lucrative market for future potential economical problems.
 
-While Russia does seem like a natural ally against the West, depending too much
+While Russia does seem like a natural ally against the West and was already useful in arms procurement, depending too much
 on their intervention could lead to being integrated in the Russian Federation,
 or even a third world war.
 
