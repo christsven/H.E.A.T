@@ -88,7 +88,7 @@ the threat of a civil war, but media outlets were too preoccupied with the
 "migrant crisis" in the EU, which overshadowed the event.
 
 As a reaction to the deteriorating situation, a [UN peacekeeping operation](#unfibal) was
-established to aid police forces.
+established to aid police forces. The mission is mainly composed of bangladeshi and african troops and was largely well received as a mediating third party.
 
 #### 2016 - Outbreak of war
 
