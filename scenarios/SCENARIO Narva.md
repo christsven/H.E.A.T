@@ -85,7 +85,12 @@ First clashes between paramilitary forces and police followed in March and April
 The death of two policemen made global news in early May. The estonian, lithuanian
 and latvian presidents called upon the treaty of the european union to aid against
 the threat of a civil war, but media outlets were too preoccupied with the
-"migrant crisis" in the EU, which overshadowed the event.
+"migrant crisis" in the EU, which overshadowed the events.
+
+Similar dissenting discourse also slowly grew in other baltic countries, and while
+not nearly as powerful as in Estonia, this helped to normalize the clashes and protests
+in the eyes of the media. For many, this was just the smaller version to the Maidan
+protests and clashes in Ukraine.
 
 As a reaction to the deteriorating situation, a [UN peacekeeping operation](#unfibal) was
 established to aid police forces. The mission is mainly composed of bangladeshi and african troops and was largely well received as a mediating third party.
@@ -108,10 +113,10 @@ national forests are used to hide equipment and house medical facilities for
 casualties.
 
 Populist rethoric and disinformation campaigns lead to a polarized society in the
-years prior, and many unsupportive of the revolution were driven to move west,
-but not many people had the monetary support necessary for this. There still are
-parts of the population which did not approve of the coup, and some even took to
-arms, forming small counter-revolutionary cells. The majority of these people are
+years prior, and many unsupportive of the political rethoric were driven to move west.
+But not many people had the monetary support necessary for such a drastic move. 
+There still are parts of the population which did not approve of the coup, and some
+even took to arms, forming small counter-revolutionary cells. The majority of these people are
 enlisted in the volunteer structures of the estonian forces.
 
 While this was enough to gain control in some parts of the country, the many small
