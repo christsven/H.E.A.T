@@ -21,7 +21,7 @@ NSPR is internally divided between left-leaning revolutionaries seeking their ow
 state and far right militias such as "Bratstwa", who want to become part of the
 Russian Federation.
 
-NATO now sends the VJTF (currently lead by the Bundeswehr with a PzGren-Division)
+NATO now sends the VJTF (currently lead by the Bundeswehr with an armoured infantry division)
 to fight off the separatists, which for now means a assymetrical fight for control
 over the various cities and facilities under NSPR control.
 
