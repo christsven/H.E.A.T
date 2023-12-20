@@ -41,22 +41,27 @@ Estonia. As a former soviet republic, many older, russian-born citizens remember
 the USSR in a positive light and see the decline of industrial sites in Ida Viru
 as a failure to keep the region relevant by the government.
 
-Most of them live right at the border with Russia, for example in the city of
-Narva (95.7% native russian speakers, 87.7% ethnic russians), right at the border,
-many of whom face lower living standards due to not speaking estonian.
+Especially in the larger settlements, a majority of citizens come from other parts
+of the former USSR, for example in the city of
+Narva (95.7% native russian
+speakers, 87.7% ethnic russians) right at the border, many of whom face lower
+living standards due to not speaking estonian.
 
 #### 2014 - Steadfast Jazz Disaster
 
-While tensions brew over the years, a far-right, nationalist movement consisting
-of former Red Army soldiers, communist politicians and a small, but vocal voter
-base formed the *"Iseseisvus rahvale"* movement. This group was a fierce opposition
-minority in local politics seeking independence from Estonia to form a socialist
-republic, similar to the former soviet republic of Estonia.
+Without much change in sight, a far-right, nationalist movement consisting
+of former Red Army soldiers, communist politicians and a small, vocal voter
+base formed the *"Iseseisvus rahvale"* movement. This group started as a small 
+opposition minority in local politics seeking drastic change, even independence
+from Estonia to go back to socialist times, when the region was an industrial centre
+for oil shale excavation and nuclear research. These industries barely exist
+anymore, but no new market ever took over.
 
-The movement gained an influx in supporters and recognition after a military
-excercise called "Steadfast Jazz" in November of 2013 lead to the crash of a
-french Mirage F1 in a village with a civilian losses, an ethnically russian
-farmer. The lackluster response of authorities and NATO commands belatedly
+The movement gained an influx in supporters after a military excercise called 
+"Steadfast Jazz" in November of 2013 lead to the crash of a french Mirage F1
+in a village with a civilian losses, an ethnically russian farmer. 
+
+The lackluster response of authorities and NATO commands belatedly
 response, at first refusing to halt the maneuver, lead to a PR disaster for
 NATO, fueling anti-west sentiment.
 
@@ -74,7 +79,7 @@ while the refugee crisis fueled conservative populism. First open calls for
 independence followed razzias against popular far-right extremists, shortly before
 the election of parliament in March.
 
-The *"Iseseisvus rahvale"* party were elected by over 80% of voters in the Ida
+The *"Iseseisvus rahvale"* party were elected by a majority of voters in the Ida
 Viru and other bordering counties during the election run.
 
 After learning about their victory, party officials announced an independence
@@ -92,8 +97,10 @@ not nearly as powerful as in Estonia, this helped to normalize the clashes and p
 in the eyes of the media. For many, this was just the smaller version to the Maidan
 protests and clashes in Ukraine.
 
-As a reaction to the deteriorating situation, a [UN peacekeeping operation](#unfibal) was
-established to aid police forces. The mission is mainly composed of bangladeshi and african troops and was largely well received as a mediating third party.
+The UN on the other hand understood the dire state of affairs in the baltics. 
+As a reaction, a [UN peacekeeping operation](#unfibal) was
+established to aid police forces. The mission is mainly composed of bangladeshi
+and african troops and was largely well received as a mediating third party.
 
 #### 2016 - Outbreak of war
 
