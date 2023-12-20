@@ -35,7 +35,7 @@ send their own force in an effort to protect ethnic russians in the region.
 #### 2012 - Declining baltics
 
 Several years of disinformation campaigns, civil unrest due to declining living
-standards, and a feeling of being left out by the more ethnically estonian west
+standards, and a feeling of being left out by the more economically prosperous western
 counties lead to the rise of extremist sentiment in the more eastern counties of
 Estonia. As a former soviet republic, many older, russian-born citizens remember
 the USSR in a positive light and see the decline of industrial sites in Ida Viru
