@@ -61,3 +61,13 @@ Roster for a generic Russian Federation ground force, with equipment used as
 present in the 2010s to 2020s.
 
 [OPFOR Roster]()
+
+## Match Ideas
+
+A list of game scenarios for singular matches, set in the estonian civil war.
+
+[Surprise Attack](/reports/report-2.md)
+
+[Logistical Operations](/reports/report-3.md)
+
+[Tank Warfare](/reports/report-4.md)
