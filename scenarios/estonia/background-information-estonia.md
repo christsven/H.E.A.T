@@ -1,6 +1,6 @@
 # Breakaway Socialist Republic of Narva
 
-![estonia map](ressources/estonia-map.excalidraw.png)
+![estonia map](/scenarios/ressources/estonia-map.excalidraw.png)
 
 ## Scenario introduction
 
@@ -114,7 +114,7 @@ controlled.
 
 ### Baltic Security Partnership
 
-![BASEP logo](/factions/ressources/bsp-logo-no-text.excalidraw.png)
+![BASEP logo](/factions//scenarios/ressources/bsp-logo-no-text.excalidraw.png)
 
 The BASEP was founded in 2014 as a reaction to tension arrising in several counties
 of the baltic states at the russian border. It was established as a combined
@@ -164,7 +164,7 @@ support for the light infantry sections.
 
 ### UNFIBAL
 
-![unfibal logo](ressources/unfibal.excalidraw.png)
+![unfibal logo](/scenarios/ressources/unfibal.excalidraw.png)
 
 *UNFIBAL Logo*
 
@@ -175,11 +175,11 @@ United Nations peacekeeping operation established in 2015.
 
 ### VJTF
 
-![nato logo](ressources/NATO-logo.excalidraw.png)
+![nato logo](/scenarios/ressources/NATO-logo.excalidraw.png)
 
 *NATO flag*
 
-![nsr logo](ressources/nrf-logo.excalidraw.png)
+![nsr logo](/scenarios/ressources/nrf-logo.excalidraw.png)
 
 *Emblem of NATO response forces, stationed in the baltic countries*
 
@@ -198,7 +198,7 @@ reinforcement operations.
 
 ### NSPR
 
-![nspr logo](ressources/flag-nspr.excalidraw.png)
+![nspr logo](/scenarios/ressources/flag-nspr.excalidraw.png)
 
 *Narva Socialist People's Republic flag*
 
@@ -247,7 +247,7 @@ or even a third world war.
 
 ### General Description
 
-![estonia map](ressources/estonia-map.excalidraw.png)
+![estonia map](/scenarios/ressources/estonia-map.excalidraw.png)
 
 *Map of Estonia before 19.04.2016*
 
@@ -299,7 +299,7 @@ troop transportation for either side of the conflict.
 
 ##### Kiviõli/Püssi
 
-![kivioli](ressources/kivioli.excalidraw.png)
+![kivioli](/scenarios/ressources/kivioli.excalidraw.png)
 
 With the name literally being "oil shale" in estonian, it is no secret what type
 of industry is prevalent in Kiviõli. After the dissolution of the USSR, this town
@@ -319,7 +319,7 @@ high hills were created by oil shale extraction.
 
 ##### Kohtla-Järve
 
-![kohla](ressources/kohtla.excalidraw.png)
+![kohla](/scenarios/ressources/kohtla.excalidraw.png)
 
 Kothla-Järve is a large town in the centre of Ida-Viru, the fifth-largest in Estonia.
 Established as a mining town in the 1920s, it is a key element in the oil shale
@@ -327,7 +327,7 @@ industry of Ida-Viru, making it a valuable target to NSPR forces.
 
 ##### Jõhvi
 
-![johvi](ressources/johvi.excalidraw.png)
+![johvi](/scenarios/ressources/johvi.excalidraw.png)
 
 Another former mining town with declining population. Most buildings are typical
 soviet blocks, and over 50% of the population are ethnically russian, with another
@@ -340,7 +340,7 @@ Almost 92% of Jõhvi voted for independence, and it is home to many of *Iseseisv
 
 ##### Sillimäe
 
-![sillimae](ressources/sillimae.excalidraw.png)
+![sillimae](/scenarios/ressources/sillimae.excalidraw.png)
 
 Sillamäe is a former closed city located in northeastern Estonia. Placed colse to
 the shores of the Gulf of Finland, it offers a unique blend of natural beauty and
@@ -357,7 +357,7 @@ Further points of interest:
 
 ##### Narva
 
-![narva](ressources/narva.excalidraw.png)
+![narva](/scenarios/ressources/narva.excalidraw.png)
 
 Narva is a historic city located in northeastern Estonia, situated on the banks
 of the Narva River, which forms the border with Russia. Known for its rich history
@@ -381,7 +381,7 @@ Further points of interest:
 
 ##### Mäetaguse
 
-![Mäetaguse](ressources/alugatuse.excalidraw.png)
+![Mäetaguse](/scenarios/ressources/alugatuse.excalidraw.png)
 
 Mäetaguse is a village located in the Ida-Viru County of northeastern Estonia.
 It is situated approximately 25 kilometers southwest of the city of Jõhvi. The
