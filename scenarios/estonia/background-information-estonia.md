@@ -21,7 +21,7 @@ NSPR is internally divided between left-leaning revolutionaries seeking their ow
 state and far right militias such as "Bratstwa", who want to become part of the
 Russian Federation.
 
-NATO now sends the VJTF (currently lead by the Bundeswehr with a PzGren-Division)
+NATO now sends the VJTF (currently lead by the Bundeswehr with an armoured infantry division)
 to fight off the separatists, which for now means a assymetrical fight for control
 over the various cities and facilities under NSPR control.
 
@@ -35,28 +35,33 @@ send their own force in an effort to protect ethnic russians in the region.
 #### 2012 - Declining baltics
 
 Several years of disinformation campaigns, civil unrest due to declining living
-standards, and a feeling of being left out by the more ethnically estonian west
+standards, and a feeling of being left out by the more economically prosperous western
 counties lead to the rise of extremist sentiment in the more eastern counties of
 Estonia. As a former soviet republic, many older, russian-born citizens remember
 the USSR in a positive light and see the decline of industrial sites in Ida Viru
 as a failure to keep the region relevant by the government.
 
-Most of them live right at the border with Russia, for example in the city of
-Narva (95.7% native russian speakers, 87.7% ethnic russians), right at the border,
-many of whom face lower living standards due to not speaking estonian.
+Especially in the larger settlements, a majority of citizens come from other parts
+of the former USSR, for example in the city of
+Narva (95.7% native russian
+speakers, 87.7% ethnic russians) right at the border, many of whom face lower
+living standards due to not speaking estonian.
 
 #### 2014 - Steadfast Jazz Disaster
 
-While tensions brew over the years, a far-right, nationalist movement consisting
-of former Red Army soldiers, communist politicians and a small, but vocal voter
-base formed the *"Iseseisvus rahvale"* movement. This group was a fierce opposition
-minority in local politics seeking independence from Estonia to form a socialist
-republic, similar to the former soviet republic of Estonia.
+Without much change in sight, a far-right, nationalist movement consisting
+of former Red Army soldiers, communist politicians and a small, vocal voter
+base formed the *"Iseseisvus rahvale"* movement. This group started as a small 
+opposition minority in local politics seeking drastic change, even independence
+from Estonia to go back to socialist times, when the region was an industrial centre
+for oil shale excavation and nuclear research. These industries barely exist
+anymore, but no new market ever took over.
 
-The movement gained an influx in supporters and recognition after a military
-excercise called "Steadfast Jazz" in November of 2013 lead to the crash of a
-french Mirage F1 in a village with a civilian losses, an ethnically russian
-farmer. The lackluster response of authorities and NATO commands belatedly
+The movement gained an influx in supporters after a military excercise called 
+"Steadfast Jazz" in November of 2013 lead to the crash of a french Mirage F1
+in a village with a civilian losses, an ethnically russian farmer. 
+
+The lackluster response of authorities and NATO commands belatedly
 response, at first refusing to halt the maneuver, lead to a PR disaster for
 NATO, fueling anti-west sentiment.
 
@@ -74,7 +79,7 @@ while the refugee crisis fueled conservative populism. First open calls for
 independence followed razzias against popular far-right extremists, shortly before
 the election of parliament in March.
 
-The *"Iseseisvus rahvale"* party were elected by over 80% of voters in the Ida
+The *"Iseseisvus rahvale"* party were elected by a majority of voters in the Ida
 Viru and other bordering counties during the election run.
 
 After learning about their victory, party officials announced an independence
@@ -85,12 +90,27 @@ First clashes between paramilitary forces and police followed in March and April
 The death of two policemen made global news in early May. The estonian, lithuanian
 and latvian presidents called upon the treaty of the european union to aid against
 the threat of a civil war, but media outlets were too preoccupied with the
-"migrant crisis" in the EU, which overshadowed the event.
+"migrant crisis" in the EU, which overshadowed the events.
 
-As a reaction to the deteriorating situation, a [UN peacekeeping operation](#unfibal) was
-established to aid police forces.
+Similar dissenting discourse also slowly grew in other baltic countries, and while
+not nearly as powerful as in Estonia, this helped to normalize the clashes and protests
+in the eyes of the media. For many, this was just the smaller version to the Maidan
+protests and clashes in Ukraine.
+
+The UN on the other hand understood the dire state of affairs in the baltics. 
+As a reaction, a [UN peacekeeping operation](#unfibal) was
+established to aid police forces. The mission is mainly composed of bangladeshi
+and african troops and was largely well received as a mediating third party.
 
 #### 2016 - Outbreak of war
+
+After multiple years of preperation, events in April of 2016 lead to civil war. The rotation of german forces to the country was used to strike, while the logistical process was still ongoing.
+
+The garrisons of the armed forces in Ida Viru, mainly used for training of new recruits, but also for the newly refurbished territorial defense units as well as the Baltic Brigade, were hit simultanously. Across all of estonia, bombs and surprise attacks of small cells disabled bridges and important connections to the east.
+
+Refugees fleeing to the West quickly overwhelmed peacekeeping forces, who tried to keep the main roads and connections out of Ida Viru open. This also hindered the estonian armed forces from quickly intervening, as the few intact roads were full of civilian cars.
+
+The Kremlin heavily lobbied against a NATO intervention and declared any aerial attacks against NSPR forces as a provocation and a reason for its own participation in the conflict. Due to the already tense political situation in many european nations, this was accepted as a deescalatory agreement. Still, the VJTF would intervene, as the NSPR only has minimal CAS capabilities anyway.
 
 With the largest settlements under control, central POI for the economical effort
 and logistical centres were taken swiftly to create a decentralized net of holdouts
@@ -100,10 +120,10 @@ national forests are used to hide equipment and house medical facilities for
 casualties.
 
 Populist rethoric and disinformation campaigns lead to a polarized society in the
-years prior, and many unsupportive of the revolution were driven to move west,
-but not many people had the monetary support necessary for this. There still are
-parts of the population which did not approve of the coup, and some even took to
-arms, forming small counter-revolutionary cells. The majority of these people are
+years prior, and many unsupportive of the political rethoric were driven to move west.
+But not many people had the monetary support necessary for such a drastic move. 
+There still are parts of the population which did not approve of the coup, and some
+even took to arms, forming small counter-revolutionary cells. The majority of these people are
 enlisted in the volunteer structures of the estonian forces.
 
 While this was enough to gain control in some parts of the country, the many small
@@ -169,9 +189,19 @@ support for the light infantry sections.
 *UNFIBAL Logo*
 
 The *Force des Nations unies chargée du maintien de la paix à l'Estonie* is a
-United Nations peacekeeping operation established in 2015.
+United Nations peacekeeping operation established in 2015. UN troops were largely composed of bangladeshi forces, with some african nations like Rwanda, Ghana and Egypt. 
+
+The mission aided in policing duties where normal police was no longer present or completely overwhelmed, as well as security operations around critical infrastructure. While some clashes did occur, most civilians received their presence as a welcome help.
 
 #### Main contributors and equipment
+
+Force composition of UNFIBAL forces consists mainly of bangladeshi, rwandan, ghanaian and egyptian personell. 
+
+Other countries also contribute specialized personell or commanding officers, but the bulk of policing and sercurity forces come from those nations. 
+
+Their equipment is also provided by their consecutive armies, but european and western nations did contribute vehicles, as their equipment is better suited for the east european theatre.
+
+This lead to a patchworked force with vehicles from all over the world, mostly old and under-weaponized, since peacekeepers main focus is not lethal in nature. Still, some security detachments for places of interest do have access to APCs and IFVs, and a very small number of tanks was also provided.
 
 ### VJTF
 
@@ -237,7 +267,7 @@ Kivioli is an important site to the oil shale production, which needs to be
 restarted for power autonomy. Sillimäe has old uranium processing sites, which
 are a lucrative market for future potential economical problems.
 
-While Russia does seem like a natural ally against the West, depending too much
+While Russia does seem like a natural ally against the West and was already useful in arms procurement, depending too much
 on their intervention could lead to being integrated in the Russian Federation,
 or even a third world war.
 
