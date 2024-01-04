@@ -51,4 +51,4 @@
 | Spotter | 1 | Regular | SMG | - |- | - |
 | BMP-1(**7+**) | 8 | Veteran | 1x Smoke, <br>1x light <br>anti tank gun, <br>1x light ATGM, <br>1x coax MMG | Smoke | IFV(Marksmen),<br>Amphbibios  | 265 |
 | BTR-80(**7+**) | 7 | Veteran | 1x Smoke, <br>1x light <br>autocannon, <br>1x coax MMG | Smoke | IFV(Patrol),<br>Amphbibios | 155 |
-| Toyota HMG | 4 | Regular | 1x HMG <br>frontfacing | - | - | 75 |
+| Toyota(**6+**)HMG | 4 | Regular | 1x HMG <br>frontfacing | - | - | 75 |
