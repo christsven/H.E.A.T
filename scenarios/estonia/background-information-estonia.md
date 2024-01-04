@@ -21,9 +21,9 @@ NSPR is internally divided between left-leaning revolutionaries seeking their ow
 state and far right militias such as "Bratstwa", who want to become part of the
 Russian Federation.
 
-NATO now sends the VJTF (currently lead by the Bundeswehr with an armoured infantry division)
-to fight off the separatists, which for now means a assymetrical fight for control
-over the various cities and facilities under NSPR control.
+NATO now sends the VJTF (currently lead by the Bundeswehr with an armoured infantry
+division) to fight off the separatists, which for now means a assymetrical fight
+for control over the various cities and facilities under NSPR control.
 
 The RF has condemned the use of NATO troops without a UN mandate and threatens to
 send their own force in an effort to protect ethnic russians in the region.
@@ -51,15 +51,15 @@ living standards due to not speaking estonian.
 
 Without much change in sight, a far-right, nationalist movement consisting
 of former Red Army soldiers, communist politicians and a small, vocal voter
-base formed the *"Iseseisvus rahvale"* movement. This group started as a small 
+base formed the *"Iseseisvus rahvale"* movement. This group started as a small
 opposition minority in local politics seeking drastic change, even independence
 from Estonia to go back to socialist times, when the region was an industrial centre
 for oil shale excavation and nuclear research. These industries barely exist
 anymore, but no new market ever took over.
 
-The movement gained an influx in supporters after a military excercise called 
+The movement gained an influx in supporters after a military excercise called
 "Steadfast Jazz" in November of 2013 lead to the crash of a french Mirage F1
-in a village with a civilian losses, an ethnically russian farmer. 
+in a village with a civilian losses, an ethnically russian farmer.
 
 The lackluster response of authorities and NATO commands belatedly
 response, at first refusing to halt the maneuver, lead to a PR disaster for
@@ -97,20 +97,33 @@ not nearly as powerful as in Estonia, this helped to normalize the clashes and p
 in the eyes of the media. For many, this was just the smaller version to the Maidan
 protests and clashes in Ukraine.
 
-The UN on the other hand understood the dire state of affairs in the baltics. 
+The UN on the other hand understood the dire state of affairs in the baltics.
 As a reaction, a [UN peacekeeping operation](#unfibal) was
 established to aid police forces. The mission is mainly composed of bangladeshi
 and african troops and was largely well received as a mediating third party.
 
 #### 2016 - Outbreak of war
 
-After multiple years of preperation, events in April of 2016 lead to civil war. The rotation of german forces to the country was used to strike, while the logistical process was still ongoing.
+After multiple years of preperation, events in April of 2016 lead to civil war.
+The rotation of german forces to the country was used to strike, while the
+logistical process was still ongoing.
 
-The garrisons of the armed forces in Ida Viru, mainly used for training of new recruits, but also for the newly refurbished territorial defense units as well as the Baltic Brigade, were hit simultanously. Across all of estonia, bombs and surprise attacks of small cells disabled bridges and important connections to the east.
+The garrisons of the armed forces in Ida Viru, mainly used for training of new
+recruits, but also for the newly refurbished territorial defense units as well
+as the Baltic Brigade, were hit simultanously. Across all of estonia, bombs and
+surprise attacks of small cells disabled bridges and important connections to
+the east.
 
-Refugees fleeing to the West quickly overwhelmed peacekeeping forces, who tried to keep the main roads and connections out of Ida Viru open. This also hindered the estonian armed forces from quickly intervening, as the few intact roads were full of civilian cars.
+Refugees fleeing to the West quickly overwhelmed peacekeeping forces, who tried
+to keep the main roads and connections out of Ida Viru open. This also hindered
+the estonian armed forces from quickly intervening, as the few intact roads were
+full of civilian cars.
 
-The Kremlin heavily lobbied against a NATO intervention and declared any aerial attacks against NSPR forces as a provocation and a reason for its own participation in the conflict. Due to the already tense political situation in many european nations, this was accepted as a deescalatory agreement. Still, the VJTF would intervene, as the NSPR only has minimal CAS capabilities anyway.
+The Kremlin heavily lobbied against a NATO intervention and declared any aerial
+attacks against NSPR forces as a provocation and a reason for its own participation
+in the conflict. Due to the already tense political situation in many european
+nations, this was accepted as a deescalatory agreement. Still, the VJTF would
+intervene, as the NSPR only has minimal CAS capabilities anyway.
 
 With the largest settlements under control, central POI for the economical effort
 and logistical centres were taken swiftly to create a decentralized net of holdouts
@@ -121,10 +134,10 @@ casualties.
 
 Populist rethoric and disinformation campaigns lead to a polarized society in the
 years prior, and many unsupportive of the political rethoric were driven to move west.
-But not many people had the monetary support necessary for such a drastic move. 
+But not many people had the monetary support necessary for such a drastic move.
 There still are parts of the population which did not approve of the coup, and some
-even took to arms, forming small counter-revolutionary cells. The majority of these people are
-enlisted in the volunteer structures of the estonian forces.
+even took to arms, forming small counter-revolutionary cells. The majority of these
+people are enlisted in the volunteer structures of the estonian forces.
 
 While this was enough to gain control in some parts of the country, the many small
 villages and settlements surrounding the cities were too many to be militarily
@@ -134,7 +147,7 @@ controlled.
 
 ### Baltic Security Partnership
 
-![BASEP logo](/factions//scenarios/ressources/bsp-logo-no-text.excalidraw.png)
+![BASEP logo](/factions/ressources/bsp-logo-no-text.excalidraw.png)
 
 The BASEP was founded in 2014 as a reaction to tension arrising in several counties
 of the baltic states at the russian border. It was established as a combined
@@ -189,19 +202,31 @@ support for the light infantry sections.
 *UNFIBAL Logo*
 
 The *Force des Nations unies chargée du maintien de la paix à l'Estonie* is a
-United Nations peacekeeping operation established in 2015. UN troops were largely composed of bangladeshi forces, with some african nations like Rwanda, Ghana and Egypt. 
+United Nations peacekeeping operation established in 2015. UN troops were largely
+composed of bangladeshi forces, with some african nations like Rwanda, Ghana and
+Egypt.
 
-The mission aided in policing duties where normal police was no longer present or completely overwhelmed, as well as security operations around critical infrastructure. While some clashes did occur, most civilians received their presence as a welcome help.
+The mission aided in policing duties where normal police was no longer present
+or completely overwhelmed, as well as security operations around critical
+infrastructure. While some clashes did occur, most civilians received their
+presence as a welcome help.
 
 #### Main contributors and equipment
 
-Force composition of UNFIBAL forces consists mainly of bangladeshi, rwandan, ghanaian and egyptian personell. 
+Force composition of UNFIBAL forces consists mainly of bangladeshi, rwandan,
+ghanaian and egyptian personell.
 
-Other countries also contribute specialized personell or commanding officers, but the bulk of policing and sercurity forces come from those nations. 
+Other countries also contribute specialized personell or commanding officers, but
+the bulk of policing and sercurity forces come from those nations.
 
-Their equipment is also provided by their consecutive armies, but european and western nations did contribute vehicles, as their equipment is better suited for the east european theatre.
+Their equipment is also provided by their consecutive armies, but european and
+western nations did contribute vehicles, as their equipment is better suited for
+the east european theatre.
 
-This lead to a patchworked force with vehicles from all over the world, mostly old and under-weaponized, since peacekeepers main focus is not lethal in nature. Still, some security detachments for places of interest do have access to APCs and IFVs, and a very small number of tanks was also provided.
+This lead to a patchworked force with vehicles from all over the world, mostly
+old and under-weaponized, since peacekeepers main focus is not lethal in nature.
+Still, some security detachments for places of interest do have access to APCs
+and IFVs, and a very small number of tanks was also provided.
 
 ### VJTF
 
@@ -267,9 +292,9 @@ Kivioli is an important site to the oil shale production, which needs to be
 restarted for power autonomy. Sillimäe has old uranium processing sites, which
 are a lucrative market for future potential economical problems.
 
-While Russia does seem like a natural ally against the West and was already useful in arms procurement, depending too much
-on their intervention could lead to being integrated in the Russian Federation,
-or even a third world war.
+While Russia does seem like a natural ally against the West and was already useful
+in arms procurement, depending too much on their intervention could lead to being
+integrated in the Russian Federation, or even a third world war.
 
 ***
 
