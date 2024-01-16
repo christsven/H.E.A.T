@@ -682,17 +682,20 @@ and retreat if necessary.
 
 Once per vehicle, a unit equipped with a smoke screen can active it by going DOWN.
 (You dont activate with the DOWN, it can be performed without using up the smoke
-screen, but using it leads to your vehicle to go DOWN.)
+screen, but using it leads to your vehicle to go DOWN.) Furthermore, an ADVANCE can be
+used to trigger the smoke as well, using up the firing action. The unit is not
+considered DOWN afterwards (not that it matters, anyway).
 
-The smoke screen consists of two 2" smoke markers which are placed in front of
-the vehicle. Built-up smoke behaves the same as any other smoke, drifting and
-vanishing just like a smoke round.
+The smoke screen consists of two 2" smoke markers which are placed either in front of
+the vehicle or in the direction the turret is aiming, depending on where the
+smoke pods are located. Built-up smoke behaves the same as any other smoke, drifting
+and vanishing just like a smoke round.
 
 ##### Rule
 
 | Rule | Description |
 | :--- | :--- |
-| Smoke Screen | Single-use smoke screen. 2x HE 2" in front of the vehicle.<br>Unit goes DOWN when used. |
+| Smoke Screen | Single-use smoke screen. 2x HE 2" in size.<br>Unit goes DOWN when used. |
 
 ****
 
