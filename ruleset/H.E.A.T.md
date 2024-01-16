@@ -276,6 +276,8 @@ spotter and artillery.
 The UAV uses the same damage value as its team. They always deploy grounded with
 the operator, except if the scenario rules state otherwise.
 
+Except for recon role, a DOT is considered destroyed once the drone is lost.
+
 ##### Movement
 
 A drone can be suspended at any height below 2' (60cm). Per activation, either
@@ -317,6 +319,8 @@ around the DOT, once per turn.
 The communication does not require or use up an activation, but is blocked if the
 DOT is DOWN.
 
+If the IFV is shot down, the DOT takes the role of a normal spotter.
+
 ###### IED variant
 
 The UAV carries an improvised high explosive with it, capable of being dropped on
@@ -340,7 +344,7 @@ which takes a successful RALLY order.
 
 | Rule | Description |
 | :--- | :--- |
-| Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order |
+| Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order. |
 
 ****
 
