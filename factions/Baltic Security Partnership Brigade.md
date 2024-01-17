@@ -73,12 +73,67 @@ helicopter may be rerolled.
 
 ## Infantry Units [ 2 - 5 ]
 
-// TODO Small team light infantry
-// TODO Light infantry
-// TODO Specialized border infantry on boats
-// TODO armoured infantry section
-// TODO Elite infantry (Lithuanian Hussar infantry group)
-// TODO Conscripts/Reservists
+### Small team light infantry
+
+60
+
+AR + 2 AR
+
+Opt DMR, Smoke
+
+Rangers
+
+### Light infantry foot group
+
+50
+
+SMG + 4 AR
+
+Opt DMR, LMG, LAW, UGL, Smoke
+
+### Specialized border infantry on boats
+
+70
+
+SMG + 4 SMG
+
+Opt LAW, UGL, Explosives, Smoke
+
+### Cavalry group
+
+50
+
+AR + 4 AR
+
+Opt LAW, LMG, UGL
+
+### Hussar Infantry group
+
+60
+
+SMG + 4 AR
+
+Opt DMR, LMG, UGL, Explosives
+
+### Raid Group "Łauma"
+
+60
+
+SMG + 4 AR
+
+Opt LMG, UGL, Explosives, Smoke
+
+Engineers
+
+Stubborn
+
+### Territorial Reserve Volunteers
+
+30er
+
+AR + 4 AR
+
+Opt LMG
 
 ***
 
