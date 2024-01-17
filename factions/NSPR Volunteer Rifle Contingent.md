@@ -133,8 +133,8 @@ material.
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt |
-| Setup | NCO (SMG) + 3 attendants (SMG), 1x Bangalore |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-.</td><td>+ 1 pt each</td></tr></table>
+| Setup | NCO (SMG) + 3 attendants (SMG) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Bangalore</td><td>Bangalore pipe</td><td>+15 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-.</td><td>+ 1 pt each</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Bangalore</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information</td></tr></table>
 
 ### Marksman group
@@ -189,7 +189,7 @@ and follow orders.
 | :---- | ---- |
 | Cost | 30 pt / - / - |
 | Reinforcement | up to 5 attendants: 7 pt / - / - |
-| Setup | NCO (AR) + 2 attendants (AR) |
+| Setup | NCO (AR) + 3 attendants (AR) |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Rifles</td><td>Old-fashioned, semi-automatic weapons</td><td>-3 pt each</td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Shirkers</td><td>-.</td><td>-2 pt each</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Green</td><td>-</td></tr></table>
 

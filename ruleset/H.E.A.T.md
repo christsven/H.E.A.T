@@ -88,6 +88,7 @@ Additional weapon systems, explosives, mines, ...
 | :---- | :----: | :----: | :----: | :----: | ---- |
 | Rocket propelled<br>grenade launcher | 1 | 6" - 36" | 1 | +5 | Team, Backblast,<br> Shaped charge |
 | Tandem HEAT<br>charge launcher | 1 | 6" - 24" | 1 | +7 | Team, Backblast,<br> Shaped charge |
+| Light Anti-tank<br>guided missile<br>launcher | 1 | 90" <br>(30" per turn) | 1 | +5  | Team, Fixed,<br> Backblast, ATGM |
 | Anti-tank guided<br>missile launcher | 1 | 90" <br>(30" per turn) | 1 | +7  | Team, Fixed,<br> Backblast, ATGM |
 | Man-portable<br>anti air defense<br>system | 1 | 90" | 1 | +4 | Team, Fixed,<br>Backblast, MANPADS
 | Improvised<br>Explosive Device | 1 | placed down | 1 | HE | Explosive, IED,<br>HE 3" |
@@ -276,6 +277,8 @@ spotter and artillery.
 The UAV uses the same damage value as its team. They always deploy grounded with
 the operator, except if the scenario rules state otherwise.
 
+Except for recon role, a DOT is considered destroyed once the drone is lost.
+
 ##### Movement
 
 A drone can be suspended at any height below 2' (60cm). Per activation, either
@@ -317,6 +320,8 @@ around the DOT, once per turn.
 The communication does not require or use up an activation, but is blocked if the
 DOT is DOWN.
 
+If the IFV is shot down, the DOT takes the role of a normal spotter.
+
 ###### IED variant
 
 The UAV carries an improvised high explosive with it, capable of being dropped on
@@ -340,7 +345,7 @@ which takes a successful RALLY order.
 
 | Rule | Description |
 | :--- | :--- |
-| Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order |
+| Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order. |
 
 ****
 
@@ -682,17 +687,20 @@ and retreat if necessary.
 
 Once per vehicle, a unit equipped with a smoke screen can active it by going DOWN.
 (You dont activate with the DOWN, it can be performed without using up the smoke
-screen, but using it leads to your vehicle to go DOWN.)
+screen, but using it leads to your vehicle to go DOWN.) Furthermore, an ADVANCE can be
+used to trigger the smoke as well, using up the firing action. The unit is not
+considered DOWN afterwards (not that it matters, anyway).
 
-The smoke screen consists of two 2" smoke markers which are placed in front of
-the vehicle. Built-up smoke behaves the same as any other smoke, drifting and
-vanishing just like a smoke round.
+The smoke screen consists of two 2" smoke markers which are placed either in front of
+the vehicle or in the direction the turret is aiming, depending on where the
+smoke pods are located. Built-up smoke behaves the same as any other smoke, drifting
+and vanishing just like a smoke round.
 
 ##### Rule
 
 | Rule | Description |
 | :--- | :--- |
-| Smoke Screen | Single-use smoke screen. 2x HE 2" in front of the vehicle.<br>Unit goes DOWN when used. |
+| Smoke Screen | Single-use smoke screen. 2x HE 2" in size.<br>Unit goes DOWN when used. |
 
 ****
 
