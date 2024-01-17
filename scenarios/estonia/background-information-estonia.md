@@ -104,13 +104,12 @@ and african troops and was largely well received as a mediating third party.
 
 #### 2016 - Outbreak of war
 
-After multiple years of preperation, events in April of 2016 lead to civil war.
-The rotation of german forces to the country was used to strike, while the
-logistical process was still ongoing.
+After multiple years of preperation, coordinated attacks in April of 2016 lead
+to civil war.
 
 The garrisons of the armed forces in Ida Viru, mainly used for training of new
 recruits, but also for the newly refurbished territorial defense units as well
-as the Baltic Brigade, were hit simultanously. Across all of estonia, bombs and
+as the Baltic Brigade, were hit simultanously. Across all of Estonia, bombs and
 surprise attacks of small cells disabled bridges and important connections to
 the east.
 
@@ -122,8 +121,9 @@ full of civilian cars.
 The Kremlin heavily lobbied against a NATO intervention and declared any aerial
 attacks against NSPR forces as a provocation and a reason for its own participation
 in the conflict. Due to the already tense political situation in many european
-nations, this was accepted as a deescalatory agreement. Still, the VJTF would
-intervene, as the NSPR only has minimal CAS capabilities anyway.
+nations, this was accepted as a deescalatory agreement.
+
+##### Situation in Ida Viru
 
 With the largest settlements under control, central POI for the economical effort
 and logistical centres were taken swiftly to create a decentralized net of holdouts
@@ -142,6 +142,43 @@ people are enlisted in the volunteer structures of the estonian forces.
 While this was enough to gain control in some parts of the country, the many small
 villages and settlements surrounding the cities were too many to be militarily
 controlled.
+
+#### 2017 - An EU Coalition of the Willing
+
+Since NATO was unwilling to intervene, a multilateral coalition of several EU
+militaries set up their own operation, refering to the chapter 42 of the Treaty
+of the European Union. With France as the main contributor, several eastern
+european countries as well as Sweden and Finland contributed to the intervention
+forces. This paragraph was already once triggered by France after the terrorist
+attacks in Paris two years prior, and was a frequent part of political discussion
+regarding the situation in the Baltic.
+
+In Estonia, the civil war had taken its toll on the land. After the initial gains
+from NSPR forces and the jolty response of the estonian army, a drawnout fight
+over control of key cities and passageways followed. Due to the de facto No Fly
+Zone over Ida Viru, the ground offensives had to proceed more caucious and slow,
+with NSPR defenders using the dense forests and few still usable streets into the
+county to their advantage. Urban combat proved especially costly for the small army,
+but the NSPR also had to suffer painful losses in irreplaceble equipment due to
+BASEP raids into the lightly defended sites located in the national parks. Many
+villages and farms lay in ruin after skirmishes, and terrorist cells routinely
+performed attacks on military and logisical sites outside of Ida Viru.
+
+While not targeted in the beginning of open conflict, the UNFIBAL peacekeepers
+had to change their approach after a disagreement between a group of resistance
+fighters attempted to take control of the Tudulinna dam, which deteriorated into
+a drawnout skirmish between them.
+
+##### Reinforced resistance
+
+Even though the resistance suffered a hefty amount of attrition from fighting not
+only against the estonian army, the baltic territorial defense and UNFIBAL personell,
+but now also the CSDP coalition, there was no noticable dip in ammunition or
+equipment, which led to accusations of Russia providing heavy equipment to the
+resistance fighters. This was not a very far fetched claim, since there was literally
+no other direction from where the resistance could have gotten their weapons in
+the first place, but russian officials always refused to acknowledge any participation
+in the conflict.
 
 ***
 
