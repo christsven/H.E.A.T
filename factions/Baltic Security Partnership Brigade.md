@@ -1,4 +1,4 @@
-# Baltic Security Partnership Brigade "*Laukų dvasios*"
+# Baltic Security Partnership Brigade
 
 ![BASEP logo](ressources/bsp-logo-no-text.excalidraw.png)
 
@@ -73,7 +73,9 @@ helicopter may be rerolled.
 
 ## Infantry Units [ 2 - 5 ]
 
-### Small team light infantry
+### Žvalgybos komanda
+
+A small team of forward reconnaissance infantry.
 
 60
 
@@ -83,7 +85,9 @@ Opt DMR, Smoke
 
 Rangers
 
-### Light infantry foot group
+### Žvalgybos grupė
+
+A group of recon infantry.
 
 50
 
@@ -91,7 +95,10 @@ SMG + 4 AR
 
 Opt DMR, LMG, LAW, UGL, Smoke
 
-### Specialized border infantry on boats
+### Pasienis pėstininkų "Varlių vyrai"
+
+Nicknamed frog men, this group of infantry is boarded on small boats to
+traverse the bogs and marches of the baltic national parks along the borders.
 
 70
 
@@ -99,7 +106,7 @@ SMG + 4 SMG
 
 Opt LAW, UGL, Explosives, Smoke
 
-### Cavalry group
+### Kavalerijos grupė
 
 50
 
@@ -107,7 +114,7 @@ AR + 4 AR
 
 Opt LAW, LMG, UGL
 
-### Hussar Infantry group
+### Husarų pėstininkų grupė
 
 60
 
@@ -115,7 +122,7 @@ SMG + 4 AR
 
 Opt DMR, LMG, UGL, Explosives
 
-### Raid Group "Łauma"
+### Užpuolimas grupė "Łauma"
 
 60
 
