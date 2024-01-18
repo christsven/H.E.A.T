@@ -51,7 +51,7 @@ These units are trained for deep incursions and traversal of the bogs and
 marches of the Baltics. What is a specialization for other forces is here normal. 
 Any infantry group is allowed to get the following rule at 2pt/u:
 
-| Rule | Description | <table><tr><td>Recon training</td><td>These soldiers are trained to operate and maneuver<br> in even the toughest terrain.<br><br>When using an ADVANCE to move through rough<br>terrain, throw a D2, and on a positive result the team<br>may instead use the RUN distance.</td></table>
+<table><tr><td>Recon training</td><td>These soldiers are trained to operate and maneuver<br> in even the toughest terrain.<br><br>When using an ADVANCE to move through rough<br>terrain, throw a D2, and on a positive result the team<br>may instead use the RUN distance.</td></table>
 
 ***
 
