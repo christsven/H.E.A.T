@@ -45,6 +45,14 @@ helicopter may be rerolled.
 
 *TLDR: Regs are allowed to rapell, reroll failed helicopter disembark order tests*
 
+### Forest dwellers
+
+These units are trained for deep incursions and traversal of the bogs and
+marches of the Baltics. What is a specialization for other forces is here normal. 
+Any infantry group is allowed to get the following rule at 2pt/u:
+
+TODO Fernspäher klauen
+
 ***
 
 ## Platoon leader [ 1 ]
@@ -191,10 +199,37 @@ Opt LMG
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
 
+### BTR-80 UNSh
+
+Hand-downs from the Estonian Defense League.
+
+### Sisu Parsi 4x4
+
+### M113
+
+### Humvee
+
 ***
 
 ## Reinforcing Vehicles [ 0 - 1 ]
 
+While the brigade itself only fielded IFVs and helicopters, some older reserve vehicles and light armoured vehicles are available.
+
+### CVR(T)
+
+Some latvian CVR(T) for recon missions.
+
+### UH-1 Bell
+
+### Hoplite Mi-2
+
+### Mi-17
+
+
 ***
 
 ## Transports
+
+### PTS
+
+From the latvian national guard.
