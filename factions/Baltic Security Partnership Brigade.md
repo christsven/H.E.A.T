@@ -48,7 +48,7 @@ helicopter may be rerolled.
 ### Forest dwellers
 
 These units are trained for deep incursions and traversal of the bogs and
-marches of the Baltics. What is a specialization for other forces is here normal. 
+marches of the Baltics. What is a specialization for other forces is here normal.
 Any infantry group is allowed to get the following rule at 2pt/u:
 
 <table><tr><td>Recon training</td><td>These soldiers are trained to operate and maneuver<br> in even the toughest terrain.<br><br>When using an ADVANCE to move through rough<br>terrain, throw a D2, and on a positive result the team<br>may instead use the RUN distance.</td></table>
@@ -128,8 +128,8 @@ Opt LAW, LMG, UGL
 
 ### Husarų pėstininkų grupė
 
-The heaviest infantry the brigade has to offer. The hussars are the mechanized units
-which use M113 and armoured reserve vehicles.
+The heaviest infantry the brigade has to offer. The hussars are the mechanized
+units which use M113 and armoured reserve vehicles.
 
 60
 
@@ -137,11 +137,13 @@ SMG + 4 AR
 
 Opt DMR, LMG, UGL, Explosives
 
-### Eksitaja užpuolimas grupė 
+### Eksitaja užpuolimas grupė
 
-Raid infantry groups were used in the beginning of the war to deal heavy losses to
-the NSPR logistical hubs located in remote parts of the national park. This earned them
-the local nickname "Eksitaja", which are mythological creatures haunting estonian bogs.
+Raid infantry groups were used in the beginning of the war to deal heavy losses
+to the NSPR logistical hubs located in remote parts of the national park.
+
+This earned them the local nickname "Eksitaja", which are mythological creatures
+haunting estonian bogs.
 
 60
 
@@ -168,25 +170,230 @@ Opt LMG
 
 ## Combat support units [ 0 - 1 ]
 
+### Panzerpioniergruppe
+
+Support infantry, used to clear terrain or restrict enemy movement.
+
+| Panzerpionier-<br>gruppe | Combat support unit |
+| :---- | ---- |
+| Cost | 40 pt / 55 pt / 70 pt |
+| Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (SMG) + 2 attendants (SMG) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Sprengrohr<br>(*Bangalore*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Mines</td><td>See IED section in [ruleset](../ruleset/H.E.A.T.md#improvised-explosive-devices-ied-and-mines).<br>They behave the same as IEDs,<br>but can't be disguised.<br>Conventional forces don't use decoys.<td>+20 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr></table>
+
+### G22A2 sniper team
+
+Standard issued german sniper team.
+
+| G22A2 sniper team | Combat support unit |
+| :---- | ---- |
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | - |
+| Setup | NCO (SNIPER) + 1 attendant (SMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>-</td></tr><tr><td>Team</td><td>-</td></tr></table>
+
+### G82 AMR team
+
+Anti materiell rifle sniper team.
+
+| G82 AMR team | Combat support unit |
+| :---- | ---- |
+| Cost | 45 pt / 60 pt / 75 pt |
+| Reinforcement | - |
+| Setup | NCO (AMR) + 1 attendant (SMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>-</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table>
+
+### Sani
+
+| Medic | Combat support unit |
+| :---- | ---- |
+| Cost | - / - / 45 pt |
+| Reinforcement | - |
+| Setup | NCO (unarmed) |
+|Options|-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Medic</td><td>-</td></tr></table>
+
 ***
 
 ## Machine gun team [ 0 - 1 ]
+
+### MG5 MMG team
+
+MG5 MMG team.
+
+| MG5 MMG team | Machine gun team |
+| :---- | ---- |
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | - |
+| Setup | NCO (MMG) + 2 loaders (SMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table>
+
+### .50cal Browning HMG team
+
+.50cal HMG team.
+
+| .50cal Browning HMG team | Machine gun team |
+| :---- | ---- |
+| Cost | 49 pt / 70 pt / 91 pt |
+| Reinforcement | - |
+| Setup | NCO (HMG) + 2 loaders (SMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table>
+
+### KSK Quad MMG
+
+A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special services.
+
+| MG3 quad | Machine gun quad |
+| :---- | ---- |
+| Cost | - pt / 65 pt / 80 pt |
+| Reinforcement | - |
+| Setup | NCO ( MMG ) |
+|Options|-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes)</td></tr><tr><td>Rear-mounted MMG</td><td>Fire ark of MG3 is to the back and 90° to each side<br>(so 9 and 3 o'clock from the drivers perspective).</table>
+
+### GraMaWa team
+
+GraMaWa AGL team.
+
+| GraMaWa team | Machine gun team |
+| :---- | ---- |
+| Cost | 50 pt / 60 pt / 75 pt |
+| Reinforcement | - |
+| Setup | NCO (AGL) + 2 loaders (SMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>AGL</td><td>Automatic grenade launcher, which<br>rapidly fires 40mm ordnance.<br><br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl). </td></tr></table>
 
 ***
 
 ## Anti-Tank team [ 0 - 1 ]
 
+### PzF 3 team
+
+Anti-tank rocket team, equipped with Panzerfaust 3, which is the standard issue german RPG.
+
+| PzF 3 team | Anti-Tank team |
+| :---- | ---- |
+| Cost | 42 pt / 60 pt / 78 pt |
+| Reinforcement | - |
+| Setup | NCO (AGL) + 1 loader (SMG) |
+| Options | <table><table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</td></tr><tr><td>Tandem HEAT Charge</td><td>Heavier charge than  normal<br>round, but less range.<br>Check [ruleset](../ruleset/H.E.A.T.md#tandem-heat-charges) for details.</td><td>+15 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table>
+
+### MELLS ATGM team
+
+Anti-tank guided missile team, a valid threat to any armoured vehicle. Equipped with modern, israeli "Spike" missiles,
+under the german designation "MELLS" for "Mehrrollenfähiges Leichtes Lenkflugkörper-System".
+
+| MELLS ATGM team | Anti-Tank team |
+| :---- | ---- |
+| Cost | 60 pt / 75 pt / 90 pt |
+| Reinforcement | - |
+| Setup | NCO (ATGM) + 2 loaders (SMG) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Fire-And-Forget</td><td>Weapon team is not required to stay<br>stationary during flight.<br><br>See ATGM section in [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).<td>+20 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table>
+
 ***
 
 ## Drone team [ 0 - 1 ]
+
+### UAV operator team
+
+Just being tested as parts of modern conventional forces, small UAVs are becoming
+an integral part of modern warfare. This team is equipped with a small quadcopter
+for forward reconnaissance.
+
+| UAV team | UAV team |
+| :---- | ---- |
+| Cost | 41 pt / 52 pt / 63 pt |
+| Reinforcement | up to 2 attendants (SMG): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (PDW) |
+| Options | -
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr></table>
 
 ***
 
 ## Mortar team [ 0 - 1 ]
 
+### M224 LWCMS 60mm light mortar team
+
+light mortar team.
+
+| M224 LWCMS 60mm<br>light mortar team | Mortar team |
+| :---- | ---- |
+| Cost | 24 pt / 35 pt / 46 pt |
+| Reinforcement | Spotter (PDW) +10 pt |
+| Setup | NCO (LIGHT MORTAR) + 1 loader (PISTOL) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
+
+### M252 81mm medium mortar team
+
+medium mortar team.
+
+| M252 81mm<br>medium mortar team | Mortar team |
+| :---- | ---- |
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | Spotter +10 pt |
+| Setup | NCO (MEDIUM MORTAR) + 1 loader (PISTOL) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
+
+### Mörser 120 mm heavy mortar team
+
+Mörser 120mm with "Erdsporen" for non-vehicle deployment.
+
+| 120mm heavy<br>mortar team | Mortar team |
+| :---- | ---- |
+| Cost | 46 pt / 65 pt / 84 pt |
+| Reinforcement | Spotter (PDW) +10 pt |
+| Setup | NCO (HEAVY MORTAR) + 2 loader (PISTOL) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
+
 ***
 
 ## Artillery [ 0 - 1 ]
+
+### M119 105mm light howitzer
+
+light howitzer.
+
+| M119 105mm<br>light howitzer | Artillery |
+| :---- | ---- |
+| Cost | 40 pt / 50 pt / 60 pt |
+| Reinforcement | Spotter (PDW) +10 pt |
+| Setup | NCO (LIGHT HOWITZER) + 2 loader (PISTOL) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
+
+### M777 155mm medium howitzer
+
+medium howitzer.
+
+| M777 155mm<br>medium howitzer | Artillery |
+| :---- | ---- |
+| Cost | 60 pt / 75 pt / 90 pt |
+| Reinforcement | Spotter (PDW) +10 pt |
+| Setup | NCO (MEDIUM HOWITZER) + 2 loader (PISTOL) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
+
+### Heavy howitzer
+
+heavy howitzer.
+
+| Heavy howitzer | Artillery |
+| :---- | ---- |
+| Cost | 92 pt / 115 pt / 138 pt |
+| Reinforcement | Spotter (PDW) +10 pt |
+| Setup | NCO (HEAVY HOWITZER) + 3 loader (PISTOL) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 4"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
 ***
 
@@ -207,6 +414,7 @@ Opt LMG
 ### BTR-80 UNSh
 
 Hand-downs from the Estonian Defense League.
+
 ### Humvee
 
 ### Polaris RZR 4x4
@@ -228,7 +436,6 @@ From latvian air force. Two available.
 ### W-3W/WA Sokół
 
 Part of arms donation from polish land forces. Two are available.
-
 
 ***
 
