@@ -112,12 +112,12 @@ traverse the bogs and marches of the baltic national parks along the borders.
 
 SMG + 4 SMG
 
-Opt LAW, UGL, Explosives, Smoke
+Opt LAW, UGL (GraPi), Explosives, Smoke
 
 ### Kavalerijos grupė
 
-Retaining the old name for horse mounted infantry, modern cavalry comes mounted
-on helicopters. This infantry group works in conjunction with a helicopter
+Retaining the old name for horse mounted infantry, modern cavalry is mounted upon
+helicopters. This infantry group works in conjunction with a helicopter
 in areas which are hard to reach by any other means.
 
 50
@@ -128,7 +128,8 @@ Opt LAW, LMG, UGL
 
 ### Husarų pėstininkų grupė
 
-The heaviest infantry the brigade has to offer. The hussars are the small mechanized units which use M113 and armoured reserve vehicles.
+The heaviest infantry the brigade has to offer. The hussars are the mechanized units
+which use M113 and armoured reserve vehicles.
 
 60
 
@@ -154,7 +155,7 @@ Stubborn
 
 ### Territorial Reserve Volunteers
 
-All baltic states have relatively huge territorial reserves, made up from volunteers and
+All baltic states have relatively large territorial reserves, made up from volunteers and
 former military servicemen. Some of those units were restructured under the Baltic Treaty to serve in this brigade.
 
 30er
@@ -199,15 +200,16 @@ Opt LMG
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
 
-### BTR-80 UNSh
-
-Hand-downs from the Estonian Defense League.
-
 ### Sisu Parsi 4x4
 
 ### M113
 
+### BTR-80 UNSh
+
+Hand-downs from the Estonian Defense League.
 ### Humvee
+
+### Polaris RZR 4x4
 
 ***
 
@@ -219,17 +221,41 @@ While the brigade itself only fielded IFVs and helicopters, some older reserve v
 
 Some latvian CVR(T) for recon missions.
 
-### UH-1 Bell
+### Mi-8/17 combat helicopter
 
-### Hoplite Mi-2
+From latvian air force. Two available.
 
-### Mi-17
+### W-3W/WA Sokół
+
+Part of arms donation from polish land forces. Two are available.
 
 
 ***
 
 ## Transports
 
+### Mi-2 Hoplite
+
+### Mi-17 Hip
+
+### AS365 Dauphin
+
+### BTR 80
+
+### Sisu Parsi
+
 ### PTS
+
+### M113
+
+### Truck
+
+### Toyota/Range Rover
+
+more space than jeep
+
+### Jeep
+
+### Boat
 
 From the latvian national guard.
