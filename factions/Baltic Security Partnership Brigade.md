@@ -108,6 +108,10 @@ Opt LAW, UGL, Explosives, Smoke
 
 ### Kavalerijos grupė
 
+Retaining the old name for horse mounted infantry, modern cavalry comes mounted
+on helicopters. This infantry group works in conjunction with a helicopter
+in areas which are hard to reach by any other means.
+
 50
 
 AR + 4 AR
@@ -116,13 +120,19 @@ Opt LAW, LMG, UGL
 
 ### Husarų pėstininkų grupė
 
+The heaviest infantry the brigade has to offer. The hussars are the small mechanized units which use M113 and armoured reserve vehicles.
+
 60
 
 SMG + 4 AR
 
 Opt DMR, LMG, UGL, Explosives
 
-### Užpuolimas grupė "Łauma"
+### Eksitaja užpuolimas grupė 
+
+Raid infantry groups were used in the beginning of the war to deal heavy losses to
+the NSPR logistical hubs located in remote parts of the national park. This earned them
+the local nickname "Eksitaja", which are mythological creatures haunting estonian bogs.
 
 60
 
@@ -135,6 +145,9 @@ Engineers
 Stubborn
 
 ### Territorial Reserve Volunteers
+
+All baltic states have relatively huge territorial reserves, made up from volunteers and
+former military servicemen. Some of those units were restructured under the Baltic Treaty to serve in this brigade.
 
 30er
 
