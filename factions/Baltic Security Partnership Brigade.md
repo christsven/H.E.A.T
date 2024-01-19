@@ -49,7 +49,7 @@ helicopter may be rerolled.
 
 These units are trained for deep incursions and traversal of the bogs and
 marches of the Baltics. What is a specialization for other forces is here normal.
-Any infantry group is allowed to get the following rule at 2pt/u:
+Any officer or infantry group is allowed to get the following rule at 2pt/u:
 
 <table><tr><td>Recon training</td><td>These soldiers are trained to operate and maneuver<br> in even the toughest terrain.<br><br>When using an ADVANCE to move through rough<br>terrain, throw a D2, and on a positive result the team<br>may instead use the RUN distance.</td></table>
 
@@ -158,7 +158,8 @@ Stubborn
 ### Territorial Reserve Volunteers
 
 All baltic states have relatively large territorial reserves, made up from volunteers and
-former military servicemen. Some of those units were restructured under the Baltic Treaty to serve in this brigade.
+former military servicemen. Some of those units were restructured under the Baltic
+Treaty to serve in this brigade.
 
 30er
 
@@ -170,11 +171,11 @@ Opt LMG
 
 ## Combat support units [ 0 - 1 ]
 
-### Panzerpioniergruppe
+### Armoured Engineer group
 
 Support infantry, used to clear terrain or restrict enemy movement.
 
-| Panzerpionier-<br>gruppe | Combat support unit |
+| Engineers group | Combat support unit |
 | :---- | ---- |
 | Cost | 40 pt / 55 pt / 70 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt each |
@@ -182,11 +183,9 @@ Support infantry, used to clear terrain or restrict enemy movement.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Sprengrohr<br>(*Bangalore*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Mines</td><td>See IED section in [ruleset](../ruleset/H.E.A.T.md#improvised-explosive-devices-ied-and-mines).<br>They behave the same as IEDs,<br>but can't be disguised.<br>Conventional forces don't use decoys.<td>+20 pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr></table>
 
-### G22A2 sniper team
+### Sako TRG-22 sniper team
 
-Standard issued german sniper team.
-
-| G22A2 sniper team | Combat support unit |
+| TRG-22 sniper<br>team | Combat support unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -194,11 +193,11 @@ Standard issued german sniper team.
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>-</td></tr><tr><td>Team</td><td>-</td></tr></table>
 
-### G82 AMR team
+### M82 AMR team
 
 Anti materiell rifle sniper team.
 
-| G82 AMR team | Combat support unit |
+| M82 AMR team | Combat support unit |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -206,7 +205,7 @@ Anti materiell rifle sniper team.
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>-</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table>
 
-### Sani
+### Medical specialist
 
 | Medic | Combat support unit |
 | :---- | ---- |
@@ -220,11 +219,11 @@ Anti materiell rifle sniper team.
 
 ## Machine gun team [ 0 - 1 ]
 
-### MG5 MMG team
+### MG3 MMG team
 
-MG5 MMG team.
+Lithuanian MG3s taken from wartime storage to equip the new formations. MG3 MMG team.
 
-| MG5 MMG team | Machine gun team |
+| MG3 MMG team | Machine gun team |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -244,9 +243,9 @@ MG5 MMG team.
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table>
 
-### KSK Quad MMG
+### Quad MMG
 
-A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special services.
+A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG.
 
 | MG3 quad | Machine gun quad |
 | :---- | ---- |
@@ -256,11 +255,11 @@ A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special servi
 |Options|-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes)</td></tr><tr><td>Rear-mounted MMG</td><td>Fire ark of MG3 is to the back and 90° to each side<br>(so 9 and 3 o'clock from the drivers perspective).</table>
 
-### GraMaWa team
+### GMG 40mm team
 
-GraMaWa AGL team.
+AGL team with a HK GMG 40mm.
 
-| GraMaWa team | Machine gun team |
+| AGL team | Machine gun team |
 | :---- | ---- |
 | Cost | 50 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -272,11 +271,13 @@ GraMaWa AGL team.
 
 ## Anti-Tank team [ 0 - 1 ]
 
-### PzF 3 team
+### RPG team
 
-Anti-tank rocket team, equipped with Panzerfaust 3, which is the standard issue german RPG.
+Anti-tank rocket team, equipped with a mix ofCarl Gustav, Panzerfaust 3s, and
+other arms donations that made it from the armed forces down to the reserve
+brigades.
 
-| PzF 3 team | Anti-Tank team |
+| RPG team | Anti-Tank team |
 | :---- | ---- |
 | Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | - |
@@ -284,12 +285,11 @@ Anti-tank rocket team, equipped with Panzerfaust 3, which is the standard issue 
 | Options | <table><table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</td></tr><tr><td>Tandem HEAT Charge</td><td>Heavier charge than  normal<br>round, but less range.<br>Check [ruleset](../ruleset/H.E.A.T.md#tandem-heat-charges) for details.</td><td>+15 pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table>
 
-### MELLS ATGM team
+### FMG-48 Javelin team
 
-Anti-tank guided missile team, a valid threat to any armoured vehicle. Equipped with modern, israeli "Spike" missiles,
-under the german designation "MELLS" for "Mehrrollenfähiges Leichtes Lenkflugkörper-System".
+Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
-| MELLS ATGM team | Anti-Tank team |
+| Javelin team | Anti-Tank team |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |
@@ -317,13 +317,16 @@ for forward reconnaissance.
 
 ***
 
-## Mortar team [ 0 - 1 ]
+## Mortar team [ 0 - 2 ]
 
-### M224 LWCMS 60mm light mortar team
+Since this brigade does not field any artillery, mortars are used to counter-
+balance the missing firepower.
+
+### Hirtenberger M60 60mm light mortar team
 
 light mortar team.
 
-| M224 LWCMS 60mm<br>light mortar team | Mortar team |
+| 60mm light<br>mortar team | Mortar team |
 | :---- | ---- |
 | Cost | 24 pt / 35 pt / 46 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -331,11 +334,11 @@ light mortar team.
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
-### M252 81mm medium mortar team
+### L16 81mm medium mortar team
 
 medium mortar team.
 
-| M252 81mm<br>medium mortar team | Mortar team |
+| 81mm medium<br>mortar team | Mortar team |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | Spotter +10 pt |
@@ -343,9 +346,9 @@ medium mortar team.
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
-### Mörser 120 mm heavy mortar team
+### m/41D 120 mm heavy mortar team
 
-Mörser 120mm with "Erdsporen" for non-vehicle deployment.
+heavy mortar team.
 
 | 120mm heavy<br>mortar team | Mortar team |
 | :---- | ---- |
@@ -355,53 +358,29 @@ Mörser 120mm with "Erdsporen" for non-vehicle deployment.
 | Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
 
-***
-
-## Artillery [ 0 - 1 ]
-
-### M119 105mm light howitzer
-
-light howitzer.
-
-| M119 105mm<br>light howitzer | Artillery |
-| :---- | ---- |
-| Cost | 40 pt / 50 pt / 60 pt |
-| Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (LIGHT HOWITZER) + 2 loader (PISTOL) |
-| Options |-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
-
-### M777 155mm medium howitzer
-
-medium howitzer.
-
-| M777 155mm<br>medium howitzer | Artillery |
-| :---- | ---- |
-| Cost | 60 pt / 75 pt / 90 pt |
-| Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (MEDIUM HOWITZER) + 2 loader (PISTOL) |
-| Options |-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
-
-### Heavy howitzer
-
-heavy howitzer.
-
-| Heavy howitzer | Artillery |
-| :---- | ---- |
-| Cost | 92 pt / 115 pt / 138 pt |
-| Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (HEAVY HOWITZER) + 3 loader (PISTOL) |
-| Options |-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 4"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table>
+### M113 self propelled mortar
 
 ***
 
-## Divisional Reinforcements [ 0 - 1 ]
+## Operational Reinforcements [ 0 - 1 ]
+
+### PzH 2000 Battery Observer
+
+Observer sent from a nearby Artillery position.
 
 ***
 
 ## Anti-Air systems [ 0 - 1 ]
+
+### FIM-92 Stinger team
+
+### ZU-23-2 anti air autocannon
+
+### L/70 Bofors anti air gun
+
+### EDM4S EW team
+
+Domestically produced lithuanian anti UAV system. Issued for experimental use.
 
 ***
 
@@ -410,6 +389,8 @@ heavy howitzer.
 ### Sisu Parsi 4x4
 
 ### M113
+
+### M113A2 .50cal
 
 ### BTR-80 UNSh
 
@@ -429,13 +410,17 @@ While the brigade itself only fielded IFVs and helicopters, some older reserve v
 
 Some latvian CVR(T) for recon missions.
 
+### CV9035EE
+
+Estonia provided a number of CV90 to the brigade as part of their commitment. Armed with a Bushmaster III 35/50.
+
 ### Mi-8/17 combat helicopter
 
-From latvian air force. Two available.
+Available for missions from the latvian air force.
 
 ### W-3W/WA Sokół
 
-Part of arms donation from polish land forces. Two are available.
+Part of arms donation from polish land forces to Estonia.
 
 ***
 
