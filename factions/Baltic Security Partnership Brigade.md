@@ -85,17 +85,25 @@ Any officer or infantry group is allowed to get the following rule at 2pt/u:
 
 A small team of forward reconnaissance infantry.
 
-60
+| Recon team | Light infantry unit |
+| :---- | ---- |
+| Cost | 20 pt / 30 pt / 40 pt |
+| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 1 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Quad Bikes</td><td>Unit is equipped with quad bikes.<br><br>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes) for more information.</td><td>+15 pt/unit</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
 
-AR + 2 AR
-
-Opt DMR, Smoke
-
-Rangers
-
-### Žvalgybos grupė
+### Žvalgybos skyrius
 
 A group of recon infantry.
+
+| Recon group | Light infantry unit |
+| :---- | ---- |
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (SMG) + 3 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
+| Special rules | <table><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table>
 
 50
 
@@ -114,7 +122,7 @@ SMG + 4 SMG
 
 Opt LAW, UGL (GraPi), Explosives, Smoke
 
-### Kavalerijos grupė
+### Kavalerijos skyrius
 
 Retaining the old name for horse mounted infantry, modern cavalry is mounted upon
 helicopters. This infantry group works in conjunction with a helicopter
@@ -126,7 +134,7 @@ AR + 4 AR
 
 Opt LAW, LMG, UGL
 
-### Husarų pėstininkų grupė
+### Husarų pėstininkų skyrius
 
 The heaviest infantry the brigade has to offer. The hussars are the mechanized
 units which use M113 and armoured reserve vehicles.
@@ -137,7 +145,7 @@ SMG + 4 AR
 
 Opt DMR, LMG, UGL, Explosives
 
-### Eksitaja užpuolimas grupė
+### Eksitaja užpuolimas skyrius
 
 Raid infantry groups were used in the beginning of the war to deal heavy losses
 to the NSPR logistical hubs located in remote parts of the national park.
@@ -157,9 +165,9 @@ Stubborn
 
 ### Territorial Reserve Volunteers
 
-All baltic states have relatively large territorial reserves, made up from volunteers and
-former military servicemen. Some of those units were restructured under the Baltic
-Treaty to serve in this brigade.
+All baltic states have relatively large territorial reserves, made up from
+volunteers and former military servicemen. Some of those units were restructured
+under the Baltic Treaty to serve in this brigade.
 
 30er
 
@@ -221,7 +229,8 @@ Anti materiell rifle sniper team.
 
 ### MG3 MMG team
 
-Lithuanian MG3s taken from wartime storage to equip the new formations. MG3 MMG team.
+Lithuanian MG3s taken from wartime storage to equip the new formations.
+MG3 MMG team.
 
 | MG3 MMG team | Machine gun team |
 | :---- | ---- |
@@ -297,6 +306,8 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Fire-And-Forget</td><td>Weapon team is not required to stay<br>stationary during flight.<br><br>See ATGM section in [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).<td>+20 pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table>
 
+### SPG-9 recoilless rifle team
+
 ***
 
 ## Drone team [ 0 - 1 ]
@@ -360,19 +371,44 @@ heavy mortar team.
 
 ### M113 self propelled mortar
 
+| M113 | APC Armoured Carrier |
+| :---- | ---- |
+| Cost |  |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>Panzermörser 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table>
+
 ***
 
 ## Operational Reinforcements [ 0 - 1 ]
 
 ### PzH 2000 Battery Observer
 
-Observer sent from a nearby Artillery position.
+| Artillery forward<br>observer | Divisional Reinforcements |
+| :---- | ---- |
+| Cost | - pt / 100 pt / 115 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (SMG) |
+| Options |-
+| Special rules | -
 
 ***
 
 ## Anti-Air systems [ 0 - 1 ]
 
 ### FIM-92 Stinger team
+
+Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
+
+| MANPADS<br>team | Infantry unit |
+| :---- | ---- |
+| Cost | 50 pt / 65 pt / 80 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (MANPADS) + 1 loader (SMG) |
+| Options |-
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>MANPADS</td><td>See [ruleset](../ruleset/H.E.A.T.md#manportable-air-defense-systems-manpads) for more information.</td></tr></table>
 
 ### ZU-23-2 anti air autocannon
 
@@ -404,7 +440,8 @@ Hand-downs from the Estonian Defense League.
 
 ## Reinforcing Vehicles [ 0 - 1 ]
 
-While the brigade itself only fielded IFVs and helicopters, some older reserve vehicles and light armoured vehicles are available.
+While the brigade itself only fielded IFVs and helicopters, some older reserve
+vehicles and light armoured vehicles are available.
 
 ### CVR(T)
 
@@ -412,7 +449,8 @@ Some latvian CVR(T) for recon missions.
 
 ### CV9035EE
 
-Estonia provided a number of CV90 to the brigade as part of their commitment. Armed with a Bushmaster III 35/50.
+Estonia provided a number of CV90 to the brigade as part of their commitment.
+Armed with a Bushmaster III 35/50.
 
 ### Mi-8/17 combat helicopter
 
