@@ -476,7 +476,7 @@ multiple LAWs, and the maximum amount is described in their unit template.
 
 | Rule | Description |
 | :--- | :--- |
-| LAW | A single-use AT weapon.<br>Check [weapons chart](#explosives-and-rockets-weapons-chart) for details. |
+| LAW | A single-use AT weapon.<br>Check [weapons chart](#explosives-and-rockets-weapons-chart) for details. (Same as RPG, judt single shot.) |
 
 ****
 
