@@ -28,11 +28,13 @@ These weapons are operated by a single unit, which uses it as its primary weapon
 | Personal defense weapon | 0" - 12" | 3 | - | Assault |
 | Submachine gun | 0" - 18" | 2 | - | Assault |
 | Assault rifle | 0" - 12" | 2 | - | - |
-| Assault rifle | 12" - 24" | 1 | - | - |
+| Assault rifle* | 12" - 24" | 1 | - | - |
 | Rifle | 0" - 24" | 1 | - | - |
 | Designated marksman rifle | 0" - 38" | 1 | - | DMR |
 | Shotgun | 0" - 18" | D3 | - | Assault |
 | Underbarrel grenade launcher | 6" - 20" | 1 | HE | UGL |
+
+*This replaces the long range hit modifier.
 
 The following weapons systems are operated by teams. The number of attendants
 indicates the unit's size to function properly, if deployed as an infantry group.
