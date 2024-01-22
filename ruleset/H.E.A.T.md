@@ -58,13 +58,13 @@ Every following unit is counted as a system operator plus the given amount of at
 
 | Vehicle weapon systems | Atten-<br>dants | Range | Shots | PEN | Special rules |
 | :---- | :----: | :----: | :----: | :----: | ---- |
-| Light anti-tank gun | 2 | 0" - 48" | 1 | +4 | HE 1" |
-| Medium anti-tank gun | 3 | 0" - 60" | 1 | +5 | HE 1" |
-| Heavy anti-tank gun | 3 | 0" - 72" | 1 | +6 | HE 2" |
-| Super-heavy<br>anti-tank gun | 3 | 0" - 82" | 1 | +7 | HE 3"|
+| Light anti-tank gun | 2 | 0" - 48" | 1 | +4 | Team, Fixed, HE 1" |
+| Medium anti-tank gun | 3 | 0" - 60" | 1 | +5 | Team, Fixed, HE 1" |
+| Heavy anti-tank gun | 3 | 0" - 72" | 1 | +6 | Team, Fixed, HE 2" |
+| Super-heavy<br>anti-tank gun | 3 | 0" - 82" | 1 | +7 | Team, Fixed, HE 3"|
 | Light autocannon | 2 | 0" - 48" | 2 | +2 | Team, Fixed, HE 1" |
-| Medium autocannon | 2 | 0" - 60" | 2 | +3 | Team, HE 1" |
-| Heavy autocannon | 3 | 0" - 72" | 2 | +3 | Team, HE 2" |
+| Medium autocannon | 2 | 0" - 60" | 2 | +3 | Team, Fixed, HE 1" |
+| Heavy autocannon | 3 | 0" - 72" | 2 | +3 | Team, Fixed, HE 2" |
 | Flamethrower (Vehicle) | - | 0" - 12" | D6+1 | +3 | Flamethrower |
 
 ### Indirect fire weapons chart
