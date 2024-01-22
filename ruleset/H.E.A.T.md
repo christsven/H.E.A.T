@@ -101,6 +101,18 @@ Additional weapon systems, explosives, mines, ...
 
 ### Vehicles
 
+#### Movement
+
+To adjust for half-tracks becoming obsolete, bulky multi-axial vehicles take their
+space:
+
+| Vehicle Type | ADVANCE (Pivots) | RUN (Pivots) |
+| Wheeled | 12" (2) | 24" (1) |
+| Multi-axial wheeled | 12" (1) | 24" (0) |
+| Tracked | 9" (1) | 18" (0) |
+
+On-Road bonus still doubles range.
+
 #### IFVs
 
 ![ifvs](./ressources/ifvs.excalidraw.png)
