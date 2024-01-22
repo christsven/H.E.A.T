@@ -394,7 +394,7 @@ heavy mortar team.
 | Reinforcement | Spotter (PDW) +10 pt |
 | Setup | NCO (HELL CANNON) + 3 loader (PISTOL) |
 |Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr><tr><td>Selfmade</td><td>mortar shells hit (2D6 - zeroing D6) inch<br> in a random direction from the selected target.</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr><tr><td>Selfmade</td><td>mortar shells hit (D3 * zeroing D6) inch<br> in a random direction from the selected target.</td></tr></table>
 
 ***
 
