@@ -12,8 +12,7 @@ war can be found [here](/scenarios/estonia/background-information-estonia.md).
 ![faction header](/factions/ressources/platoon-leader-nspr.excalidraw.png)
 
 Factions are ordered by alignment as seen from a NATO perspective. BLUFOR are
-all NATO or NATO-allied forces, OPFOR represents all enemy forces and INDEPENDENT
-is used for other factions.
+all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
 ### BLUFOR
 
