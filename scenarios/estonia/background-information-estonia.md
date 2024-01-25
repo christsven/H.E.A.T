@@ -270,12 +270,12 @@ and IFVs, and a very small number of tanks was also provided.
 
 ![eufor logo](/scenarios/ressources/EUFOR-logo.excalidraw.png)
 
-**EUFOR Estonia**
+*EUFOR Estonia*
 
 
 ![csdp logo](/scenarios/ressources/csdp-logo.excalidraw.png)
 
-**Common Security and Defense Policy, EU**
+*Common Security and Defense Policy, EU*
 
 Under the mission name EUFOR fall two EU battlegroups, the italian led "Multinational Land Force" and the french led "" as well as the EUROCORPS. They are furthermore working in conjunction with a naval force "EUNAVFOR Baltic Sea" composed of german and swedish frigates.
 
