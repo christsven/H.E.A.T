@@ -168,6 +168,8 @@ While not targeted in the beginning of open conflict, the UNFIBAL peacekeepers
 had to change their approach after a disagreement between a group of resistance
 fighters attempted to take control of the Tudulinna dam, which deteriorated into
 a drawnout skirmish between them.
+The mission was further resupplied to also support the Estonial Defense League in the 
+rest of the country, who are primarily occupied dealing with the refugee situation.
 
 ##### Reinforced resistance
 
