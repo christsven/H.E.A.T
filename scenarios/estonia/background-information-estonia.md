@@ -143,15 +143,14 @@ While this was enough to gain control in some parts of the country, the many sma
 villages and settlements surrounding the cities were too many to be militarily
 controlled.
 
-#### 2017 - An EU Coalition of the Willing
+#### 2017 - Baptism by Fire
 
-Since NATO was unwilling to intervene, a multilateral coalition of several EU
-militaries set up their own operation, refering to the chapter 42 of the Treaty
-of the European Union. With France as the main contributor, several eastern
-european countries as well as Sweden and Finland contributed to the intervention
-forces. This paragraph was already once triggered by France after the terrorist
-attacks in Paris two years prior, and was a frequent part of political discussion
-regarding the situation in the Baltic.
+Since NATO was unwilling to intervene, the EUs Foreign Affairs Council (FAC) voted to send
+the two EU Battlegroups under the Common Security and Defence Policy (CSPD) to aid estonian
+forces. Just two years prior, the force had been restructured under PESCO following Brexit.
+This had established a command centre (MPCC) in Brussels and launched a shared EU Defense
+Fund (EDF), leading to a better integration of national forces and a more coherent
+structure. At the time of deployment, the two battlegroups where led by Italy and France.
 
 In Estonia, the civil war had taken its toll on the land. After the initial gains
 from NSPR forces and the jolty response of the estonian army, a drawnout fight
@@ -266,6 +265,47 @@ This lead to a patchworked force with vehicles from all over the world, mostly
 old and under-weaponized, since peacekeepers main focus is not lethal in nature.
 Still, some security detachments for places of interest do have access to APCs
 and IFVs, and a very small number of tanks was also provided.
+
+### EUFOR Estonia
+
+![eufor logo](/scenarios/ressources/EUFOR-logo.excalidraw.png)
+
+**EUFOR Estonia**
+
+
+![csdp logo](/scenarios/ressources/csdp-logo.excalidraw.png)
+
+**Common Security and Defense Policy, EU**
+
+Under the mission name EUFOR fall two EU battlegroups, the italian led "Multinational Land Force" and the french led "" as well as the EUROCORPS. They are furthermore working in conjunction with a naval force "EUNAVFOR Baltic Sea" composed of german and swedish frigates.
+
+The two EU Battlegroups are composed of around 1500 men each and are well established, reoccuring formations in the biannual standby roster of battlegroups. The Eurocorps routinely supports EU and EU member missions.
+
+#### Multinational Land Force
+
+Originating in 1990, this battlegroup is composed of italian, hungarian and slovenian formations.
+
+Participating units:
+
+- Support and Command Brigade Julia (Italy)
+- 8th Alpine Regiment (Italy)
+- 2nd Assault Engineer Regiment (Italy)
+- 3rd Mountain Artillery Regiment (Italy)
+- 10th Motorized Battalion (Slovenia)
+- 132nd Mountain Battalion (Slovenia)
+- 1st Mechanized Battalion (Hungary)
+
+#### Franco-belgian Battlegroup
+
+The battlegroup is led by french forces and supported by belgian formations.
+
+#### Eurocorps
+
+The Eurocorps is a multinational organisation consisting of a whole list of pariticipants. The main body is made up of the franco-german brigade, its headquarters is part of the nine NATO High Readiness Land Headquarters (NATO HRF (L) HQ).
+
+Formerly, the Corps had several belgian, german and french brigades permanently associated with it. Since then, several new framework nations and associated members joined and a more modular approach was introduced.
+
+The Corps is involved as a headquarter element to the battlegroups and also reinforced the EUBGs with units from the franco-german brigade.
 
 ### VJTF
 
