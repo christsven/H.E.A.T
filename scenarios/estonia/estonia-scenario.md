@@ -17,50 +17,49 @@ is used for other factions.
 
 ### BLUFOR
 
-#### VJTF armoured infantry brigade
-
-Roster for a modern, 2010-2020 era fictional NATO brigade, composed of a
-reinforced Bundeswehr Panzergrenadier infantry platoon.
-
-[VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
-
-#### WIP: Baltic Security Partnership Brigade
+#### Baltic Security Partnership Brigade
 
 Fictional treaty Light Air Cavalry brigade formed in Scenario.
 
-Composed of lithuanian, estonian and latvian equipment.
+Composed of lithuanian, estonian and latvian equipment. 2016 onward.
 
 [BASEP Roster](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
 #### TODO: Estonian 1. Jalaväebrigaad
 
-Estonian 1. Infantry brigade roster.
+Estonian 1. Infantry brigade roster. 2016 onward.
 
-[Estonian Roster]()
+[Estonia Roster]()
 
 #### TODO: UN peacekeeping and support brigade
 
-Roster for a UNFIBAL support brigade composed of french and american equipment.
+Roster for a UNFIBAL support brigade composed of french and american equipment. 2014-2017.
 
 [UNFIBAL Roster]()
 
-### INDEPENDENT
+#### TODO: EUFOR Estonia
 
-#### NSPR armoured infantry platoon
+Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
 
-Roster for a non-symmetrical, platoon-sized independent force, composed
-of former soviet-army material.
+[EUFOR Roster]()
 
-[NSPR Roster](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
+#### VJTF armoured infantry brigade
+
+German led NRF forces, VJTF + IF-U/F-U forces. Late 2018.
+
+[VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
 ### OPFOR
 
-#### TODO: Russian Forces
+#### NSPR armoured infantry platoon
 
-Roster for a generic Russian Federation ground force, with equipment used as
-present in the 2010s to 2020s.
+Combined free forces of Ida Viru and the Bratstwa PMC group. Early war (2015-2018)
 
-[OPFOR Roster]()
+[NSPR Early war](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
+
+Reinforced mid war forces. 2018 onward.
+
+[NSPR Mid war]()
 
 ## Match Ideas
 
