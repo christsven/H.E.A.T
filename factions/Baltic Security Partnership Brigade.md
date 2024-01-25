@@ -456,6 +456,11 @@ Armed with a Bushmaster III 35/50.
 
 Available for missions from the latvian air force.
 
+### UH60M Black Hawk
+
+From the latvian air force.
+
+
 ### W-3W/WA Sokół
 
 Part of arms donation from polish land forces to Estonia.
