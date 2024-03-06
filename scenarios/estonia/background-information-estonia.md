@@ -35,15 +35,14 @@ send their own force in an effort to protect ethnic russians in the region.
 #### 2012 - Declining baltics
 
 Several years of disinformation campaigns, civil unrest due to declining living
-standards, and a feeling of being left out by the more economically prosperous western
-counties lead to the rise of extremist sentiment in the more eastern counties of
-Estonia. As a former soviet republic, many older, russian-born citizens remember
-the USSR in a positive light and see the decline of industrial sites in Ida Viru
-as a failure to keep the region relevant by the government.
+standards, and a feeling of being left out by the more economically prosperous
+western counties lead to the rise of extremist sentiment in the more eastern
+counties of Estonia. As a former soviet republic, many older, russian-born
+citizens remember the USSR in a positive light and see the decline of industrial
+sites in Ida Viru as a failure to keep the region relevant by the government.
 
 Especially in the larger settlements, a majority of citizens come from other parts
-of the former USSR, for example in the city of
-Narva (95.7% native russian
+of the former USSR, for example in the city of Narva (95.7% native russian
 speakers, 87.7% ethnic russians) right at the border, many of whom face lower
 living standards due to not speaking estonian.
 
@@ -145,12 +144,13 @@ controlled.
 
 #### 2017 - Baptism by Fire
 
-Since NATO was unwilling to intervene, the EUs Foreign Affairs Council (FAC) voted to send
-the two EU Battlegroups under the Common Security and Defence Policy (CSPD) to aid estonian
-forces. Just two years prior, the force had been restructured under PESCO following Brexit.
-This had established a command centre (MPCC) in Brussels and launched a shared EU Defense
-Fund (EDF), leading to a better integration of national forces and a more coherent
-structure. At the time of deployment, the two battlegroups where led by Italy and France.
+Since NATO was unwilling to intervene, the EUs Foreign Affairs Council (FAC) voted
+to send the two EU Battlegroups under the Common Security and Defence Policy (CSPD)
+to aid estonian forces. Just two years prior, the force had been restructured under
+PESCO following Brexit. This had established a command centre (MPCC) in Brussels
+and launched a shared EU Defense Fund (EDF), leading to a better integration of
+national forces and a more coherent structure. At the time of deployment, the
+two battlegroups where led by Italy and France.
 
 In Estonia, the civil war had taken its toll on the land. After the initial gains
 from NSPR forces and the jolty response of the estonian army, a drawnout fight
@@ -167,10 +167,15 @@ While not targeted in the beginning of open conflict, the UNFIBAL peacekeepers
 had to change their approach after a disagreement between a group of resistance
 fighters attempted to take control of the Tudulinna dam, which deteriorated into
 a drawnout skirmish between them.
-The mission was further resupplied to also support the Estonial Defense League in the 
-rest of the country, who are primarily occupied dealing with the refugee situation.
+The mission was further resupplied to also support the Estonial Defense League in
+the rest of the country, who are primarily occupied dealing with the refugee
+situation.
 
 ##### Reinforced resistance
+
+![military site](/scenarios/ressources/military-tower.excalidraw.png)
+
+*Military site, NSPR, early 2017*
 
 Even though the resistance suffered a hefty amount of attrition from fighting not
 only against the estonian army, the baltic territorial defense and UNFIBAL personell,
@@ -272,18 +277,23 @@ and IFVs, and a very small number of tanks was also provided.
 
 *EUFOR Estonia*
 
-
 ![csdp logo](/scenarios/ressources/csdp-logo.excalidraw.png)
 
 *Common Security and Defense Policy, EU*
 
-Under the mission name EUFOR fall two EU battlegroups, the italian led "Multinational Land Force" and the french led "" as well as the EUROCORPS. They are furthermore working in conjunction with a naval force "EUNAVFOR Baltic Sea" composed of german and swedish frigates.
+Under the mission name EUFOR fall two EU battlegroups, the italian led
+"Multinational Land Force", a french one, as well as the EUROCORPS. They are
+furthermore working in conjunction with a naval force "EUNAVFOR Baltic Sea"
+composed of german and swedish frigates.
 
-The two EU Battlegroups are composed of around 1500 men each and are well established, reoccuring formations in the biannual standby roster of battlegroups. The Eurocorps routinely supports EU and EU member missions.
+The two EU Battlegroups are composed of around 1500 men each and are well
+established, reoccuring formations in the biannual standby roster of battlegroups.
+The Eurocorps routinely supports EU and EU member missions.
 
 #### Multinational Land Force
 
-Originating in 1990, this battlegroup is composed of italian, hungarian and slovenian formations.
+Originating in 1990, this battlegroup is composed of italian, hungarian and
+slovenian formations.
 
 Participating units:
 
@@ -301,11 +311,17 @@ The battlegroup is led by french forces and supported by belgian formations.
 
 #### Eurocorps
 
-The Eurocorps is a multinational organisation consisting of a whole list of pariticipants. The main body is made up of the franco-german brigade, its headquarters is part of the nine NATO High Readiness Land Headquarters (NATO HRF (L) HQ).
+The Eurocorps is a multinational organisation consisting of a whole list of
+pariticipants. The main body is made up of the franco-german brigade, its
+headquarters is part of the nine NATO High Readiness Land Headquarters
+(NATO HRF (L) HQ).
 
-Formerly, the Corps had several belgian, german and french brigades permanently associated with it. Since then, several new framework nations and associated members joined and a more modular approach was introduced.
+Formerly, the Corps had several belgian, german and french brigades permanently
+associated with it. Since then, several new framework nations and associated
+members joined and a more modular approach was introduced.
 
-The Corps is involved as a headquarter element to the battlegroups and also reinforced the EUBGs with units from the franco-german brigade.
+The Corps is involved as a headquarter element to the battlegroups and also
+reinforced the EUBGs with units from the franco-german brigade.
 
 ### VJTF
 
