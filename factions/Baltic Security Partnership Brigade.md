@@ -57,6 +57,8 @@ Any officer or infantry group is allowed to get the following rule at 2pt/u:
 
 ## Platoon leader [ 1 ]
 
+![](/factions/ressources/basep-leader.excalidraw.png)
+
 ### Leitenantas
 
 | Leitenantas | Platoon Leader |
@@ -80,6 +82,8 @@ Any officer or infantry group is allowed to get the following rule at 2pt/u:
 ***
 
 ## Infantry Units [ 2 - 5 ]
+
+![](/factions/ressources/basep-infantry.excalidraw.png)
 
 ### Žvalgybos komanda
 

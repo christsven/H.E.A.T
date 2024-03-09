@@ -197,6 +197,8 @@ and follow orders.
 
 ## Combat support units [ 0 - 1 ]
 
+![](/factions/ressources/nspr-infantry-horse.excalidraw.png)
+
 ### Demolition squad
 
 Support infantry, used to clear terrain or restrict enemy movement.
