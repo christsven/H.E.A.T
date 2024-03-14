@@ -97,6 +97,16 @@ Additional weapon systems, explosives, mines, ...
 | Mine | 1 | placed down | 1 | +6 | Explosive, HE 3" |
 | Bangalore | - | 0" - 6" | 1 | HE | Bangalore,<br>Single-Shot, HE 1" |
 
+### HE chart
+
+| Radius | Indirect Range | Direct Range | Pins | PEN | Hits against houses |
+| ----- | ---- | ---- | ---- | ----- | ----- |
+| 1" | tbd | tbd | D2 | 1 | D3
+| 2" | tbd | tbd | D3 | 2 | D6
+| 3" | tbd | tbd | D3 | 3 | 2D6
+| 4" | tvd | tbd | D6 | 4 | 3D6
+
+
 ## Gameplay Rules
 
 ### Vehicles
