@@ -186,6 +186,14 @@ no other direction from where the resistance could have gotten their weapons in
 the first place, but russian officials always refused to acknowledge any participation
 in the conflict.
 
+#### 2018 - Divided Unity
+
+The EUFOR battlegroup managed to crack the lines in he west and retake large amounts of territory, with drawnout figthing in the cities for in some cases singular streets. NSPR forces reverted to asymmetrical fighting where necessary, but still held onto the eastern cities. The southern roads are also either under NSPR control or in an unusable state, mined or destroyed.
+
+Some cells, especially in the cities, became more radicalized due to the heavy attrition over time. After the fall of Kothla-Järve, several individuals of the defeated local defense were so consumed by this hatred, that they turned to attacking the countries involved in the EUBGs. Several huge attacks on garrisons in France and Italy as well as a failed IED truck in Brussels held the West on edge for weeks. France as well as Italy invoked Article 5 in response to the attacks, but especially the US administration held back on support, since the US "should not be required to pay for the defense of countries who piggyback on US spending". 
+
+> **"Many countries owe us a tremendous amount of money from many years back, where they're delinquent as far as I'm concerned, because the United States has had to pay for them. So if you go back 10 or 20 years, you'll just add it all up, it's massive amounts of money is owed"**
+
 ***
 
 ### Baltic Security Partnership
