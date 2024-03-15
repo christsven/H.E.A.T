@@ -21,9 +21,10 @@ NSPR is internally divided between left-leaning revolutionaries seeking their ow
 state and far right militias such as "Bratstwa", who want to become part of the
 Russian Federation.
 
-NATO now sends the VJTF (currently lead by the Bundeswehr with an armoured infantry
-division) to fight off the separatists, which for now means a assymetrical fight
-for control over the various cities and facilities under NSPR control.
+Continued fighting already pulled the EU and the UN into the conflict, and after terrorist
+attacks in several participating countries NATO is deploying forces as well. 
+The US' glaringly missing from their ranks due to internal struggles, NATO seems 
+weaker than ever.
 
 The RF has condemned the use of NATO troops without a UN mandate and threatens to
 send their own force in an effort to protect ethnic russians in the region.
