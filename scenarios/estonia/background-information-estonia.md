@@ -322,7 +322,7 @@ Participating units:
 
 The battlegroup is led by french forces and supported by belgian formations.
 
-#### Eurocorps
+##### Eurocorps
 
 The Eurocorps is a multinational organisation consisting of a whole list of
 pariticipants. The main body is made up of the franco-german brigade, its
