@@ -199,7 +199,9 @@ With the US internal politics devolving into chaos, european states had to muste
 
 ***
 
-### Baltic Security Partnership
+### Participating forces
+
+#### Baltic Security Partnership
 
 ![BASEP logo](/factions/ressources/bsp-logo-no-text.excalidraw.png)
 
@@ -249,7 +251,7 @@ support for the light infantry sections.
   - Technical Support and Maintenance Company
   - Medical Company
 
-### UNFIBAL
+#### UNFIBAL
 
 ![unfibal logo](/scenarios/ressources/unfibal.excalidraw.png)
 
@@ -265,7 +267,7 @@ or completely overwhelmed, as well as security operations around critical
 infrastructure. While some clashes did occur, most civilians received their
 presence as a welcome help.
 
-#### Main contributors and equipment
+##### Main contributors and equipment
 
 Force composition of UNFIBAL forces consists mainly of bangladeshi, rwandan,
 ghanaian and egyptian personell.
@@ -282,7 +284,7 @@ old and under-weaponized, since peacekeepers main focus is not lethal in nature.
 Still, some security detachments for places of interest do have access to APCs
 and IFVs, and a very small number of tanks was also provided.
 
-### EUFOR Estonia
+#### EUFOR Estonia
 
 ![eufor logo](/scenarios/ressources/EUFOR-logo.excalidraw.png)
 
@@ -301,7 +303,7 @@ The two EU Battlegroups are composed of around 1500 men each and are well
 established, reoccuring formations in the biannual standby roster of battlegroups.
 The Eurocorps routinely supports EU and EU member missions.
 
-#### Multinational Land Force
+##### Multinational Land Force
 
 Originating in 1990, this battlegroup is composed of italian, hungarian and
 slovenian formations.
@@ -316,7 +318,7 @@ Participating units:
 - 132nd Mountain Battalion (Slovenia)
 - 1st Mechanized Battalion (Hungary)
 
-#### Franco-belgian Battlegroup
+##### Franco-belgian Battlegroup
 
 The battlegroup is led by french forces and supported by belgian formations.
 
@@ -334,7 +336,7 @@ members joined and a more modular approach was introduced.
 The Corps is involved as a headquarter element to the battlegroups and also
 reinforced the EUBGs with units from the franco-german brigade.
 
-### VJTF
+#### VJTF
 
 ![nato logo](/scenarios/ressources/NATO-logo.excalidraw.png)
 
@@ -357,7 +359,7 @@ collective defense and the security of its member states. The force is capable o
 conducting a range of missions, including crisis response, deterrence, and
 reinforcement operations.
 
-### NSPR
+#### NSPR
 
 ![nspr logo](/scenarios/ressources/flag-nspr.excalidraw.png)
 
@@ -385,7 +387,7 @@ armed forces materiell, small amounts of modern russian weaponry and just rework
 civilian technicals. Additionally, some civilian drones are used for surveillance,
 as IED carriers or suicide drones.
 
-#### Goals
+##### Goals
 
 The war goal for NSPR is to somehow drive out the invaders and establish a functional
 state in Ida Viru.
