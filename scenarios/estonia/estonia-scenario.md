@@ -44,7 +44,8 @@ Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
 
 #### VJTF armoured infantry brigade
 
-German led NRF forces, VJTF + IF-U/F-U forces. Late 2018.
+German led NRF forces, VJTF + IF-U/F-U forces.
+Around Mid 2017 onward.
 
 [VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
@@ -52,17 +53,17 @@ German led NRF forces, VJTF + IF-U/F-U forces. Late 2018.
 
 #### NSPR armoured infantry platoon
 
-Combined free forces of Ida Viru and the Bratstwa PMC group. Early war (2015-2018)
+Combined free forces of Ida Viru and the Bratstwa PMC group. Early war (2015-2017)
 
 [NSPR Early war](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
 
-Reinforced mid war forces. 2018 onward.
+Reinforced mid war forces. 2017 onward.
 
 [NSPR Mid war]()
 
-## Match Ideas
+## Match Reports
 
-A list of game scenarios for singular matches, set in the estonian civil war.
+A list of game scenarios for singular matches, set in the estonian civil war. In case somebody needs inspiration, i guess.
 
 [Surprise Attack](/reports/report-2.md)
 
