@@ -187,7 +187,7 @@ no other direction from where the resistance could have gotten their weapons in
 the first place, but russian officials always refused to acknowledge any participation
 in the conflict.
 
-#### 2018 - Divided Unity
+#### Summer 2017 - Divided Unity
 
 The EUFOR battlegroup managed to crack the lines in the west and retake large amounts of territory, with drawnout figthing in the cities for in some cases singular streets. NSPR forces reverted to asymmetrical fighting where necessary, but still held onto the eastern cities. The southern roads are also either under NSPR control or in an unusable state, mined or destroyed.
 
