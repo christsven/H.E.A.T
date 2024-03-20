@@ -336,7 +336,9 @@ members joined and a more modular approach was introduced.
 The Corps is involved as a headquarter element to the battlegroups and also
 reinforced the EUBGs with units from the franco-german brigade.
 
-#### VJTF
+#### NATO
+
+##### VJTF & I-F/I-FU
 
 ![nato logo](/scenarios/ressources/NATO-logo.excalidraw.png)
 
