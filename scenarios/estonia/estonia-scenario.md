@@ -1,8 +1,8 @@
 # Scenario I: Estonia
 
-![header](/scenarios/ressources/estonia-map.excalidraw.png)
-
 ## Background information
+
+![header](/scenarios/ressources/estonia-map.excalidraw.png)
 
 A detailed description of events, locations and actors in this fictional civil
 war can be found [here](/scenarios/estonia/background-information-estonia.md).
