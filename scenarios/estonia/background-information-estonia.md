@@ -286,7 +286,7 @@ and IFVs, and a very small number of tanks was also provided.
 
 #### EUFOR Estonia
 
-![eufor logo](/scenarios/ressources/EUFOR-logo.excalidraw.png)
+![eufor logo](/scenarios/ressources/eufor-estonia.excalidraw.png)
 
 *EUFOR Estonia*
 
