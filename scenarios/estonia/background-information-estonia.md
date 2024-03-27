@@ -73,6 +73,10 @@ in not only the estonian, but also the other baltic border counties with Russia.
 
 #### 2015 - Spiraling protests
 
+![UN APC guarding election](/scenarios/ressources/elections.excalidraw.png)
+
+*A UN APC guarding an election hall, April 2015*
+
 With reoccuring protests demanding more autonomy and accepting russian as a state
 language, civil unrest grew over the course of couple of months in early 2015,
 while the refugee crisis fueled conservative populism. First open calls for
