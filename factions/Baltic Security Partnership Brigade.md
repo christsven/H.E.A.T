@@ -448,7 +448,7 @@ Hand-downs from the Estonian Defense League.
 
 ### Polaris RZR 4x4
 
-![polaris rzr]()
+![polaris rzr](/factions/ressources/polaris.excalidraw.png)
 
 ***
 
