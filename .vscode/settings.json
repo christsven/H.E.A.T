@@ -1,7 +1,7 @@
 {
   "excalidraw.image": {
     "exportScale": 1,
-    "exportWithBackground": false,
+    "exportBackground": false,
     "exportWithDarkMode": true
   }
 }
