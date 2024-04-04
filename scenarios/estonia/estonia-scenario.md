@@ -24,23 +24,17 @@ Composed of lithuanian, estonian and latvian equipment. 2016 onward.
 
 [BASEP Roster](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
-#### TODO: Estonian 1. Jalaväebrigaad
-
-Estonian 1. Infantry brigade roster. 2016 onward.
-
-[Estonia Roster]()
-
-#### TODO: UN peacekeeping and support brigade
+#### WIP: UN peacekeeping and support brigade
 
 Roster for a UNFIBAL support brigade composed of french and american equipment. 2014-2017.
 
-[UNFIBAL Roster]()
+[UNFIBAL Roster](/factions/UNFIBAL%20Forces.md)
 
-#### TODO: EUFOR Estonia
+#### WIP: EUFOR Estonia
 
 Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
 
-[EUFOR Roster]()
+[EUFOR Roster](/factions/EUFOR%20Division.md)
 
 #### VJTF armoured infantry brigade
 
@@ -49,17 +43,19 @@ Around Mid 2017 onward.
 
 [VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
+#### TODO: Estonian 1. Jalaväebrigaad
+
+Estonian 1. Infantry brigade roster. 2016 onward.
+
+[Estonia Roster]()
+
 ### OPFOR
 
 #### NSPR armoured infantry platoon
 
-Combined free forces of Ida Viru and the Bratstwa PMC group. Early war (2015-2017)
+Combined free forces of Ida Viru and the Bratstwa PMC group.
 
-[NSPR Early war](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
-
-Reinforced mid war forces. 2017 onward.
-
-[NSPR Mid war]()
+[NSPR Roster](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
 
 ## Match Reports
 
