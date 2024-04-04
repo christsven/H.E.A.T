@@ -821,7 +821,7 @@ just vanishes if they miss.
 
 To mitigate this, we came up with following formula to calculate misfire:
 
-**D3 * zeroing value**
+**D3 * zeroing value before reducing**
 
 Just throw an order dice to get the direction with the little arrows on each face
 and use the formula to calculate distance. Place the template directly above and
