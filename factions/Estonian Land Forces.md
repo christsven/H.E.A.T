@@ -1,46 +1,63 @@
-# EUFOR Estonia Ground Forces
+# Baltic Security Partnership Brigade
 
-![EUFOR logo](/scenarios/ressources/eufor-estonia.excalidraw.png)
+![elf logo](ressources/elf-logo.excalidraw.png)
 
 ***
 
 ## Links
 
-[Platoon Leader](EUFOR%20Division.md#platoon-leader--1-)
+[Platoon Leader](Baltic%20Security%20Partnership%20Brigade.md#platoon-leader--1-)
 
-[Infantry Units](EUFOR%20Division.md#infantry-units--2---5-)
+[Infantry Units](Baltic%20Security%20Partnership%20Brigade.md#infantry-units--2---5-)
 
-[Combat Support Units](EUFOR%20Division.md#combat-support-units--0---1-)
+[Combat Support Units](Baltic%20Security%20Partnership%20Brigade.md#combat-support-units--0---1-)
 
-[Machine gun](EUFOR%20Division.md#machine-gun-team--0---1-)
+[Machine gun](Baltic%20Security%20Partnership%20Brigade.md#machine-gun-team--0---1-)
 
-[AT](EUFOR%20Division.md#anti-tank-team--0---1-)
+[AT](Baltic%20Security%20Partnership%20Brigade.md#anti-tank-team--0---1-)
 
-[AA](EUFOR%20Division.md#anti-air-systems--0---1-)
+[AA](Baltic%20Security%20Partnership%20Brigade.md#anti-air-systems--0---1-)
 
-[Drone](EUFOR%20Division.md#drone-team--0---1-)
+[Drone](Baltic%20Security%20Partnership%20Brigade.md#drone-team--0---1-)
 
-[Mortar](EUFOR%20Division.md#mortar-team--0---1-)
+[Mortar](Baltic%20Security%20Partnership%20Brigade.md#mortar-team--0---1-)
 
-[Artillery](EUFOR%20Division.md#artillery--0---1-)
+[Artillery](Baltic%20Security%20Partnership%20Brigade.md#artillery--0---1-)
 
-[Divisional Reinforcements](EUFOR%20Division.md#divisional-reinforcements--0---1-)
+[Divisional Reinforcements](Baltic%20Security%20Partnership%20Brigade.md#divisional-reinforcements--0---1-)
 
-[IFVs and APCs](EUFOR%20Division.md#armoured-personell-carriers--infantry-fighting-vehicles--0---2-)
+[IFVs and APCs](Baltic%20Security%20Partnership%20Brigade.md#armoured-personell-carriers--infantry-fighting-vehicles--0---2-)
 
-[Heavy Armour](EUFOR%20Division.md#reinforcing-vehicles--0---1-)
+[Heavy Armour](Baltic%20Security%20Partnership%20Brigade.md#reinforcing-vehicles--0---1-)
 
-[Transports](EUFOR%20Division.md#transports)
+[Transports](Baltic%20Security%20Partnership%20Brigade.md#transports)
 
 ***
 
 ## Army modifiers
 
+### Cavalry Training
+
+Units in this Brigade are specifically trained to be deployed by helicopter.
+Combat landings and disembarking are the norm. Due to this training, regulars
+are allowed to disembark by rapelling, and any failed order test to leave a
+helicopter may be rerolled.
+
+*TLDR: Regs are allowed to rapell, reroll failed helicopter disembark order tests*
+
+### Forest dwellers
+
+These units are trained for deep incursions and traversal of the bogs and
+marches of the Baltics. What is a specialization for other forces is here normal.
+Any officer or infantry group is allowed to get the following rule at 3pt/u:
+
+<table><tr><td>Recon training</td><td>These soldiers are trained to operate and maneuver<br> in even the toughest terrain.<br><br>When using an ADVANCE to move through rough<br>terrain, throw a D2, and on a positive result the team<br>may instead use the RUN distance.</td></table>
+
 ***
 
 ## Platoon leader [ 1 ]
 
-![platoon leader]()
+![platoon leader](/factions/ressources/basep-leader.excalidraw.png)
 
 ### Leitenantas
 
@@ -66,7 +83,7 @@
 
 ## Infantry Units [ 2 - 5 ]
 
-![infantry]()
+![infantry](/factions/ressources/basep-infantry.excalidraw.png)
 
 ### Žvalgybos komanda
 
@@ -269,7 +286,7 @@ AGL team with a HK GMG 40mm.
 
 ### RPG team
 
-Anti-tank rocket team, equipped with a mix ofCarl Gustav, Panzerfaust 3s, and
+Anti-tank rocket team, equipped with a mix of Carl Gustav, Panzerfaust 3s, and
 other arms donations that made it from the armed forces down to the reserve
 brigades.
 
@@ -401,14 +418,102 @@ Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 
 ### L/70 Bofors anti air gun
 
+### EDM4S EW team
+
+Domestically produced lithuanian anti UAV system. Issued for experimental use.
+
 ***
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
+
+### Sisu Parsi 4x4
+
+![sisu parsi](/factions/ressources/sisu-parsi.excalidraw.png)
+
+### M113
+
+![m113](./../ruleset/ressources/ifvs.excalidraw.png)
+
+#### M113A2 .50cal
+
+### BTR-80 UNSh
+
+![btr80](/factions/ressources/btr80.excalidraw.png)
+
+Hand-downs from the Estonian Defense League.
+
+### Humvee
+
+![humvee](/factions/ressources/humvee.excalidraw.png)
+
+### Polaris RZR 4x4
+
+![polaris rzr](/factions/ressources/polaris.excalidraw.png)
 
 ***
 
 ## Reinforcing Vehicles [ 0 - 1 ]
 
+While the brigade itself only fielded IFVs and helicopters, some older reserve
+vehicles and light armoured vehicles are available.
+
+### CVR(T)
+
+![cvr(t)](/factions/ressources/cvrt.excalidraw.png)
+
+Some latvian CVR(T) for recon missions.
+
+### CV9035EE
+
+![cv9035ee](/factions/ressources/cv9035ee.excalidraw.png)
+
+Estonia provided a number of CV90 to the brigade as part of their commitment.
+Armed with a Bushmaster III 35/50.
+
+### Mi-8/17 combat helicopter
+
+![mi-8]()
+
+Available for missions from the latvian air force.
+
+### UH60M Black Hawk
+
+![uh60m]()
+
+From the latvian air force.
+
+### W-3W/WA Sokół
+
+![w-3w/wa]()
+
+Part of arms donation from polish land forces to Estonia.
+
 ***
 
 ## Transports
+
+### Mi-2 Hoplite
+
+### Mi-17 Hip
+
+### AS365 Dauphin
+
+### BTR 80
+
+### Sisu Parsi
+
+### PTS
+
+### M113
+
+### Truck
+
+### Toyota/Range Rover
+
+more space than jeep
+
+### Jeep
+
+### Boat
+
+From the latvian national guard.
