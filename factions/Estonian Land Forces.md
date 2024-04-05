@@ -1,4 +1,4 @@
-# Baltic Security Partnership Brigade
+# Estonian Land Forces
 
 ![elf logo](ressources/elf-logo.excalidraw.png)
 

@@ -24,11 +24,18 @@ Composed of lithuanian, estonian and latvian equipment. 2016 onward.
 
 [BASEP Roster](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
-#### WIP: UN peacekeeping and support brigade
+#### WIP: UN Peacekeeping and Support Brigade
 
-Roster for a UNFIBAL support brigade composed of french and american equipment. 2014-2017.
+Roster for a UNFIBAL support brigade composed of french and
+american equipment. 2014-2017.
 
 [UNFIBAL Roster](/factions/UNFIBAL%20Forces.md)
+
+#### WIP: Estonian Land Forces
+
+Combined Forces of the estonian army. 2016 onward.
+
+[Estonia Roster](/factions/Estonian%20Land%20Forces.md)
 
 #### WIP: EUFOR Estonia
 
@@ -36,30 +43,25 @@ Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
 
 [EUFOR Roster](/factions/EUFOR%20Division.md)
 
-#### VJTF armoured infantry brigade
+#### VJTF and Initial Follow-Up Forces
 
 German led NRF forces, VJTF + IF-U/F-U forces.
 Around Mid 2017 onward.
 
 [VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
-#### TODO: Estonian 1. Jalaväebrigaad
-
-Estonian 1. Infantry brigade roster. 2016 onward.
-
-[Estonia Roster]()
-
 ### OPFOR
 
-#### NSPR armoured infantry platoon
+#### NSPR Combined Forces
 
-Combined free forces of Ida Viru and the Bratstwa PMC group.
+The free forces of Ida Viru and the Bratstwa PMC group.
 
 [NSPR Roster](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
 
 ## Match Reports
 
-A list of game scenarios for singular matches, set in the estonian civil war. In case somebody needs inspiration, i guess.
+A list of game scenarios for singular matches, set in the estonian civil war.
+In case somebody needs inspiration, i guess.
 
 [Surprise Attack](/reports/report-2.md)
 
