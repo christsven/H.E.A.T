@@ -108,6 +108,10 @@ and african troops and was largely well received as a mediating third party.
 
 #### 2016 - Outbreak of war
 
+![garrison attack](/ruleset/ressources/garrisonattack.excalidraw.png)
+
+*Attacks on garrisons plunge the country into civil war, 2016*
+
 After multiple years of preperation, coordinated attacks in April of 2016 lead
 to civil war.
 
@@ -225,6 +229,43 @@ follow up units arriving shortly after.
 #### Estonian Land Forces
 
 ![Estonian Land Forces](/factions/ressources/elf-logo.excalidraw.png)
+
+*Insignia of the Estonian Land Forces*
+
+![Estonian Divison](/scenarios/ressources/estonian-division.excalidraw.png)
+
+*Estonian Division Insignia*
+
+The Estonian Land Forces are the ground component of the Estonian Defence Forces
+(EDF), responsible for defending the territorial integrity and sovereignty of
+Estonia.
+
+- __Estonian Division__
+  - Headquarters and Signal Battalion
+  - Reconnaissance Battalion
+  - Artillery Battalion
+  - Logistics Battalion
+  - __1st Infantry Brigade__
+    - Headquarters and Signal Company
+    - Scouts Battalion, 
+    - Kalev Infantry Battalion
+    - Viru Infantry Battalion
+    - Air Defense Battalion
+    - Engineer Battalion
+    - Combat Service Support Battalion
+    - Anti-Tank Company
+  - __2nd Infantry Brigade__
+    - Headquarters and Signal Company
+    - Kuperjanov Infantry Battalion
+    - 22nd Infantry Battalion (Reserve)
+    - 23rd Infantry Battalion (Reserve)
+    - Artillery Battalion (Reserve)
+    - Air Defense Battalion (Reserve)
+    - Engineer Battalion (Reserve)
+    - Combat Service Support Battalion
+    - Anti-Tank Company (Reserve)
+
+Scouts Battalion, a rapid reaction unit armed with CV-90s.
 
 #### Baltic Security Partnership
 
@@ -391,6 +432,10 @@ reinforcement operations.
 ![nspr logo](/scenarios/ressources/flag-nspr.excalidraw.png)
 
 *Narva Socialist People's Republic flag*
+
+![bratstwa logo](/factions/ressources/bratstwa.excalidraw.png)
+
+*Bratstwa PMC group patch*
 
 The NSPR has a standing force of around 10-13.000 personell, which serve under
 the umbrella of the NSPR flag. Internally, there are several factions.
