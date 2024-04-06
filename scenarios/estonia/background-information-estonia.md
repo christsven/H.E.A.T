@@ -283,13 +283,13 @@ are out of finnish production.
     - Combat Service Support Battalion
     - Anti-Tank Company (Reserve)
   - __1st Armoured Battalion__
-    - Staff Company :estonia:/:poland:
+    - Staff Company EE/PL
     - Signal Group
     - Tank Company (T-72)
     - Tank Company (T-72)
     - Self-Propelled Art. Group (2S1 Gozdzik)
-    - Anti-Aircraft Group :estonia:/:poland:
-    - Logistics Company :poland:
+    - Anti-Aircraft Group EE/PL
+    - Logistics Company PL
 
 #### Baltic Security Partnership
 
@@ -318,8 +318,8 @@ newly formed brigade. The brigade was structured as an air cavalry battalion
 under lithuanian commandship.
 
 - __Baltic Security Partnership Brigade__
-  - Headquarters and Signal Company :lithuania:
-  - Logistics Company :lithuania:
+  - Headquarters and Signal Company LT
+  - Logistics Company LT
   - __1st Light Infantry Battalion "*Łauma*"__
     - Headquarters and Support Company
     - First Light Infantry Company
@@ -329,15 +329,15 @@ under lithuanian commandship.
   - __2st Light Infantry Battalion "*Kaukas*"__ (Reserve)
     - Headquarters and Support Company (Reserve)
     - Light Infantry Company (Reserve)
-    - Light Infantry Company (Reserve) :latvia:
-    - Light Infantry Company (Reserve) :latvia:
+    - Light Infantry Company (Reserve) LV
+    - Light Infantry Company (Reserve) LV
     - Combat Service Support Company (Reserve)
   - __Air Cavalry Battalion "*Vēja māte*"__
-    - Headquarters and Support Company :latvia:
-    - Air Cavalry Company :latvia:
-    - Air Cavalry Company :latvia:
-    - Aviation Company, General Support :latvia:
-  - __Artillery Company__ (Reserve) :lithuania:
+    - Headquarters and Support Company LV
+    - Air Cavalry Company LV
+    - Air Cavalry Company LV
+    - Aviation Company, General Support LV
+  - __Artillery Company__ (Reserve) LT
   - __Combat Support Battalion__
     - Signal Company
     - Supply and Transport Company
