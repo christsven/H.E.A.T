@@ -8,6 +8,19 @@ This is the first setting for H.E.A.T. as a modern, fictional war in northern
 europe. If you play this just as a unit roster for an army, a single match, or a
 full campaign is up to you.
 
+### Table of contents
+
+[Timetable](#timetable)
+[Participating forces](#participating-forces)
+>[Estonian Land Force](#estonian-land-forces)
+[Baltic Security Partnership Brigade](#baltic-security-partnership)
+[UNFIBAL Peacekeeper](#unfibal)
+[EUFOR Estonia ](#eufor-estonia)
+[NATO Combined Forces](#nato)
+[Narva Socialist Republic Forces](#nspr)
+
+[Geography]()
+
 ### Breakdown
 
 A revolution in the eastern district of Ida Viru in Estonia plunged Estonia
