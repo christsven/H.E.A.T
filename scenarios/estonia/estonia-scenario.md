@@ -18,16 +18,16 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
 #### Baltic Security Partnership Brigade
 
-Fictional treaty Light Air Cavalry brigade formed in Scenario.
+Baltic Treaty Light Air Cavalry border guard brigade.
 
 Composed of lithuanian, estonian and latvian equipment. 2016 onward.
 
 [BASEP Roster](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
-#### WIP: UN Peacekeeping and Support Brigade
+#### WIP: UN Peacekeeping and Support Mission UNFIBAL
 
-Roster for a UNFIBAL support brigade composed of french and
-american equipment. 2014-2017.
+United Nations support brigade composed of mixed french and
+american equipment. 2014 onward.
 
 [UNFIBAL Roster](/factions/UNFIBAL%20Forces.md)
 
@@ -43,7 +43,7 @@ Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
 
 [EUFOR Roster](/factions/EUFOR%20Division.md)
 
-#### VJTF and Initial Follow-Up Forces
+#### NATO VJTF and Initial Follow-Up Forces
 
 German led NRF forces, VJTF + IF-U/F-U forces.
 Around Mid 2017 onward.
