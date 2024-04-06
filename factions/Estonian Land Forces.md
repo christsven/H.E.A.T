@@ -439,17 +439,7 @@ Domestically produced lithuanian anti UAV system. Issued for experimental use.
 
 ![m113](./../ruleset/ressources/ifvs.excalidraw.png)
 
-#### M113A2 .50cal
-
-### BTR-80 UNSh
-
-![btr80](/factions/ressources/btr80.excalidraw.png)
-
-Hand-downs from the Estonian Defense League.
-
-### Humvee
-
-![humvee](/factions/ressources/humvee.excalidraw.png)
+### Mk2 Alvis-4 "Mamba"
 
 ### Polaris RZR 4x4
 
@@ -462,36 +452,12 @@ Hand-downs from the Estonian Defense League.
 While the brigade itself only fielded IFVs and helicopters, some older reserve
 vehicles and light armoured vehicles are available.
 
-### CVR(T)
-
-![cvr(t)](/factions/ressources/cvrt.excalidraw.png)
-
-Some latvian CVR(T) for recon missions.
-
 ### CV9035EE
 
 ![cv9035ee](/factions/ressources/cv9035ee.excalidraw.png)
 
 Estonia provided a number of CV90 to the brigade as part of their commitment.
 Armed with a Bushmaster III 35/50.
-
-### Mi-8/17 combat helicopter
-
-![mi-8]()
-
-Available for missions from the latvian air force.
-
-### UH60M Black Hawk
-
-![uh60m]()
-
-From the latvian air force.
-
-### W-3W/WA Sokół
-
-![w-3w/wa]()
-
-Part of arms donation from polish land forces to Estonia.
 
 ***
 

@@ -238,23 +238,41 @@ follow up units arriving shortly after.
 
 The Estonian Land Forces are the ground component of the Estonian Defence Forces
 (EDF), responsible for defending the territorial integrity and sovereignty of
-Estonia.
+Estonia. It consists of around 3000 personell during peacetimes, and is division-
+sized with some parts only staffed by reserve units.
+
+After the first clashes in 2014, a reactivation of reservist forces and more
+thorough training started to fill back the ranks of the Estonian Division, similar
+to the BSP Brigade. The restructuring under the *National Defence Development*
+*Plan 2013-2022* had to be reworked to accelerate the force readiness and
+accomodate the new armored forces sponsored by Poland, who became a partner with
+the Estonian forces in a newly formed armoured Battalion.
+
+In response to the degrading situation european allies began arms donations to
+the army, especially Poland and Finland, where a large part of the estonian
+vehicle fleet and weaponry originated from. Training on and with the new equipment
+took place in polish bases, for example T-72M and T-72M1(R)s variants, as well as
+BWP-1s for reservist mechanized infantry formations. Other shipments included
+unarmoured vehicles for the border guards, weapons for activated reservists,
+ammunition and logistical vehicles.
+
+Finland came to a bilateral agreement of vehicle refurbishment and maintenance in
+finnish territory, since the most used APC, the Sisu Parsi variants XA-180/XA-188,
+are out of finnish production.
 
 - __Estonian Division__
-  - Headquarters and Signal Battalion
-  - Reconnaissance Battalion
-  - Artillery Battalion
-  - Logistics Battalion
   - __1st Infantry Brigade__
+    - Staff Company
     - Headquarters and Signal Company
-    - Scouts Battalion, 
-    - Kalev Infantry Battalion
-    - Viru Infantry Battalion
+    - Scouts Battalion
+    - Kalev Infantry Battalion (moved to Tallinn)
+    - Viru Infantry Battalion (moved to Tapa)
     - Air Defense Battalion
     - Engineer Battalion
     - Combat Service Support Battalion
-    - Anti-Tank Company
+    - Anti-Tank Company (moved to Tallinn)
   - __2nd Infantry Brigade__
+    - Staff Company
     - Headquarters and Signal Company
     - Kuperjanov Infantry Battalion
     - 22nd Infantry Battalion (Reserve)
@@ -264,17 +282,23 @@ Estonia.
     - Engineer Battalion (Reserve)
     - Combat Service Support Battalion
     - Anti-Tank Company (Reserve)
-
-Scouts Battalion, a rapid reaction unit armed with CV-90s.
+  - __1st Armoured Battalion__
+    - Staff Company :estonia:/:poland:
+    - Signal Group
+    - Tank Company (T-72)
+    - Tank Company (T-72)
+    - Self-Propelled Art. Group (2S1 Gozdzik)
+    - Anti-Aircraft Group :estonia:/:poland:
+    - Logistics Company :poland:
 
 #### Baltic Security Partnership
 
 ![BASEP logo](/factions/ressources/bsp-logo-no-text.excalidraw.png)
 
-The BASEP was founded in 2014 as a reaction to tension arrising in several counties
-of the baltic states at the russian border. It was established as a combined
-brigade of all 3 state's ground force with the aim to signal cohesion and
-willingness to defend each other.
+The Baltic Security Partnership Brigade, or BASEP,  was founded in 2014 as a
+reaction to tension arrising in several counties of the baltic states at the
+russian border. It was established as a combined brigade of all 3 state's ground
+forces with the aim to signal cohesion and willingness to defend each other.
 
 Mission goals include:
 
@@ -282,46 +306,53 @@ Mission goals include:
 - Operations within national parks
 - Low or non mechanized infantry operations
 
-Some other properties of this light infantry include
+Some other properties of this light infantry include:
 
 - Fast Deployment in swamp and bogs
 - Modularity in equipment with NATO partners
+- Interoperability with border guard units
 
 With large parts of the estonian and lithuanian forces being either reservists,
 volunteers and border guards, some of these structures were integrated into this
-newly formed brigade. Also, an air cavalry battalion is establised as a heavier
-support for the light infantry sections.
+newly formed brigade. The brigade was structured as an air cavalry battalion
+under lithuanian commandship.
 
-- Headquarters and Signal Company
-- __1st Light Infantry Battalion "*Łauma*"__
-  - Headquarters and Support Company
-  - First Light Infantry Company
-  - Second Light Infantry Company
-  - Third Light Infantry Company (Reserve)
-  - Combat Service Support Company
-- __2st Light Infantry Battalion "*Kaukas*"__ (Reserve)
-  - Headquarters and Support Company (Reserve)
-  - First Light Infantry Company (Reserve)
-  - Second Light Infantry Company (Reserve)
-  - Third Light Infantry Company (Reserve)
-  - Combat Service Support Company (Reserve)
-- __Air Cavalry Battalion "*Vēja māte*"__
-  - Headquarters and Support Company
-  - First Air Cavalry Company
-  - Second Air Cavalry Company
-  - Aviation Company, General Support
-- __Artillery Company__ (Reserve)
-- __Combat Support Battalion__
-  - Signal Company
-  - Supply and Transport Company
-  - Technical Support and Maintenance Company
-  - Medical Company
+- __Baltic Security Partnership Brigade__
+  - Headquarters and Signal Company :lithuania:
+  - Logistics Company :lithuania:
+  - __1st Light Infantry Battalion "*Łauma*"__
+    - Headquarters and Support Company
+    - First Light Infantry Company
+    - Second Light Infantry Company
+    - Third Light Infantry Company (Reserve)
+    - Combat Service Support Company
+  - __2st Light Infantry Battalion "*Kaukas*"__ (Reserve)
+    - Headquarters and Support Company (Reserve)
+    - Light Infantry Company (Reserve)
+    - Light Infantry Company (Reserve) :latvia:
+    - Light Infantry Company (Reserve) :latvia:
+    - Combat Service Support Company (Reserve)
+  - __Air Cavalry Battalion "*Vēja māte*"__
+    - Headquarters and Support Company :latvia:
+    - Air Cavalry Company :latvia:
+    - Air Cavalry Company :latvia:
+    - Aviation Company, General Support :latvia:
+  - __Artillery Company__ (Reserve) :lithuania:
+  - __Combat Support Battalion__
+    - Signal Company
+    - Supply and Transport Company
+    - Technical Support and Maintenance Company
+    - Medical Company
 
 #### UNFIBAL
 
 ![unfibal logo](/scenarios/ressources/unfibal.excalidraw.png)
 
 *UNFIBAL Logo*
+
+![task force patch](/scenarios/ressources/taskforce.excalidraw.png)
+ 
+*Task Force Ida Viru Patch*
 
 The *Force des Nations unies chargée du maintien de la paix à l'Estonie* is a
 United Nations peacekeeping operation established in 2015. UN troops were largely
@@ -333,13 +364,12 @@ or completely overwhelmed, as well as security operations around critical
 infrastructure. While some clashes did occur, most civilians received their
 presence as a welcome help.
 
-##### Main contributors and equipment
+##### Main contributors and equipment during early crisis
 
 Force composition of UNFIBAL forces consists mainly of bangladeshi, rwandan,
-ghanaian and egyptian personell.
-
-Other countries also contribute specialized personell or commanding officers, but
-the bulk of policing and sercurity forces come from those nations.
+ghanaian and egyptian personell. Other countries also contribute specialized
+personell or commanding officers, but the bulk of policing and security forces
+come from those nations.
 
 Their equipment is also provided by their consecutive armies, but european and
 western nations did contribute vehicles, as their equipment is better suited for
@@ -349,6 +379,24 @@ This lead to a patchworked force with vehicles from all over the world, mostly
 old and under-weaponized, since peacekeepers main focus is not lethal in nature.
 Still, some security detachments for places of interest do have access to APCs
 and IFVs, and a very small number of tanks was also provided.
+
+#### Wartime contributors
+
+After clashes forced UNFIBAL peacekeepers to divise a different plan of action,
+initially most humanitarian and policing units assisted reservist formations and
+NGOs in the rest of Estonia with refugee movement as well as organisation of
+accomodation. Peacekeeping operations in Ida-Viru were organized in cooperation
+with EUFOR command and later NATO command.
+
+As an initial compromise in US politics, where less isolationist factions refused
+to accept the neutral stance towards the attacks on NATO members the President had
+taken, led to an arms deal with the UN forces, equipping them with more modern
+vehicles, weaponry and personal equipment. This included prominently M1117 Guardian
+ASVs, M1120 Strkyer APCs as well as Bradley M2A2/A3 IFVs.
+
+Operational goals during wartime changed a more proactive protection of the
+civilian population, securing public infrastructure and upholding the rule of law
+where possible, as well as documenting potential war crimes for later prosecussion.
 
 #### EUFOR Estonia
 
