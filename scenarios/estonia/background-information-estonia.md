@@ -67,7 +67,7 @@ NATO, fueling anti-west sentiment.
 
 As a reaction to the annexation of Crimea, the baltic states increased the budgets
 for the large reservist and volunteer forces of their respective armed forces.
-Furthermore, a [joined air cavalry unit](#baltic-security-partnership) was
+Furthermore, a combined [border guard unit](#baltic-security-partnership) of all baltic statws was
 established as a sign of unison and resolve against russian aggression and dissent
 in not only the estonian, but also the other baltic border counties with Russia.
 
