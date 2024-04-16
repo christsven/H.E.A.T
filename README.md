@@ -9,7 +9,7 @@ symmetrical or assymetrical warfare.
 
 You can find the ruleset with all additions [here](ruleset/H.E.A.T.md). 
 
-This is meant as a expansion of Bolt Action rules, so only additions or in a few cases rebalanced rules are provided. Everything else can be found in the Bolt Action v2 rulebook.
+_This is meant as a expansion of Bolt Action rules, so only additions or in a few cases rebalanced rules are provided. Everything else can be found in the Bolt Action v2 rulebook._
 
 ***
 
