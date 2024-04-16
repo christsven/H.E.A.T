@@ -7,7 +7,7 @@ symmetrical or assymetrical warfare.
 
 ## Generic Lists
 
-For 2010-2020 era vehicles and units without a scenario context
+For 2010-2020 era vehicles and units without a scenario context.
 
 [BLUFOR Roster]()
 
