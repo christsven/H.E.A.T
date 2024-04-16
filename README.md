@@ -5,15 +5,11 @@
 This is H.E.A.T, a 28mm platoon-sized wargame expansion. Ideal for 2010-2020 era
 symmetrical or assymetrical warfare.
 
-## Generic Lists
+## Rules
 
-For 2010-2020 era vehicles and units without a scenario context.
+You can find the ruleset with all additions [here](ruleset/H.E.A.T.md).
 
-[BLUFOR Roster]()
-
-[OPFOR Roster]()
-
-[INDFOR Roster]()
+***
 
 ## Scenarios
 
@@ -23,14 +19,20 @@ For 2010-2020 era vehicles and units without a scenario context.
 
 War in Europe right next to the russian border.
 
-A very volatile situation ready to escalate to a full-blown land war between NATO
+A volatile situation ready to escalate to a full-blown land war between NATO
 and Russia over a single misstep on either side.
 
 [Scenario I: Estonia](/scenarios/estonia/estonia-scenario.md)
 
-## Rules
+## Generic Lists
 
-You can find the ruleset with all additions [here](ruleset/H.E.A.T.md).
+For 2010-2020 era vehicles and units without a scenario context.
+
+[BLUFOR Roster]()
+
+[OPFOR Roster]()
+
+[INDFOR Roster]()
 
 ***
 
