@@ -49,7 +49,8 @@ helicopter may be rerolled.
 
 These units are trained for deep incursions and traversal of the bogs and
 marches of the Baltics. What is a specialization for other forces is here normal.
-Any officer or infantry group is allowed to get the following rule at 3pt/u:
+Any regulat or veteran officer or infantry group is allowed to get the following rule
+at 3pt/u:
 
 <table><tr><td>Recon training</td><td>These soldiers are trained to operate and maneuver<br> in even the toughest terrain.<br><br>When using an ADVANCE to move through rough<br>terrain, throw a D2, and on a positive result the team<br>may instead use the RUN distance.</td></table>
 
@@ -134,7 +135,7 @@ in areas which are hard to reach by any other means.
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
-| Special rules | <tr><td>Airborne</td><td>When dismounting from a helicopter, this<br>unit may reroll failed order checks.</td></tr> |
+| Special rules | <table><tr><td>Airborne</td><td>When dismounting from a helicopter, this<br>unit may reroll failed order checks.</td></tr></table> |
 
 ### Husarų pėstininkų skyrius
 
