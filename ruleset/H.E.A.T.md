@@ -233,10 +233,26 @@ From there, they also get the 6" move range.
 
 ###### Attacking with a helicopter
 
+Attack helicopters used for close air support have an abundance of weapon system
+at their disposal, from normal MMGs, HMGs and autocannons mounted front- or side-
+facing, to hardpoint-mounted rocket pods, missiles, ATGMs and bombs.
+
 The helicopter is able to attack anything in 45° arks, distances measured from
 the weapon barrels themselves.
 
 ![Attack vectors](./ressources/pngs/../helicopters-sides-diagram.excalidraw.png)
+
+- Machine guns and autocannons are treated just like any other weapon, they fire from their barrel in their respective ark at targets.
+
+- Missiles are fired the same way, though they are single use and do not necessarily need to be HE or AT, as other variants such as smoke rockets exist in some militaries.
+
+- Rocket pods are not single use and fire 2 shots per salvo, but they have a spread of 2D3 in a random direction around the target.
+
+- ATGMs, if not specified otherwise (sometimes these act so different from the "norm" that they deserve a special treatment), work the same as normal ATGMs.
+
+- Bombs are thrown from the helicopter in the path it travels, according to the following chart, if not specified otherwise (e. g. in case it is somehow guided).
+
+![helicopter drop image](./ressources/helicopter-bombs.excalidraw.png)
 
 ###### Attacking from a helicopter
 
@@ -245,7 +261,7 @@ If the helicopter is hovering (anything except RUN), onboard units are allowed t
 *modifier to hit*.
 
 The helicopter gets the "Open Topped" rule while having open rear/side doors. As
-soon as the helicoter succesfully performs a RUN order, or the turn is over, the
+soon as the helicoter succesfully performs a RUN order or the turn is over, the
 rule does no longer apply.
 
 Reconnaissance units like spotters are allowed to perform their role from the

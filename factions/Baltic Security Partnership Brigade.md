@@ -473,9 +473,11 @@ Armed with a Bushmaster III 35/50.
 
 ### Mi-8/17 combat helicopter
 
-![mi-8]()
+![mi-8](/factions/ressources/milmi8.excalidraw.png)
 
 Available for missions from the latvian air force.
+
+#### Hardpoint arsenal
 
 ### UH60M Black Hawk
 
