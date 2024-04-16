@@ -5,6 +5,16 @@
 This is H.E.A.T, a 28mm platoon-sized wargame expansion. Ideal for 2010-2020 era
 symmetrical or assymetrical warfare.
 
+## Generic Lists
+
+For 2010-2020 era vehicles and units without a scenario context
+
+[BLUFOR Roster]()
+
+[OPFOR Roster]()
+
+[INDFOR Roster]()
+
 ## Scenarios
 
 ### Civil war in Estonia
