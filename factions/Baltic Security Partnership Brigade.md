@@ -471,25 +471,22 @@ Some latvian CVR(T) for recon missions.
 Estonia provided a number of CV90 to the brigade as part of their commitment.
 Armed with a Bushmaster III 35/50.
 
+### W-3W/WA Sokół
+
+![w-3w/wa](/factions/ressources/sokol.excalidraw.png)
+
+Part of arms donation from polish land forces to Estonia.
+
+- 2x GSh-23 23×115mm medium auto cannon (2x40pt)
+- 4x hardpoint pylons for weapon attachments
+
+#### Hardpoint arsenal
+
 ### Mi-8/17 combat helicopter
 
 ![mi-8](/factions/ressources/milmi8.excalidraw.png)
 
 Available for missions from the latvian air force.
-
-#### Hardpoint arsenal
-
-### UH60M Black Hawk
-
-![uh60m]()
-
-From the latvian air force.
-
-### W-3W/WA Sokół
-
-![w-3w/wa]()
-
-Part of arms donation from polish land forces to Estonia.
 
 ***
 
