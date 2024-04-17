@@ -7,7 +7,7 @@ symmetrical or assymetrical warfare.
 
 ## Rules
 
-You can find the ruleset with all additions [here](ruleset/H.E.A.T.md). 
+You can find the ruleset with all additions [here](ruleset/H.E.A.T.md).
 
 _This is meant as a expansion of Bolt Action rules, so only additions or in a few cases rebalanced rules are provided. Everything else can be found in the Bolt Action v2 rulebook._
 
@@ -51,7 +51,7 @@ as seen below:
 | Reinforcement | Cost per additional unit |
 | Standard Setup | NCO ( Weapon ) + x attendants ( Weapon ) |
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example weapon system</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example rule</td><td>Description of rule.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table> |
 
 ### Vehicle unit template
 
@@ -67,4 +67,10 @@ even be fielded without any at all.
 | Damage value | Vehicle damage value |
 | Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Modifiers</td><td><b>Rules</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table> |
 |Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Rule</td><td>This rule does things.</td><td>+/-X [pt/unit]</td></tr><tr><td>...</td><td>...</td><td>+/-X [pt/unit]</td></tr></table><table><tr><td><b>Main Weapon Replacement</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Additional Weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>Modifiers and other information.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example Rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example Rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table> |
+
+### Unit cards
+
+![infantry card](/ruleset/infantry-card.png)
+
+![vehicle card](/ruleset/vehicle-card.png)

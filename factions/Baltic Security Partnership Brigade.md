@@ -479,6 +479,7 @@ Part of arms donation from polish land forces to Estonia.
 
 - 2x GSh-23 23×115mm medium auto cannon (2x40pt)
 - 4x hardpoint pylons for weapon attachments
+- 12 passengers
 
 #### Hardpoint arsenal
 
