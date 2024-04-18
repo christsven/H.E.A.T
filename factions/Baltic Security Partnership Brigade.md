@@ -518,6 +518,12 @@ Part of arms donation from polish land forces to Estonia.
 | Options |TODO |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table>
 
+#### Hardpoint arsenal
+
+- 23mm guns, 2x light autocannon
+- Rocket pods, 2x AT, medium at gun values with 2 shots, same price per gun since its unguided see rules
+- keep in mind top attack bonus
+
 ### Mi-8/17 combat helicopter
 
 ![mi-8](/factions/ressources/milmi8.excalidraw.png)
