@@ -99,13 +99,14 @@ Additional weapon systems, explosives, mines, ...
 
 ### HE chart
 
-| Radius | Indirect Range | Direct Range | Pins | PEN | Hits against houses |
-| ----- | ---- | ---- | ---- | ----- | ----- |
-| 1" | tbd | tbd | D2 | 1 | D3
-| 2" | tbd | tbd | D3 | 2 | D6
-| 3" | tbd | tbd | D3 | 3 | 2D6
-| 4" | tvd | tbd | D6 | 4 | 3D6
+Chart for high explosives and how to calculate losses.
 
+| Radius | Pins | PEN | Hits against houses |
+| ----- | ---- | ---- | ---- | ----- | ----- |
+| 1" | D2 | 1 | D3 |
+| 2" | D3 | 2 | D6 |
+| 3" | D3 | 3 | 2D6 |
+| 4" | D6 | 4 | 3D6 |
 
 ## Gameplay Rules
 
@@ -157,7 +158,7 @@ separate order dice.
 
 If the infantry unit is destroyed, the IFV does not need to be removed and serves
 as a normal vehicle. If the connected unit is separated by more than 36" from its
-carrier, a pin is added to any order test performed.
+carrier, an order test has to be performed for each action.
 
 The role comes at no further cost, since the bonus of having their NCO switched
 out for the vehicle is mitigated by needing to stay relatively close to the IFV.
@@ -180,9 +181,9 @@ troop movement, close air support roles and reconnaissance.
 
 ##### Gameplay
 
-Helicopters function either as a transport or are deployed in a CAS role, upon
-which they lose their troop capacity. Other than their vertical movement capability,
-helicopters are treated the same way as any other vehicle.
+Helicopters function either as a transport or are deployed in a CAS role..
+Other than their vertical movement capability, helicopters are treated the same
+way as any other vehicle.
 
 | Type | Cost | Capacity | Examples |
 | :--- | :--- | :--: | :--: |
@@ -199,7 +200,7 @@ it can enter the match at any height after a successful order test.
 Lift-Off and Landing require the helicopter to perform a successful order test
 as well and are performed to/from 6" height (always measured from bottom of hull).
 
-The minimum flight height is 6", the maximum is 60".
+The minimum flight height is 6", the maximum is 30".
 
 Horizontal movement works the same as normal vehicle movement. The helicopter can
 move either only horizontally, which is faster, or change its altitude as well.
@@ -242,15 +243,15 @@ the weapon barrels themselves.
 
 ![Attack vectors](./ressources/pngs/../helicopters-sides-diagram.excalidraw.png)
 
-- Machine guns and autocannons are treated just like any other weapon, they fire from their barrel in their respective ark at targets.
+- **Machine guns** and **autocannons** are treated just like any other weapon, they fire from their barrel in their respective ark at targets.
 
-- Missiles are fired the same way, though they are single use and do not necessarily need to be HE or AT, as other variants such as smoke rockets exist in some militaries.
+- **Missiles** are fired the same way, though they are single use and do not necessarily need to be HE or AT, as other variants such as smoke rockets exist in some militaries.
 
-- Rocket pods are not single use and fire 2 shots per salvo, but they have a spread of 2D3 in a random direction around the target.
+- **Rocket pods** are not single use and fire 2 shots per salvo, but they get a -2 to hit modifier.
 
-- ATGMs, if not specified otherwise (sometimes these act so different from the "norm" that they deserve a special treatment), work the same as normal ATGMs.
+- **ATGMs**, if not specified otherwise (sometimes these act so different from the "norm" that they deserve a special treatment), work the same as normal ATGMs.
 
-- Bombs are thrown from the helicopter in the path it travels, according to the following chart, if not specified otherwise (e. g. in case it is somehow guided).
+- **Bombs** are thrown from the helicopter in the path it travels, according to the following chart, if not specified otherwise (e. g. in case it is somehow guided).
 
 ![helicopter drop image](./ressources/helicopter-bombs.excalidraw.png)
 
@@ -640,7 +641,7 @@ decimate infantry groups.
 
 | Rule | Description |
 | :--- | :--- |
-| AGL | A platform to fire HE grenades from. The system functions fires 2 HE shots at a<br> target, for each hit the HE template can be placed over the unit. They need to<br>connect to each other and can overlap.<br><br> When firing at buildings, the HE hits are rolled as described in the HE section. |
+| AGL | A platform to fire HE 1" grenades from. The system functions fires 2 HE shots at a<br> target, for each hit the HE 1" template can be placed over the unit. They need to<br>connect to each other and can overlap.<br><br> When firing at buildings, the HE hits are rolled as described in the HE section.<br><br>For more information see [weapons chart](#explosives-and-rockets-weapons-chart) |
 
 ****
 
@@ -847,16 +848,28 @@ enough already for artillery.
 
 #### Troop capacity and true capacity
 
-The troop capacity value for a vehicle represents the seats a vehicle has per passenger. But there are tons of examples of people using for example the top of a tank to ride into battle, or sit on the flatbed of a truck, holding onto the sides of a Jeep, etc.
+The troop capacity value for a vehicle represents the seats a vehicle has per
+passenger. But there are tons of examples of people using for example the top of
+a tank to ride into battle, or sit on the flatbed of a truck, holding onto the
+sides of a Jeep, etc.
 
-Since it would completely arbitrary to set a fixed limit to this, or categorize it, any vehicle is allowed to carry "unauthorized" passengers of any amount, as long as at least one seat is taken up by someone of their squad or team.
+Since it would completely arbitrary to set a fixed limit to this, or categorize
+it, any vehicle is allowed to carry "unauthorized" passengers of any amount, as
+long as at least one seat is taken up by someone of their squad or team.
 
-You first fill all slots of a vehicle with a squad, and then you overfill. So no 10 NCOs on the flatbed of a truck with their 100 soldiers clinging to the sides! :D It's just for the rest of the last squad.
+You first fill all slots of a vehicle with a squad, and then you overfill.
+So no 10 NCOs on the flatbed of a truck with their 100 soldiers clinging to the
+sides! :D It's just for the rest of the last squad.
 
-As soon as you overfill a vehicle, it is only allowed to drive at ADVANCE speed. Otherwise, the units outside are treated the same as the rest of the squad.
+As soon as you overfill a vehicle, it is only allowed to drive at ADVANCE speed.
+Otherwise, the units outside are treated the same as the rest of the squad.
 
 #### Tank Hunter rule in modern combat
 
-Since the times of tank hunting infantry running up to a tank and hurling grenades into the engine compartment are over, the rule has been removed.
+Since the times of tank hunting infantry running up to a tank and hurling grenades
+into the engine compartment are over, the rule has been removed.
 
-As a replacement we now have more units with LAWs, increasing survivability and lethality of infantry. If a unit does have the IED rule or explosives though, they are treated the same way as if they were tank hunters, just to keep the option open. Normal infantry against tank combat is also still allowed. But maybe pack one or two LAWs next time.
+As a replacement we now have more units with LAWs, increasing survivability and
+lethality of infantry. If a unit does have the IED rule or explosives though,
+they are treated the same way as if they were tank hunters, just to keep the
+option open.
