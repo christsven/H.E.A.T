@@ -584,9 +584,9 @@ Available for missions from the latvian air force.
 
 | Polaris RZR | Utility Task Vehicle |
 | :---- | ---- |
-| Cost | 60 pt / 65 pt / 70 pt |
+| Cost | 15 pt / 20 pt / 25 pt |
 | Capacity | 5 soldiers |
-| Damage value | 7+ Armoured Carrier |
+| Damage value | 6+ Soft-skinned Vehicle |
 | Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped</td><td>-</td></tr></table> |
 
