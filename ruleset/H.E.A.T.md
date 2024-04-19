@@ -112,7 +112,7 @@ Additional weapon systems, explosives, mines, ...
 | Tandem HEAT<br>charge launcher | 1 | 6" - 24" | 1 | +7 | Team, Backblast,<br> Shaped charge |
 | Light Anti-tank<br>guided missile<br>launcher | 1 | 90" <br>(30" per turn) | 1 | +5  | Team, Fixed,<br> Backblast, ATGM |
 | Anti-tank guided<br>missile launcher | 1 | 90" <br>(30" per turn) | 1 | +7  | Team, Fixed,<br> Backblast, ATGM |
-| Man-portable<br>anti air defense<br>system | 1 | 90" | 1 | +4 | Team, Fixed,<br>Backblast, MANPADS
+| Man-portable<br>anti air defense<br>system | 1 | 72" | 1 | +4 | Team, Fixed,<br>Backblast, MANPADS
 | Improvised<br>Explosive Device | 1 | placed down | 1 | +4 | Explosive, IED,<br>HE 3" |
 | Mine | 1 | placed down | 1 | +6 | Explosive, HE 3" |
 | Bangalore | - | 0" - 6" | 1 | HE | Bangalore,<br>Single-Shot, HE 1" |
