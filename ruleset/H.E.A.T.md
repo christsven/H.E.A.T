@@ -67,6 +67,26 @@ Every following unit is counted as a system operator plus the given amount of at
 | Heavy autocannon | 3 | 0" - 72" | 2 | +3 | Team, Fixed, HE 2" |
 | Flamethrower (Vehicle) | - | 0" - 12" | D6+1 | +3 | Flamethrower |
 
+#### Hardpoint arsenal weapon chart
+
+To make it easier to find, helicopter weapon systems are listed here separately.
+
+| Weapon system | Range | Shots | PEN | Special Rules |
+| :--- | :---: | :---: | :---: | --- |
+| Light autocannon | ||||
+| Medium autocannon | ||||
+| Heavy autocannon |  ||||
+| Light rocket pod | ||||
+| Medium rocket pod | ||||
+| Heavy rocket pod | ||||
+| Light missile | ||||
+| Medium missile | ||||
+| Heavy missile | ||||
+| Small bomb | ||||
+| Medium bomb | ||||
+| Large bomb | ||||
+| Clusterbomb | ||||
+
 ### Indirect fire weapons chart
 
 Every following unit is counted as a system operator plus the given amount of attendants.
@@ -102,7 +122,7 @@ Additional weapon systems, explosives, mines, ...
 Chart for high explosives and how to calculate losses.
 
 | Radius | Pins | PEN | Hits against houses |
-| ----- | ---- | ---- | ---- | ----- | ----- |
+| ----- | ---- | ---- | ---- |
 | 1" | D2 | 1 | D3 |
 | 2" | D3 | 2 | D6 |
 | 3" | D3 | 3 | 2D6 |
