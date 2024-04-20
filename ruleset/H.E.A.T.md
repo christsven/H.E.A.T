@@ -717,7 +717,7 @@ MANPADS can also be deployed on a tripod as a stationary weapon system.
 
 ![bangalore image](./ressources/bangalore.excalidraw.png)
 
-_Bangalores, prominently used in "Saving Private Ryan as a clearing device._
+_Bangalores, prominently used in "Saving Private Ryan" as a clearing device and the pinnacle of art in this ruleset._
 
 ##### Introduction
 
