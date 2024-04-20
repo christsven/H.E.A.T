@@ -304,7 +304,9 @@ to check against the following chart:
 
 #### Quad Bikes
 
-Quad Bikes are used by small units for traversing difficult terrain. They can be mounted on them, similar to how bicycles work. They move on any surface with the distances of a wheeled vehicle, but dont get the on-road bonus.
+Quad Bikes are used by small units for traversing difficult terrain. They can be
+mounted on them at the start of the match to move on any surface with the
+distances of a wheeled vehicle, but dont get the on-road bonus.
 
 Unit mounted on a quad bike cannot fire their weapons.
 
@@ -312,26 +314,37 @@ Unit mounted on a quad bike cannot fire their weapons.
 | ---- | ---- |
 | Quad Bikes | Behave the same as bicycles. Move as a wheeled vehicle without on road bonus. Can be chosen as an upgrade to a unit if available in unit options. |
 
-### Weapon Systems
+***
 
-#### Drones
+### Drones
 
-##### Introduction
+#### Introduction
 
 Drones are wireless-controlled air vehicles, from quadrotor helicopters to giant
-weapon systems.
-
-They are a very recent development in warfare, used by all sides for reconnaissance,
-deployment of weapons or other purposes.
-
-##### Gameplay
+weapon systems. They are a very recent development in warfare, used by all sides
+for reconnaissance, deployment of weapons or other purposes.
 
 Due to the scale at which H.E.A.T takes place, large autonomous systems like the
 Heron drone are a tad to ambitious for the time being.
-In this chapter we cover small quadrocopter drones, as used for example by
-irregular forces in Afghanistan or more recently Karabach/Ukraine.
 
-Drones are steered by an operator who has a wireless connection to the device.
+Currently, the three types of drones are:
+
+- small quadrocopter drones, as used for example by irregular forces in Afghanistan or more recently Karabach/Ukraine.
+- RC plane sized UAVs with off-map operators and either fixed wings, rotors or even both
+- loitering munition, or more colloquially known as "suicide drones"
+
+#### Gameplay
+
+The gameplay difference is how the actual unit is set up. The cheapest option are
+on-map operators who sit behind a bush somewhere and steer the UAV with a remote.
+
+Bigger UAS, such as a Threod Systems Stream C fixed wing, are operated off map
+and behave like a normal unit. They will have more heavy-hitting options, but
+obviously cost more in terms of points.
+
+##### On-Map Operator
+
+Small drones are steered by an operator who has a wireless connection to the device.
 As soon as either the drone or the operator is lost, the DOT is considered
 destroyed. In any given round either the operator or his drone acts, just like a
 spotter and artillery.
@@ -341,7 +354,11 @@ the operator, except if the scenario rules state otherwise.
 
 Except for recon role, a DOT is considered destroyed once the drone is lost.
 
-##### Movement
+##### Off-Map Operator
+
+#### Movement
+
+##### Quadcopter/rotor vehicles
 
 A drone can be suspended at any height below 2' (60cm). Per activation, either
 the operator or the UAV can perform an action. The UAV is able to move in
@@ -351,25 +368,10 @@ Landing and starting do not require a full round as a helicopter, and can just
 move from the operators position to any other height. A UAV counts as grounded if
 it ends the turn within 1" of the DOT or on the ground.
 
-It can stay airbound for 4 consecutive rounds before potentially losing battery
-charge:
+##### Fixed wing designs
 
-![drone battery image](./ressources/drone-rule-batterypack-flowchart.excalidraw.png)
-
-The UAV can be recovered by the DOT by moving within 1" of the grounded drone.
-If turn ends with the grounded UAV closer to enemy forces than friendly ones, it
-is considered destroyed. The battery pack is reset every time the DOT is within
-1" of the grounded UAV.
-
-##### Range
-
-Similar to the battery pack, the range of an airborne UAV is limited by the wire-
-less connection range to the DOT. If the UAV ends its turn more than 60" away from
-the DOT, upon activation the following test has to be passed:
-
-![drone range image](./ressources/drone-rule-range-flowchart.excalidraw.png)
-
-After losing connection, the DOT can try again next round, but has to pass the test again.
+Fixed wing aircraft are either started by throwing it or from a ramp/vehicle.
+Once started, they 
 
 ##### Variants
 
@@ -403,13 +405,23 @@ The UAV carries a powerful AT warhead instead of a HE round.
 Upon dropping the payload, the UAV can be recovered by the DOT to be rearmed,
 which takes a successful RALLY order.
 
+###### Loitering munition
+
 ##### Drone rule
 
 | Rule | Description |
 | :--- | :--- |
 | Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order. |
+| Fixed Wing | |
+|
 
-****
+#### Fixed wing systems
+
+
+
+***
+
+### Weapon Systems
 
 #### Anti-Tank guided missiles (ATGM)
 
@@ -455,7 +467,7 @@ Some weapons also can have other special rules describing the system.
 | Fire-And-Forget | <li>The targeting and movement of the missile stays the same, but the system<br> operator is not required to interact with the missile anymore.<li>Pathfinding for the missile is always in a straight line toward the target. <li>If at the end of turn the missile loses LoS, it is considered destroyed. |
 | Backblast | If this weapon is fired in an enclosed room or if there are units within 3" of a 45°<br> ark behind the exhaust, roll to damage for any unit in this room or area. |
 
-****
+***
 
 #### Underbarrel grenade launchers (UGL)
 
@@ -483,7 +495,7 @@ the underbarrel grenade launcher. It does not require a loader or assistant.
 | :--- | :--- |
 | UGL | Line-of-Sight-only "light mortar". Can fire either HE rounds or smoke rounds (HE 1").<br>Range and stats check in [weapons chart](#explosives-and-rockets-weapons-chart).
 
-****
+***
 
 #### Tandem HEAT charges
 
@@ -511,7 +523,7 @@ PEN values and range as seen in the [weapons chart](#explosives-and-rockets-weap
 | :--- | :--- |
 | Tandem HEAT Charge | Optional Upgrade for most RPGs. If chosen and selected for <br>an attack, announce before roling to hit.<br><br> Damage values and range as seen in [weapons chart](#explosives-and-rockets-weapons-chart). |
 
-****
+***
 
 #### Light anti-tank weapons (LAW)
 
@@ -538,7 +550,7 @@ multiple LAWs, and the maximum amount is described in their unit template.
 | :--- | :--- |
 | LAW | A single-use AT weapon.<br>Check [weapons chart](#explosives-and-rockets-weapons-chart) for details. (Same as RPG, judt single shot.) |
 
-****
+***
 
 #### Designated marksman rifles (DMR)
 
@@ -569,7 +581,7 @@ check [weapons chart](#small-arms-weapons-chart).
 | :--- | :--- |
 | DMR | Extended range rifle. Replaces one AR in the squad.<br>Check [weapons chart](#small-arms-weapons-chart) for details. |
 
-****
+***
 
 #### Improvised explosive devices (IED) and mines
 
@@ -640,7 +652,7 @@ unit itself triggeres a conceiled marker, not if they are hit by an explosion.
 | IED | Remote-controlled explosive device. Can be placed on ground or on a vehicle.<br> For details, see [IED section](#improvised-explosive-devices-ied-and-mines). |
 | Explosive | A conceiled deployed marker with a 3" range.<br>If any unit is within 3, roll against [flowchart](#gameplay-7). |
 
-****
+***
 
 #### Automatic grenade launchers (AGL)
 
@@ -663,7 +675,7 @@ decimate infantry groups.
 | :--- | :--- |
 | AGL | A platform to fire HE 1" grenades from. The system functions fires 2 HE shots at a<br> target, for each hit the HE 1" template can be placed over the unit. They need to<br>connect to each other and can overlap.<br><br> When firing at buildings, the HE hits are rolled as described in the HE section.<br><br>For more information see [weapons chart](#explosives-and-rockets-weapons-chart) |
 
-****
+***
 
 #### Manportable air defense systems (MANPADS)
 
@@ -698,7 +710,7 @@ MANPADS can also be deployed on a tripod as a stationary weapon system.
 | MANPADS | Portable air defense system. Fires from a fixed position.<br>Roll against [flowchart](#gameplay-9) when firing at enemy unit. |
 | Countermeasures | Anti-missile countermeasures, released to confuse<br>the rocket target lock. If able to release,this adds a<br>-2 to hit modifier to a MANPADS attack roll.Not single-use,<br>can be used multiple times.|
 
-****
+***
 
 #### Bangalores
 
@@ -733,7 +745,7 @@ a maximum can be set in the squad template.
 | :--- | :--- |
 | Bangalore | Multipurpose, single-use explosives.<br>Usable against vehicles, buildings, fortifications. |
 
-****
+***
 
 #### Smoke Screens
 
@@ -764,7 +776,7 @@ and vanishing just like a smoke round.
 | :--- | :--- |
 | Smoke Screen | Single-use smoke screen. 2x HE 2" in size.<br>Unit goes DOWN when used. |
 
-****
+***
 
 #### Smoke Grenades
 
@@ -791,7 +803,7 @@ see rulesbook. After usage, the squad cannot perform another smoke barrage.
 | :--- | :--- |
 | Smoke grenades | Single-Use action upgrade for infantry units.<br>Requires successful FIRE or ADVANCE order.<br>Place 3x 1" smoke markers within 12" of the squad. |
 
-****
+***
 
 ## Additional Rules and Systems
 
@@ -893,3 +905,33 @@ As a replacement we now have more units with LAWs, increasing survivability and
 lethality of infantry. If a unit does have the IED rule or explosives though,
 they are treated the same way as if they were tank hunters, just to keep the
 option open.
+
+### Experimental Stuff
+
+#### More detailed drone rules
+
+At first, we experimented with limitations to range and movement of drones. This
+quickly started being ignored, so I removed the rules. But if you want to have a
+more difficult time with drones, feel free to adapt these workflows as you want:
+
+##### Movement
+
+It can stay airbound for 4 consecutive rounds before potentially losing battery
+charge:
+
+![drone battery image](./ressources/drone-rule-batterypack-flowchart.excalidraw.png)
+
+The UAV can be recovered by the DOT by moving within 1" of the grounded drone.
+If turn ends with the grounded UAV closer to enemy forces than friendly ones, it
+is considered destroyed. The battery pack is reset every time the DOT is within
+1" of the grounded UAV.
+
+##### Range
+
+Similar to the battery pack, the range of an airborne UAV is limited by the wire-
+less connection range to the DOT. If the UAV ends its turn more than 60" away from
+the DOT, upon activation the following test has to be passed:
+
+![drone range image](./ressources/drone-rule-range-flowchart.excalidraw.png)
+
+After losing connection, the DOT can try again next round, but has to pass the test again.
