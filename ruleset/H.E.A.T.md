@@ -356,6 +356,9 @@ Except for recon role, a DOT is considered destroyed once the drone is lost.
 
 ##### Off-Map Operator
 
+Off-map operated drones act as their own unit and deploy like a helicopter airborne on-
+or off-map. They cannot be resupplied as the on-map operated drones.
+
 #### Movement
 
 ##### Quadcopter/rotor vehicles
@@ -374,7 +377,13 @@ Fixed wing aircraft are either started by throwing it or from a ramp/vehicle.
 Once started, they are required to perform a full ADVANCE or RUN order as
 described below:
 
-TODO
+| Order | Distance | Vert. Distance | Pivots |
+| RUN | 24" | 10" | 1 |
+| ADVANCE | 12" | 5" | 2 |
+
+They can attempt a landing with a D6, everything over a 1 is a success. On a 1 the
+UAV is considered destroyed. To restart, they need to either be rethrown by the operator
+or have a rule such as the VTOL rule.
 
 ##### Variants
 
@@ -417,8 +426,8 @@ TODO
 | Rule | Description |
 | :--- | :--- |
 | Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order. |
-| Fixed Wing | |
-| VTOL | |
+| Fixed Wing | UAV has to constantly move as described in the fixed-wing movement section. |
+| VTOL | For fixed-wing UAVs, allows takeoff without being physically thrown by the operator. |
 
 ***
 
