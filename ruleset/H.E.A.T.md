@@ -112,7 +112,7 @@ Additional weapon systems, explosives, mines, ...
 | Tandem HEAT<br>charge launcher | 1 | 6" - 24" | 1 | +7 | Team, Backblast,<br> Shaped charge |
 | Light Anti-tank<br>guided missile<br>launcher | 1 | 90" <br>(30" per turn) | 1 | +5  | Team, Fixed,<br> Backblast, ATGM |
 | Anti-tank guided<br>missile launcher | 1 | 90" <br>(30" per turn) | 1 | +7  | Team, Fixed,<br> Backblast, ATGM |
-| Man-portable<br>anti air defense<br>system | 1 | 72" | 1 | +4 | Team, Fixed,<br>Backblast, MANPADS
+| Man-portable<br>anti air defense<br>system | 1 | 72" | 1 | +4 | Team, Fixed,<br>Backblast, MANPADS |
 | Improvised<br>Explosive Device | 1 | placed down | 1 | +4 | Explosive, IED,<br>HE 3" |
 | Mine | 1 | placed down | 1 | +6 | Explosive, HE 3" |
 | Bangalore | - | 0" - 6" | 1 | HE | Bangalore,<br>Single-Shot, HE 1" |
@@ -371,7 +371,10 @@ it ends the turn within 1" of the DOT or on the ground.
 ##### Fixed wing designs
 
 Fixed wing aircraft are either started by throwing it or from a ramp/vehicle.
-Once started, they 
+Once started, they are required to perform a full ADVANCE or RUN order as
+described below:
+
+TODO
 
 ##### Variants
 
@@ -407,17 +410,15 @@ which takes a successful RALLY order.
 
 ###### Loitering munition
 
-##### Drone rule
+TODO
+
+##### Drone rules
 
 | Rule | Description |
 | :--- | :--- |
 | Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order. |
 | Fixed Wing | |
 | VTOL | |
-
-#### Fixed wing systems
-
-
 
 ***
 
@@ -493,7 +494,7 @@ the underbarrel grenade launcher. It does not require a loader or assistant.
 
 | Rule | Description |
 | :--- | :--- |
-| UGL | Line-of-Sight-only "light mortar". Can fire either HE rounds or smoke rounds (HE 1").<br>Range and stats check in [weapons chart](#explosives-and-rockets-weapons-chart).
+| UGL | Line-of-Sight-only "light mortar". Can fire either HE rounds or smoke rounds (HE 1").<br>Range and stats check in [weapons chart](#explosives-and-rockets-weapons-chart).|
 
 ***
 
@@ -799,7 +800,7 @@ see rulesbook. After usage, the squad cannot perform another smoke barrage.
 
 ##### Rule
 
-| Rule | Description
+| Rule | Description |
 | :--- | :--- |
 | Smoke grenades | Single-Use action upgrade for infantry units.<br>Requires successful FIRE or ADVANCE order.<br>Place 3x 1" smoke markers within 12" of the squad. |
 
@@ -809,7 +810,10 @@ see rulesbook. After usage, the squad cannot perform another smoke barrage.
 
 ### Adjustments
 
-These are adjustments or rule rewrites my group worked out as house rules. Take them as you will, but this ruleset is written with all of them in mind as normal rules. Feel free to change them around in your personal games, or dont use them at all. Your loss :D
+These are adjustments or rule rewrites my group worked out as house rules. Take
+them as you will, but this ruleset is written with all of them in mind as normal
+rules. Feel free to change them around in your personal games, or dont use them
+at all. Your loss :D
 
 #### Weapon choice
 
