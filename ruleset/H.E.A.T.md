@@ -413,7 +413,7 @@ which takes a successful RALLY order.
 | :--- | :--- |
 | Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order. |
 | Fixed Wing | |
-|
+| VTOL | |
 
 #### Fixed wing systems
 
