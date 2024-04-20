@@ -115,7 +115,7 @@ Additional weapon systems, explosives, mines, ...
 | Man-portable<br>anti air defense<br>system | 1 | 72" | 1 | +4 | Team, Fixed,<br>Backblast, MANPADS |
 | Improvised<br>Explosive Device | 1 | placed down | 1 | +4 | Explosive, IED,<br>HE 3" |
 | Mine | 1 | placed down | 1 | +6 | Explosive, HE 3" |
-| Bangalore | - | 0" - 6" | 1 | HE | Bangalore,<br>Single-Shot, HE 1" |
+| Explosives | - | 0" - 6" | 1 | HE | Explosives,<br>Single-Shot, HE 1" |
 
 ### HE chart
 
@@ -713,19 +713,18 @@ MANPADS can also be deployed on a tripod as a stationary weapon system.
 
 ***
 
-#### Bangalores
+#### Explosives
 
 ![bangalore image](./ressources/bangalore.excalidraw.png)
 
 ##### Introduction
 
-Invented even before World War 1, these long torpedoes are used to blow holes or
-clear mines from a safe cover, even while under fire. Prominently featured in
-"Saving Private Ryan" to blow holes in razor wire fortifications.
+Used to blow holes or clear mines from a safe cover, even while under fire. 
+Youre imagination is the limit!
 
 ##### Gameplay
 
-Bangalores serve a multitude of roles:
+Explosive kits serve a multitude of roles:
 
 | Example situation | Example  |
 | :--- | :--- |
@@ -737,14 +736,14 @@ Bangalores serve a multitude of roles:
 If you find a completely new way to use these and its credible enough, try to reuse
 one of these formulas or make up your own.
 
-Bangalores are single-use. Any unit can carry any amount of them, but
+Kits are single-use. Any unit can carry any amount of them, but
 a maximum can be set in the squad template.
 
 ##### Rule
 
 | Rule | Description |
 | :--- | :--- |
-| Bangalore | Multipurpose, single-use explosives.<br>Usable against vehicles, buildings, fortifications. |
+| Explosives | Multipurpose, single-use explosives.<br>Usable against vehicles, buildings, fortifications. |
 
 ***
 
