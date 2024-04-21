@@ -244,7 +244,7 @@ order test to embark or disembark. After succesfully leaving the helicopter, uni
 get the usual 6" movement in any direction they choose.
 
 A hovering helicopter (not after a RUN) can also rapell units from a height of up
-to 20". The unit disembarking needs to be veterans, and the helicopter crew
+to 10". The unit disembarking needs to be veterans, and the helicopter crew
 regulars.
 
 The disembarking units rapell down to the ground, directly below the helicopter.
@@ -274,6 +274,9 @@ the weapon barrels themselves.
 - **Bombs** are thrown from the helicopter in the path it travels, according to the following chart, if not specified otherwise (e. g. in case it is somehow guided).
 
 ![helicopter drop image](./ressources/helicopter-bombs.excalidraw.png)
+
+Helicopters with hardpoints are allowed to fire one set of weapons per turn as
+well as their vehicle mounted gun, if it has one.
 
 ###### Attacking from a helicopter
 
@@ -323,24 +326,24 @@ Unit mounted on a quad bike cannot fire their weapons.
 #### Introduction
 
 Drones are wireless-controlled air vehicles, from quadrotor helicopters to giant
-weapon systems. They are a very recent development in warfare, used by all sides
-for reconnaissance, deployment of weapons or other purposes.
+fixed wing weapon carriers. They are a very recent development in warfare, used
+by all sides for reconnaissance, deployment of weapons or other purposes.
 
 Due to the scale at which H.E.A.T takes place, large autonomous systems like the
 Heron drone are a tad to ambitious for the time being.
 
 Currently, the three types of drones are:
 
-- small quadrocopter drones, as used for example by irregular forces in Afghanistan or more recently Karabach/Ukraine.
-- RC plane sized UAVs with off-map operators and either fixed wings, rotors or even both
-- loitering munition, or more colloquially known as "suicide drones"
+- small quadrocopter drones, as used for example by irregular forces in Afghanistan or more recently Karabach/Ukraine,
+- RC plane sized UAVs with off-map operators and either fixed wings, rotors or even both,
+- loitering munition, or more colloquially known as "suicide drones".
 
 #### Gameplay
 
 The gameplay difference is how the actual unit is set up. The cheapest option are
 on-map operators who sit behind a bush somewhere and steer the UAV with a remote.
 
-Bigger UAS, such as a Threod Systems Stream C fixed wing, are operated off map
+Bigger UAS, such as a _Threod Systems Stream C_ fixed wing, are operated off map
 and behave like a normal unit. They will have more heavy-hitting options, but
 obviously cost more in terms of points.
 
@@ -501,9 +504,9 @@ UGLs behave similarly enough to light mortars that we treat them the same way,
 as to not add unnecessary new rules. They cannot use a spotter and fire in direct
 line of sight according to normal indirect fire rules.
 
-They have the choice between HE rounds (HE 1") and smoke rounds (HE 1"). Range and
-other stats can be found in the [weapons chart](#explosives-and-rockets-weapons-chart). A unit can either fire its gun or
-the underbarrel grenade launcher. It does not require a loader or assistant.
+They have the choice between HE rounds (HE 1") and smoke rounds (HE 1").  A unit
+can either fire its gun or the underbarrel grenade launcher. It does not require
+a loader or assistant. Range and other stats can be found in the [weapons chart](#explosives-and-rockets-weapons-chart).
 
 ##### Rule
 
@@ -777,15 +780,15 @@ and retreat if necessary.
 ##### Gameplay
 
 Once per vehicle, a unit equipped with a smoke screen can active it by going DOWN.
-(You dont activate with the DOWN, it can be performed without using up the smoke
-screen, but using it leads to your vehicle to go DOWN.) Furthermore, an ADVANCE can be
-used to trigger the smoke as well, using up the firing action. The unit is not
-considered DOWN afterwards (not that it matters, anyway).
+(You are not forced to activate it when going DOWN, it can be performed without
+using up the smoke screen, but using it leads to your vehicle to go DOWN.)
+Furthermore, an ADVANCE can be used to trigger the smoke as well, using up the
+firing action. The unit goes DOWN afterwards.
 
-The smoke screen consists of two 2" smoke markers which are placed either in front of
-the vehicle or in the direction the turret is aiming, depending on where the
-smoke pods are located. Built-up smoke behaves the same as any other smoke, drifting
-and vanishing just like a smoke round.
+The smoke screen consists of two 2" smoke markers which are placed either in front
+of the vehicle or in the direction the turret is aiming, depending on where the
+smoke pods are located. Built-up smoke behaves the same as any other smoke,
+drifting and vanishing just like a smoke round.
 
 ##### Rule
 
@@ -954,4 +957,5 @@ the DOT, upon activation the following test has to be passed:
 
 ![drone range image](./ressources/drone-rule-range-flowchart.excalidraw.png)
 
-After losing connection, the DOT can try again next round, but has to pass the test again.
+After losing connection, the DOT can try again next round, but has to pass the
+test again.
