@@ -73,23 +73,14 @@ equipped infantry brigades, modern Combat Vehicle 90 and a robust
 
 ## Infantry Units [ 2 - 5 ]
 
-- TODO scouts battalion infatry
-- 
+- TODO scouts battalion infantry
+-  TODO normal infantry "jalaväe jagu"
+-  
+lahingpaar = fam team 2-3
+pooljagu = fireteam 3-5
+jagu = squad +5
 
-
-### Žvalgybos komanda
-
-A small team of forward reconnaissance infantry.
-
-| Recon team | Light infantry unit |
-| :---- | ---- |
-| Cost | 20 pt / 30 pt / 40 pt |
-| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (AR) + 1 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr><</table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Quad Bikes</td><td>Unit is equipped with quad bikes.<br><br>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes) for more information.</td><td>+15 pt/unit</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
-
-### Žvalgybos skyrius
+### 
 
 A group of recon infantry.
 
@@ -101,39 +92,19 @@ A group of recon infantry.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
 
-### Pasienis pėstininkų "Varlių vyrai"
+### Jalaväe jagu
 
-Nicknamed frog men, this group of infantry is boarded on small boats to
-traverse the bogs and marches of the baltic national parks along the borders.
-
-| Frogmen | Infantry unit |
-| :---- | ---- |
-| Cost | 55 pt / 70 pt / 85 pt |
-| Reinforcement | up to 3 attendants (SMG): 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (SMG) + 3 attendants (SMG) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Boats</td><td>Unit is mounted on a small boat.<br><br>See [ruleset](../ruleset/H.E.A.T.md#boats) for more information.</td><td>+15 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Stubborn</td><td>-</td></tr><tr><td>Recon training</td><td>These soldiers are trained to operate and maneuver<br> in even the toughest terrain.<br><br>When using an ADVANCE to move through rough<br>terrain, throw a D2, and on a positive result the team<br>may instead use the RUN distance.</td><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
-
-### Kavalerijos skyrius
-
-Retaining the old name for horse mounted infantry, modern cavalry is mounted upon
-helicopters. This infantry group works in conjunction with a helicopter
-in areas which are hard to reach by any other means.
-
-| Cavalry squad | Mechanized infantry unit |
+| Infantry squad | Mechanized infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
-| Special rules | <tr><td>Airborne</td><td>When dismounting from a helicopter, this<br>unit may reroll failed order checks.</td></tr> |
+| Special rules |- |
 
-### Husarų pėstininkų skyrius
+### Eesti scouts jagu
 
-The heaviest infantry the brigade has to offer. The hussars are the mechanized
-units which use M113 and armoured reserve vehicles.
-
-| Husar squad | Mechanized infantry unit |
+| Scouts squad | Mechanized infantry unit |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -141,27 +112,10 @@ units which use M113 and armoured reserve vehicles.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
 
-### "Eksitaja" užpuolimas skyrius
-
-Raid infantry groups were used in the beginning of the war to deal heavy losses
-to the NSPR logistical hubs located in remote parts of the national park.
-
-This earned them the local nickname "Eksitaja", which are mythological creatures
-haunting estonian bogs.
-
-| Raiding squad | Raid infantry unit |
-| :---- | ---- |
-| Cost | 40 pt / 55 pt / 70 pt |
-| Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (SMG) + 3 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information</td></tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
-
 ### Territorial Reserve Volunteers
 
 All baltic states have relatively large territorial reserves, made up from
-volunteers and former military servicemen. Some of those units were restructured
-under the Baltic Treaty to serve in this brigade.
+volunteers and former military servicemen.
 
 | Volunteer squad | Infantry unit |
 | :---- | ---- |
@@ -175,7 +129,7 @@ under the Baltic Treaty to serve in this brigade.
 
 ## Combat support units [ 0 - 1 ]
 
-### Armoured Engineer group
+### Lahingpioneerid jagu
 
 Support infantry, used to clear terrain or restrict enemy movement.
 
@@ -225,7 +179,8 @@ Anti materiell rifle sniper team.
 
 ### MG3/Ksp 58 MMG team
 
-MMG team.
+Main machine gun unit for infantry warfare, as HMGs are usually only reserved for
+vehicle mounts.
 
 | MMG team | Machine gun team |
 | :---- | ---- |
@@ -235,29 +190,11 @@ MMG team.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
 
-### .50cal Browning HMG team
+### B-300 weapon system team
 
-.50cal HMG team.
-
-| .50cal Browning HMG team | Machine gun team |
-| :---- | ---- |
-| Cost | 49 pt / 70 pt / 91 pt |
-| Reinforcement | - |
-| Setup | NCO (HMG) + 2 loaders (SMG) |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
-
-### GMG 40mm team
-
-AGL team with a HK GMG 40mm.
-
-| AGL team | Machine gun team |
-| :---- | ---- |
-| Cost | 50 pt / 60 pt / 75 pt |
-| Reinforcement | - |
-| Setup | NCO (AGL) + 2 loaders (SMG) |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>AGL</td><td>Automatic grenade launcher, which<br>rapidly fires 40mm ordnance.<br><br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl). </td></tr></table> |
+- HE variant as smth like a small direct fire  solid rocket howitzer or smth
+- Anti-Bunker mit dualem sprengkopf - erst wird bunkerwand aufgesprengt,
+  dann explodiert ein HE Sprengkopf im Raum
 
 ### Volvo Tbg Ksp58 MMG Truck
 
@@ -296,7 +233,7 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
 ### SPG-9 recoilless rifle team
 
-### Volvo Tbg SPG-9 MMG Truck
+### Volvo Tbg SPG-9 Truck
 
 Military light utility vehicle which is equipped with an recoilless rifle.
 Part of the Estonian Defense League Equipment.
@@ -334,9 +271,10 @@ for forward reconnaissance.
 
 ## Mortar team [ 0 - 1 ]
 
-### B-455/M252 81mm medium mortar team
+### 81mm medium mortar team
 
-medium mortar team.
+Medium mortar team at infantry group level, models fielded by the estonian army
+include the B-455, M252 and L16A1, all 81mm.
 
 | 81mm medium<br>mortar team | Mortar team |
 | :---- | ---- |
@@ -346,7 +284,7 @@ medium mortar team.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
-### m/41D 120 mm heavy mortar team
+### m/41D/2B11 120 mm heavy mortar team
 
 heavy mortar team.
 
@@ -414,13 +352,19 @@ Small team of infantry with a MANPADS Mistral Surface-to-air-missile launcher.
 
 ### M113
 
-![m113](./../ruleset/ressources/ifvs.excalidraw.png)
+![m113](/ruleset/ressources/ifvs.excalidraw.png)
 
-### Mk2 Alvis-4 "Mamba"
+### Mamba Mk2 EE
+
+![Mamba](/factions/ressources/mamba.excalidraw.png)
 
 ### BTR-80 UNsh
 
+![BTR 80](/factions/ressources/btr80.excalidraw.png)
+
 From the Estonian Defense League.
+
+### Unimog 435
 
 ***
 
@@ -446,6 +390,10 @@ Polish T-72M from a binational formation with Poland.
 
 ## Transports
 
+### Mil Mi-2 "Hoplite"
+
+### Mil Mi-8 "Hip"
+
 ### Robinson R44
 
 ### Sisu Parsi
@@ -455,6 +403,8 @@ Polish T-72M from a binational formation with Poland.
 ### Toyota/Range Rover
 
 more space than jeep
+
+### Unimog 435
 
 ### Jeep
 
