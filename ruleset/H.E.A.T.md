@@ -73,15 +73,15 @@ To make it easier to find, helicopter weapon systems are listed here separately.
 
 | Weapon system | Range | Shots | PEN | Special Rules |
 | :--- | :---: | :---: | :---: | --- |
-| Light autocannon | ||||
-| Medium autocannon | ||||
-| Heavy autocannon |  ||||
-| Light rocket pod | ||||
-| Medium rocket pod | ||||
-| Heavy rocket pod | ||||
-| Light missile | ||||
-| Medium missile | ||||
-| Heavy missile | ||||
+| Light autocannon | 0" - 48" | 2 | +2 | HE 1" |
+| Medium autocannon | 0" - 60" | 2 | +3 | HE 1" |
+| Heavy autocannon | 0" - 72" | 2 | +3 | HE 2" |
+| Light rocket pod | 0" - 48" | 1 | +4 | Rocket Pod, HE 1" |
+| Medium rocket pod | 0" - 60" | 1 | +5 | Rocket Pod, HE 1" |
+| Heavy rocket pod | 0" - 72" | 1 | +6 | Rocket Pod, HE 2" |
+| Light missile | 20" - 60" | 1 | +5 | Single Use, HE 1" |
+| Medium missile | 20" - 72" | 1 | +6 | Single Use, HE 2" |
+| Heavy missile | 20" - 82" | 1 | +7 | Single Use, HE 3" |
 | Small bomb | ||||
 | Medium bomb | ||||
 | Large bomb | ||||
@@ -312,11 +312,13 @@ Unit mounted on a quad bike cannot fire their weapons.
 
 | Rule | Description |
 | ---- | ---- |
-| Quad Bikes | Behave the same as bicycles. Move as a wheeled vehicle without on road bonus. Can be chosen as an upgrade to a unit if available in unit options. |
+| Quad Bikes | Unit mounts for faster deployment. Move as a wheeled vehicle without on road bonus. Can be chosen as an upgrade to a unit if available in unit options. Removed once disembarked. |
 
 ***
 
 ### Drones
+
+![drone](/ruleset/ressources/drone.excalidraw.png)
 
 #### Introduction
 
@@ -345,14 +347,14 @@ obviously cost more in terms of points.
 ##### On-Map Operator
 
 Small drones are steered by an operator who has a wireless connection to the device.
-As soon as either the drone or the operator is lost, the DOT is considered
+As soon as either the drone or the operator is lost, the team is considered
 destroyed. In any given round either the operator or his drone acts, just like a
 spotter and artillery.
 
 The UAV uses the same damage value as its team. They always deploy grounded with
 the operator, except if the scenario rules state otherwise.
 
-Except for recon role, a DOT is considered destroyed once the drone is lost.
+Except for recon role, a team is considered destroyed once the drone is lost.
 
 ##### Off-Map Operator
 
@@ -369,7 +371,7 @@ the operator or the UAV can perform an action. The UAV is able to move in
 
 Landing and starting do not require a full round as a helicopter, and can just
 move from the operators position to any other height. A UAV counts as grounded if
-it ends the turn within 1" of the DOT or on the ground.
+it ends the turn within 1" of the team or on the ground.
 
 ##### Fixed wing designs
 
@@ -377,26 +379,27 @@ Fixed wing aircraft are either started by throwing it or from a ramp/vehicle.
 Once started, they are required to perform a full ADVANCE or RUN order as
 described below:
 
-| Order | Distance | Vert. Distance | Pivots |
+| Order | Distance | Vert.<br>Distance | Pivots |
+| :--- | :---: | :---: | :---: |
 | RUN | 24" | 10" | 1 |
 | ADVANCE | 12" | 5" | 2 |
 
 They can attempt a landing with a D6, everything over a 1 is a success. On a 1 the
-UAV is considered destroyed. To restart, they need to either be rethrown by the operator
-or have a rule such as the VTOL rule.
+UAV is considered destroyed. To restart, they need to either be rethrown by the
+operator or have a rule such as the VTOL rule, which does not require an entire
+turn from an operator. Just like the quadcopter, it can end the turn at the full
+travel distance of 24" or 12".
 
 ##### Variants
 
 ###### Reconnaissance
 
-Enables capable of spotting enemy targets in direct LoS. The DOT can commicate
+Enables capable of spotting enemy targets in direct LoS. The DOT can communicate
 with any unit within the DOTs platoon and any unit capable of indirect fire in 12"
 around the DOT, once per turn.
 
 The communication does not require or use up an activation, but is blocked if the
-DOT is DOWN.
-
-If the IFV is shot down, the DOT takes the role of a normal spotter.
+DOT is DOWN. If the drone is shot down, the DOT takes the role of a normal spotter.
 
 ###### IED variant
 
@@ -405,7 +408,7 @@ enemy units:
 
 ![ied drop image](./ressources/drone-ied-flowchart.excalidraw.png)
 
-Upon dropping the payload, the UAV can be recovered by the DOT to be rearmed,
+Upon dropping the payload, the UAV can be recovered by the operator to be rearmed,
 which takes a successful RALLY order.
 
 ###### Anti-tank IED variant
@@ -414,12 +417,14 @@ The UAV carries a powerful AT warhead instead of a HE round.
 
 ![at ied drop image](./ressources/drone-at-ied-flowchart.excalidraw.png)
 
-Upon dropping the payload, the UAV can be recovered by the DOT to be rearmed,
+Upon dropping the payload, the UAV can be recovered by the operator to be rearmed,
 which takes a successful RALLY order.
 
 ###### Loitering munition
 
-TODO
+In this configuration, the drone itself is the weapon, and is destroyed once the
+payload detonates. Detonation can be triggered by a FIRE or at the end of an
+ADVANCE.
 
 ##### Drone rules
 
@@ -428,6 +433,7 @@ TODO
 | Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order. |
 | Fixed Wing | UAV has to constantly move as described in the fixed-wing movement section. |
 | VTOL | For fixed-wing UAVs, allows takeoff without being physically thrown by the operator. |
+|Loitering<br>Munition | Acts like an IED. Explodes once triggered by the operator. |
 
 ***
 
@@ -659,7 +665,7 @@ unit itself triggeres a conceiled marker, not if they are hit by an explosion.
 | :--- | :--- |
 | Sapper | Carries 3 IEDs and unlimited decoys. These can be placed as a FIRE<br> or ADVANCE order. Any engineer rule bonus applies as well.|
 | Engineer | If failing check against decoy, only receive +1 stress pin.<br>Can reroll a 3-5 roll against a mine or IED, if triggered by the unit. |
-| IED | Remote-controlled explosive device. Can be placed on ground or on a vehicle.<br> For details, see [IED section](#improvised-explosive-devices-ied-and-mines). |
+| IED | Remote-controlled explosive device. Can be placed on ground or on a vehicle. For details, see [IED section](#improvised-explosive-devices-ied-and-mines). |
 | Explosive | A conceiled deployed marker with a 3" range.<br>If any unit is within 3, roll against [flowchart](#gameplay-7). |
 
 ***
@@ -730,7 +736,7 @@ _Bangalores, prominently used in "Saving Private Ryan" as a clearing device and 
 
 ##### Introduction
 
-Used to blow holes or clear mines from a safe cover, even while under fire. 
+Used to blow holes or clear mines from a safe cover, even while under fire.
 Youre imagination is the limit!
 
 ##### Gameplay
