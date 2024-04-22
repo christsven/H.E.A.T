@@ -929,6 +929,10 @@ lethality of infantry. If a unit does have the IED rule or explosives though,
 they are treated the same way as if they were tank hunters, just to keep the
 option open.
 
+#### Machine gun buff
+
+As a quite popular buff for MGs, all weapons in the machine gun team slot deal D2 Pins to make them more viable.
+
 ### Experimental Stuff
 
 #### More detailed drone rules
