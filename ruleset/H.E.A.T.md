@@ -121,7 +121,7 @@ Additional weapon systems, explosives, mines, ...
 
 Chart for high explosives and how to calculate losses.
 
-| Radius | Pins | PEN | Hits against houses |
+| Radius | Pins | PEN | Hits |
 | ----- | ---- | ---- | ---- |
 | 1" | D2 | 1 | D3 |
 | 2" | D3 | 2 | D6 |
