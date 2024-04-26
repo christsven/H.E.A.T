@@ -121,7 +121,7 @@ Additional weapon systems, explosives, mines, ...
 
 Chart for high explosives and how to calculate losses.
 
-| Radius | Pins | PEN | Hits against houses |
+| Radius | Pins | PEN | Hits |
 | ----- | ---- | ---- | ---- |
 | 1" | D2 | 1 | D3 |
 | 2" | D3 | 2 | D6 |
@@ -928,6 +928,10 @@ As a replacement we now have more units with LAWs, increasing survivability and
 lethality of infantry. If a unit does have the IED rule or explosives though,
 they are treated the same way as if they were tank hunters, just to keep the
 option open.
+
+#### Machine gun buff
+
+As a quite popular buff for MGs, all weapons in the machine gun team slot deal D2 Pins to make them more viable.
 
 ### Experimental Stuff
 
