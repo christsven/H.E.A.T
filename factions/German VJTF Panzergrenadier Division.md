@@ -605,6 +605,10 @@ This vehicle is just being introduced into the Heer and is only available in sma
 
 ## Reinforcing Vehicles [ 0 - 1 ]
 
+### Wiesel I/II
+
+![wiesel](/factions/ressources/wiesel20mm.excalidraw.png)
+
 ### Hauptkampfpanzer Leopard 2A6
 
 ![leopard mbt image](../factions/ressources/leopard-mbt.excalidraw.png)
