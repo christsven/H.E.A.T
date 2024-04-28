@@ -121,6 +121,8 @@ motorized support.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>PETN Plastiksprengstoff<br>(*Explosives*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-.</td><td>+ 1 pt each</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>PETN Plastiksprengstoff</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
 
+TODO RABE als Häuserkampfbonus für +15pt?
+
 ### Panzergrenadiergruppe
 
 Armored infantry squad, the core of any modern fighting force. Deployed as the
@@ -475,6 +477,10 @@ Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>MANPADS</td><td>See [ruleset](../ruleset/H.E.A.T.md#manportable-air-defense-systems-manpads) for more information.</td></tr></table> |
 
+### MANTIS Flugabwehrsystem
+
+### Störpanzer Hummel (Fuchs APC)
+
 ***
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
@@ -483,15 +489,23 @@ If a vehicle has the IFV rule and is chosen in an IFV role, these vehicles are c
 
 Any vehicle that has the IFV rule can also choose to ignore it and act on its own.
 
-### Eagle IV / V APC
+### Eagle IV APC
+
+Command and Opoerations
+Ambulance
+
+### Eagle V APC
+
+Command and Operations Variant
 
 ### Enok Armoured Car
 
 ### Yak
 
-### ESK Mungo
+Tactical Transport Variant
+Ambulance
 
-### AGF Serval
+### ESK Mungo
 
 ### LGS Fennek
 
@@ -641,13 +655,23 @@ This vehicle is just being introduced into the Heer and is only available in sma
 
 ## Reinforcing Vehicles [ 0 - 1 ]
 
+### AGF Serval LIV (SO)
+
+![serval](/factions/ressources/serval.excalidraw.png)
+
+Special Forces Reconnaissance and Combat Support Vehicle
+
 ### Wiesel I/II
 
 ![wiesel](/factions/ressources/wiesel20mm.excalidraw.png)
 
+A german tankette used in a variety of roles, from ambulance and reconnaissance
+to combat roles with a 20mm autocannon, a TOW, a MILAN or even with an Ozelot
+anti air system. Capable of air transport with a A400M or helicopter.
+
 ### Hauptkampfpanzer Leopard 2A6
 
-![leopard mbt image](../factions/ressources/leopard-mbt.excalidraw.png)
+![leopard mbt image](../factions/ressources/leopard-new.excalidraw.png)
 
 The Leopard 2A6 features a powerful 120mm smoothbore gun, advanced armor
 protection, and state-of-the-art technology. With a crew of four, it is known for
