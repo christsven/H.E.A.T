@@ -54,7 +54,7 @@ Around Mid 2017 onward.
 
 #### NSPR Combined Forces
 
-The free forces of Ida Viru and the Bratstwa PMC group.
+The free forces of Ida Viru, as well as the Brastwa PMC Group
 
 [NSPR Roster](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
 
