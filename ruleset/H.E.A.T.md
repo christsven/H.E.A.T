@@ -825,6 +825,36 @@ see rulesbook. After usage, the squad cannot perform another smoke barrage.
 
 ***
 
+#### Thermal Cameras
+
+![thermal camera image](/ruleset/ressources/thermal.excalidraw.png)
+
+##### Introduction
+
+Many modern vehicles are equipped with not just night vision capable optics, but
+thermal imaging cameras. These are capable of observing radiotion in the 400-700 nm
+range, which can be tranlated into a thermographic image, visualizing actual heat.
+
+By using these, a human or vehicle can be found way easier than with normal imaging,
+as long as its heat signature is higher than its surroundings.
+
+##### Gameplay
+
+Thermal cameras reduce the effectiveness of conceilment. A weapon systems operator
+that has access to a thermal camera is thus not affected by light cover, so when
+shooting at someone behind a bush or trees, the light cover bonus is ignored.
+
+On vehicles, the thermal camera is considered destroyed as soon as the vehicle
+is damaged.
+
+##### Rule
+
+| Rule | Description |
+| :--- | :--- |
+| Thermal Camera | A vehicle or infantry team with a thermal camera ignores the light cover<br>bonus when attacking. For vehicles, the camera is considered inoperable<br>as soon as the vehicle is damaged, losing the bonus. |
+
+***
+
 ## Additional Rules and Systems
 
 ### Adjustments

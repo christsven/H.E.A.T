@@ -217,9 +217,25 @@ Anti materiell rifle sniper team.
 
 ## Machine gun team [ 0 - 1 ]
 
+### MG 3 MMG team
+
+The german army still uses MG 3s in some capacity, and even though it is being
+replaced by more modern MG 5s with optics and better ergonomics, it still has its
+place as a general purpose machine gun. Especially on a "Dreibein"-mount it can
+be used as a anti-air machine gun, as it has a special iron sight just for this
+purpose on the regular model.
+
+| MG3 MMG team | Machine gun team |
+| :---- | ---- |
+| Cost | 45 pt / 60 pt / 75 pt |
+| Reinforcement | - |
+| Setup | NCO (MMG) + 2 loaders (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Anti-Air<br>sight</td><td>+1 to hit against helicopters.</td></tr></table> |
+
 ### MG5 MMG team
 
-MG5 MMG team.
+The more modern counterpart and future main machine gun of the german forces.
 
 | MG5 MMG team | Machine gun team |
 | :---- | ---- |
@@ -251,13 +267,15 @@ A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special servi
 | Reinforcement | - |
 | Setup | NCO ( MMG ) |
 |Options| - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes)</td></tr><tr><td>Rear-mounted MMG</td><td>Fire ark of MG3 is to the back and 90° to each side<br>(so 9 and 3 o'clock from the drivers perspective).</table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td>For movement, see [ruleset](../ruleset/H.E.A.T.md#quad-bikes). Otherwise behaves like<br>a normal infantrist regarding damage values, etc.</td></tr><tr><td>Rear-mounted<br>MMG</td><td>Fire ark of MG3 is to the back and 90° to each side<br>(so 9 and 3 o'clock from the drivers perspective).</td></tr><tr><td>Anti-Air<br>sight</td><td>+1 to hit against helicopters.</td></tr></table> |
 
-### GraMaWa team
+### Granatmaschinenwaffe M1 AGL team
 
-GraMaWa AGL team.
+The AGl of the german forces, the "GraMaWa M1" is a HK GMW automatic grenade
+launcher. Operated and carried by three people, it is used as a direct fire or
+unguided indirect fire weapon against infantry and light vehicles.
 
-| GraMaWa team | Machine gun team |
+| AGL team | Machine gun team |
 | :---- | ---- |
 | Cost | 50 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -269,9 +287,17 @@ GraMaWa AGL team.
 
 A special dual warhead with a delayed high explosive using the breach opened by
 the hollow point. Able to penetrate 110 mm (4.3 in) RHA, 360 mm (14 in) concrete
-or 1,300 mm (4 ft 3 in) of sandbags.
+or 1,300 mm (4 ft 3 in) of sandbags. The team consists of a gunner and a loader
+and is used as a direct fire team against infantry in buildings and bunkers, or
+light vehicles.
 
-TODO
+| PzF 3 team | Launcher team |
+| :---- | ---- |
+| Cost | 49 pt / 70 pt / 91 pt |
+| Reinforcement | - |
+| Setup | NCO (AGL) + 1 loader (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Bunker Buster<br>round</td><td>HE 3" value attack, with the same range<br> as a standard RPG.</td></tr></table> |
 
 ***
 
@@ -279,7 +305,8 @@ TODO
 
 ### PzF 3 team
 
-Anti-tank rocket team, equipped with Panzerfaust 3, which is the standard issue german RPG.
+Anti-tank rocket team, equipped with Panzerfaust 3, which is the standard issue
+german RPG.
 
 | PzF 3 team | Anti-Tank team |
 | :---- | ---- |
@@ -291,8 +318,9 @@ Anti-tank rocket team, equipped with Panzerfaust 3, which is the standard issue 
 
 ### MELLS ATGM team
 
-Anti-tank guided missile team, a valid threat to any armoured vehicle. Equipped with modern, israeli "Spike" missiles,
-under the german designation "MELLS" for "Mehrrollenfähiges Leichtes Lenkflugkörper-System".
+Anti-tank guided missile team, a valid threat to any armoured vehicle. Equipped
+with modern, israeli "Spike" missiles, under the german designation "MELLS" for
+"Mehrrollenfähiges Leichtes Lenkflugkörper-System".
 
 | MELLS ATGM team | Anti-Tank team |
 | :---- | ---- |
@@ -308,6 +336,8 @@ under the german designation "MELLS" for "Mehrrollenfähiges Leichtes Lenkflugk�
 
 ### AirRobot AR 100-B "Mikado"
 
+![mikado](/ruleset/ressources/mikado.excalidraw.png)
+
 Mikado is a micro quadcopter drone with several imaging capabilities. Equipped
 with a normal camera, a black/white NV capable one and a thermal imaging device,
 Mikado can be used to observe an area of up to one kilometer at any time of the
@@ -316,6 +346,8 @@ day. In use since 2011 and used in Afghanistan, Kosovo, Mali and other missions.
 TODO recon onmap
 
 ### EMT Aladin
+
+![aladin](/factions/ressources/aladin.excalidraw.png)
 
 The "Abbildende Luftgestützte Aufklärungsdrohne im Nächstbereich" or "Airborne
 Reconnaissance drone for image generation in close proximity" is a fixed wing,
@@ -326,6 +358,9 @@ and a part of german reconnaissance capabilities since 2005.
 TODO recon offmap
 
 ### Rheinmetall KZO
+
+![kzo](/factions/ressources/kzo.excalidraw.png)
+
 
 The "Kleinfluggerät für Zielortung" (small guidance air vehicle) is a tactical
 fixed wing air vehicle for artillery guidance.
@@ -372,71 +407,24 @@ Tampella Mörser 120mm with "Erdsporen" for non-vehicle deployment.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
-### Mörser 120mm M113
+### M113 Mörser 120mm
 
 TODO
+
+### Wiesel I Mörser 120mm
 
 ***
 
 ## Artillery [ 0 - 1 ]
 
-### M119 105mm light howitzer
+German forces have a combined arm called the "Artillerietruppe", which combines
+most indirect fire assets of the army. 
 
-light howitzer.
+### Panzerhaubitze 2000 Battery Observer
 
-| M119 105mm<br>light howitzer | Artillery |
-| :---- | ---- |
-| Cost | 40 pt / 50 pt / 60 pt |
-| Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (LIGHT HOWITZER) + 2 loader (PISTOL) |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
+Forward observer team for a artillery battery.
 
-### M777 155mm medium howitzer
-
-medium howitzer.
-
-| M777 155mm<br>medium howitzer | Artillery |
-| :---- | ---- |
-| Cost | 60 pt / 75 pt / 90 pt |
-| Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (MEDIUM HOWITZER) + 2 loader (PISTOL) |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
-
-### Heavy howitzer
-
-heavy howitzer.
-
-| Heavy howitzer | Artillery |
-| :---- | ---- |
-| Cost | 92 pt / 115 pt / 138 pt |
-| Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (HEAVY HOWITZER) + 3 loader (PISTOL) |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 4"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
-
-***
-
-## Divisional Reinforcements [ 0 - 1 ]
-
-### Airforce forward observer
-
-Forward observer
-
-| Airforce forward<br>observer | Divisional Reinforcements |
-| :--- | ---- |
-| Cost | - pt / 75 pt / 90 pt |
-| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (SMG) |
-| Options | - |
-| Special rules | - |
-
-### Artillery forward observer
-
-Forward observer
-
-| Artillery forward<br>observer | Divisional Reinforcements |
+| Artillery forward<br>observer | Artillery |
 | :---- | ---- |
 | Cost | - pt / 100 pt / 115 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -447,10 +435,9 @@ Forward observer
 ### M113 Feuerleitpanzer
 
 This variant of the M113 APC is used as a platoon spotter. Any indirect fire unit
-that is able to coordinate with a spotter can use this APC as its spotter
-(Check [Rule adjustments](../ruleset/H.E.A.T.md#spotters)).
+that can coordinate with a spotter can use this APC as its spotter (Check [adjustments](../ruleset/H.E.A.T.md#spotters)).
 
-| M113 | APC Armoured Carrier |
+| M113 | Artillery Spotter |
 | :---- | ---- |
 | Cost | 50 pt / 55 pt / 60 pt |
 | Capacity | - |
@@ -459,11 +446,15 @@ that is able to coordinate with a spotter can use this APC as its spotter
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Spotter</td><td>Detailed rules see [Rule adjustments](../ruleset/H.E.A.T.md#spotters).</td></tr></table> |
 
+### Joint Fire Support Team
+
+JFSTs are a combination of artillery observing/mortar spotter units which actively
+follow along the infantry, coordinating indirect fire missions with a combat
+support role.
+
 ***
 
 ## Anti-Air systems [ 0 - 1 ]
-
-### MG3 Flak-MG-Lafette
 
 ### Stinger ground team
 
