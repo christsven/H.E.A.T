@@ -59,7 +59,7 @@ Veteran infantry units are allowed to reroll failed moral checks.</br>
 
 ### Leutnant
 
-| Leutnant | <img src="/factions/nato-symbols/headquarters.excalidraw.png" align="right" alt="Command team" height=20 width=auto></img> |
+| Leutnant | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -69,7 +69,7 @@ Veteran infantry units are allowed to reroll failed moral checks.</br>
 
 ### Oberleutnant
 
-| Oberleutnant | <img src="/factions/nato-symbols/headquarters.excalidraw.png" align="right" alt="Command team" height=20 width=auto></img> |
+| Oberleutnant | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -87,7 +87,7 @@ Small reconnaissance infantry team, watching the area in front of friendly force
 and reporting enemy troop movement. Can be fielded on quad bikes for faster
 repositioning.
 
-| Aufklärer-<br>trupp | Light infantry unit |
+| Recon team | <img src="/factions/nato-symbols/blufor/reconinfantry-t.excalidraw.png" align="right" alt="recon infantry team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 20 pt / 30 pt / 40 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -100,7 +100,7 @@ repositioning.
 Reconnaissance infantry group, watching the area in front of friendly forces
 and reporting enemy troop movement.
 
-| Aufklärer-<br>gruppe | Infantry unit |
+| Recon infantry group | <img src="/factions/nato-symbols/blufor/reconinfantry-g.excalidraw.png" align="right" alt="recon infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -113,7 +113,7 @@ and reporting enemy troop movement.
 Light infantry unit, which is able to perform flanking operations without
 motorized support.
 
-| Jägergruppe | Infantry unit |
+| Light infantry group | <img src="/factions/nato-symbols/blufor/lightinfantry.excalidraw.png" align="right" alt="light infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -128,7 +128,7 @@ TODO RABE als Häuserkampfbonus für +15pt?
 Armored infantry squad, the core of any modern fighting force. Deployed as the
 infanty part of german IFVs.
 
-| Panzergrenadier-<br>gruppe | Infantry unit |
+| Armoured infantry group | <img src="/factions/nato-symbols/blufor/mechinfantry.excalidraw.png" align="right" alt="mechanized infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -142,7 +142,7 @@ Part of the NATO VJTF response regiment, during 2015 era consisting of german
 armoured infantry. Able to deploy rapidly and well equipped to face most
 conventional threats.
 
-| Rapid Response<br>squad | Infantry unit |
+| Rapid Response<br>squad | <img src="/factions/nato-symbols/blufor/specialforce-g.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - / 60 pt / 75 pt |
 | Reinforcement | up to 5 attendants (AR): - pt / 10 pt / 13 pt |
@@ -155,7 +155,7 @@ conventional threats.
 Special reconaissance infantry, able to strike deep into enemy territory and
 report movement back to the command structure.
 
-| Fernspäher-<br>gruppe | Infantry unit |
+| Special Recon group | <img src="/factions/nato-symbols/blufor/fernspaeher.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - / 65 pt / 80 pt |
 | Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -171,7 +171,7 @@ report movement back to the command structure.
 
 Support infantry, used to clear terrain or restrict enemy movement.
 
-| Panzerpionier-<br>gruppe | Combat support unit |
+| Engineer group | <img src="/factions/nato-symbols/blufor/engineers.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 40 pt / 55 pt / 70 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt each |
@@ -183,7 +183,7 @@ Support infantry, used to clear terrain or restrict enemy movement.
 
 Standard issued german sniper team.
 
-| G22A2 sniper team | Combat support unit |
+| G22A2 sniper team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -195,7 +195,7 @@ Standard issued german sniper team.
 
 Anti materiell rifle sniper team.
 
-| G82 AMR team | Combat support unit |
+| G82 AMR team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -205,7 +205,7 @@ Anti materiell rifle sniper team.
 
 ### Sani
 
-| Medic | Combat support unit |
+| Medic | <img src="/factions/nato-symbols/blufor/medic-t.excalidraw.png" align="right" alt="medical operator" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - / - / 45 pt |
 | Reinforcement | - |
@@ -225,7 +225,7 @@ place as a general purpose machine gun. Especially on a "Dreibein"-mount it can
 be used as a anti-air machine gun, as it has a special iron sight just for this
 purpose on the regular model.
 
-| MG3 MMG team | Machine gun team |
+| MG3 MMG team |  <img src="/factions/nato-symbols/blufor/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -237,7 +237,7 @@ purpose on the regular model.
 
 The more modern counterpart and future main machine gun of the german forces.
 
-| MG5 MMG team | Machine gun team |
+| MG5 MMG team | <img src="/factions/nato-symbols/blufor/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -249,7 +249,7 @@ The more modern counterpart and future main machine gun of the german forces.
 
 .50cal HMG team.
 
-| .50cal Browning HMG team | Machine gun team |
+| .50cal Browning HMG team | <img src="/factions/nato-symbols/blufor/hmg-t.excalidraw.png" align="right" alt="heavy machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 49 pt / 70 pt / 91 pt |
 | Reinforcement | - |
@@ -261,7 +261,7 @@ The more modern counterpart and future main machine gun of the german forces.
 
 A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special services.
 
-| MG3 quad | Machine gun quad |
+| MG3 quad | <img src="/factions/nato-symbols/blufor/mmg-q.excalidraw.png" align="right" alt="medium machine gun quad" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 65 pt / 80 pt |
 | Reinforcement | - |
@@ -275,7 +275,7 @@ The AGl of the german forces, the "GraMaWa M1" is a HK GMW automatic grenade
 launcher. Operated and carried by three people, it is used as a direct fire or
 unguided indirect fire weapon against infantry and light vehicles.
 
-| AGL team | Machine gun team |
+| AGL team | <img src="/factions/nato-symbols/blufor/gmg-t.excalidraw.png" align="right" alt="grenade machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -291,7 +291,7 @@ or 1,300 mm (4 ft 3 in) of sandbags. The team consists of a gunner and a loader
 and is used as a direct fire team against infantry in buildings and bunkers, or
 light vehicles.
 
-| PzF 3 team | Launcher team |
+| HE RPG team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 49 pt / 70 pt / 91 pt |
 | Reinforcement | - |
@@ -308,7 +308,7 @@ light vehicles.
 Anti-tank rocket team, equipped with Panzerfaust 3, which is the standard issue
 german RPG.
 
-| PzF 3 team | Anti-Tank team |
+| PzF 3 team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | - |
@@ -322,7 +322,7 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle. Equipped
 with modern, israeli "Spike" missiles, under the german designation "MELLS" for
 "Mehrrollenfähiges Leichtes Lenkflugkörper-System".
 
-| MELLS ATGM team | Anti-Tank team |
+| MELLS ATGM team | <img src="/factions/nato-symbols/blufor/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |
@@ -343,6 +343,15 @@ with a normal camera, a black/white NV capable one and a thermal imaging device,
 Mikado can be used to observe an area of up to one kilometer at any time of the
 day. In use since 2011 and used in Afghanistan, Kosovo, Mali and other missions.
 
+| Recon UAV team | <img src="/factions/nato-symbols/blufor/recon-drone.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
+| Setup | NCO (PDW) |
+|Options| - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>On-map Operator</td><td>Operator of unit is present on map.</td></tr><tr><td>Quadrocopter</td><td>Drone is propelled by multiple rotors. </td></tr></table> |
+
+
 TODO recon onmap
 
 ### EMT Aladin
@@ -355,17 +364,28 @@ lightweight drone with a camera capable of broadcasting a live-feed to its
 operator. Used mainly in Afghanistan and Mali, EMT Aladin is a proven design
 and a part of german reconnaissance capabilities since 2005.
 
-TODO recon offmap
+| Recon UAV team |  <img src="/factions/nato-symbols/blufor/recon-drone.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
+| Setup | NCO (PDW) |
+|Options| - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>On-map Operator</td><td>Operator of unit is present on map.</td></tr><tr><td>Fixed wing</td><td>Drone is propelled by a rotor and fixed wings. </td></tr></table> |
 
 ### Rheinmetall KZO
 
 ![kzo](/factions/ressources/kzo.excalidraw.png)
 
-
 The "Kleinfluggerät für Zielortung" (small guidance air vehicle) is a tactical
 fixed wing air vehicle for artillery guidance.
 
-TODO art observer offmap
+| Artillery UAV team |  <img src="/factions/nato-symbols/blufor/art-recon-drone.excalidraw.png" align="right" alt="artillery recon uav team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | - |
+| Setup | Drone |
+|Options| - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>Off-map Operator</td><td>Unit is operated off-map.</td></tr><tr><td>Fixed wing</td><td>Drone is propelled by a rotor and fixed wings. </td></tr><tr><td>Artillery Observer</td><td>Unit acts the same a normal artillery observer.</td></tr></table> |
 
 ***
 
@@ -375,7 +395,7 @@ TODO art observer offmap
 
 light mortar team.
 
-| M224 LWCMS 60mm<br>light mortar team | Mortar team |
+| M224 LWCMS 60mm light mortar team | <img src="/factions/nato-symbols/blufor/light-mortar.excalidraw.png" align="right" alt="light mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 24 pt / 35 pt / 46 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -387,7 +407,7 @@ light mortar team.
 
 Medium mortar team, equipped with a M252 mortar firing a 81mm round.
 
-| M252 81mm<br>medium mortar team | Mortar team |
+| M252 81mm medium mortar team | <img src="/factions/nato-symbols/blufor/medium-mortar.excalidraw.png" align="right" alt="medium mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | Spotter +10 pt |
@@ -399,7 +419,7 @@ Medium mortar team, equipped with a M252 mortar firing a 81mm round.
 
 Tampella Mörser 120mm with "Erdsporen" for non-vehicle deployment.
 
-| 120mm heavy<br>mortar team | Mortar team |
+| 120mm heavy mortar team | <img src="/factions/nato-symbols/blufor/heavy-mortar.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 46 pt / 65 pt / 84 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -409,9 +429,29 @@ Tampella Mörser 120mm with "Erdsporen" for non-vehicle deployment.
 
 ### M113 Mörser 120mm
 
-TODO
+M113 mounted heavy mortar system, as it is form for any good NATO army.
+
+| 120mm heavy mortar M113 | <img src="/factions/nato-symbols/blufor/tracked-heavy-mortar.excalidraw.png" align="right" alt="self propelled heavy mortar team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | Spotter (PDW) +10 pt |
+| Options | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
 ### Wiesel I Mörser 120mm
+
+Wiesel I mounted heavy mortar system.
+
+| 120mm heavy mortar Wiesel | <img src="/factions/nato-symbols/blufor/tracked-heavy-mortar.excalidraw.png" align="right" alt="self propelled heavy mortar team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 46 pt / 65 pt / 84 pt |
+| Reinforcement | Spotter (PDW) +10 pt |
+| Options | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
 ***
 
@@ -424,7 +464,7 @@ most indirect fire assets of the army.
 
 Forward observer team for a artillery battery.
 
-| Artillery forward<br>observer | Artillery |
+| Artillery forward observer | <img src="/factions/nato-symbols/blufor/art-recon-t.excalidraw.png" align="right" alt="Artillery Observer team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 100 pt / 115 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -437,7 +477,7 @@ Forward observer team for a artillery battery.
 This variant of the M113 APC is used as a platoon spotter. Any indirect fire unit
 that can coordinate with a spotter can use this APC as its spotter (Check [adjustments](../ruleset/H.E.A.T.md#spotters)).
 
-| M113 | Artillery Spotter |
+| M113 | <img src="/factions/nato-symbols/blufor/tracked-spotter-t.excalidraw.png" align="right" alt="self propelled spotter" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 55 pt / 60 pt |
 | Capacity | - |
