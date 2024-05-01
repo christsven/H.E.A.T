@@ -512,6 +512,8 @@ Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 
 ### Störpanzer Hummel (Fuchs APC)
 
+TODO Fire destroys drones? generally destorys drones?
+
 ***
 
 ## Armoured personnel Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
@@ -522,6 +524,8 @@ Any vehicle that has the IFV rule can also choose to ignore it and act on its ow
 
 ### Eagle IV APC
 
+![eagle iv](/factions/ressources/eagle-iv.excalidraw.png)
+
 Command and Opoerations
 Ambulance
 
@@ -529,14 +533,20 @@ Ambulance
 
 Command and Operations Variant
 
-### Enok Armoured Car
+### Enok 6.1 LAPV
 
-### Yak
+![enok](/factions/ressources/enok.excalidraw.png)
+
+### Duro 3 Yak
+
+![duro 3 yak](/factions/ressources/yak.excalidraw.png)
 
 Tactical Transport Variant
 Ambulance
 
 ### ESK Mungo
+
+![mungo](/factions/ressources/mungo.excalidraw.png)
 
 ### LGS Fennek
 
