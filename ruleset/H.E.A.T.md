@@ -236,7 +236,7 @@ move either only horizontally, which is faster, or change its altitude as well.
 
 ##### Transport and (Dis)embarking
 
-Every helicopter has a capacity indicating the amount of personell that is able
+Every helicopter has a capacity indicating the amount of personnel that is able
 to be transported.
 
 A landed helicopter can be treated the same way as a normal transport. Take an

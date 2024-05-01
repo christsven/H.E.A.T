@@ -187,7 +187,7 @@ situation.
 *Military site, NSPR, early 2017*
 
 Even though the resistance suffered a hefty amount of attrition from fighting not
-only against the estonian army, the baltic territorial defense and UNFIBAL personell,
+only against the estonian army, the baltic territorial defense and UNFIBAL personnel,
 but now also the CSDP coalition, there was no noticable dip in ammunition or
 equipment, which led to accusations of Russia providing heavy equipment to the
 resistance fighters. This was not a very far fetched claim, since there was literally
@@ -238,7 +238,7 @@ follow up units arriving shortly after.
 
 The Estonian Land Forces are the ground component of the Estonian Defence Forces
 (EDF), responsible for defending the territorial integrity and sovereignty of
-Estonia. It consists of around 3000 personell during peacetimes, and is division-
+Estonia. It consists of around 3000 personnel during peacetimes, and is division-
 sized with some parts only staffed by reserve units.
 
 After the first clashes in 2014, a reactivation of reservist forces and more
@@ -367,8 +367,8 @@ presence as a welcome help.
 ##### Main contributors and equipment during early crisis
 
 Force composition of UNFIBAL forces consists mainly of bangladeshi, rwandan,
-ghanaian and egyptian personell. Other countries also contribute specialized
-personell or commanding officers, but the bulk of policing and security forces
+ghanaian and egyptian personnel. Other countries also contribute specialized
+personnel or commanding officers, but the bulk of policing and security forces
 come from those nations.
 
 Their equipment is also provided by their consecutive armies, but european and
@@ -485,12 +485,12 @@ reinforcement operations.
 
 *Bratstwa PMC group patch*
 
-The NSPR has a standing force of around 10-13.000 personell, which serve under
+The NSPR has a standing force of around 10-13.000 personnel, which serve under
 the umbrella of the NSPR flag. Internally, there are several factions.
 
 The "Bratstwa" far-right, russian-nationalistic militia is the best equipped part
 of the force. Their leader, Roman Sokolov, is a wealthy oligarch with ties to the
-Kremlin. Most personell enjoyed a thorough paramilitary training and their
+Kremlin. Most personnel enjoyed a thorough paramilitary training and their
 equipment pool is modern. The entire force is estimated to consist of about
 2000-2500 men.
 

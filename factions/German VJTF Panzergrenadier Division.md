@@ -26,7 +26,7 @@
 
 [Divisional Reinforcements](German%20VJTF%20Panzergrenadier%20Division.md#divisional-reinforcements--0---1-)
 
-[IFVs and APCs](German%20VJTF%20Panzergrenadier%20Division.md#armoured-personell-carriers--infantry-fighting-vehicles--0---2-)
+[IFVs and APCs](German%20VJTF%20Panzergrenadier%20Division.md#armoured-personnel-carriers--infantry-fighting-vehicles--0---2-)
 
 [Heavy Armour](German%20VJTF%20Panzergrenadier%20Division.md#reinforcing-vehicles--0---1-)
 
@@ -41,7 +41,7 @@
 Due to a lack of standardization in equipment between NATO forces, the
 strain on logistic is higher than for other forces. Transport units must
 perform an order check with 2 pin markers when moving out of reserve to
-represent the stressed personell.</br>
+represent the stressed personnel.</br>
 
 *TLDR +2 pin on all reserve transports*
 
@@ -483,7 +483,7 @@ Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 
 ***
 
-## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
+## Armoured personnel Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
 
 If a vehicle has the IFV rule and is chosen in an IFV role, these vehicles are connected to the first and second mandatory infantry units.
 
@@ -526,7 +526,7 @@ Small and fast car used for reconnaissance and command roles.
 
 ![dingo mrap picture](../factions/ressources/dingo-apc.excalidraw.png)
 
-Mine resistant personell carrier.
+Mine resistant personnel carrier.
 
 | ATF Dingo 1 | MRAP Carrier |
 | :---- | ---- |
