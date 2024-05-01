@@ -59,7 +59,7 @@ Veteran infantry units are allowed to reroll failed moral checks.</br>
 
 ### Leutnant
 
-| Leutnant | <img src="/factions/nato-symbols/headquarters.excalidraw.png" alt="Command team" height=20 width=auto></img> |
+| Leutnant | <img src="/factions/nato-symbols/headquarters.excalidraw.png" align="right" alt="Command team" height=20 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -69,7 +69,7 @@ Veteran infantry units are allowed to reroll failed moral checks.</br>
 
 ### Oberleutnant
 
-| Oberleutnant | Platoon Leader |
+| Oberleutnant | <img src="/factions/nato-symbols/headquarters.excalidraw.png" align="right" alt="Command team" height=20 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
