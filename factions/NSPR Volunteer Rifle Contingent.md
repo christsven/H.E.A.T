@@ -2,6 +2,7 @@
 
 ![nspr logo](./ressources/nspr-rifle-contingent-logo.excalidraw.png)
 
+![pmc logo](./ressources/bratstwa.excalidraw.png)
 ***
 
 ## Links
@@ -197,7 +198,7 @@ and follow orders.
 
 ## Combat support units [ 0 - 1 ]
 
-![](/factions/ressources/nspr-infantry-horse.excalidraw.png)
+![horse man](/factions/ressources/nspr-infantry-horse.excalidraw.png)
 
 ### Demolition squad
 
