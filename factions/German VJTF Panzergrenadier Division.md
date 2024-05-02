@@ -556,7 +556,9 @@ or medical evacuation missions. A fast, capable offroader with modern weaponry.
 | Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command and Operations<br>*Command Vehicle*</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 100<br>(7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr></table> |
 | Special rules | - |
 
-### Eagle V APC
+#### Eagle V APC
+
+Newer version of the Eagle IV, equipped with the heavier FLW 200.
 
 | Eagle V MRAP | <img src="/factions/nato-symbols/blufor/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
 | :---- | ---- |
