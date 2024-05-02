@@ -617,7 +617,7 @@ transport up to 8 soldiers.
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | - |
 | Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command and Operations<br>*Command Vehicle*</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table> |
-| Special rules | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped</td><td>-</td></tr><tr><td>Open sides</td><td>Units are allowed to fire weapons from the open sides. 2 weapons per axis.</td></tr></table> |
 
 ### LGS Fennek
 
@@ -786,15 +786,52 @@ small numbers for field testing.
 
 ![serval](/factions/ressources/serval.excalidraw.png)
 
-Special Forces Reconnaissance and Combat Support Vehicle
+A Special Forces Reconnaissance and Combat Support Vehicle for fast flanking
+maneuvres. Top mounted HMG and a front facing MMG operated by the person next
+to the driver, the back covered by another MMG. This airmobile vehicle is operated
+by german special forces.
 
-### Wiesel I/II
+All weapons being actively manned as a vehicle in this category, there is place
+for 3 additional soldiers in the back.
+
+| Combat Vehicle Serval | <img src="/factions/nato-symbols/blufor/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 3 soldiers |
+| Damage value | 6+ Soft-skinned Vehicle |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>front-window-mounted</li></ul></tr>tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>back-mounted</li></ul></tr></table> |
+| Options | _As a reminder, only one option may be chosen._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Pintle mounted 7.62mm MMG</td><td>Top mounted MMG</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr><tr><td>Pintle mounted 12.7mm HMG</td><td>Top mounted HMG</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>Pintle mounted 40mm AGL</td><td>Top mounted AGL</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-topped</td><td>-</td></tr></table> |
+
+### Wiesel I
 
 ![wiesel](/factions/ressources/wiesel20mm.excalidraw.png)
 
 A german tankette used in a variety of roles, from ambulance and reconnaissance
-to combat roles with a 20mm autocannon, a TOW, a MILAN or even with an Ozelot
+to combat roles with a 20mm autocannon, a TOW or even with an Ozelot
 anti air system. Capable of air transport with a A400M or helicopter.
+
+#### Wiesel I TOW
+
+| Wiesel I TOW | <img src="/factions/nato-symbols/blufor/wiesel.excalidraw.png" align="right" alt="Tankette" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 8+ Light Tank |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>TOW ATGM Launcher</td><td>TOW Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li></ul></td><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG 3 MMG</td><td>Medium machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>ATGM</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td></tr></table> |
+
+#### Wiesel I A3 MK
+
+| Wiesel I A3 MK| <img src="/factions/nato-symbols/blufor/wiesel.excalidraw.png" align="right" alt="Tankette" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 8+ Light Tank |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>30-mm-MK 30-2/ABM</td><td>30mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></td></tr></table> |
+| Options | - |
+
 
 ### Hauptkampfpanzer Leopard 2A6
 
@@ -809,20 +846,22 @@ modern features that enhance its accuracy and situational awareness. The Leopard
 2A6 is used by several countries and is recognized for its combat effectiveness
 and reliability.
 
-| Hauptkampfpanzer<br> Leopard 2A6 | MBT Medium Tank |
+| Main Battle Tank | <img src="/factions/nato-symbols/blufor/mbt.excalidraw.png" align="right" alt="Main battle tank" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 210 pt / 225 pt / 240 pt |
 | Capacity | - |
 | Damage value | 9+ Medium Tank |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>Rh-120 L/44 120 mm</td><td>120mm smoothbore heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr></table> |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG 3 MMG</td><td>Medium machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Tiger Fear</td><td>-</td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>Rh-120 L/44 120 mm</td><td>120mm smoothbore heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG 3 MMG</td><td>Medium machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
 
 ### Panzerhaubitze 2000
 
 ### MARS II MLRS
 
-| MARS II MLRS | Armoured Carrier |
+![mars mlrs](/factions/ressources/mars2.excalidraw.png)
+
+| MARS II MLRS | <img src="/factions/nato-symbols/blufor/tracked-artillery.excalidraw.png" align="right" alt="MLRS System" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 181 pt / 196 pt / 211 pt |
 | Capacity | - |
@@ -833,6 +872,8 @@ and reliability.
 
 ### Unterstützungshubschrauber Eurocopter Tiger
 
+![eurocopter](/factions/ressources/eurocopter.excalidraw.png)
+
 | Unterstützungshubschrauber<br> Eurocopter Tiger | Medium helicopter |
 | :---- | ---- |
 | Cost | 145 pt / 160 pt / 175 pt |
@@ -841,6 +882,13 @@ and reliability.
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>30 mm (1.18 in) GIAT 30</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>70mm Hydra rockets</td><td></td><td><ul><li>front-facing</li><li>rocket-launcher</li></ul></td><td>+ 50 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table> |
+
+: 2 Außenstationen für
+4 Luft-Luft-Lenkflugkörper „Stinger“,
+2 Innenstationen für Behälter mit
+12,7 mm, Behälter mit 19 x 70 mm
+Raketen, Behälter mit 4 PARS 3 LR,
+Behälter mit 4 Lenkflugkörpern HOT
 
 ***
 

@@ -18,9 +18,8 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
 #### Baltic Security Partnership Brigade
 
-Baltic Treaty Light Air Cavalry border guard brigade.
-
-Composed of lithuanian, estonian and latvian equipment. 2016 onward.
+Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
+estonian and latvian equipment. 2016 onward.
 
 _Airmobility and light infantry are the main feature, with a mix of baltic equipment._
 
@@ -28,8 +27,8 @@ _Airmobility and light infantry are the main feature, with a mix of baltic equip
 
 #### WIP: UN Peacekeeping and Support Mission UNFIBAL
 
-United Nations support brigade composed of mixed french and
-american equipment. 2014 onward.
+United Nations support brigade composed of mixed french and american equipment.
+2014 onward.
 
 _Mix of old equipment and modern arms donations. Emphasis on suppport units._
 
@@ -47,7 +46,7 @@ _A smaller army, but bleeding-edge equipment with many domestic drone products._
 
 Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
 
-_Mix of german, french, italian and slovac gear. Emphasis on armour._
+_Mix of german, french, italian and slovac gear. Modern and diverse._
 
 [EUFOR Roster](/factions/EUFOR%20Division.md)
 
@@ -56,7 +55,7 @@ _Mix of german, french, italian and slovac gear. Emphasis on armour._
 German led NRF forces, VJTF + IF-U/F-U forces.
 Around Mid 2017 onward.
 
-_Classic modern force with diverse vehicle pool and non-lethal drone options._
+_Classic modern force with modern vehicle pool and non-lethal drone options._
 
 [VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
@@ -66,7 +65,8 @@ _Classic modern force with diverse vehicle pool and non-lethal drone options._
 
 The free forces of Ida Viru, as well as the Brastwa PMC Group
 
-_Balanced force with a huge, but old pool of equipment._
+_Ragtag force with a huge, but old pool of equipment. Insurgent infantry sections
+and PMC formation with more modern equipment._
 
 [NSPR Roster](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
 
