@@ -346,9 +346,6 @@ day. In use since 2011 and used in Afghanistan, Kosovo, Mali and other missions.
 |Options| - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>On-map Operator</td><td>Operator of unit is present on map.</td></tr><tr><td>Quadrocopter</td><td>Drone is propelled by multiple rotors. </td></tr></table> |
 
-
-TODO recon onmap
-
 ### EMT Aladin
 
 ![aladin](/factions/ressources/aladin.excalidraw.png)
@@ -453,7 +450,7 @@ Wiesel I mounted heavy mortar system.
 ## Artillery [ 0 - 1 ]
 
 German forces have a combined arm called the "Artillerietruppe", which combines
-most indirect fire assets of the army. 
+most indirect fire assets of the army.
 
 ### Panzerhaubitze 2000 Battery Observer
 
@@ -654,7 +651,7 @@ vehicle pool.
 | Capacity | 2 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | - |
-| Options | _Only one FLW can be mounted per vehicle._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 200<br>(7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr><tr><td>FLW 200<br>(12.7mm) HMG</td><td>Remote-controlled HMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 25 pt</td></tr><tr><td>FLW 200<br>(40mm HE) GraMaWa</td><td>Remote-controlled AGL</td><td><ul><li>turret-mounted</li></ul></td><td>+ 35 pt</td></tr></table> | |
+| Options | _Only one FLW can be mounted per vehicle._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 200<br>(7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr><tr><td>FLW 200<br>(12.7mm) HMG</td><td>Remote-controlled HMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 25 pt</td></tr><tr><td>FLW 200<br>(40mm HE) GraMaWa</td><td>Remote-controlled AGL</td><td><ul><li>turret-mounted</li></ul></td><td>+ 35 pt</td></tr></table> |
 | Special rules | - |
 
 #### ATF Dingo 2
@@ -667,7 +664,7 @@ Larger version of the Dingo on an Unimog 5000 frame.
 | Capacity | 5 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | - |
-| Options | _Only one FLW can be mounted per vehicle._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 200<br>(7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr><tr><td>FLW 200<br>(12.7mm) HMG</td><td>Remote-controlled HMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 25 pt</td></tr><tr><td>FLW 200<br>(40mm HE) GraMaWa</td><td>Remote-controlled AGL</td><td><ul><li>turret-mounted</li></ul></td><td>+ 35 pt</td></tr></table> | |
+| Options | _Only one FLW can be mounted per vehicle._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 200<br>(7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr><tr><td>FLW 200<br>(12.7mm) HMG</td><td>Remote-controlled HMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 25 pt</td></tr><tr><td>FLW 200<br>(40mm HE) GraMaWa</td><td>Remote-controlled AGL</td><td><ul><li>turret-mounted</li></ul></td><td>+ 35 pt</td></tr></table> |
 | Special rules | - |
 
 ### M113
@@ -830,7 +827,6 @@ anti air system. Capable of air transport with a A400M or helicopter.
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>30-mm-MK 30-2/ABM</td><td>30mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></td></tr></table> |
 | Options | - |
 
-
 ### Hauptkampfpanzer Leopard 2A6
 
 ![leopard mbt image](../factions/ressources/leopard-new.excalidraw.png)
@@ -902,10 +898,6 @@ Behälter mit 4 Lenkflugkörpern HOT
 ***
 
 ## Transports
-
-### S-Boot
-
-### Polaris RZR
 
 ### M113 Transport
 
