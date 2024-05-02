@@ -22,6 +22,8 @@ Baltic Treaty Light Air Cavalry border guard brigade.
 
 Composed of lithuanian, estonian and latvian equipment. 2016 onward.
 
+_Airmobility and light infantry are the main feature, with a mix of baltic equipment._
+
 [BASEP Roster](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
 #### WIP: UN Peacekeeping and Support Mission UNFIBAL
@@ -29,17 +31,23 @@ Composed of lithuanian, estonian and latvian equipment. 2016 onward.
 United Nations support brigade composed of mixed french and
 american equipment. 2014 onward.
 
+_Mix of old equipment and modern arms donations. Emphasis on suppport units._
+
 [UNFIBAL Roster](/factions/UNFIBAL%20Forces.md)
 
 #### WIP: Estonian Land Forces
 
 Combined Forces of the estonian army. 2016 onward.
 
+_A smaller army, but bleeding-edge equipment with many domestic drone products._
+
 [Estonia Roster](/factions/Estonian%20Land%20Forces.md)
 
 #### WIP: EUFOR Estonia
 
 Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
+
+_Mix of german, french, italian and slovac gear. Emphasis on armour._
 
 [EUFOR Roster](/factions/EUFOR%20Division.md)
 
@@ -48,6 +56,8 @@ Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
 German led NRF forces, VJTF + IF-U/F-U forces.
 Around Mid 2017 onward.
 
+_Classic modern force with diverse vehicle pool and non-lethal drone options._
+
 [VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
 ### OPFOR
@@ -55,6 +65,8 @@ Around Mid 2017 onward.
 #### NSPR Combined Forces
 
 The free forces of Ida Viru, as well as the Brastwa PMC Group
+
+_Balanced force with a huge, but old pool of equipment._
 
 [NSPR Roster](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
 
