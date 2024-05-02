@@ -857,11 +857,22 @@ and reliability.
 
 ### Panzerhaubitze 2000
 
+![pzh2k](/factions/ressources/panzerhaubitze.excalidraw.png)
+
+| Self propelled howitzer | <img src="/factions/nato-symbols/blufor/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>L/52 155mm Haubitze</td><td>Medium sized howitzer.</td><td><ul><li>turret-mounted</li><li>Howitzer</li></ul></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG 3 MMG</td><td>Medium machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |
+
 ### MARS II MLRS
 
 ![mars mlrs](/factions/ressources/mars2.excalidraw.png)
 
-| MARS II MLRS | <img src="/factions/nato-symbols/blufor/tracked-artillery.excalidraw.png" align="right" alt="MLRS System" height=30 width=auto></img> |
+| MARS II MLRS | <img src="/factions/nato-symbols/blufor/tracked-artillery-mlrs.excalidraw.png" align="right" alt="MLRS System" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 181 pt / 196 pt / 211 pt |
 | Capacity | - |
