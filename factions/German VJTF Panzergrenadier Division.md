@@ -115,10 +115,8 @@ motorized support.
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 3 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>PETN Plastiksprengstoff<br>(*Explosives*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-.</td><td>+ 1 pt each</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>PETN Plastiksprengstoff</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
-
-TODO RABE als Häuserkampfbonus für +15pt?
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>PETN Plastiksprengstoff<br>(*Explosives*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>RABE drones</td><td>Small recon rc drones.</td><td>+20 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-.</td><td>+ 1 pt each</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>PETN Plastiksprengstoff</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr><tr><td>RABE drones</td><td>Unit has small rc drone to use in attacks into enemy buildings. If chosen, CQC attacks into a building always begin with this units attack.</td></tr></table> |
 
 ### Panzergrenadiergruppe
 
