@@ -51,7 +51,7 @@ equipped infantry brigades, modern Combat Vehicle 90 and a robust
 
 ### Nooremleitnant
 
-| Nooremleitnant | Platoon Leader |
+| Nooremleitnant | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -61,7 +61,7 @@ equipped infantry brigades, modern Combat Vehicle 90 and a robust
 
 ### Leitnant
 
-| Vyresnysis leitenantas | Platoon Leader |
+| Vyresnysis leitenantas | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -80,31 +80,25 @@ lahingpaar = fam team 2-3
 pooljagu = fireteam 3-5
 jagu = squad +5
 
-### 
+### Reke pooljagu
 
-A group of recon infantry.
+A group of recon infantry, light infantry used to observe enemy movement and
+equipped with enough firepower to defend itself and fall back in case of an
+overwhelming enemy force.
 
-| Recon group | Light infantry unit |
+| Recon group | <img src="/factions/nato-symbols/blufor/reconinfantry-g.excalidraw.png" align="right" alt="recon infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
-| Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (SMG) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
 
-### Jalaväe jagu
-
-| Infantry squad | Mechanized infantry unit |
-| :---- | ---- |
-| Cost | 35 pt / 50 pt / 65 pt |
-| Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (AR) + 3 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
-| Special rules |- |
-
 ### Eesti scouts jagu
 
-| Scouts squad | Mechanized infantry unit |
+Infantry from the Eesti Scouts Battalion.
+
+| Scouts squad |  <img src="/factions/nato-symbols/blufor/lightinfantry.excalidraw.png" align="right" alt="light infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -112,12 +106,25 @@ A group of recon infantry.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
 
+### Jalaväe jagu
+
+Mechanized infantry, operating in conjunction with the armoured vehicles of the
+estonian ground forces.
+
+| Armoured Infantry group | <img src="/factions/nato-symbols/blufor/mechinfantry.excalidraw.png" align="right" alt="mechanized infantry group" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 3 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
+| Special rules |- |
+
 ### Territorial Reserve Volunteers
 
 All baltic states have relatively large territorial reserves, made up from
 volunteers and former military servicemen.
 
-| Volunteer squad | Infantry unit |
+| Volunteer squad | <img src="/factions/nato-symbols/blufor/lightinfantry.excalidraw.png" align="right" alt="light infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 30 pt / - / - |
 | Reinforcement | up to 3 attendants (AR): 7 pt / - / - |
@@ -133,7 +140,7 @@ volunteers and former military servicemen.
 
 Support infantry, used to clear terrain or restrict enemy movement.
 
-| Engineers group | Combat support unit |
+| Engineers group | <img src="/factions/nato-symbols/blufor/engineers.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 40 pt / 55 pt / 70 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt each |
@@ -143,7 +150,7 @@ Support infantry, used to clear terrain or restrict enemy movement.
 
 ### Sako TRG-22 sniper team
 
-| TRG-22 sniper<br>team | Combat support unit |
+| TRG-22 sniper<br>team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -155,7 +162,7 @@ Support infantry, used to clear terrain or restrict enemy movement.
 
 Anti materiell rifle sniper team.
 
-| M82 AMR team | Combat support unit |
+| M82 AMR team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -165,7 +172,7 @@ Anti materiell rifle sniper team.
 
 ### Medical specialist
 
-| Medic | Combat support unit |
+| Medic | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - / - / 45 pt |
 | Reinforcement | - |
@@ -182,7 +189,7 @@ Anti materiell rifle sniper team.
 Main machine gun unit for infantry warfare, as HMGs are usually only reserved for
 vehicle mounts.
 
-| MMG team | Machine gun team |
+| MMG team | <img src="/factions/nato-symbols/blufor/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -192,9 +199,17 @@ vehicle mounts.
 
 ### B-300 weapon system team
 
-- HE variant as smth like a small direct fire  solid rocket howitzer or smth
-- Anti-Bunker mit dualem sprengkopf - erst wird bunkerwand aufgesprengt,
-  dann explodiert ein HE Sprengkopf im Raum
+A special dual warhead with a delayed high explosive using the breach opened by
+the hollow point. The team consists of a gunner and a loader and is used as a
+direct fire team against infantry in buildings and bunkers, or light vehicles.
+
+| HE RPG team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 49 pt / 70 pt / 91 pt |
+| Reinforcement | - |
+| Setup | NCO (AGL) + 1 loader (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Bunker Buster<br>round</td><td>HE 3" value attack, with the same range<br> as a standard RPG.</td></tr></table> |
 
 ### Volvo Tbg Ksp58 MMG Truck
 
@@ -209,7 +224,7 @@ Estonian Defense League Equipment.
 
 Anti-tank rocket team, equipped with a Carl Gustav anti tank recoilless rifle.
 
-| RPG team | Anti-Tank team |
+| RPG team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | - |
@@ -221,7 +236,7 @@ Anti-tank rocket team, equipped with a Carl Gustav anti tank recoilless rifle.
 
 Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
-| Javelin team | Anti-Tank team |
+| ATGM team | <img src="/factions/nato-symbols/blufor/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |
@@ -230,6 +245,14 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
 ### Milan 2 team
+
+| ATGM team | <img src="/factions/nato-symbols/blufor/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 60 pt / 75 pt / 90 pt |
+| Reinforcement | - |
+| Setup | NCO (ATGM) + 2 loaders (SMG) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Fire-And-Forget</td><td>Weapon team is not required to stay<br>stationary during flight.<br><br>See ATGM section in [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).<td>+20 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
 ### SPG-9 recoilless rifle team
 
