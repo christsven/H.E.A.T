@@ -76,9 +76,9 @@ To make it easier to find, helicopter weapon systems are listed here separately.
 | Light autocannon | 0" - 48" | 2 | +2 | HE 1" |
 | Medium autocannon | 0" - 60" | 2 | +3 | HE 1" |
 | Heavy autocannon | 0" - 72" | 2 | +3 | HE 2" |
-| Light rocket pod | 0" - 48" | 1 | +4 | Rocket Pod, HE 1" |
-| Medium rocket pod | 0" - 60" | 1 | +5 | Rocket Pod, HE 1" |
-| Heavy rocket pod | 0" - 72" | 1 | +6 | Rocket Pod, HE 2" |
+| Light rocket pod | 0" - 48" | 2 | +4 | Rocket Pod, HE 1" |
+| Medium rocket pod | 0" - 60" | 2 | +5 | Rocket Pod, HE 1" |
+| Heavy rocket pod | 0" - 72" | 2 | +6 | Rocket Pod, HE 2" |
 | Light missile | 20" - 60" | 1 | +5 | Single Use, HE 1" |
 | Medium missile | 20" - 72" | 1 | +6 | Single Use, HE 2" |
 | Heavy missile | 20" - 82" | 1 | +7 | Single Use, HE 3" |
