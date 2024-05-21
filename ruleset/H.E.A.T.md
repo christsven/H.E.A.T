@@ -201,7 +201,7 @@ troop movement, close air support roles and reconnaissance.
 
 ##### Gameplay
 
-Helicopters function either as a transport or are deployed in a CAS role..
+Helicopters function either as a transport or are deployed in a CAS role.
 Other than their vertical movement capability, helicopters are treated the same
 way as any other vehicle.
 
@@ -297,7 +297,7 @@ open to do this.
 Attacking a helicopter works the same way as any other vehicle, and if hit, has
 to check against the following chart:
 
-| D6 + PEN - Armour | Effect |
+| FUBAR Value | Effect |
 | :--: | :--- |
 | <=1 | <li>+D2 pin marker to helicopter crew.</li><li>The unit goes DOWN.</li><li>If the helicopter has a rotating weapon, roll for turret jam.</li> |
 | 2-3 | <li>+D3 pin marker to helicopter crew. </li><li>The unit goes DOWN.</li><li>Severe damage to the vehicle leads to a reduction in movement<br> speed by half, except downwards movements.</li><li>If the helicopter has a rotating weapon, roll for turret jam.</li> |
