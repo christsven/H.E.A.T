@@ -1,4 +1,4 @@
-# H.E.A.T. 28mm
+# H.E.A.T. Skirmish Wargame
 
 ![heatjaks](/ruleset/ressources/introduction.excalidraw.png)
 
