@@ -321,7 +321,7 @@ Unit mounted on a quad bike cannot fire their weapons.
 
 ### Drones
 
-![drone](/ruleset/ressources/drone.excalidraw.png)
+![drone](/factions/ressources/aladin.excalidraw.png)
 
 #### Introduction
 
@@ -668,7 +668,7 @@ unit itself triggeres a conceiled marker, not if they are hit by an explosion.
 | :--- | :--- |
 | Sapper | Carries 3 IEDs and unlimited decoys. These can be placed as a FIRE<br> or ADVANCE order. Any engineer rule bonus applies as well.|
 | Engineer | If failing check against decoy, only receive +1 stress pin.<br>Can reroll a 3-5 roll against a mine or IED, if triggered by the unit. |
-| IED | Remote-controlled explosive device. Can be placed on ground or on a vehicle. For details, see [IED section](#improvised-explosive-devices-ied-and-mines). |
+| IED | Remote-controlled explosive device. Can be placed on ground<br>or on a vehicle. For details, see [IED section](#improvised-explosive-devices-ied-and-mines). |
 | Explosive | A conceiled deployed marker with a 3" range.<br>If any unit is within 3, roll against [flowchart](#gameplay-7). |
 
 ***
