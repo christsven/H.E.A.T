@@ -76,9 +76,9 @@ To make it easier to find, helicopter weapon systems are listed here separately.
 | Light autocannon | 0" - 48" | 2 | +2 | HE 1" |
 | Medium autocannon | 0" - 60" | 2 | +3 | HE 1" |
 | Heavy autocannon | 0" - 72" | 2 | +3 | HE 2" |
-| Light rocket pod | 0" - 48" | 1 | +4 | Rocket Pod, HE 1" |
-| Medium rocket pod | 0" - 60" | 1 | +5 | Rocket Pod, HE 1" |
-| Heavy rocket pod | 0" - 72" | 1 | +6 | Rocket Pod, HE 2" |
+| Light rocket pod | 0" - 48" | 2 | +4 | Rocket Pod, HE 1" |
+| Medium rocket pod | 0" - 60" | 2 | +5 | Rocket Pod, HE 1" |
+| Heavy rocket pod | 0" - 72" | 2 | +6 | Rocket Pod, HE 2" |
 | Light missile | 20" - 60" | 1 | +5 | Single Use, HE 1" |
 | Medium missile | 20" - 72" | 1 | +6 | Single Use, HE 2" |
 | Heavy missile | 20" - 82" | 1 | +7 | Single Use, HE 3" |
@@ -201,7 +201,7 @@ troop movement, close air support roles and reconnaissance.
 
 ##### Gameplay
 
-Helicopters function either as a transport or are deployed in a CAS role..
+Helicopters function either as a transport or are deployed in a CAS role.
 Other than their vertical movement capability, helicopters are treated the same
 way as any other vehicle.
 
@@ -297,7 +297,7 @@ open to do this.
 Attacking a helicopter works the same way as any other vehicle, and if hit, has
 to check against the following chart:
 
-| D6 + PEN - Armour | Effect |
+| FUBAR Value | Effect |
 | :--: | :--- |
 | <=1 | <li>+D2 pin marker to helicopter crew.</li><li>The unit goes DOWN.</li><li>If the helicopter has a rotating weapon, roll for turret jam.</li> |
 | 2-3 | <li>+D3 pin marker to helicopter crew. </li><li>The unit goes DOWN.</li><li>Severe damage to the vehicle leads to a reduction in movement<br> speed by half, except downwards movements.</li><li>If the helicopter has a rotating weapon, roll for turret jam.</li> |
