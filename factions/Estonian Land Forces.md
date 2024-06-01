@@ -331,7 +331,11 @@ heavy mortar team.
 
 ### D-30 122mm Howitzer
 
-| D-30 122mm medium Howitzer | Artillery |
+The D-30 howitzer is a soviet design capable of firing 122mm calibre artillery
+rounds. It has been produced since the 60s and still is in production and
+active service all over the world.
+
+| D-30 122mm medium Howitzer | <img src="/factions/nato-symbols/blufor/medium-howitzer-gun.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -341,7 +345,11 @@ heavy mortar team.
 
 ### 155 mm FH-70
 
-| 155 mm FH-70 heavy howitzer |  |
+The FH-70 howitzer is a towed artillery system in calibre 155mm. It was co-developed
+by several NATO and western alligned nations and serves in a multitude of armies
+to this day.
+
+| 155 mm FH-70 heavy howitzer | <img src="/factions/nato-symbols/blufor/heavy-howitzer-gun.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 92 pt / 115 pt / 138 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -365,7 +373,17 @@ heavy mortar team.
 
 ### Robinson R44 Observer
 
-TODO
+The Robinson R44 is a lightweight helicopter usually used as a rotocraft trainer
+vehicle, which was repurposed in an artillery oberver role.
+
+| Robinson R44 Artillery Observer | <img src="/factions/nato-symbols/blufor/light-helicopter-artillery-observer.excalidraw.png" align="right" alt="Artillery Observer team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 6+ Light Helicopter |
+| Default weapon configuration | - |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Artillery Observer</td><td>-</td></tr></table> |
 
 ***
 
@@ -373,11 +391,15 @@ TODO
 
 ### PPZR Piorun 72mm MANPADS team
 
+PPZR Piorun MANPADS are a light anti-air system donated by the polish armed forces
+to the estonian army. They were developed in Poland from 2010-15 as a modernization
+of anti air capability.
+
 | PPZR Piorun 72mm MANPADS team | <img src="/factions/nato-symbols/blufor/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 50 pt / 65 pt / 80 pt |
+| Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (MANPADS) + 1 loader (SMG) |
+| Setup | NCO (LIGHT MANPADS) + 1 loader (SMG) |
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>MANPADS</td><td>See [ruleset](../ruleset/H.E.A.T.md#manportable-air-defense-systems-manpads) for more information.</td></tr></table> |
 
