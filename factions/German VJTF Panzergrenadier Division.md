@@ -880,7 +880,7 @@ and reliability.
 
 ![eurocopter](/factions/ressources/eurocopter.excalidraw.png)
 
-| Eurocopter Tiger | Medium helicopter |
+| Eurocopter Tiger | <img src="/factions/nato-symbols/blufor/helicopter-attack.excalidraw.png" align="right" alt="Eurocopter Tiger" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 145 pt / 160 pt / 175 pt |
 | Capacity | - |

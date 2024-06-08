@@ -377,7 +377,7 @@ to this day.
 The Robinson R44 is a lightweight helicopter usually used as a rotocraft trainer
 vehicle, which was repurposed in an artillery oberver role.
 
-| Robinson R44 Artillery Observer | <img src="/factions/nato-symbols/blufor/light-helicopter-artillery-observer.excalidraw.png" align="right" alt="Artillery Observer team" height=30 width=auto></img> |
+| Robinson R44 Artillery Observer | <img src="/factions/nato-symbols/blufor/helicopter-artillery-observer.excalidraw.png" align="right" alt="Artillery Observer team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
