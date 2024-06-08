@@ -432,28 +432,42 @@ Domestically produced lithuanian anti UAV system. Issued for experimental use.
 
 ![sisu parsi](/factions/ressources/sisu-parsi.excalidraw.png)
 
+Two vehicles of the finnish APC family. XA-180EST is an estonian version of the
+XA-180 with a domestic production line, with active combat use in Afghanistan.
+The vehicle is mostly used for troop transport, but there are also medevac and
+command units available to the estonian army.
 
-| Sisu Parsi | APC / IFV |
+Due to Finlands neutral status at the time, it refused to sell Estonia additional
+vehicles to be used in the Coalition of the Willing, because of which the estonian
+government was forced to buy from the XA-188 variant from the Dutch Army. The
+vehicle has some modernization, but for all intents and purposes, it is a very
+similar vehicle.
+
+| XA-180EST / XA-188 | <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 95 pt / 110 pt / 125 pt |
-| Capacity | 8 soldiers |
+| Cost | tbd |
+| Capacity | 16 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen Generator</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Milan ATGM launcher</td><td>Milan Anti-Tank Guided Missile Launcher.<br>Mounted at the commander's hatch in <br>the middle-right, blocking it for optional<br>MG 3.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG3 MMG <br>(*3x possible*)</td><td>Medium machine guns,<br>either at the co-pilot's hatch (*front-right*),<br> the commander's hatch (*center-right*),<br> or the transport room hatch (*back-left*).<br></td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt each</td></tr></table>
-| Special rules |  <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table>
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>HMG in Turret box</td><td>M2 Browning in a turret box, <br>colloquially known as a "crow's nest".</td><td><ul><li>pintle-mounted</li><li>open-topped</li><li>Gun Shield</li></ul></td><td>+ 20 pt</td></tr></table> |
+| Special rules |  <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr><tr><td>Gun Shield<br>_(if turret box is selected)_</td><td>-</td></tr></table> |
 
 ### M113
 
 ![m113](./../ruleset/ressources/ifvs.excalidraw.png)
 
-| M113 | APC Armoured Carrier |
+A true workhorse of NATO forces, the M113 comes in dozens of variants and has
+been used by more countries than not since the 1960s. These vehicles were formerly
+used by the lithuanian army.
+
+| M113 | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 100 pt / 125 pt / 140 pt |
 | Capacity | 11 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen Generator</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr><tr><td>Panzermörser 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table>
+| Options |<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr><tr><td>Tampella 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
 
 ### BTR-80 UNSh
 
