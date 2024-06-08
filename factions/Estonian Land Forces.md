@@ -129,7 +129,7 @@ volunteers and former military servicemen.
 | Cost | 30 pt / - / - |
 | Reinforcement | up to 3 attendants (AR): 7 pt / - / - |
 | Setup | NCO (AR) + 3 attendants (AR) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Shirkers</td><td>-</td><td>-2 pt each</td></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Shirkers</td><td>-</td><td>-2 pt each</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Green</td><td>-</td></tr></table> |
 
 ***
@@ -177,7 +177,7 @@ Anti materiell rifle sniper team.
 | Cost | - / - / 45 pt |
 | Reinforcement | - |
 | Setup | NCO (unarmed) |
-|Options| - |
+| Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Medic</td><td>-</td></tr></table> |
 
 ***
@@ -266,12 +266,12 @@ for forward reconnaissance.
 | Cost | 41 pt / 52 pt / 63 pt |
 | Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
 | Setup | NCO (PDW) |
-|Options| - |
+| Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>On-map Operator</td><td>Operator of unit is present on map.</td></tr><tr><td>Quadrocopter</td><td>Drone is propelled by multiple rotors. </td></tr></table> |
 
 ### Threod Systems Stream C VTOL
 
-| UAV team | <img src="/factions/nato-symbols/blufor/recon-drone.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
+| UAV team | <img src="/factions/nato-symbols/blufor/recon-drone-offmap.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 51 pt / 62 pt / 73 pt |
 | Reinforcement | - |
@@ -285,6 +285,13 @@ for forward reconnaissance.
 - "Observe" - drohne dabei und kann cruisen während operator in nem bush iwo sitzt
 - "Combat Support" mmg variant
 - "Combat ADDER" CIS 40AGL, CIS 50MG, 7.62 mm Coaxial, nebelwurfanlage
+
+| THeMIS |  <img src="/factions/nato-symbols/blufor/recon-drone-ground.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
+| Setup | NCO (PDW) |
+| Options | <table><tr><td><b>Variant<b></td><td><b>Description<b></td><td><b>Modifiers<b></td><td><b>Cost</td></tr><tr><td>Observe</td><td>Recon unit. Serves as a platoon spotter.</td><td>-</td><td>+ 0 pt</td></tr><tr><td>Combat Support</td><td>Equipped with singular MMG. Remote controlled</td><td>-</td><td>+ 15 pt</td></tr><tr><td>Combat ADDER</td><td>Recon unit. Serves as a platoon spotter.</td><td>-</td><td>+ 0 pt</td></tr></tr></table> Additionally, the ADDER Variant are allowed to buy the following smoke screen. <table><tr><td><b>Variant<b></td><td><b>Description<b></td><td><b>Modifiers<b><td><b>Cost</td></td></tr><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></td><td>+ 15 pt</td></tr></table>|
 
 ***
 
@@ -319,6 +326,10 @@ heavy mortar team.
 
 ## Artillery [ 0 - 1 ]
 
+### H61-37 105mm
+
+A swedish designed light howitzer system used by the estonian armed forces.
+
 ### D-30 122mm Howitzer
 
 The D-30 howitzer is a soviet design capable of firing 122mm calibre artillery
@@ -330,7 +341,7 @@ active service all over the world.
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
 | Setup | NCO (MEDIUM HOWITZER) + 3 loader (PISTOL) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
 ### 155 mm FH-70
@@ -344,7 +355,7 @@ to this day.
 | Cost | 92 pt / 115 pt / 138 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
 | Setup | NCO (HEAVY HOWITZER) + 4 loader (PISTOL) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 4"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
 ***
@@ -393,8 +404,6 @@ of anti air capability.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>MANPADS</td><td>See [ruleset](../ruleset/H.E.A.T.md#manportable-air-defense-systems-manpads) for more information.</td></tr></table> |
 
-TODO als light variante mit -2 PEN für weniger points
-
 ### MANPADS Mistral team
 
 Small team of infantry with a MANPADS Mistral Surface-to-air-missile launcher.
@@ -408,6 +417,16 @@ Small team of infantry with a MANPADS Mistral Surface-to-air-missile launcher.
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>MANPADS</td><td>See [ruleset](../ruleset/H.E.A.T.md#manportable-air-defense-systems-manpads) for more information.</td></tr></table> |
 
 ### ZU-23-2 anti air autocannon
+
+The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
+
+| ZU-23-2 AA gun team | <img src="/factions/nato-symbols/blufor/antiair-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 40 / 51 / 62 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (MEDIUM AUTOCANNON) + 2 loader (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
 
 ***
 
@@ -460,13 +479,25 @@ the polish army.
 ![Mamba](/factions/ressources/mamba.excalidraw.png)
 
 A south african design and used in small numbers in Afghanistan and Iraq. It
-utilizes an Unimog chassis 
+utilizes an Unimog chassis. The estonian army uses it in small numbers.
+
+| Mamba Mk2 EE | <img src="/factions/nato-symbols/blufor/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 3 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration |- |
+| Options | _As a reminder, only one option may be chosen._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Pintle mounted 7.62mm MMG</td><td>Top mounted MMG</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr><tr><td>Pintle mounted 12.7mm HMG</td><td>Top mounted HMG</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>Pintle mounted 40mm AGL</td><td>Top mounted AGL</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-topped</td><td>-</td></tr></table> |
 
 ### BTR-80 UNsh
 
 ![BTR 80](/factions/ressources/btr80.excalidraw.png)
 
-From the Estonian Defense League.
+From the Estonian Defense League. While obsolete and difficult to maintain without
+a guaranteed supply of spare parts, the BTR-80 is a relic of soviet times and the
+last major surviving unit by numbers, as BMP1s and other BTR variants have largely
+been retired.
 
 | BTR-80 |  <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
@@ -474,7 +505,7 @@ From the Estonian Defense League.
 | Capacity | 7 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table> |
-|Options|-
+| Options |-
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table> |
 
 
@@ -482,7 +513,8 @@ From the Estonian Defense League.
 
 ![Volvo C303](/factions/ressources/volvo-c303.excalidraw.png)
 
-A late 60s design with a high ground clearance used for a range of roles.
+A late 60s design with a high ground clearance used for a range of roles. The
+estonian military uses it as a troop transport or as a weapon platform.
 
 | Volvo Tgb| <img src="/factions/nato-symbols/blufor/wheeled-unarmed.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
@@ -490,7 +522,7 @@ A late 60s design with a high ground clearance used for a range of roles.
 | Capacity | 8 soldiers |
 | Damage value | +6 Soft-Skinned Vehicve |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>SPG-9</td><td>recoilless rocket grenade launcher</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table> |
+| Options | Choosing a vehicle weapon removes any transport capacity from the vehicle.<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>SPG-9</td><td>recoilless rocket grenade launcher</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
 
 ***
@@ -504,14 +536,37 @@ vehicles and light armoured vehicles are available.
 
 ![cv9035ee](/factions/ressources/cv9035ee.excalidraw.png)
 
-Estonia provided a number of CV90 to the brigade as part of their commitment.
-Armed with a Bushmaster III 35/50.
+Armed with a Bushmaster III 35/50. The CV9035EE is an export variant of the swedish
+CV90 family. It is a modular infantry fighting vehicle design with a Bushmaster
+35mm autocannon in the estonian variant. It is specifically designed with a high
+mobility in artic climate and swamplands, making it ideal for estonian terrain.
+
+Currently the system has over a thousand units produced and is being operated
+by 17 nations, 7 of which are NATO members.
+
+| Main Battle Tank | <img src="/factions/nato-symbols/blufor/tracked-light-tank.excalidraw.png" align="right" alt="Combat Vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 8 soldiers |
+| Damage value | 8+ Light Tank |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>35×228mm Bushmaster III 35/50</td><td>35mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr><tr><td> Ksp m/39</td><td>7.62mm coaxial MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
 
 ### T-72M
 
 ![t72](/ruleset/ressources/t72m.excalidraw.png)
 
 Polish T-72M from a binational formation with Poland.
+
+| T-72M | <img src="/factions/nato-symbols/blufor/mbt.excalidraw.png" align="right" alt="Combat Vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | +9 Medium Tank |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>125 mm 2A46M/2A46M-5m</td><td>125mm smoothbore heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr><tr><td>PKT MMG</td><td>PKT MMG</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>12.7 mm NSVT HMG</td><td>Heavy machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+25 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
 
 ***
 
