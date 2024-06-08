@@ -404,7 +404,25 @@ Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 
 ### ZU-23-2 anti air autocannon
 
+The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
+
+| ZU-23-2 AA gun team | <img src="/factions/nato-symbols/blufor/antiair-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 40 / 51 / 62 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (MEDIUM AUTOCANNON) + 2 loader (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
+
 ### L/70 Bofors anti air gun
+
+| L/70 Bofors gun team | <img src="/factions/nato-symbols/blufor/antiair-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 52 / 63 / 74 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (HEAVY AUTOCANNON) + 3 loader (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
 
 ***
 

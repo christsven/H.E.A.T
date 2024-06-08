@@ -742,6 +742,8 @@ gradually being replaced by more modern IFV designs in some armed forces.
 
 ### SPz Puma
 
+![spz puma image](../factions/ressources/spz-puma.excalidraw.png)
+
 The Puma began its development around 1998 as a replacement for the aging Marder
 IFVs. As one of the heaviest and most modern APCs in the world, it features a
 remotely controlled weapon station, improved equipment and night fighting
@@ -750,8 +752,6 @@ purposes. It also uses the israeli Spike ATGM instead of the older MILAN system.
 
 This vehicle is just being introduced into the Heer and is only available in
 small numbers for field testing.
-
-![spz puma image](../factions/ressources/spz-puma.excalidraw.png)
 
 | SPz Puma | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
@@ -819,7 +819,7 @@ anti air system. Capable of air transport with a A400M or helicopter.
 
 #### Wiesel I A3 MK
 
-| Wiesel I A3 MK| <img src="/factions/nato-symbols/blufor/wiesel.excalidraw.png" align="right" alt="Tankette" height=30 width=auto></img> |
+| Wiesel I A3 MK | <img src="/factions/nato-symbols/blufor/wiesel.excalidraw.png" align="right" alt="Tankette" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
@@ -833,14 +833,15 @@ anti air system. Capable of air transport with a A400M or helicopter.
 
 The Leopard 2A6 features a powerful 120mm smoothbore gun, advanced armor
 protection, and state-of-the-art technology. With a crew of four, it is known for
-its exceptional firepower, mobility, and survivability on the battlefield. The
-tank's composite armor provides excellent protection against various threats,
+its exceptional firepower, mobility, and survivability on the battlefield.
+
+The tank's composite armor provides excellent protection against various threats,
 and it is equipped with advanced fire control systems, thermal imaging, and other
 modern features that enhance its accuracy and situational awareness. The Leopard
 2A6 is used by several countries and is recognized for its combat effectiveness
 and reliability.
 
-| Main Battle Tank | <img src="/factions/nato-symbols/blufor/mbt.excalidraw.png" align="right" alt="Main battle tank" height=30 width=auto></img> |
+| Leopard 2A6 | <img src="/factions/nato-symbols/blufor/mbt.excalidraw.png" align="right" alt="Main battle tank" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 210 pt / 225 pt / 240 pt |
 | Capacity | - |
@@ -853,7 +854,7 @@ and reliability.
 
 ![pzh2k](/factions/ressources/panzerhaubitze.excalidraw.png)
 
-| Self propelled howitzer | <img src="/factions/nato-symbols/blufor/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
+| Panzerhaubitze 2000 | <img src="/factions/nato-symbols/blufor/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
@@ -879,7 +880,7 @@ and reliability.
 
 ![eurocopter](/factions/ressources/eurocopter.excalidraw.png)
 
-| Unterstützungshubschrauber<br> Eurocopter Tiger | Medium helicopter |
+| Eurocopter Tiger | Medium helicopter |
 | :---- | ---- |
 | Cost | 145 pt / 160 pt / 175 pt |
 | Capacity | - |
