@@ -2,46 +2,32 @@
 
 ![elf logo](ressources/elf-logo.excalidraw.png)
 
+*Emblem of the 1. Estonian Division*
+
 The combined remaining forces fighting for the liberation of Ida Viru. While not
 a large force in comparison to its neighbours Russia or Finland, the estonian
 army is one of the few in NATO actually having a budget of 2% of GDP. With well-
-equipped infantry brigades, modern Combat Vehicle 90 and a robust 
+equipped infantry brigades, modern Combat Vehicle 90 and a modern technology stack,
+the estonian army is a capable army. 
 
-***
-
-## Links
-
-[Platoon Leader](Baltic%20Security%20Partnership%20Brigade.md#platoon-leader--1-)
-
-[Infantry Units](Baltic%20Security%20Partnership%20Brigade.md#infantry-units--2---5-)
-
-[Combat Support Units](Baltic%20Security%20Partnership%20Brigade.md#combat-support-units--0---1-)
-
-[Machine gun](Baltic%20Security%20Partnership%20Brigade.md#machine-gun-team--0---1-)
-
-[AT](Baltic%20Security%20Partnership%20Brigade.md#anti-tank-team--0---1-)
-
-[AA](Baltic%20Security%20Partnership%20Brigade.md#anti-air-systems--0---1-)
-
-[Drone](Baltic%20Security%20Partnership%20Brigade.md#drone-team--0---1-)
-
-[Mortar](Baltic%20Security%20Partnership%20Brigade.md#mortar-team--0---1-)
-
-[Artillery](Baltic%20Security%20Partnership%20Brigade.md#artillery--0---1-)
-
-[Divisional Reinforcements](Baltic%20Security%20Partnership%20Brigade.md#divisional-reinforcements--0---1-)
-
-[IFVs and APCs](Baltic%20Security%20Partnership%20Brigade.md#armoured-personell-carriers--infantry-fighting-vehicles--0---2-)
-
-[Heavy Armour](Baltic%20Security%20Partnership%20Brigade.md#reinforcing-vehicles--0---1-)
-
-[Transports](Baltic%20Security%20Partnership%20Brigade.md#transports)
+The division is bolstered by a large reservist and volunteer formation called the
+Estonian Defense League.
 
 ***
 
 ## Army modifiers
 
 ### A personal affair
+
+The civil war is a deeply formative event for the estonian people. With such a small
+country and fewer than 2 million Estonians, everyone is more or less directly
+tied up in hostilities and tragedies.
+
+As such, estonian formations are fighting tooth and nail for their country. If a unit
+falls below 50% strength and has to perform a roll to morale whether they stay fighting,
+they might reroll failed checks to reflect this vigilance.
+
+*TLDR: Reroll failed morale checks on 50% loss of unit.*
 
 ***
 
