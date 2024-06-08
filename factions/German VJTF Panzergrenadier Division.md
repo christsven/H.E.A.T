@@ -338,7 +338,7 @@ with a normal camera, a black/white NV capable one and a thermal imaging device,
 Mikado can be used to observe an area of up to one kilometer at any time of the
 day. In use since 2011 and used in Afghanistan, Kosovo, Mali and other missions.
 
-| Recon UAV team | <img src="/factions/nato-symbols/blufor/recon-drone.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
+| Recon UAV team | <img src="/factions/nato-symbols/blufor/recon-drone-onmap.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
@@ -356,7 +356,7 @@ lightweight drone with a camera capable of broadcasting a live-feed to its
 operator. Used mainly in Afghanistan and Mali, EMT Aladin is a proven design
 and a part of german reconnaissance capabilities since 2005.
 
-| Recon UAV team |  <img src="/factions/nato-symbols/blufor/recon-drone.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
+| Recon UAV team |  <img src="/factions/nato-symbols/blufor/recon-drone-onmap.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
@@ -371,7 +371,7 @@ and a part of german reconnaissance capabilities since 2005.
 The "Kleinfluggerät für Zielortung" (small guidance air vehicle) is a tactical
 fixed wing air vehicle for artillery guidance.
 
-| Artillery UAV team |  <img src="/factions/nato-symbols/blufor/art-recon-drone.excalidraw.png" align="right" alt="artillery recon uav team" height=30 width=auto></img> |
+| Artillery UAV team |  <img src="/factions/nato-symbols/blufor/recon-drone-offmap.excalidraw.png" align="right" alt="artillery recon uav team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Reinforcement | - |
