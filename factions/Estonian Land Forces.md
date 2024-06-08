@@ -85,6 +85,8 @@ Infantry from the Eesti Scouts Battalion.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
 
+TODO Drohnen als Buff
+
 ### Jalaväe jagu
 
 Mechanized infantry, operating in conjunction with the armoured vehicles of the
@@ -233,6 +235,8 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 ***
 
 ## Drone team [ 0 - 1 ]
+
+TODO Add pics
 
 ### Recon drone operator team
 
