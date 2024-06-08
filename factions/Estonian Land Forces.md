@@ -73,13 +73,6 @@ equipped infantry brigades, modern Combat Vehicle 90 and a robust
 
 ## Infantry Units [ 2 - 5 ]
 
-- TODO scouts battalion infantry
--  TODO normal infantry "jalaväe jagu"
--  
-lahingpaar = fam team 2-3
-pooljagu = fireteam 3-5
-jagu = squad +5
-
 ### Reke pooljagu
 
 A group of recon infantry, light infantry used to observe enemy movement and
@@ -261,7 +254,7 @@ Just being tested as parts of modern conventional forces, small UAVs are becomin
 an integral part of modern warfare. This team is equipped with a small quadcopter
 for forward reconnaissance.
 
-| Recon UAV team | <img src="/factions/nato-symbols/blufor/recon-drone.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
+| Recon UAV team | <img src="/factions/nato-symbols/blufor/recon-drone-onmap.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 41 pt / 52 pt / 63 pt |
 | Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
@@ -278,7 +271,6 @@ for forward reconnaissance.
 | Setup | UAV |
 | Options |<table><tr><td><b>Variants</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>MWIR Gimbal</td><td>All artillery units which operate via this spotter get use 2D6 for its attack move and may use the preferrable outcome.<td>+25 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>Off-map Operator</td><td>Operator is located off map.</td></tr><tr><td>Fixed Wing</td><td>Drone has fixed wing design.</td></tr><tr><td>VTOL</td><td>Unit is able to start and land without being trown or launched.</td></tr></table> |
-
 
 ### THeMIS Operator
 
@@ -329,6 +321,14 @@ heavy mortar team.
 ### H61-37 105mm
 
 A swedish designed light howitzer system used by the estonian armed forces.
+
+| H61-37 105mm light howitzer | <img src="/factions/nato-symbols/blufor/light-howitzer-gun.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 40 pt / 50 pt / 60 pt |
+| Reinforcement | Spotter (PDW) +10 pt |
+| Setup | NCO (LIGHT HOWITZER) + 3 loader (PISTOL) |
+|Options|- |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
 ### D-30 122mm Howitzer
 
@@ -505,9 +505,8 @@ been retired.
 | Capacity | 7 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table> |
-| Options |-
+| Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table> |
-
 
 ### Volvo Tbg "Terrain Vehicle 11"
 
