@@ -6,6 +6,8 @@
 
 ![kaitseliit logo](ressources/kaitseliit.excalidraw.png)
 
+*Emblem of the Kaitseliig, the Estonian Defense League*
+
 The combined remaining forces fighting for the liberation of Ida Viru. While not
 a large force in comparison to its neighbours Russia or Finland, the estonian
 army is one of the few in NATO actually having a budget of 2% of GDP. With well-
