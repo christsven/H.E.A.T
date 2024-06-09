@@ -4,14 +4,16 @@
 
 *Emblem of the 1. Estonian Division*
 
+![kaitseliit logo](ressources/kaitseliit.excalidraw.png)
+
 The combined remaining forces fighting for the liberation of Ida Viru. While not
 a large force in comparison to its neighbours Russia or Finland, the estonian
 army is one of the few in NATO actually having a budget of 2% of GDP. With well-
 equipped infantry brigades, modern Combat Vehicle 90 and a modern technology stack,
-the estonian army is a capable army. 
+the estonian army is a capable army.
 
 The division is bolstered by a large reservist and volunteer formation called the
-Estonian Defense League.
+Kaitseliit, or Estonian Defense League.
 
 ***
 
@@ -33,7 +35,7 @@ they might reroll failed checks to reflect this vigilance.
 
 ## Platoon leader [ 1 ]
 
-![platoon leader](/factions/ressources/basep-leader.excalidraw.png)
+![platoon leader](/factions/ressources/estonia-leader.excalidraw.png)
 
 ### Nooremleitnant
 
@@ -58,6 +60,8 @@ they might reroll failed checks to reflect this vigilance.
 ***
 
 ## Infantry Units [ 2 - 5 ]
+
+![infantry unit](/factions/ressources/kaitseliit-infantryman.excalidraw.png)
 
 ### Reke pooljagu
 
@@ -85,7 +89,19 @@ Infantry from the Eesti Scouts Battalion.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
 
-TODO Drohnen als Buff
+### Kaitseliit jagu
+
+The estonian Kaitseliit is a paramilitary/reservist force of civilian volunteers
+which can be mobilized during times of war. They have a separate stockpile of
+weaponry from the normal army, are equipped with AK4s, MG3s and Ksp-58Bs.
+
+| Paramilitary Infantry group | <img src="/factions/nato-symbols/blufor/infantry.excalidraw.png" align="right" alt="mechanized infantry group" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 3 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Green</td><td>-</td></tr></table> |
 
 ### Jalaväe jagu
 
@@ -126,8 +142,8 @@ Support infantry, used to clear terrain or restrict enemy movement.
 | Cost | 40 pt / 55 pt / 70 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (SMG) + 2 attendants (SMG) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Sprengrohr<br>(*Bangalore*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Mines</td><td>See IED section in [ruleset](../ruleset/H.E.A.T.md#improvised-explosive-devices-ied-and-mines).<br>They behave the same as IEDs,<br>but can't be disguised.<br>Conventional forces don't use decoys.<td>+20 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Mines</td><td>See IED section in [ruleset](../ruleset/H.E.A.T.md#improvised-explosive-devices-ied-and-mines).<br>They behave the same as IEDs,<br>but can't be disguised.<br>Conventional forces don't use decoys.<td>+20 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information.</td></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr></table> |
 
 ### Sako TRG-22 sniper team
 
@@ -220,7 +236,10 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Fire-And-Forget</td><td>Weapon team is not required to stay<br>stationary during flight.<br><br>See ATGM section in [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).<td>+20 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
-### Milan 2 team
+### MILAN 2 team
+
+The MILAN (*Missile d′Infanterie léger antichar*) is a light anti tank missile
+system. The projectile is wire guided.
 
 | ATGM team | <img src="/factions/nato-symbols/blufor/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
@@ -230,19 +249,30 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
-### SPG-9 recoilless rifle team
+### 90mm Pvpj-1110 recoilless rifle team
+
+The Pansarvärnspjäs 1110, commonly abbreviated as Pvpj-1110 and nicknamed
+"stove pipe", is a swedish anti tank recoilless rifle. It is mounted on a one-axial
+carriage and can be towed.
+
+| Recoilless rifle team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | - |
+| Setup | NCO (MEDIUM AT GUN) + 2 loaders (PISTOL) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></table> |
 
 ***
 
 ## Drone team [ 0 - 1 ]
 
-TODO Add pics
+### AeroVironment RQ-20 Puma
 
-### Recon drone operator team
+![RQ Puma drone](/factions/ressources/puma-drone.excalidraw.png)
 
-Just being tested as parts of modern conventional forces, small UAVs are becoming
-an integral part of modern warfare. This team is equipped with a small quadcopter
-for forward reconnaissance.
+The RQ-20 Puma is an american made fixed wing reconnaissance drone system used
+to observe enemy formations.
 
 | Recon UAV team | <img src="/factions/nato-symbols/blufor/recon-drone-onmap.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
 | :---- | ---- |
@@ -254,6 +284,13 @@ for forward reconnaissance.
 
 ### Threod Systems Stream C VTOL
 
+![Stream C drone](/factions/ressources/threoddrone.excalidraw.png)
+
+A versatile fixed wing drone design with a large payload weight and range. Used
+as an intelligence and surveillance system with a MWIR camera pod.
+
+In this variant, the drone is operated off map. See [ruleset](../ruleset/H.E.A.T.md#drones) for more detailed informations.
+
 | UAV team | <img src="/factions/nato-symbols/blufor/recon-drone-offmap.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 51 pt / 62 pt / 73 pt |
@@ -264,16 +301,19 @@ for forward reconnaissance.
 
 ### THeMIS Operator
 
-- "Observe" - drohne dabei und kann cruisen während operator in nem bush iwo sitzt
-- "Combat Support" mmg variant
-- "Combat ADDER" CIS 40AGL, CIS 50MG, 7.62 mm Coaxial, nebelwurfanlage
+![Themis drone](/factions/ressources/themis.excalidraw.png)
+
+As if taken straight from a science fiction movie, the THeMIS is a ground based
+drone with a modular flatbed design. It can operate as a mule for logistical
+purposes on a group level, be equipped with a camera pod for reconnaissance
+missions, or be fielded with remote weapon stations in a support or attack role.
 
 | THeMIS |  <img src="/factions/nato-symbols/blufor/recon-drone-ground.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
 | Setup | NCO (PDW) |
-| Options | <table><tr><td><b>Variant<b></td><td><b>Description<b></td><td><b>Modifiers<b></td><td><b>Cost</td></tr><tr><td>Observe</td><td>Recon unit. Serves as a platoon spotter.</td><td>-</td><td>+ 0 pt</td></tr><tr><td>Combat Support</td><td>Equipped with singular MMG. Remote controlled</td><td>-</td><td>+ 15 pt</td></tr><tr><td>Combat ADDER</td><td>Recon unit. Serves as a platoon spotter.</td><td>-</td><td>+ 0 pt</td></tr></tr></table> Additionally, the ADDER Variant are allowed to buy the following smoke screen. <table><tr><td><b>Variant<b></td><td><b>Description<b></td><td><b>Modifiers<b><td><b>Cost</td></td></tr><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></td><td>+ 15 pt</td></tr></table>|
+| Options | <table><tr><td><b>Variant<b></td><td><b>Description<b></td><td><b>Modifiers<b></td><td><b>Cost</td></tr><tr><td>Observe</td><td>Recon unit. Serves as a platoon spotter.</td><td>-</td><td>+ 0 pt</td></tr><tr><td>Combat Support</td><td>Equipped with singular MMG.<br>Remote controlled weapon station.</td><td><ul><li>turret mounted</ul></td><td>+ 15 pt</td></tr><tr><td>Combat ADDER</td><td>Combat Version with remote weapon station.<br>Equipped with:<ul><li>CIS40 AGL</li><li>CIS50MG HMG</li><li>7.62 COAX MMG</li></ul></td><td><ul><li>turret mounted</li><li>co-axial</ul></td><td>+ 70 pt</td></tr></tr></table> Additionally, the ADDER Variant are allowed to buy the following smoke screen. <table><tr><td><b>Variant<b></td><td><b>Description<b></td><td><b>Modifiers<b><td><b>Cost</td></td></tr><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></td><td>+ 15 pt</td></tr></table>|
 
 ***
 
