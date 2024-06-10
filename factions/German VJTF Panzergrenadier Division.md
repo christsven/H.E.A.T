@@ -2,35 +2,7 @@
 
 ![vjtf logo](ressources/vjtf-logo.excalidraw.png)
 
-***
-
-## Links
-
-[Platoon Leader](German%20VJTF%20Panzergrenadier%20Division.md#platoon-leader--1-)
-
-[Infantry Units](German%20VJTF%20Panzergrenadier%20Division.md#infantry-units--2---5-)
-
-[Combat Support Units](German%20VJTF%20Panzergrenadier%20Division.md#combat-support-units--0---1-)
-
-[Machine gun](German%20VJTF%20Panzergrenadier%20Division.md#machine-gun-team--0---1-)
-
-[AT](German%20VJTF%20Panzergrenadier%20Division.md#anti-tank-team--0---1-)
-
-[AA](German%20VJTF%20Panzergrenadier%20Division.md#anti-air-systems--0---1-)
-
-[Drone](German%20VJTF%20Panzergrenadier%20Division.md#drone-team--0---1-)
-
-[Mortar](German%20VJTF%20Panzergrenadier%20Division.md#mortar-team--0---1-)
-
-[Artillery](German%20VJTF%20Panzergrenadier%20Division.md#artillery--0---1-)
-
-[Divisional Reinforcements](German%20VJTF%20Panzergrenadier%20Division.md#divisional-reinforcements--0---1-)
-
-[IFVs and APCs](German%20VJTF%20Panzergrenadier%20Division.md#armoured-personnel-carriers--infantry-fighting-vehicles--0---2-)
-
-[Heavy Armour](German%20VJTF%20Panzergrenadier%20Division.md#reinforcing-vehicles--0---1-)
-
-[Transports](German%20VJTF%20Panzergrenadier%20Division.md#transports)
+*Emblem of the current Brigade assigned to the VJTF*
 
 ***
 
