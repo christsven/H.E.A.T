@@ -2,6 +2,8 @@
 
 ![BASEP logo](ressources/bsp-logo-no-text.excalidraw.png)
 
+*Logo of the Baltic Security Partnership Brigade*
+
 ***
 
 ## Army modifiers
