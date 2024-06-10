@@ -4,36 +4,6 @@
 
 ***
 
-## Links
-
-[Platoon Leader](Baltic%20Security%20Partnership%20Brigade.md#platoon-leader--1-)
-
-[Infantry Units](Baltic%20Security%20Partnership%20Brigade.md#infantry-units--2---5-)
-
-[Combat Support Units](Baltic%20Security%20Partnership%20Brigade.md#combat-support-units--0---1-)
-
-[Machine gun](Baltic%20Security%20Partnership%20Brigade.md#machine-gun-team--0---1-)
-
-[AT](Baltic%20Security%20Partnership%20Brigade.md#anti-tank-team--0---1-)
-
-[AA](Baltic%20Security%20Partnership%20Brigade.md#anti-air-systems--0---1-)
-
-[Drone](Baltic%20Security%20Partnership%20Brigade.md#drone-team--0---1-)
-
-[Mortar](Baltic%20Security%20Partnership%20Brigade.md#mortar-team--0---1-)
-
-[Artillery](Baltic%20Security%20Partnership%20Brigade.md#artillery--0---1-)
-
-[Divisional Reinforcements](Baltic%20Security%20Partnership%20Brigade.md#divisional-reinforcements--0---1-)
-
-[IFVs and APCs](Baltic%20Security%20Partnership%20Brigade.md#armoured-personell-carriers--infantry-fighting-vehicles--0---2-)
-
-[Heavy Armour](Baltic%20Security%20Partnership%20Brigade.md#reinforcing-vehicles--0---1-)
-
-[Transports](Baltic%20Security%20Partnership%20Brigade.md#transports)
-
-***
-
 ## Army modifiers
 
 ### Cavalry Training
