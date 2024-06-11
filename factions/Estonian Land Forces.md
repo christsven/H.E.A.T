@@ -552,7 +552,7 @@ estonian military uses it as a troop transport or as a weapon platform.
 | Cost | tbd |
 | Capacity | 8 soldiers |
 | Damage value | +6 Soft-Skinned Vehicve |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Default weapon configuration | - |
 | Options | Choosing a vehicle weapon removes any transport capacity from the vehicle.<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>SPG-9</td><td>recoilless rocket grenade launcher</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
 
