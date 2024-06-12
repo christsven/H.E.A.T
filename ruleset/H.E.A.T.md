@@ -932,6 +932,10 @@ roll to hit for anything below, be it house or man. Any unit below is also allow
 to go DOWN, as this might be a bit overpowered otherwise. And this rule is buff
 enough already for artillery.
 
+If that round hits a position that the player considers to be worthwile, the
+aim point can be moved the hit location and counts as zeroed in, since the mortar
+already aims at that spot.
+
 #### Troop capacity and true capacity
 
 The troop capacity value for a vehicle represents the seats a vehicle has per
