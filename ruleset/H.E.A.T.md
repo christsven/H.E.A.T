@@ -485,6 +485,7 @@ Some weapons also can have other special rules describing the system.
 | Rule | Description |
 | :--- | :--- |
 | Fire-And-Forget | <li>The targeting and movement of the missile stays the same, but the system<br> operator is not required to interact with the missile anymore.<li>Pathfinding for the missile is always in a straight line toward the target. <li>If at the end of turn the missile loses LoS, it is considered destroyed. |
+| Top Attack | The ATGM does a sharp rise and downward movement right before reaching the target, hitting the top of the target.|
 | Backblast | If this weapon is fired in an enclosed room or if there are units within 3" of a 45°<br> ark behind the exhaust, roll to damage for any unit in this room or area. |
 
 ***
