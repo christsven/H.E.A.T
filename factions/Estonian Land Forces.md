@@ -556,13 +556,6 @@ estonian military uses it as a troop transport or as a weapon platform.
 | Options | Choosing a vehicle weapon removes any transport capacity from the vehicle.<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>SPG-9</td><td>recoilless rocket grenade launcher</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
 
-***
-
-## Reinforcing Vehicles [ 0 - 1 ]
-
-While the brigade itself only fielded IFVs and helicopters, some older reserve
-vehicles and light armoured vehicles are available.
-
 ### CV9035EE
 
 ![cv9035ee](/factions/ressources/cv9035ee.excalidraw.png)
@@ -582,7 +575,14 @@ by 17 nations, 7 of which are NATO members.
 | Damage value | 8+ Light Tank |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>35×228mm Bushmaster III 35/50</td><td>35mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr><tr><td> Ksp m/39</td><td>7.62mm coaxial MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
 | Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table> |
+
+***
+
+## Reinforcing Vehicles [ 0 - 1 ]
+
+While the brigade itself only fielded IFVs and helicopters, some older reserve
+vehicles and light armoured vehicles are available.
 
 ### T-72M
 
@@ -598,6 +598,21 @@ Polish T-72M from a binational formation with Poland.
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>125 mm 2A46M/2A46M-5m</td><td>125mm smoothbore heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr><tr><td>PKT MMG</td><td>PKT MMG</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
 | Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>12.7 mm NSVT HMG</td><td>Heavy machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+25 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
+
+### W-3W/WA Sokół
+
+![w-3w/wa](/factions/ressources/sokol.excalidraw.png)
+
+Part of arms donation from polish land forces to Estonia.
+
+| W-3W/WA Sokół | <img src="/factions/nato-symbols/blufor/helicopter-attack.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 165 pt / 184 pt / 197 pt |
+| Capacity | 12 |
+| Damage value | 7+ Large Helicopter |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>GSh-23 23×115mm</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options |TODO |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table> |
 
 ***
 

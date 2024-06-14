@@ -34,7 +34,7 @@ at 3pt/u:
 
 ### Leitenantas
 
-| Leitenantas | Platoon Leader |
+| Leitenantas | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -44,7 +44,7 @@ at 3pt/u:
 
 ### Vyresnysis leitenantas
 
-| Vyresnysis leitenantas | Platoon Leader |
+| Vyresnysis leitenantas | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -62,7 +62,7 @@ at 3pt/u:
 
 A small team of forward reconnaissance infantry.
 
-| Recon team | Light infantry unit |
+| Recon team | <img src="/factions/nato-symbols/blufor/reconinfantry-t.excalidraw.png" align="right" alt="recon infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 20 pt / 30 pt / 40 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -74,7 +74,7 @@ A small team of forward reconnaissance infantry.
 
 A group of recon infantry.
 
-| Recon group | Light infantry unit |
+| Recon group | <img src="/factions/nato-symbols/blufor/reconinfantry-g.excalidraw.png" align="right" alt="recon infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -87,7 +87,7 @@ A group of recon infantry.
 Nicknamed frog men, this group of infantry is boarded on small boats to
 traverse the bogs and marches of the baltic national parks along the borders.
 
-| Frogmen | Infantry unit |
+| Frogmen | <img src="/factions/nato-symbols/blufor/fernspaeher.excalidraw.png" align="right" alt="deep recon infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 55 pt / 70 pt / 85 pt |
 | Reinforcement | up to 3 attendants (SMG): 7 pt / 10 pt / 13 pt each |
@@ -101,7 +101,7 @@ Retaining the old name for horse mounted infantry, modern cavalry is mounted upo
 helicopters. This infantry group works in conjunction with a helicopter
 in areas which are hard to reach by any other means.
 
-| Cavalry squad | Mechanized infantry unit |
+| Cavalry squad | <img src="/factions/nato-symbols/blufor/mechinfantry.excalidraw.png" align="right" alt="cavalry infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -114,7 +114,7 @@ in areas which are hard to reach by any other means.
 The heaviest infantry the brigade has to offer. The hussars are the mechanized
 units which use M113 and armoured reserve vehicles.
 
-| Husar squad | Mechanized infantry unit |
+| Husar squad | <img src="/factions/nato-symbols/blufor/mechinfantry.excalidraw.png" align="right" alt="husar infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -130,27 +130,13 @@ to the NSPR logistical hubs located in remote parts of the national park.
 This earned them the local nickname "Eksitaja", which are mythological creatures
 haunting estonian bogs.
 
-| Raiding squad | Raid infantry unit |
+| Raiding squad | <img src="/factions/nato-symbols/blufor/lightinfantry.excalidraw.png" align="right" alt="raid infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 40 pt / 55 pt / 70 pt |
 | Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (SMG) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information</td></tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
-
-### Territorial Reserve Volunteers
-
-All baltic states have relatively large territorial reserves, made up from
-volunteers and former military servicemen. Some of those units were restructured
-under the Baltic Treaty to serve in this brigade.
-
-| Volunteer squad | Infantry unit |
-| :---- | ---- |
-| Cost | 30 pt / - / - |
-| Reinforcement | up to 3 attendants (AR): 7 pt / - / - |
-| Setup | NCO (AR) + 3 attendants (AR) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Shirkers</td><td>-.</td><td>-2 pt each</td></tr></table>
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Green</td><td>-</td></tr></table>
 
 ***
 
@@ -160,7 +146,7 @@ under the Baltic Treaty to serve in this brigade.
 
 Support infantry, used to clear terrain or restrict enemy movement.
 
-| Engineers group | Combat support unit |
+| Engineers group |  <img src="/factions/nato-symbols/blufor/engineers.excalidraw.png" align="right" alt="engineer group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 40 pt / 55 pt / 70 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt each |
@@ -170,7 +156,7 @@ Support infantry, used to clear terrain or restrict enemy movement.
 
 ### Sako TRG-22 sniper team
 
-| TRG-22 sniper<br>team | Combat support unit |
+| TRG-22 sniper<br>team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -182,7 +168,7 @@ Support infantry, used to clear terrain or restrict enemy movement.
 
 Anti materiell rifle sniper team.
 
-| M82 AMR team | Combat support unit |
+| M82 AMR team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -192,7 +178,7 @@ Anti materiell rifle sniper team.
 
 ### Medical specialist
 
-| Medic | Combat support unit |
+| Medic | <img src="/factions/nato-symbols/blufor/medic-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - / - / 45 pt |
 | Reinforcement | - |
@@ -209,7 +195,7 @@ Anti materiell rifle sniper team.
 Lithuanian MG3s taken from wartime storage to equip the new formations.
 MG3 MMG team.
 
-| MG3 MMG team | Machine gun team |
+| MG3 MMG team | <img src="/factions/nato-symbols/blufor/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -221,7 +207,7 @@ MG3 MMG team.
 
 .50cal HMG team.
 
-| .50cal Browning HMG team | Machine gun team |
+| .50cal Browning HMG team | <img src="/factions/nato-symbols/blufor/hmg-t.excalidraw.png" align="right" alt="heavy machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 49 pt / 70 pt / 91 pt |
 | Reinforcement | - |
@@ -233,7 +219,7 @@ MG3 MMG team.
 
 A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG.
 
-| MG3 quad | Machine gun quad |
+| MG3 quad | <img src="/factions/nato-symbols/blufor/mmg-q.excalidraw.png" align="right" alt="medium machine gun quad" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 65 pt / 80 pt |
 | Reinforcement | - |
@@ -245,7 +231,7 @@ A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG.
 
 AGL team with a HK GMG 40mm.
 
-| AGL team | Machine gun team |
+| AGL team | <img src="/factions/nato-symbols/blufor/gmg-t.excalidraw.png" align="right" alt="grenade machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -263,7 +249,7 @@ Anti-tank rocket team, equipped with a mix of Carl Gustav, Panzerfaust 3s, and
 other arms donations that made it from the armed forces down to the reserve
 brigades.
 
-| RPG team | Anti-Tank team |
+| RPG team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | - |
@@ -275,7 +261,7 @@ brigades.
 
 Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
-| Javelin team | Anti-Tank team |
+| Javelin team | <img src="/factions/nato-symbols/blufor/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |
@@ -285,23 +271,42 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
 ### SPG-9 recoilless rifle team
 
+TODO
+
 ***
 
 ## Drone team [ 0 - 1 ]
 
-### UAV operator team
+### AeroVironment RQ-20 Puma
 
-Just being tested as parts of modern conventional forces, small UAVs are becoming
-an integral part of modern warfare. This team is equipped with a small quadcopter
-for forward reconnaissance.
+![RQ Puma drone](/factions/ressources/puma-drone.excalidraw.png)
 
-| UAV team | UAV team |
+The RQ-20 Puma is an american made fixed wing reconnaissance drone system used
+to observe enemy formations.
+
+| Recon UAV team | <img src="/factions/nato-symbols/blufor/recon-drone-onmap.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 41 pt / 52 pt / 63 pt |
-| Reinforcement | up to 2 attendants (SMG): 7 pt / 10 pt / 13 pt each |
+| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
 | Setup | NCO (PDW) |
 | Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>On-map Operator</td><td>Operator of unit is present on map.</td></tr><tr><td>Quadrocopter</td><td>Drone is propelled by multiple rotors. </td></tr></table> |
+
+### THeMIS Operator
+
+![Themis drone](/factions/ressources/themis.excalidraw.png)
+
+As if taken straight from a science fiction movie, the THeMIS is a ground based
+drone with a modular flatbed design. It can operate as a mule for logistical
+purposes on a group level, be equipped with a camera pod for reconnaissance
+missions, or be fielded with remote weapon stations in a support or attack role.
+
+| THeMIS |  <img src="/factions/nato-symbols/blufor/recon-drone-ground.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
+| Setup | NCO (PDW) |
+| Options | <table><tr><td><b>Variant<b></td><td><b>Description<b></td><td><b>Modifiers<b></td><td><b>Cost</td></tr><tr><td>Observe</td><td>Recon unit. Serves as a platoon spotter.</td><td>-</td><td>+ 0 pt</td></tr><tr><td>Combat Support</td><td>Equipped with singular MMG.<br>Remote controlled weapon station.</td><td><ul><li>turret mounted</ul></td><td>+ 15 pt</td></tr><tr><td>Combat ADDER</td><td>Combat Version with remote weapon station.<br>Equipped with:<ul><li>CIS40 AGL</li><li>CIS50MG HMG</li><li>7.62 COAX MMG</li></ul></td><td><ul><li>turret mounted</li><li>co-axial</ul></td><td>+ 70 pt</td></tr></tr></table> Additionally, the ADDER Variant are allowed to buy the following smoke screen. <table><tr><td><b>Variant<b></td><td><b>Description<b></td><td><b>Modifiers<b><td><b>Cost</td></td></tr><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></td><td>+ 15 pt</td></tr></table>|
 
 ***
 
@@ -314,7 +319,7 @@ balance the missing firepower.
 
 light mortar team.
 
-| 60mm light<br>mortar team | Mortar team |
+| 60mm light mortar team | <img src="/factions/nato-symbols/blufor/light-mortar.excalidraw.png" align="right" alt="light mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 24 pt / 35 pt / 46 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -324,9 +329,10 @@ light mortar team.
 
 ### L16 81mm medium mortar team
 
-medium mortar team.
+Medium mortar team at infantry group level, models fielded by the estonian army
+include the B-455, M252 and L16A1, all 81mm.
 
-| 81mm medium<br>mortar team | Mortar team |
+| 81mm medium mortar team | <img src="/factions/nato-symbols/blufor/medium-mortar.excalidraw.png" align="right" alt="medium mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | Spotter +10 pt |
@@ -338,7 +344,7 @@ medium mortar team.
 
 heavy mortar team.
 
-| 120mm heavy<br>mortar team | Mortar team |
+| 120mm heavy mortar team | <img src="/factions/nato-symbols/blufor/heavy-mortar.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 46 pt / 65 pt / 84 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -348,7 +354,7 @@ heavy mortar team.
 
 ### M113 self propelled mortar
 
-| M113 | Motorized mortar team |
+| M113 | <img src="/factions/nato-symbols/blufor/tracked-heavy-mortar.excalidraw.png" align="right" alt="self propelled heavy mortar" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 130 pt / 150 pt / 170 pt |
 | Capacity | - |
@@ -357,19 +363,18 @@ heavy mortar team.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
 
-
 ***
 
 ## Operational Reinforcements [ 0 - 1 ]
 
 ### PzH 2000 Battery Observer
 
-| Artillery forward<br>observer | Divisional Reinforcements |
+| Artillery forward observer | <img src="/factions/nato-symbols/blufor/art-recon-t.excalidraw.png" align="right" alt="Artillery Observer team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 100 pt / 115 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (SMG) |
-| Options | - |
+| Options |- |
 | Special rules | - |
 
 ***
@@ -380,7 +385,7 @@ heavy mortar team.
 
 Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 
-| MANPADS<br>team | Infantry unit |
+| MANPADS team | <img src="/factions/nato-symbols/blufor/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 65 pt / 80 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -413,6 +418,14 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 ### EDM4S EW team
 
 Domestically produced lithuanian anti UAV system. Issued for experimental use.
+
+| EDM4S Anti Drone team | <img src="/factions/nato-symbols/blufor/ew-rifle-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 50 pt / 65 pt / 80 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (EDM4S) + 1 loader (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>EW Rifle</td><td>*Only usable against unmanned weapon systems.*<br>Attack as normally, ignoring drone size/movement malus.<br>If hit, the drone cannot be moved or used (even as a spotter!)<br>the next round. Range of 72".</td></tr></table> |
 
 ***
 
@@ -465,20 +478,20 @@ used by the lithuanian army.
 
 Hand-downs from the Estonian Defense League.
 
-| BTR-80 | Armoured Carrier |
+| BTR-80 |  <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 110 pt / 120 pt / 130 pt |
 | Capacity | 7 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table> |
-|Options|-
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table>
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table> |
 
 ### HMMWV "Humvee"
 
 ![HMMWV](/factions/ressources/humvee.excalidraw.png)
 
-| HMMWV | Light armoured car |
+| HMMWV | <img src="/factions/nato-symbols/blufor/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 65 pt / 70 pt |
 | Capacity | 3 soldiers |
@@ -486,6 +499,22 @@ Hand-downs from the Estonian Defense League.
 | Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table> |
 | Default weapon configuration | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
+
+### CV9035EE
+
+![cv9035ee](/factions/ressources/cv9035ee.excalidraw.png)
+
+Estonia provided a number of CV90 to the brigade as part of their commitment.
+Armed with a Bushmaster III 35/50.
+
+| CVR(T) | <img src="/factions/nato-symbols/blufor/tracked-light-tank.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Options | TODO |
+| Default weapon configuration | - |
+| Special rules | TODO |
 
 ***
 
@@ -500,12 +529,14 @@ vehicles and light armoured vehicles are available.
 
 Some latvian CVR(T) for recon missions.
 
-### CV9035EE
-
-![cv9035ee](/factions/ressources/cv9035ee.excalidraw.png)
-
-Estonia provided a number of CV90 to the brigade as part of their commitment.
-Armed with a Bushmaster III 35/50.
+| CVR(T) | <img src="/factions/nato-symbols/blufor/tracked-light-tank.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Options | TODO |
+| Default weapon configuration | - |
+| Special rules | TODO |
 
 ### W-3W/WA Sokół
 
@@ -513,14 +544,14 @@ Armed with a Bushmaster III 35/50.
 
 Part of arms donation from polish land forces to Estonia.
 
-| W-3W/WA Sokół | Large helicopter |
+| W-3W/WA Sokół | <img src="/factions/nato-symbols/blufor/helicopter-attack.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 165 pt / 184 pt / 197 pt |
 | Capacity | 12 |
 | Damage value | 7+ Large Helicopter |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>GSh-23 23×115mm</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
 | Options |TODO |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table> |
 
 #### Hardpoint arsenal
 
@@ -533,6 +564,15 @@ Part of arms donation from polish land forces to Estonia.
 ![mi-8](/factions/ressources/milmi8.excalidraw.png)
 
 Available for missions from the latvian air force.
+
+| Mi-8/17| <img src="/factions/nato-symbols/blufor/helicopter-attack.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 165 pt / 184 pt / 197 pt |
+| Capacity | 12 |
+| Damage value | 7+ Large Helicopter |
+| Default weapon configuration | TODO |
+| Options |TODO |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table> |
 
 ***
 
