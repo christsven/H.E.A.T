@@ -269,9 +269,19 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Fire-And-Forget</td><td>Weapon team is not required to stay<br>stationary during flight.<br><br>See ATGM section in [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).<td>+20 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
-### SPG-9 recoilless rifle team
+### 90mm Pvpj-1110 recoilless rifle team
 
-TODO
+The Pansarvärnspjäs 1110, commonly abbreviated as Pvpj-1110 and nicknamed
+"stove pipe", is a swedish anti tank recoilless rifle. It is mounted on a one-axial
+carriage and can be towed.
+
+| Recoilless rifle team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | - |
+| Setup | NCO (MEDIUM AT GUN) + 2 loaders (PISTOL) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></table> |
 
 ***
 
@@ -417,7 +427,10 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ### EDM4S EW team
 
-Domestically produced lithuanian anti UAV system. Issued for experimental use.
+The Electronic Drone Mitigation 4 - System, or EDM4S, is a domestically produced
+lithuanian anti UAV system. The weapon interferes with the communication of the
+UAV with satellites and ground operators by jamming it with electromagnetic
+pulses at up to 5km of range. Issued for experimental use.
 
 | EDM4S Anti Drone team | <img src="/factions/nato-symbols/blufor/ew-rifle-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
 | :---- | ---- |
