@@ -479,7 +479,7 @@ used by the lithuanian army.
 ![btr80](/factions/ressources/btr80.excalidraw.png)
 
 The Estonian Defense League still fields some BTR-80s as troop transports, which
-were reshuffled after the polish arms donations and BWP-1 aquisitions. 
+were reshuffled after the polish arms donations and BWP-1 aquisitions.
 
 | BTR-80 | <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
@@ -571,22 +571,9 @@ The latvian helicopters come equipped with six hardpoints for weapon attachments
 | Cost | tbd |
 | Capacity | 20 soldiers |
 | Damage value | 7+ Large Helicopter |
-| Default weapon configuration | TODO |
-| Options |TODO |
+| Default weapon configuration | - |
+Options | The Mi-8 has enough hardpoints for<br>3 weapon systems of the following list:<table><tr><td><b>Weapon Pod</td><td><b>Modifier</td><td><b>Cost</td></tr></table> Additional Options: |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr></table> |
-
-#### Hardpoint arsenal
-
-S8 Rocket pods
-
-23mm light auto cannon pods
-
-30mm gun pods
-
-12.7mm machine gun pods
-
-R60 Molnyia Missiles
-
 
 #### Doorframe arsenal
 
@@ -597,7 +584,6 @@ Variants:
 NSV 12.7mm HMG + 2x PKT
 
 AGS-17A 30mm AGL + 2x PKT
-
 
 #### Other options
 
@@ -623,7 +609,6 @@ Part of arms donation from polish land forces to Estonia.
 - 23mm guns, 2x light autocannon
 - Rocket pods, 2x AT, medium at gun values with 2 shots, same price per gun since its unguided see rules
 - keep in mind top attack bonus
-
 
 ***
 
