@@ -91,20 +91,6 @@ Infantry from the Eesti Scouts Battalion.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
 
-### Kaitseliit jagu
-
-The estonian Kaitseliit is a paramilitary/reservist force of civilian volunteers
-which can be mobilized during times of war. They have a separate stockpile of
-weaponry from the normal army, are equipped with AK4s, MG3s and Ksp-58Bs.
-
-| Paramilitary Infantry group | <img src="/factions/nato-symbols/blufor/infantry.excalidraw.png" align="right" alt="mechanized infantry group" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | 35 pt / 50 pt / 65 pt |
-| Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (AR) + 3 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Green</td><td>-</td></tr></table> |
-
 ### Jalaväe jagu
 
 Mechanized infantry, operating in conjunction with the armoured vehicles of the
@@ -117,6 +103,20 @@ estonian ground forces.
 | Setup | NCO (AR) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
 | Special rules | - |
+
+### Kaitseliit jagu
+
+The estonian Kaitseliit is a paramilitary/reservist force of civilian volunteers
+which can be mobilized during times of war. They have a separate stockpile of
+weaponry from the normal army, are equipped with AK4s, MG3s and Ksp-58Bs.
+
+| Paramilitary Infantry group | <img src="/factions/nato-symbols/blufor/infantry.excalidraw.png" align="right" alt="mechanized infantry group" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 35 pt / - / - |
+| Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 3 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Green</td><td>-</td></tr></table> |
 
 ### Territorial Reserve Volunteers
 
@@ -464,6 +464,74 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
 
+### Mamba Mk2 EE
+
+![Mamba](/factions/ressources/mamba.excalidraw.png)
+
+A south african design and used in small numbers in Afghanistan and Iraq. It
+utilizes an Unimog chassis. The estonian army uses it in small numbers.
+
+| Mamba Mk2 EE | <img src="/factions/nato-symbols/blufor/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 3 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration |- |
+| Options | _As a reminder, only one option may be chosen._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Pintle mounted 7.62mm MMG</td><td>Top mounted MMG</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr><tr><td>Pintle mounted 12.7mm HMG</td><td>Top mounted HMG</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>Pintle mounted 40mm AGL</td><td>Top mounted AGL</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-topped</td><td>-</td></tr></table> |
+
+### Volvo Tbg "Terrain Vehicle 11"
+
+![Volvo C303](/factions/ressources/volvo-c303.excalidraw.png)
+
+A late 60s design with a high ground clearance used for a range of roles. The
+estonian military uses it as a troop transport or as a weapon platform.
+
+| Volvo Tgb| <img src="/factions/nato-symbols/blufor/wheeled-unarmed.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 8 soldiers |
+| Damage value | +6 Soft-Skinned Vehicve |
+| Default weapon configuration | - |
+| Options | Choosing a vehicle weapon removes any transport capacity from the vehicle.<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>SPG-9</td><td>recoilless rocket grenade launcher</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
+
+### M113
+
+![m113](/ruleset/ressources/ifvs.excalidraw.png)
+
+A true workhorse of NATO forces, the M113 comes in dozens of variants and has
+been used by more countries than not since the 1960s. These vehicles are part
+of a binational armoured formation with the polish forces and sponsored by
+the polish army.
+
+| M113 | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 100 pt / 125 pt / 140 pt |
+| Capacity | 11 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options |<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>M577 <br>*Command Vehicle*</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
+
+### BTR-80 UNsh
+
+![BTR 80](/factions/ressources/btr80.excalidraw.png)
+
+From the Estonian Defense League. While obsolete and difficult to maintain without
+a guaranteed supply of spare parts, the BTR-80 is a relic of soviet times and the
+last major surviving unit by numbers, as BMP1s and other BTR variants have largely
+been retired.
+
+| BTR-80 |  <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 110 pt / 120 pt / 130 pt |
+| Capacity | 7 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table> |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table> |
+
 ### Patria Parsi XA-180EST & XA-188
 
 ![sisu parsi](/factions/ressources/sisu-parsi.excalidraw.png)
@@ -484,77 +552,28 @@ similar vehicle.
 | Cost | tbd |
 | Capacity | 16 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
 | Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>HMG in Turret box</td><td>M2 Browning in a turret box, <br>colloquially known as a "crow's nest".</td><td><ul><li>pintle-mounted</li><li>open-topped</li><li>Gun Shield</li></ul></td><td>+ 20 pt</td></tr></table> |
 | Special rules |  <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr><tr><td>Gun Shield<br>_(if turret box is selected)_</td><td>-</td></tr></table> |
 
-### M113
+### BWP-1
 
-![m113](/ruleset/ressources/ifvs.excalidraw.png)
+![bmp1](/factions/ressources/bmp1.excalidraw.png)
 
-A true workhorse of NATO forces, the M113 comes in dozens of variants and has
-been used by more countries than not since the 1960s. These vehicles are part
-of a binational armoured formation with the polish forces and sponsored by
-the polish army.
+As part of the polish weapon package for the estonian army, some reserve BWP-1
+were included for the Estonian Defense League and other reservist structures.
+The vehicle is a license build BMP-1 variant which is still actively being used
+in the polish forces.
 
-| M113 | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | 100 pt / 125 pt / 140 pt |
-| Capacity | 11 soldiers |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>M577 <br>*Command Vehicle*</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
 
-### Mamba Mk2 EE
-
-![Mamba](/factions/ressources/mamba.excalidraw.png)
-
-A south african design and used in small numbers in Afghanistan and Iraq. It
-utilizes an Unimog chassis. The estonian army uses it in small numbers.
-
-| Mamba Mk2 EE | <img src="/factions/nato-symbols/blufor/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
+| BWP-1 | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
-| Capacity | 3 soldiers |
+| Capacity | - |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration |- |
-| Options | _As a reminder, only one option may be chosen._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Pintle mounted 7.62mm MMG</td><td>Top mounted MMG</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr><tr><td>Pintle mounted 12.7mm HMG</td><td>Top mounted HMG</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>Pintle mounted 40mm AGL</td><td>Top mounted AGL</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-topped</td><td>-</td></tr></table> |
-
-### BTR-80 UNsh
-
-![BTR 80](/factions/ressources/btr80.excalidraw.png)
-
-From the Estonian Defense League. While obsolete and difficult to maintain without
-a guaranteed supply of spare parts, the BTR-80 is a relic of soviet times and the
-last major surviving unit by numbers, as BMP1s and other BTR variants have largely
-been retired.
-
-| BTR-80 |  <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | 110 pt / 120 pt / 130 pt |
-| Capacity | 7 soldiers |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table> |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table> |
-
-### Volvo Tbg "Terrain Vehicle 11"
-
-![Volvo C303](/factions/ressources/volvo-c303.excalidraw.png)
-
-A late 60s design with a high ground clearance used for a range of roles. The
-estonian military uses it as a troop transport or as a weapon platform.
-
-| Volvo Tgb| <img src="/factions/nato-symbols/blufor/wheeled-unarmed.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | tbd |
-| Capacity | 8 soldiers |
-| Damage value | +6 Soft-Skinned Vehicve |
+| Options | TODO |
 | Default weapon configuration | - |
-| Options | Choosing a vehicle weapon removes any transport capacity from the vehicle.<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>SPG-9</td><td>recoilless rocket grenade launcher</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
+| Special rules | TODO |
 
 ### CV9035EE
 
@@ -568,7 +587,7 @@ mobility in artic climate and swamplands, making it ideal for estonian terrain.
 Currently the system has over a thousand units produced and is being operated
 by 17 nations, 7 of which are NATO members.
 
-| Main Battle Tank | <img src="/factions/nato-symbols/blufor/tracked-light-tank.excalidraw.png" align="right" alt="Combat Vehicle" height=30 width=auto></img> |
+| CV9035EE | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="Combat Vehicle" height=30 idth=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 8 soldiers |
@@ -588,7 +607,11 @@ vehicles and light armoured vehicles are available.
 
 ![t72](/ruleset/ressources/t72m.excalidraw.png)
 
-Polish T-72M from a binational formation with Poland.
+Prior to the civil war, Poland formed a binational armoured brigade with the
+estonian armed forces as a force projection measure. The unit is equipped with
+the licence built T-72M variants Poland inherited from soviet times, which were
+being faced out by Poland in favor of the M1 Abrams, Leopards, the korean K2 and
+a domestic derivative called the PT-91 Twardy.
 
 | T-72M | <img src="/factions/nato-symbols/blufor/mbt.excalidraw.png" align="right" alt="Combat Vehicle" height=30 width=auto></img> |
 | :---- | ---- |
@@ -602,6 +625,11 @@ Polish T-72M from a binational formation with Poland.
 ### W-3W/WA Sokół
 
 ![w-3w/wa](/factions/ressources/sokol.excalidraw.png)
+
+The PZL W-3 Sokół ("Falcon") is a medium-size, twin-engine, multipurpose helicopter.
+The WA Variant is equipped with a twin 23mm autocannon and four hardpoint pylons
+for different weapon assets. 
+
 
 Part of arms donation from polish land forces to Estonia.
 
