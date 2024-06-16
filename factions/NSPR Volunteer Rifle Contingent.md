@@ -124,13 +124,13 @@ and reporting enemy troop movement.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
 
-### Patrolling squad
+### Assault Detachment
 
 Light infantry unit, which is able to perform flanking operations without
 motorized support or operate in urban environments. Equipped with breaching
 material.
 
-| Patrol squad | Infantry unit |
+| Assault Detachmentä | Infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt |
@@ -150,14 +150,14 @@ A small group with DMR support. Can take up to two DMRs.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+10 pt</td></tr></table> |
 | Special rules | - |
 
-### NSPR resistance infantry squad
+### Motorized Infantry squad
 
 Armored infantry squad, the core of any modern fighting force. Deployed as the
 infanty part of IFVs. Part of the more well-trained core force, these freedom
 fighters have at least undergone mandatory services and understand how a military
 unit has to behave.
 
-| NSPR resistance infantry squad | Infantry unit |
+| Motorized Infantry Squad | Infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt |
@@ -165,13 +165,13 @@ unit has to behave.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
 | Special rules | - |
 
-### Bratstwa infantry squad
+### PMC Contractors squad
 
 The right wing, paramilitary force "Bratstwa" are well-trained and equipped,
 and are used since the revolution began to strike down difficult targets,
 perform covert operations or support breakthrough attempts.
 
-| Bratstwa squad | Infantry unit |
+| PMC squad | Infantry unit |
 | :---- | ---- |
 | Cost | - / 60 pt / 85 pt |
 | Reinforcement | up to 5 attendants (AR): - pt / 10 pt / 13 pt |
@@ -179,7 +179,7 @@ perform covert operations or support breakthrough attempts.
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Stubborn</td><td>-</td></tr></table> |
 
-### Local volunteer rifle squad
+### Light Rifle squad
 
 While NSPR forces have a somewhat regular core force, the majority of freedom- |
 fighting revolutionaries consist of mostly untrained, unprofessional personell,
