@@ -554,7 +554,7 @@ from C&C over medical units to small tanks with autocannons.
 
 | CVR(T) | <img src="/factions/nato-symbols/blufor/tracked-light-tank.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | tbd |
+| Cost | 45 / 50 / 55 pt |
 | Capacity | - |
 | Damage value | 7+ Armoured Carrier |
 | Variant | <table><tr><td><b>Variant</td><td><b>Unit Modifiers</td><td><b>Cost</td></tr><tr><td>FV107 Scimitar</td><td> <table><tr><td><b>Default Weapon<br>Configuration</td><td><b>Modifiers</td></tr><tr><td>30 mm L21<br>RARDEN cannon</td><td><ul><li>medium auto cannon</li><li>turret-mounted</li><li>HE 1"</li></ul></td></tr><tr><td>L37A1 7.62mm MMG</td><td><ul><li>medium machine gun</li><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table></td><td>+ 45 pt</td><tr><td>FV105 Sultan</td><td><table><tr><td><b>Default Weapon<br>Configuration</td><td><b>Modifiers</td></tr><tr><td>FN MAG 7.62mm</td><td><ul><li>light machine gun</li><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table><table><tr><td><b>Special Rules</td><td><b>Modifiers</td></tr><tr><td>Command</td><td>-</td></tr></table></td><td>+ 40 pt</td><tr><td>FV103 Spartan</td><td>Additional transport capacity of 4 soldiers.<table><tr><td><b>Default Weapon<br>Configuration</td><td><b>Modifiers</td></tr><tr><td>FN MAG 7.62mm</td><td><ul><li>light machine gun</li><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table><table><tr><td><b>Special Rules</td><td><b>Modifiers</td></tr><tr><td>IFV</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr></table></td><td>+ 35 pt</td><tr><td>FV104 Samaritan</td><td><table><tr><td><b>Special Rules</td><td><b>Modifiers</td></tr><tr><td>Medic</td><td>-</td></tr></table></td><td>+ 10 pt</td></table> |
@@ -599,7 +599,7 @@ Part of arms donation from polish land forces to Estonia.
 | Capacity | 12 soldiers |
 | Damage value | 7+ Large Helicopter |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>GSh-23 23×115mm</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options | tbd |
+| Options | *The W-3W/WA has 4 hardpoints, which can be equipped with the following weapoon pods:*<table><tr><td><b>Weapon Pod</td><td><b>Modifier</td><td><b>Cost</td></tr><tr><td>12.7mm / 7.62mm<br>rotary gun pod</td><td><ul><li>front-facing</li><li>heavy machine gun</li><li>coaxial medium machine gun</li></ul></td><td>+40 pt/u</td></tr><tr><td>30mm autocannon<br>pod</td><td><ul><li>front-facing</li><li>medium auto cannon</li><li>HE 1"</li></ul></td><td>+30 pt/u</td></tr><tr><td>23mm autocannon pod </td><td><ul><li>front-facing</li><li>light auto cannon</li><li>HE 1"</li></ul></td><td>+40 pt/u</td></tr><tr><td>HEAT dump rockets</td><td><ul><li>front-facing</li><li>medium rocket pod</li><li>HE 2"</li></ul></td><td>+70 pt/u</td></tr></table> |
 | Special rules | Weapon special rules in Modifier tab. |
 
 ***

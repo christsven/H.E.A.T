@@ -638,7 +638,7 @@ Part of arms donation from polish land forces to Estonia.
 | Capacity | 12 soldiers |
 | Damage value | 7+ Large Helicopter |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>GSh-23 23×115mm</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options | tbd |
+| Options | *The W-3W/WA has 4 hardpoints, which can be equipped with the following weapoon pods:*<table><tr><td><b>Weapon Pod</td><td><b>Modifier</td><td><b>Cost</td></tr><tr><td>12.7mm / 7.62mm<br>rotary gun pod</td><td><ul><li>front-facing</li><li>heavy machine gun</li><li>coaxial medium machine gun</li></ul></td><td>+40 pt/u</td></tr><tr><td>30mm autocannon<br>pod</td><td><ul><li>front-facing</li><li>medium auto cannon</li><li>HE 1"</li></ul></td><td>+30 pt/u</td></tr><tr><td>23mm autocannon pod </td><td><ul><li>front-facing</li><li>light auto cannon</li><li>HE 1"</li></ul></td><td>+40 pt/u</td></tr><tr><td>HEAT dump rockets</td><td><ul><li>front-facing</li><li>medium rocket pod</li><li>HE 2"</li></ul></td><td>+70 pt/u</td></tr></table> |
 | Special rules | Weapon special rules in Modifier tab. |
 
 ***
