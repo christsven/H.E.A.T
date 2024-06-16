@@ -316,7 +316,7 @@ missions, or be fielded with remote weapon stations in a support or attack role.
 | Cost | tbd |
 | Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
 | Setup | NCO (PDW) |
-| Options | <table><tr><td><b>Variant<b></td><td><b>Description<b></td><td><b>Modifiers<b></td><td><b>Cost</td></tr><tr><td>Observe</td><td>Recon unit. Serves as a platoon spotter.</td><td>-</td><td>+ 0 pt</td></tr><tr><td>Combat Support</td><td>Equipped with singular MMG.<br>Remote controlled weapon station.</td><td><ul><li>turret mounted</ul></td><td>+ 15 pt</td></tr><tr><td>Combat ADDER</td><td>Combat Version with remote weapon station.<br>Equipped with:<ul><li>CIS40 AGL</li><li>CIS50MG HMG</li><li>7.62 COAX MMG</li></ul></td><td><ul><li>turret mounted</li><li>co-axial</ul></td><td>+ 70 pt</td></tr></tr></table> Additionally, the ADDER Variant are allowed to buy the following smoke screen. <table><tr><td><b>Variant<b></td><td><b>Description<b></td><td><b>Modifiers<b><td><b>Cost</td></td></tr><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></td><td>+ 15 pt</td></tr></table>|
+| Options | <table><tr><td><b>Variant<b></td><td><b>Description<b></td><td><b>Modifiers<b></td><td><b>Cost</td></tr><tr><td>Observe</td><td>Recon unit. Serves as a platoon spotter.</td><td>-</td><td>+0 pt</td></tr><tr><td>Combat Support</td><td>Equipped with singular MMG.<br>Remote controlled weapon station.</td><td><ul><li>turret mounted</ul></td><td>+15 pt</td></tr><tr><td>Combat ADDER</td><td>Combat Version with remote weapon station.<br>Equipped with:<ul><li>CIS40 AGL</li><li>CIS50MG HMG</li><li>7.62 COAX MMG</li></ul></td><td><ul><li>turret mounted</li><li>co-axial</ul></td><td>+70 pt</td></tr></tr></table> Additionally, the ADDER Variant are allowed to buy the following smoke screen. <table><tr><td><b>Variant<b></td><td><b>Description<b></td><td><b>Modifiers<b><td><b>Cost</td></td></tr><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></td><td>+15 pt</td></tr></table>|
 
 ***
 
@@ -453,7 +453,7 @@ pulses at up to 5km of range. Issued for experimental use.
 | Cost | 60 pt / 65 pt / 70 pt |
 | Capacity | 3 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table> |
+| Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+25 pt</td></tr></table> |
 | Default weapon configuration | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
 
@@ -471,7 +471,7 @@ used by the lithuanian army.
 | Capacity | 11 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen Generator</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr><tr><td>Tampella 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table>
+| Options |<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+35 pt</td></tr><tr><td>Tampella 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+25 pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
 
 ### BTR-80 UNSh
@@ -511,7 +511,7 @@ similar vehicle.
 | Capacity | 16 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>HMG in Turret box</td><td>M2 Browning in a turret box, <br>colloquially known as a "crow's nest".</td><td><ul><li>pintle-mounted</li><li>open-topped</li><li>Gun Shield</li></ul></td><td>+ 20 pt</td></tr></table> |
+| Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>HMG in Turret box</td><td>M2 Browning in a turret box, <br>colloquially known as a "crow's nest".</td><td><ul><li>pintle-mounted</li><li>open-topped</li><li>Gun Shield</li></ul></td><td>+20 pt</td></tr></table> |
 | Special rules |  <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr><tr><td>Gun Shield<br>_(if turret box is selected)_</td><td>-</td></tr></table> |
 
 ### CV9035EE
@@ -555,39 +555,27 @@ Some latvian CVR(T) for recon missions.
 | Default weapon configuration | - |
 | Special rules | TODO |
 
-### Mi-8/17 combat helicopter
+### Mi-8T "Hip-C"
 
 ![mi-8](/factions/ressources/milmi8.excalidraw.png)
 
-The latvian air force restored and provided their old Mi-17 Hip attack helicopters
-which were formerly part of their post-soviet stockpile. The helicopter has been
-in continuous production since 1971 and is one of the most widely used military
-helicopters in the entire world, with approximately 60 countries operating it.
+The latvian air force restored and provided their old Mi-8T "Hip-C" helicopters,
+which were formerly part of their post-soviet stockpile but retired after joining
+NATO. The helicopter has been in continuous production since 1971 and is one of
+the most widely used military helicopters in the entire world, with approximately
+60 countries operating it.
 
-The latvian helicopters come equipped with six hardpoints for weapon attachments.
+The latvian helicopters come equipped with four hardpoints for weapon attachments,
+as well as two door gunner weapons.
 
-| Mi-8/17 | <img src="/factions/nato-symbols/blufor/helicopter-attack.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
+| Mi-8T "Hip-C" | <img src="/factions/nato-symbols/blufor/helicopter-attack.excalidraw.png" align="right" alt="Helicopter" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | tbd |
-| Capacity | 20 soldiers |
+| Cost | 80 / 100 / 120 pt |
+| Capacity | 24 soldiers |
 | Damage value | 7+ Large Helicopter |
 | Default weapon configuration | - |
-Options | The Mi-8 has enough hardpoints for<br>3 weapon systems of the following list:<table><tr><td><b>Weapon Pod</td><td><b>Modifier</td><td><b>Cost</td></tr></table> Additional Options: |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr></table> |
-
-#### Doorframe arsenal
-
-Variants:
-
-3x PKT
-
-NSV 12.7mm HMG + 2x PKT
-
-AGS-17A 30mm AGL + 2x PKT
-
-#### Other options
-
-Countermeasure flares
+| Options | *The Mi-8T has 4 hardpoints, which can be equipped with the following weapoon pods:*<table><tr><td><b>Weapon Pod</td><td><b>Modifier</td><td><b>Cost</td></tr><tr><td>GUV-8700-9A624<br>12.7mm / 7.62mm</td><td><ul><li>front-facing</li><li>heavy machine gun</li><li>coaxial medium machine gun</li></ul></td><td>+40 pt/u</td></tr><tr><td>GUV-8700-9A669<br>30mm AGS-17</td><td><ul><li>front-facing</li><li>medium auto cannon</li><li>HE 1"</li></ul></td><td>+30 pt/u</td></tr><tr><td>UPK-23-250 23mm </td><td><ul><li>front-facing</li><li>light auto cannon</li><li>HE 1"</li></ul></td><td>+40 pt/u</td></tr><tr><td>S5-M 57mm HEAT</td><td><ul><li>front-facing</li><li>medium rocket pod</li><li>HE 2"</li></ul></td><td>+70 pt/u</td></tr></table>*The Mi-8T can have up to three door guns facing left, right, or back.*<table><tr><td><b>Doorframe<br>Weapon set</td><td><b>Modifier</td><td><b>Cost</td></tr><tr><td>PKT 7.62mm MMG</td><td><ul><li>side-facing</li><li>medium machine gun</li><li>open-topped (to that side)</li></ul></td><td>+15 pt/u</td></tr><tr><td>Kord 12.7mm HMG</td><td><ul><li>side-facing</li><li>heavy machine gun</li><li>open-topped (to that side)</li></ul></td><td>+25 pt/u</td></tr></tr></table>*Additional Options*<table><tr><td><b>Option</td><td><b>Cost</td></tr><tr><td>Countermeasures</td><td>+20 pt</td></tr></table> |
+| Special rules | Weapon special rules in Modifier tab. |
 
 ### W-3W/WA Sokół
 
@@ -602,7 +590,7 @@ Part of arms donation from polish land forces to Estonia.
 | Damage value | 7+ Large Helicopter |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>GSh-23 23×115mm</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
 | Options |TODO |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table> |
+| Special rules | Weapon special rules in Modifier tab. |
 
 #### Hardpoint arsenal
 
@@ -667,7 +655,7 @@ Part of arms donation from polish land forces to Estonia.
 | Cost | 15 pt / 20 pt / 25 pt |
 | Capacity | 5 soldiers |
 | Damage value | 6+ Soft-skinned Vehicle |
-| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+25 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>Open-Topped</td><td>-</td></tr></table> |
 
 ### M113
@@ -678,7 +666,7 @@ Part of arms donation from polish land forces to Estonia.
 | Capacity | 15 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table>
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+25 pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>-</td></tr></table>
 
 ### Truck
