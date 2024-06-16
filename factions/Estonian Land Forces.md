@@ -628,19 +628,18 @@ a domestic derivative called the PT-91 Twardy.
 
 The PZL W-3 Sokół ("Falcon") is a medium-size, twin-engine, multipurpose helicopter.
 The WA Variant is equipped with a twin 23mm autocannon and four hardpoint pylons
-for different weapon assets. 
-
+for different weapon assets.
 
 Part of arms donation from polish land forces to Estonia.
 
 | W-3W/WA Sokół | <img src="/factions/nato-symbols/blufor/helicopter-attack.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 165 pt / 184 pt / 197 pt |
-| Capacity | 12 |
+| Cost | 95 / 115 / 140 pt |
+| Capacity | 12 soldiers |
 | Damage value | 7+ Large Helicopter |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>GSh-23 23×115mm</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |TODO |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table> |
+| Options | tbd |
+| Special rules | Weapon special rules in Modifier tab. |
 
 ***
 

@@ -581,22 +581,20 @@ as well as two door gunner weapons.
 
 ![w-3w/wa](/factions/ressources/sokol.excalidraw.png)
 
+The PZL W-3 Sokół ("Falcon") is a medium-size, twin-engine, multipurpose helicopter.
+The WA Variant is equipped with a twin 23mm autocannon and four hardpoint pylons
+for different weapon assets.
+
 Part of arms donation from polish land forces to Estonia.
 
 | W-3W/WA Sokół | <img src="/factions/nato-symbols/blufor/helicopter-attack.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | tbd |
+| Cost | 95 / 115 / 140 pt |
 | Capacity | 12 soldiers |
 | Damage value | 7+ Large Helicopter |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>GSh-23 23×115mm</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |TODO |
+| Options | tbd |
 | Special rules | Weapon special rules in Modifier tab. |
-
-#### Hardpoint arsenal
-
-- 23mm guns, 2x light autocannon
-- Rocket pods, 2x AT, medium at gun values with 2 shots, same price per gun since its unguided see rules
-- keep in mind top attack bonus
 
 ***
 
@@ -613,7 +611,7 @@ Part of arms donation from polish land forces to Estonia.
 |Options| - |
 | Special rules | - |
 
-### Mi-17 Hip
+### Mi-8 Hip
 
 | Mil Mi-2B | Large helicopter |
 | :---- | ---- |
