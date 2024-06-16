@@ -448,6 +448,9 @@ pulses at up to 5km of range. Issued for experimental use.
 
 ![HMMWV](/factions/ressources/humvee.excalidraw.png)
 
+Originally donated to the latvian army by the USA, some of the ~40 vehicles were
+put to use for the BASEP units.
+
 | HMMWV | <img src="/factions/nato-symbols/blufor/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 65 pt / 70 pt |
@@ -544,16 +547,19 @@ by 17 nations, 7 of which are NATO members.
 
 ![cvr(t)](/factions/ressources/cvrt.excalidraw.png)
 
-Some latvian CVR(T) for recon missions.
+The latvian army has a stockpile of over a hundred different CVR(T) variants which
+are available for missions to BASEP. The "Combat Vehicle Reconnaissance (Tracked)"
+APC family has several different variants of the small tracked chassis ranging
+from C&C over medical units to small tanks with autocannons.
 
 | CVR(T) | <img src="/factions/nato-symbols/blufor/tracked-light-tank.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
 | Damage value | 7+ Armoured Carrier |
-| Options | TODO |
-| Default weapon configuration | - |
-| Special rules | TODO |
+| Variant | <table><tr><td><b>Variant</td><td><b>Unit Modifiers</td><td><b>Cost</td></tr><tr><td>FV107 Scimitar</td><td> <table><tr><td><b>Default Weapon<br>Configuration</td><td><b>Modifiers</td></tr><tr><td>30 mm L21<br>RARDEN cannon</td><td><ul><li>medium auto cannon</li><li>turret-mounted</li><li>HE 1"</li></ul></td></tr><tr><td>L37A1 7.62mm MMG</td><td><ul><li>medium machine gun</li><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table></td><td>+ 45 pt</td><tr><td>FV105 Sultan</td><td><table><tr><td><b>Default Weapon<br>Configuration</td><td><b>Modifiers</td></tr><tr><td>FN MAG 7.62mm</td><td><ul><li>light machine gun</li><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table><table><tr><td><b>Special Rules</td><td><b>Modifiers</td></tr><tr><td>Command</td><td>-</td></tr></table></td><td>+ 40 pt</td><tr><td>FV103 Spartan</td><td>Additional transport capacity of 4 soldiers.<table><tr><td><b>Default Weapon<br>Configuration</td><td><b>Modifiers</td></tr><tr><td>FN MAG 7.62mm</td><td><ul><li>light machine gun</li><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table><table><tr><td><b>Special Rules</td><td><b>Modifiers</td></tr><tr><td>IFV</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr></table></td><td>+ 35 pt</td><tr><td>FV104 Samaritan</td><td><table><tr><td><b>Special Rules</td><td><b>Modifiers</td></tr><tr><td>Medic</td><td>-</td></tr></table></td><td>+ 10 pt</td></table> |
+| Options | TODO Smoke, etc. |
+| Special rules | TODO Recce, etc. |
 
 ### Mi-8T "Hip-C"
 
