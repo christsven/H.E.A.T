@@ -72,29 +72,39 @@ and PMC formation with more modern equipment._
 
 ## Scenarios
 
+This section contains several key events, interesting locations and
+more general scenarios for typical skirmishes in this scenario.
+
 ### 2016 
 
 #### Attack on Jõhvi Garrison
 
-At the beginning of the war, NSPR forces overwhelmed the Jõhvi Infantry Garrison in a surprise attack.
+At the beginning of the war, NSPR forces overwhelmed the Jõhvi Infantry
+Garrison in a surprise attack.
 
 #### Securing the roads
 
-To quickly assert control over Ida Viru, the NSPR built up checkpoints and control stations along the E35 and E624, which were frequently attacked by estonian forces.
+To quickly assert control over Ida Viru, the NSPR built up checkpoints and control
+stations along the E35 and E624, which were frequently attacked by estonian 
+forces.
 
 #### Urban fighting in Kothla Järve
 
-The bitter urban fighting for Kothla Järve, in some cases days on end over singular streets and houses, culminated in a battle over the city hall alongside the Keskallee in the city centre.
+The bitter urban fighting for Kothla Järve, in some cases days on end over singular
+streets and houses, culminated in a battle over the city hall alongside the Keskallee
+in the city centre.
 
 #### Skirmish at Tudulinna Dam
 
-A disagreement between UN Peacekeepers and NSPR forces over control of the Tudulinna dam led to a skirmish between the two.
+A disagreement between UN Peacekeepers and NSPR forces over control of the Tudulinna
+dam led to a skirmish between the two.
 
 ### 2017
 
 #### Bog raids
 
-The decentralized logistical grid helped the NSPR against singular artillery strikes, but made them susseptible against raid attacks via helicopter by the border guards. 
+The decentralized logistical grid helped the NSPR against singular artillery strikes,
+but made them susseptible against raid attacks via helicopter by the border guards. 
 
 #### Attack on convoi
 
@@ -102,29 +112,36 @@ A planned attack on an EUFOR convoi was widely televised as a propaganda tool.
 
 #### Fight for Jõhvi
 
-With the arrival of EUFOR troops, the estonian forces slowly pushed out NSPR holdouts from the larger settlements.
+With the arrival of EUFOR troops, the estonian forces slowly pushed out NSPR holdouts
+from the larger settlements.
 
 #### EUFOR port raid on Sillimäe
 
-NAVEUFOR attacked Sillimäe port in a night campaign, securing a bridgehead for reinforcements. 
+NAVEUFOR attacked Sillimäe port in a night campaign, securing a bridgehead
+for reinforcements. 
 
 ### 2018
 
 #### Fight for Narva City
 
-Reinforced by the NATO mission, the estonian army took back Narva city in a long fight through the streets.
+Reinforced by the NATO mission, the estonian army took back Narva city in a long
+fight through the streets.
 
 #### First battle for Balti power station
 
-The large power plant south of Narva saw a coordinated attack by BASEP and EUFOR, taking control of the facility and using it as a staging ground for the Narva campaign.
+The large power plant south of Narva saw a coordinated attack by BASEP and
+EUFOR, taking control of the facility and using it as a staging ground for the Narva
+campaign.
 
 #### Second Battle for Balti power station
 
-Shortly after the loss of the first battle, NSPR forces started a counterattack on the power station with boats and tanks.
+Shortly after the loss of the first battle, NSPR forces started a counterattack on
+the power station with boats and tanks.
 
 #### Siege at Hermann Castle
 
-The Narva City campaign was prolonged by a stronghold at the river itself which was occupied by a NSPR company.
+The Narva City campaign was prolonged by a stronghold at the river itself
+which was occupied by a NSPR company.
 
 #### Last Stand
 
