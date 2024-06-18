@@ -2,36 +2,33 @@
 
 ![nspr logo](./ressources/nspr-rifle-contingent-logo.excalidraw.png)
 
+*Emblem of the Narva Volunteer Rifle Contingent*
+
 ![pmc logo](./ressources/bratstwa.excalidraw.png)
-***
 
-## Links
+*PMC Bratstwa Logo*
 
-[Platoon Leader](./NSPR%20Volunteer%20Rifle%20Contingent.md#platoon-leader--1)
+The NSPR has a standing force of around 10-13.000 personnel, which serve under
+the umbrella of the NSPR flag. Internally, there are several factions.
 
-[Infantry Units](./NSPR%20Volunteer%20Rifle%20Contingent.md#infantry-units--2---5)
+The "Bratstwa" far-right, russian-nationalistic militia is the best equipped part
+of the force. Their leader, Roman Sokolov, is a wealthy oligarch with ties to the
+Kremlin. Most personnel enjoyed a thorough paramilitary training and their
+equipment pool is modern. The entire force is estimated to consist of about
+2000-2500 men.
 
-[Combat Support Units](./NSPR%20Volunteer%20Rifle%20Contingent.md#combat-support-units--0---1)
+In contrast to Bratstwa stands the majority of NSPR soldiers, which consist of
+more left-leaning, mostly ethnic russian estonians, which are fighting for anything
+between a sovereign, communist state, just more autonomy, frustration and pure
+hartred for the West. These people come from diverse backgrounds, some have former
+military training, like the soviet mandatory service or come from a estonian armed
+forces background. Most have no real prior experience at all and were trained
+covertly in NSPR training camps throughout the county.
 
-[Machine gun](./NSPR%20Volunteer%20Rifle%20Contingent.md#machine-gun-team--0---1)
-
-[AT](./NSPR%20Volunteer%20Rifle%20Contingent.md#anti-tank-team--0---1)
-
-[AA](./NSPR%20Volunteer%20Rifle%20Contingent.md#anti-air-systems--0---1)
-
-[Drone](./NSPR%20Volunteer%20Rifle%20Contingent.md#drone-team--0---1)
-
-[Mortar](./NSPR%20Volunteer%20Rifle%20Contingent.md#mortar-team--0---1-)
-
-[Artillery](./NSPR%20Volunteer%20Rifle%20Contingent.md#artillery--0---1-)
-
-[Artillery Support](./NSPR%20Volunteer%20Rifle%20Contingent.md#artillery-support--0---1-)
-
-[IFVs and APCs](./NSPR%20Volunteer%20Rifle%20Contingent.md#armoured-personell-carriers--infantry-fighting-vehicles)
-
-[Heavy Armour](./NSPR%20Volunteer%20Rifle%20Contingent.md#extended-vehicle-pool--0---1)
-
-[Transports](./NSPR%20Volunteer%20Rifle%20Contingent.md#transport)
+The vehicle pool is a mix of former soviet equipment, some stolen western/estonian
+armed forces materiell, small amounts of modern russian weaponry and just reworked
+civilian technicals. Additionally, some civilian drones are used for surveillance,
+as IED carriers or suicide drones.
 
 ***
 
@@ -41,7 +38,8 @@
 
 Due to being accustomed to the surrounding terrain features, INDEPENDENT
 forces do not have to fulfill an order check to enter the map as reserve
-units.</br>
+units.
+
 *TLDR no order checks for all reserve transports*
 
 ### Foreign aid
@@ -50,7 +48,8 @@ As part of undisclosed weapon shipments from alligned nations, INDEPENDENT
 forces receive a free medium mortar as part of their artillery section.
 
 This unit is counted as a regular mortar with a spotter. It does not block
-a mortar slot.</br>
+a mortar slot.
+
 *TLDR free regular medium mortar with spotter*
 
 ### Old technology
