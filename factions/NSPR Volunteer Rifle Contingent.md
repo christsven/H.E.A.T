@@ -519,6 +519,12 @@ the IFV rule can also choose to ignore it and act on its own.
 
 ![btr d image](../factions/ressources/btrd-new.excalidraw.png)
 
+The BTR-D is a Soviet airborne multi-purpose tracked armoured personnel carrier.
+It was introduced in 1974 and first seen by the West in 1979 during the
+Soviet–Afghan War. A unique design based on the BMD-1, addressing some of its
+design flaws with a bigger troop compartment and the removal of a turret in favor
+of two front-facing machine guns.
+
 | BTR-D | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 102 pt / 120 pt / 138 pt |
@@ -549,7 +555,10 @@ capacity.
 
 ![btr 80](../factions/ressources/btr80.excalidraw.png)
 
-More modern version of the older BTR series.
+The BTR-80 is an 8×8 wheeled APC designed in the Soviet Union. It was adopted in
+1985 and replaced the previous vehicles, the BTR-60 and BTR-70, in the Soviet
+Army. It was first deployed during the Soviet–Afghan War and serves to this day
+in many modern armies.
 
 | BTR-80 | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
