@@ -188,7 +188,7 @@ Anti materiell rifle sniper team.
 Main machine gun unit for infantry warfare, as HMGs are usually only reserved for
 vehicle mounts.
 
-| MMG team | <img src="/factions/nato-symbols/blufor/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
+| MMG team | <img src="/factions/nato-symbols/units/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -202,7 +202,7 @@ A special dual warhead with a delayed high explosive using the breach opened by
 the hollow point. The team consists of a gunner and a loader and is used as a
 direct fire team against infantry in buildings and bunkers, or light vehicles.
 
-| HE RPG team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| HE RPG team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 49 pt / 70 pt / 91 pt |
 | Reinforcement | - |
@@ -218,7 +218,7 @@ direct fire team against infantry in buildings and bunkers, or light vehicles.
 
 Anti-tank rocket team, equipped with a Carl Gustav anti tank recoilless rifle.
 
-| RPG team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| RPG team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | - |
@@ -230,7 +230,7 @@ Anti-tank rocket team, equipped with a Carl Gustav anti tank recoilless rifle.
 
 Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
-| ATGM team | <img src="/factions/nato-symbols/blufor/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
+| ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |
@@ -243,7 +243,7 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 The MILAN (*Missile d′Infanterie léger antichar*) is a light anti tank missile
 system. The projectile is wire guided.
 
-| ATGM team | <img src="/factions/nato-symbols/blufor/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
+| ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |
@@ -257,7 +257,7 @@ The Pansarvärnspjäs 1110, commonly abbreviated as Pvpj-1110 and nicknamed
 "stove pipe", is a swedish anti tank recoilless rifle. It is mounted on a one-axial
 carriage and can be towed.
 
-| Recoilless rifle team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| Recoilless rifle team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Reinforcement | - |
@@ -326,7 +326,7 @@ missions, or be fielded with remote weapon stations in a support or attack role.
 Medium mortar team at infantry group level, models fielded by the estonian army
 include the B-455, M252 and L16A1, all 81mm.
 
-| 81mm medium mortar team | <img src="/factions/nato-symbols/blufor/medium-mortar.excalidraw.png" align="right" alt="medium mortar team" height=30 width=auto></img> |
+| 81mm medium mortar team | <img src="/factions/nato-symbols/units/medium-mortar.excalidraw.png" align="right" alt="medium mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | Spotter +10 pt |
@@ -338,7 +338,7 @@ include the B-455, M252 and L16A1, all 81mm.
 
 heavy mortar team.
 
-| 120mm heavy mortar team | <img src="/factions/nato-symbols/blufor/heavy-mortar.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
+| 120mm heavy mortar team | <img src="/factions/nato-symbols/units/heavy-mortar.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 46 pt / 65 pt / 84 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -354,7 +354,7 @@ heavy mortar team.
 
 A swedish designed light howitzer system used by the estonian armed forces.
 
-| H61-37 105mm light howitzer | <img src="/factions/nato-symbols/blufor/light-howitzer-gun.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
+| H61-37 105mm light howitzer | <img src="/factions/nato-symbols/units/light-howitzer-gun.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 40 pt / 50 pt / 60 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -368,7 +368,7 @@ The D-30 howitzer is a soviet design capable of firing 122mm calibre artillery
 rounds. It has been produced since the 60s and still is in production and
 active service all over the world.
 
-| D-30 122mm medium Howitzer | <img src="/factions/nato-symbols/blufor/medium-howitzer-gun.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
+| D-30 122mm medium Howitzer | <img src="/factions/nato-symbols/units/medium-howitzer-gun.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -382,7 +382,7 @@ The FH-70 howitzer is a towed artillery system in calibre 155mm. It was co-devel
 by several NATO and western alligned nations and serves in a multitude of armies
 to this day.
 
-| 155 mm FH-70 heavy howitzer | <img src="/factions/nato-symbols/blufor/heavy-howitzer-gun.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
+| 155 mm FH-70 heavy howitzer | <img src="/factions/nato-symbols/units/heavy-howitzer-gun.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 92 pt / 115 pt / 138 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -471,7 +471,7 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 A south african design and used in small numbers in Afghanistan and Iraq. It
 utilizes an Unimog chassis. The estonian army uses it in small numbers.
 
-| Mamba Mk2 EE | <img src="/factions/nato-symbols/blufor/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
+| Mamba Mk2 EE | <img src="/factions/nato-symbols/units/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 3 soldiers |
@@ -487,7 +487,7 @@ utilizes an Unimog chassis. The estonian army uses it in small numbers.
 A late 60s design with a high ground clearance used for a range of roles. The
 estonian military uses it as a troop transport or as a weapon platform.
 
-| Volvo Tgb| <img src="/factions/nato-symbols/blufor/wheeled-unarmed.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| Volvo Tgb| <img src="/factions/nato-symbols/units/wheeled-unarmed.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 8 soldiers |
@@ -505,7 +505,7 @@ been used by more countries than not since the 1960s. These vehicles are part
 of a binational armoured formation with the polish forces and sponsored by
 the polish army.
 
-| M113 | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| M113 | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 100 pt / 125 pt / 140 pt |
 | Capacity | 11 soldiers |
@@ -523,7 +523,7 @@ a guaranteed supply of spare parts, the BTR-80 is a relic of soviet times and th
 last major surviving unit by numbers, as BMP1s and other BTR variants have largely
 been retired.
 
-| BTR-80 |  <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| BTR-80 |  <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 110 pt / 120 pt / 130 pt |
 | Capacity | 7 soldiers |
@@ -547,7 +547,7 @@ government was forced to buy from the XA-188 variant from the Dutch Army. The
 vehicle has some modernization, but for all intents and purposes, it is a very
 similar vehicle.
 
-| XA-180EST / XA-188 | <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| XA-180EST / XA-188 | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 16 soldiers |
@@ -566,7 +566,7 @@ The vehicle is a license build BMP-1 variant which is still actively being used
 in the polish forces.
 
 
-| BWP-1 | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
+| BWP-1 | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
@@ -587,7 +587,7 @@ mobility in artic climate and swamplands, making it ideal for estonian terrain.
 Currently the system has over a thousand units produced and is being operated
 by 17 nations, 7 of which are NATO members.
 
-| CV9035EE | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="Combat Vehicle" height=30 idth=auto></img> |
+| CV9035EE | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="Combat Vehicle" height=30 idth=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 8 soldiers |
@@ -613,7 +613,7 @@ the licence built T-72M variants Poland inherited from soviet times, which were
 being faced out by Poland in favor of the M1 Abrams, Leopards, the korean K2 and
 a domestic derivative called the PT-91 Twardy.
 
-| T-72M | <img src="/factions/nato-symbols/blufor/mbt.excalidraw.png" align="right" alt="Combat Vehicle" height=30 width=auto></img> |
+| T-72M | <img src="/factions/nato-symbols/units/mbt.excalidraw.png" align="right" alt="Combat Vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |

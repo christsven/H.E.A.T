@@ -2,8 +2,12 @@
 
 ![vjtf logo](ressources/vjtf-logo.excalidraw.png)
 
-*Emblem of the current Brigade assigned to the VJTF*
+*Panzergrenadierbrigade 37 „Freistaat Sachsen", currently assigned to the VJTF*
 
+
+![nrf](/scenarios/ressources/nrf-logo.excalidraw.png)
+
+*Logo of NATO Response Force*
 ***
 
 ## Army modifiers
@@ -192,7 +196,7 @@ place as a general purpose machine gun. Especially on a "Dreibein"-mount it can
 be used as a anti-air machine gun, as it has a special iron sight just for this
 purpose on the regular model.
 
-| MG3 MMG team |  <img src="/factions/nato-symbols/blufor/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
+| MG3 MMG team |  <img src="/factions/nato-symbols/units/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -204,7 +208,7 @@ purpose on the regular model.
 
 The more modern counterpart and future main machine gun of the german forces.
 
-| MG5 MMG team | <img src="/factions/nato-symbols/blufor/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
+| MG5 MMG team | <img src="/factions/nato-symbols/units/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -216,7 +220,7 @@ The more modern counterpart and future main machine gun of the german forces.
 
 .50cal HMG team.
 
-| .50cal Browning HMG team | <img src="/factions/nato-symbols/blufor/hmg-t.excalidraw.png" align="right" alt="heavy machine gun team" height=30 width=auto></img> |
+| .50cal Browning HMG team | <img src="/factions/nato-symbols/units/hmg-t.excalidraw.png" align="right" alt="heavy machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 49 pt / 70 pt / 91 pt |
 | Reinforcement | - |
@@ -228,7 +232,7 @@ The more modern counterpart and future main machine gun of the german forces.
 
 A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special services.
 
-| MG3 quad | <img src="/factions/nato-symbols/blufor/mmg-q.excalidraw.png" align="right" alt="medium machine gun quad" height=30 width=auto></img> |
+| MG3 quad | <img src="/factions/nato-symbols/units/mmg-q.excalidraw.png" align="right" alt="medium machine gun quad" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 65 pt / 80 pt |
 | Reinforcement | - |
@@ -242,7 +246,7 @@ The AGl of the german forces, the "GraMaWa M1" is a HK GMW automatic grenade
 launcher. Operated and carried by three people, it is used as a direct fire or
 unguided indirect fire weapon against infantry and light vehicles.
 
-| AGL team | <img src="/factions/nato-symbols/blufor/gmg-t.excalidraw.png" align="right" alt="grenade machine gun team" height=30 width=auto></img> |
+| AGL team | <img src="/factions/nato-symbols/units/gmg-t.excalidraw.png" align="right" alt="grenade machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -258,7 +262,7 @@ or 1,300 mm (4 ft 3 in) of sandbags. The team consists of a gunner and a loader
 and is used as a direct fire team against infantry in buildings and bunkers, or
 light vehicles.
 
-| HE RPG team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| HE RPG team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 49 pt / 70 pt / 91 pt |
 | Reinforcement | - |
@@ -275,7 +279,7 @@ light vehicles.
 Anti-tank rocket team, equipped with Panzerfaust 3, which is the standard issue
 german RPG.
 
-| PzF 3 team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| PzF 3 team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | - |
@@ -289,7 +293,7 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle. Equipped
 with modern, israeli "Spike" missiles, under the german designation "MELLS" for
 "Mehrrollenfähiges Leichtes Lenkflugkörper-System".
 
-| MELLS ATGM team | <img src="/factions/nato-symbols/blufor/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
+| MELLS ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |
@@ -359,7 +363,7 @@ fixed wing air vehicle for artillery guidance.
 
 light mortar team.
 
-| M224 LWCMS 60mm light mortar team | <img src="/factions/nato-symbols/blufor/light-mortar.excalidraw.png" align="right" alt="light mortar team" height=30 width=auto></img> |
+| M224 LWCMS 60mm light mortar team | <img src="/factions/nato-symbols/units/light-mortar.excalidraw.png" align="right" alt="light mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 24 pt / 35 pt / 46 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -371,7 +375,7 @@ light mortar team.
 
 Medium mortar team, equipped with a M252 mortar firing a 81mm round.
 
-| M252 81mm medium mortar team | <img src="/factions/nato-symbols/blufor/medium-mortar.excalidraw.png" align="right" alt="medium mortar team" height=30 width=auto></img> |
+| M252 81mm medium mortar team | <img src="/factions/nato-symbols/units/medium-mortar.excalidraw.png" align="right" alt="medium mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | Spotter +10 pt |
@@ -383,7 +387,7 @@ Medium mortar team, equipped with a M252 mortar firing a 81mm round.
 
 Tampella Mörser 120mm with "Erdsporen" for non-vehicle deployment.
 
-| 120mm heavy mortar team | <img src="/factions/nato-symbols/blufor/heavy-mortar.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
+| 120mm heavy mortar team | <img src="/factions/nato-symbols/units/heavy-mortar.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 46 pt / 65 pt / 84 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -395,7 +399,7 @@ Tampella Mörser 120mm with "Erdsporen" for non-vehicle deployment.
 
 M113 mounted heavy mortar system, as it is form for any good NATO army.
 
-| 120mm heavy mortar M113 | <img src="/factions/nato-symbols/blufor/tracked-heavy-mortar.excalidraw.png" align="right" alt="self propelled heavy mortar team" height=30 width=auto></img> |
+| 120mm heavy mortar M113 | <img src="/factions/nato-symbols/units/tracked-heavy-mortar.excalidraw.png" align="right" alt="self propelled heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -408,7 +412,7 @@ M113 mounted heavy mortar system, as it is form for any good NATO army.
 
 Wiesel I mounted heavy mortar system.
 
-| 120mm heavy mortar Wiesel | <img src="/factions/nato-symbols/blufor/tracked-heavy-mortar.excalidraw.png" align="right" alt="self propelled heavy mortar team" height=30 width=auto></img> |
+| 120mm heavy mortar Wiesel | <img src="/factions/nato-symbols/units/tracked-heavy-mortar.excalidraw.png" align="right" alt="self propelled heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 46 pt / 65 pt / 84 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -441,7 +445,7 @@ Forward observer team for a artillery battery.
 This variant of the M113 APC is used as a platoon spotter. Any indirect fire unit
 that can coordinate with a spotter can use this APC as its spotter (Check [adjustments](../ruleset/H.E.A.T.md#spotters)).
 
-| M113 Spotter | <img src="/factions/nato-symbols/blufor/tracked-spotter-t.excalidraw.png" align="right" alt="self propelled spotter" height=30 width=auto></img> |
+| M113 Spotter | <img src="/factions/nato-symbols/units/tracked-spotter-t.excalidraw.png" align="right" alt="self propelled spotter" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 55 pt / 60 pt |
 | Capacity | - |
@@ -459,7 +463,7 @@ the ADLER III artillery command system and a BAA II surveillance module.
 
 The unit is mounted on a LGS Fennek 1A4.
 
-| JFST | <img src="/factions/nato-symbols/blufor/wheeled-spotter-t.excalidraw.png" align="right" alt="Artillery support unit" height=30 width=auto></img> |
+| JFST | <img src="/factions/nato-symbols/units/wheeled-spotter-t.excalidraw.png" align="right" alt="Artillery support unit" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
@@ -490,7 +494,7 @@ The Hummel ("Bumblebee") is a variant of the Fuchs A4/A5 with a high powered
 electronic countermeasures system. It is able to block radio waves in the VHF and
 UHF range, blocking satellite communitation, radios, data connections and more.
 
-| TPz Fuchs 1A4/5 | <img src="/factions/nato-symbols/blufor/wheeled-eloka.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
+| TPz Fuchs 1A4/5 | <img src="/factions/nato-symbols/units/wheeled-eloka.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
@@ -514,7 +518,7 @@ Any vehicle that has the IFV rule can also choose to ignore it and act on its ow
 The Eagle IV and V are MRAPs for a variety of roles, such as command and operations
 or medical evacuation missions. A fast, capable offroader with modern weaponry.
 
-| Eagle IV MRAP | <img src="/factions/nato-symbols/blufor/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
+| Eagle IV MRAP | <img src="/factions/nato-symbols/units/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 2 soldiers |
@@ -527,7 +531,7 @@ or medical evacuation missions. A fast, capable offroader with modern weaponry.
 
 Newer version of the Eagle IV, equipped with the heavier FLW 200.
 
-| Eagle V MRAP | <img src="/factions/nato-symbols/blufor/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
+| Eagle V MRAP | <img src="/factions/nato-symbols/units/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 2 soldiers |
@@ -543,7 +547,7 @@ Newer version of the Eagle IV, equipped with the heavier FLW 200.
 The Enok LAPV is a heavily modified Mercedes G-class Wolf with increased mine
 resistancy and off road capability. Used primarily by special forces.
 
-| Enok 6.1 LAPV | <img src="/factions/nato-symbols/blufor/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
+| Enok 6.1 LAPV | <img src="/factions/nato-symbols/units/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 4 soldiers |
@@ -560,7 +564,7 @@ An airmobile multi purpose vehicle with extensive anti-mine resistance measures,
 used for troop transport and medical operations. Usually used by military police
 and medical personnel in missions to Africa or Asia.
 
-| Duro 3 Yak | <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
+| Duro 3 Yak | <img src="/factions/nato-symbols/units/wheeled-multiaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 16 soldiers |
@@ -577,7 +581,7 @@ The Mungo is an airmobile troop transport used by special forces and in foreign
 missions of the german army. It comes in several different variants and can
 transport up to 8 soldiers.
 
-| ESK Mungo | <img src="/factions/nato-symbols/blufor/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
+| ESK Mungo | <img src="/factions/nato-symbols/units/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 8 soldiers |
@@ -598,7 +602,7 @@ Fennek is able to deploy in any terrain to observe an area with its extensive
 arsenal of IR/NV cameras on an extendable mast, or engage enemy forces with its
 remote weapon station of modular loadout.
 
-| Fennek | <img src="/factions/nato-symbols/blufor/wheeled-oneaxis-recon-apc.excalidraw.png" align="right" alt="Recon MRAP" height=30 width=auto></img> |
+| Fennek | <img src="/factions/nato-symbols/units/wheeled-oneaxis-recon-apc.excalidraw.png" align="right" alt="Recon MRAP" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 65 pt / 70 pt |
 | Capacity | 2 soldiers |
@@ -617,7 +621,7 @@ vehicle. It is able to traverse offroad as well as perform sharp turns in urban
 environments, making it a versatile, fast and well received part of the german
 vehicle pool.
 
-| ATF Dingo 1 | <img src="/factions/nato-symbols/blufor/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
+| ATF Dingo 1 | <img src="/factions/nato-symbols/units/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 65 pt / 70 pt |
 | Capacity | 2 soldiers |
@@ -630,7 +634,7 @@ vehicle pool.
 
 Larger version of the Dingo on an Unimog 5000 frame.
 
-| ATF Dingo 2 |<img src="/factions/nato-symbols/blufor/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
+| ATF Dingo 2 |<img src="/factions/nato-symbols/units/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 70 pt / 80 pt / 90 pt |
 | Capacity | 5 soldiers |
@@ -648,7 +652,7 @@ been used by more countries than not since the 1960s. The Bundeswehr uses it
 nowadays in support roles, e. g. with a 120mm, custom made mortar weapon system
 in the rear.
 
-| M113 | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| M113 | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 100 pt / 125 pt / 140 pt |
 | Capacity | 11 soldiers |
@@ -666,7 +670,7 @@ versatile and reliable, if also old-fashioned, troop transport for the german
 armed forces. With almost as many variants and upgrade kits as the M113, this
 APC can be equipped with medical equipment, command utility or recon modifications.
 
-| TPz Fuchs 1A4/5 | <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| TPz Fuchs 1A4/5 | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 95 pt / 110 pt / 125 pt |
 | Capacity | 8 soldiers |
@@ -685,7 +689,7 @@ armored vehicles, which includes various configurations for different military r
 The GTK Boxer IFV is specifically designed to transport and support infantry
 troops on the battlefield.
 
-| GTK Boxer | <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| GTK Boxer | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 90 pt / 105 pt / 120 pt |
 | Capacity | 7 soldiers |
@@ -703,7 +707,7 @@ since the 1970s. It was designed to transport infantry troops and support them
 on the battlefield. While it has seen several upgrades over the years, it is
 gradually being replaced by more modern IFV designs in some armed forces.
 
-| SPz 1A3 Marder | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| SPz 1A3 Marder | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 120 pt / 135 pt / 150 pt |
 | Capacity | 6 soldiers |
@@ -725,7 +729,7 @@ purposes. It also uses the israeli Spike ATGM instead of the older MILAN system.
 This vehicle is just being introduced into the Heer and is only available in
 small numbers for field testing.
 
-| SPz Puma | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| SPz Puma | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 164 pt / 179 pt / 194 pt |
 | Capacity | 6 soldiers |
@@ -736,7 +740,7 @@ small numbers for field testing.
 
 ### M2/M3 Bradley
 
-| M2/M3 Bradley | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| M2/M3 Bradley | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 134 pt / 149 pt / 164 pt |
 | Capacity | 6 soldiers |
@@ -761,7 +765,7 @@ by german special forces.
 All weapons being actively manned as a vehicle in this category, there is place
 for 3 additional soldiers in the back.
 
-| Combat Vehicle Serval | <img src="/factions/nato-symbols/blufor/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
+| Combat Vehicle Serval | <img src="/factions/nato-symbols/units/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 3 soldiers |
@@ -780,7 +784,7 @@ anti air system. Capable of air transport with a A400M or helicopter.
 
 #### Wiesel I TOW
 
-| Wiesel I TOW | <img src="/factions/nato-symbols/blufor/wiesel.excalidraw.png" align="right" alt="Tankette" height=30 width=auto></img> |
+| Wiesel I TOW | <img src="/factions/nato-symbols/units/wiesel.excalidraw.png" align="right" alt="Tankette" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
@@ -791,7 +795,7 @@ anti air system. Capable of air transport with a A400M or helicopter.
 
 #### Wiesel I A3 MK
 
-| Wiesel I A3 MK | <img src="/factions/nato-symbols/blufor/wiesel.excalidraw.png" align="right" alt="Tankette" height=30 width=auto></img> |
+| Wiesel I A3 MK | <img src="/factions/nato-symbols/units/wiesel.excalidraw.png" align="right" alt="Tankette" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
@@ -813,7 +817,7 @@ modern features that enhance its accuracy and situational awareness. The Leopard
 2A6 is used by several countries and is recognized for its combat effectiveness
 and reliability.
 
-| Leopard 2A6 | <img src="/factions/nato-symbols/blufor/mbt.excalidraw.png" align="right" alt="Main battle tank" height=30 width=auto></img> |
+| Leopard 2A6 | <img src="/factions/nato-symbols/units/mbt.excalidraw.png" align="right" alt="Main battle tank" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 210 pt / 225 pt / 240 pt |
 | Capacity | - |
@@ -826,7 +830,7 @@ and reliability.
 
 ![pzh2k](/factions/ressources/panzerhaubitze.excalidraw.png)
 
-| Panzerhaubitze 2000 | <img src="/factions/nato-symbols/blufor/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
+| Panzerhaubitze 2000 | <img src="/factions/nato-symbols/units/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
@@ -839,7 +843,7 @@ and reliability.
 
 ![mars mlrs](/factions/ressources/mars2.excalidraw.png)
 
-| MARS II MLRS | <img src="/factions/nato-symbols/blufor/tracked-artillery-mlrs.excalidraw.png" align="right" alt="MLRS System" height=30 width=auto></img> |
+| MARS II MLRS | <img src="/factions/nato-symbols/units/tracked-artillery-mlrs.excalidraw.png" align="right" alt="MLRS System" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 181 pt / 196 pt / 211 pt |
 | Capacity | - |

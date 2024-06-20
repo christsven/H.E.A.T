@@ -195,7 +195,7 @@ Anti materiell rifle sniper team.
 Lithuanian MG3s taken from wartime storage to equip the new formations.
 MG3 MMG team.
 
-| MG3 MMG team | <img src="/factions/nato-symbols/blufor/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
+| MG3 MMG team | <img src="/factions/nato-symbols/units/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -207,7 +207,7 @@ MG3 MMG team.
 
 .50cal HMG team.
 
-| .50cal Browning HMG team | <img src="/factions/nato-symbols/blufor/hmg-t.excalidraw.png" align="right" alt="heavy machine gun team" height=30 width=auto></img> |
+| .50cal Browning HMG team | <img src="/factions/nato-symbols/units/hmg-t.excalidraw.png" align="right" alt="heavy machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 49 pt / 70 pt / 91 pt |
 | Reinforcement | - |
@@ -219,7 +219,7 @@ MG3 MMG team.
 
 A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG.
 
-| MG3 quad | <img src="/factions/nato-symbols/blufor/mmg-q.excalidraw.png" align="right" alt="medium machine gun quad" height=30 width=auto></img> |
+| MG3 quad | <img src="/factions/nato-symbols/units/mmg-q.excalidraw.png" align="right" alt="medium machine gun quad" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 65 pt / 80 pt |
 | Reinforcement | - |
@@ -231,7 +231,7 @@ A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG.
 
 AGL team with a HK GMG 40mm.
 
-| AGL team | <img src="/factions/nato-symbols/blufor/gmg-t.excalidraw.png" align="right" alt="grenade machine gun team" height=30 width=auto></img> |
+| AGL team | <img src="/factions/nato-symbols/units/gmg-t.excalidraw.png" align="right" alt="grenade machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -249,7 +249,7 @@ Anti-tank rocket team, equipped with a mix of Carl Gustav, Panzerfaust 3s, and
 other arms donations that made it from the armed forces down to the reserve
 brigades.
 
-| RPG team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| RPG team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | - |
@@ -261,7 +261,7 @@ brigades.
 
 Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
-| Javelin team | <img src="/factions/nato-symbols/blufor/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
+| Javelin team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |
@@ -275,7 +275,7 @@ The Pansarvärnspjäs 1110, commonly abbreviated as Pvpj-1110 and nicknamed
 "stove pipe", is a swedish anti tank recoilless rifle. It is mounted on a one-axial
 carriage and can be towed.
 
-| Recoilless rifle team | <img src="/factions/nato-symbols/blufor/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| Recoilless rifle team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Reinforcement | - |
@@ -329,7 +329,7 @@ balance the missing firepower.
 
 light mortar team.
 
-| 60mm light mortar team | <img src="/factions/nato-symbols/blufor/light-mortar.excalidraw.png" align="right" alt="light mortar team" height=30 width=auto></img> |
+| 60mm light mortar team | <img src="/factions/nato-symbols/units/light-mortar.excalidraw.png" align="right" alt="light mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 24 pt / 35 pt / 46 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -342,7 +342,7 @@ light mortar team.
 Medium mortar team at infantry group level, models fielded by the estonian army
 include the B-455, M252 and L16A1, all 81mm.
 
-| 81mm medium mortar team | <img src="/factions/nato-symbols/blufor/medium-mortar.excalidraw.png" align="right" alt="medium mortar team" height=30 width=auto></img> |
+| 81mm medium mortar team | <img src="/factions/nato-symbols/units/medium-mortar.excalidraw.png" align="right" alt="medium mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | Spotter +10 pt |
@@ -354,7 +354,7 @@ include the B-455, M252 and L16A1, all 81mm.
 
 heavy mortar team.
 
-| 120mm heavy mortar team | <img src="/factions/nato-symbols/blufor/heavy-mortar.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
+| 120mm heavy mortar team | <img src="/factions/nato-symbols/units/heavy-mortar.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 46 pt / 65 pt / 84 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -364,7 +364,7 @@ heavy mortar team.
 
 ### M113 self propelled mortar
 
-| M113 | <img src="/factions/nato-symbols/blufor/tracked-heavy-mortar.excalidraw.png" align="right" alt="self propelled heavy mortar" height=30 width=auto></img> |
+| M113 | <img src="/factions/nato-symbols/units/tracked-heavy-mortar.excalidraw.png" align="right" alt="self propelled heavy mortar" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 130 pt / 150 pt / 170 pt |
 | Capacity | - |
@@ -451,7 +451,7 @@ pulses at up to 5km of range. Issued for experimental use.
 Originally donated to the latvian army by the USA, some of the ~40 vehicles were
 put to use for the BASEP units.
 
-| HMMWV | <img src="/factions/nato-symbols/blufor/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
+| HMMWV | <img src="/factions/nato-symbols/units/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 65 pt / 70 pt |
 | Capacity | 3 soldiers |
@@ -468,7 +468,7 @@ A true workhorse of NATO forces, the M113 comes in dozens of variants and has
 been used by more countries than not since the 1960s. These vehicles were formerly
 used by the lithuanian army.
 
-| M113 | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| M113 | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 100 pt / 125 pt / 140 pt |
 | Capacity | 11 soldiers |
@@ -484,7 +484,7 @@ used by the lithuanian army.
 The Estonian Defense League still fields some BTR-80s as troop transports, which
 were reshuffled after the polish arms donations and BWP-1 aquisitions.
 
-| BTR-80 | <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| BTR-80 | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 110 pt / 120 pt / 130 pt |
 | Capacity | 7 soldiers |
@@ -508,7 +508,7 @@ government was forced to buy from the XA-188 variant from the Dutch Army. The
 vehicle has some modernization, but for all intents and purposes, it is a very
 similar vehicle.
 
-| XA-180EST / XA-188 | <img src="/factions/nato-symbols/blufor/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| XA-180EST / XA-188 | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 16 soldiers |
@@ -530,7 +530,7 @@ mobility in artic climate and swamplands, making it ideal for estonian terrain.
 Currently the system has over a thousand units produced and is being operated
 by 17 nations, 7 of which are NATO members.
 
-| CV9035EE | <img src="/factions/nato-symbols/blufor/tracked-ifv.excalidraw.png" align="right" alt="Combat Vehicle" height=30 width=auto></img> |
+| CV9035EE | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="Combat Vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 8 soldiers |
@@ -552,7 +552,7 @@ are available for missions to BASEP. The "Combat Vehicle Reconnaissance (Tracked
 APC family has several different variants of the small tracked chassis ranging
 from C&C over medical units to small tanks with autocannons.
 
-| CVR(T) | <img src="/factions/nato-symbols/blufor/tracked-light-tank.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
+| CVR(T) | <img src="/factions/nato-symbols/units/tracked-light-tank.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 45 / 50 / 55 pt |
 | Capacity | - |
