@@ -55,7 +55,7 @@ Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
 
 _Mix of german, french, italian and slovac gear. Modern and diverse._
 
-[EUFOR Roster](/factions/EUFOR%20Division.md)
+[EUFOR Roster](/factions/EUFOR%20Estonia%20Forces.md)
 
 <img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto width=150></img>
 
