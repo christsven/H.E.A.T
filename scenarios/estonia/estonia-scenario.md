@@ -9,7 +9,7 @@ war can be found [here](/scenarios/estonia/background-information-estonia.md).
 
 ## Factions
 
-<img src="/factions/ressources/platoon-leader-nspr.excalidraw.png" align="right" alt="Command team" height=250 width=auto></img>
+<img src="/factions/ressources/platoon-leader-nspr.excalidraw.png" align="right" alt="Command team" height=auto width=250></img>
 
 Factions are ordered by alignment as seen from a NATO perspective. BLUFOR are
 all NATO or NATO-allied forces, OPFOR represents all enemy forces.
@@ -72,7 +72,7 @@ and PMC formation with more modern equipment._
 
 ## Scenarios
 
-<img src="/factions/ressources/leopard-new.excalidraw.png" align=right alt="Command team" height=250 width=auto></img>
+<img src="/factions/ressources/leopard-new.excalidraw.png" alt="MBT" align=right height=auto width=350></img>
 
 This section contains several key events, interesting locations and
 more general scenarios for typical skirmishes in this scenario.
@@ -83,7 +83,7 @@ more general scenarios for typical skirmishes in this scenario.
 #### Attack on Jõhvi Garrison
 
 At the beginning of the war, NSPR forces overwhelmed the Jõhvi Infantry
-Garrison in a surprise attack. 
+Garrison in a surprise attack.
 
 | **Attack on Jõhvi Garrison** | <img src="/scenarios/ressources/johvi-layout.excalidraw.png" align="right" alt="Command team" height=400 width=auto></img> |
 | :--- | :--- |
@@ -114,7 +114,7 @@ dam led to a skirmish between the two.
 #### Bog raids
 
 The decentralized logistical grid helped the NSPR against singular artillery strikes,
-but made them susseptible against raid attacks via helicopter by the border guards. 
+but made them susseptible against raid attacks via helicopter by the border guards.
 
 #### Attack on convoi
 
@@ -129,7 +129,7 @@ the old oil shale excavation sites in Kivioli.
 #### EUFOR port raid on Sillimäe
 
 NAVEUFOR attacked Sillimäe port in a night campaign, securing a bridgehead
-for reinforcements. 
+for reinforcements.
 
 ### 2018
 
