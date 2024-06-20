@@ -1,42 +1,37 @@
 # H.E.A.T. Skirmish Wargame
 
-![heatjaks](/ruleset/ressources/introduction.excalidraw.png)
 
-This is H.E.A.T, a 28mm platoon-sized wargame expansion. Ideal for 2010-2020 era
+<img src="/ruleset/ressources/introduction.excalidraw.png" align="center" alt="HEATjaks" height=auto width=75%></img>
+
+This is **H.E.A.T**, a 28mm platoon-sized wargame expansion. Ideal for 2010-2020 era
 symmetrical or assymetrical warfare.
 
 ## Rules
 
-You can find the ruleset with all additions [here](ruleset/H.E.A.T.md).
-
-_This is meant as a expansion of Bolt Action rules, so only additions or in a few
+This is meant as a expansion of Bolt Action rules, so only additions or in a few
 cases rebalanced rules are provided. Everything else can be found in the
-Bolt Action v2 rulebook._
+Bolt Action v2 rulebook (and if necessary, I will adjust this for the v3 rulebook
+as well, once its out).
+
+[Ruleset Expansion](ruleset/H.E.A.T.md)
 
 ***
 
 ## Scenarios
 
-### Civil war in Estonia
+A list of scenarios with their own storyline, scenarios templates, army lists and
+everything else needed for a modern wargame.
 
-![estonia header](/scenarios/ressources/flag-nspr.excalidraw.png)
+### Estonian Civil War
+
+<img src="/scenarios/ressources/flag-nspr.excalidraw.png" align="center" alt="NSPR Flag" height=auto width=50%></img>
 
 War in Europe right next to the russian border.
 
 A volatile situation ready to escalate to a full-blown land war between NATO
 and Russia over a single misstep on either side.
 
-[Scenario I: Estonia](/scenarios/estonia/estonia-scenario.md)
-
-## Generic Lists
-
-For 2010-2020 era vehicles and units without a scenario context.
-
-[BLUFOR Roster]()
-
-[OPFOR Roster]()
-
-[INDFOR Roster]()
+[Scenario Overview Page](/scenarios/estonia/estonia-scenario.md)
 
 ***
 
