@@ -1,7 +1,7 @@
 # H.E.A.T. Skirmish Wargame
 
 
-<img src="/ruleset/ressources/introduction.excalidraw.png" align="center" alt="HEATjaks" height=auto width=75%></img>
+<img src="/ruleset/ressources/introduction.excalidraw.png" align="center" alt="HEATjaks" height=auto width=100%></img>
 
 This is **H.E.A.T**, a 28mm platoon-sized wargame expansion. Ideal for 2010-2020 era
 symmetrical or assymetrical warfare.
