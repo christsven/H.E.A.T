@@ -8,6 +8,7 @@
 ![nrf](/scenarios/ressources/nrf-logo.excalidraw.png)
 
 *Logo of NATO Response Force*
+
 ***
 
 ## Army modifiers
@@ -16,14 +17,16 @@
 
 Due to a lack of experience regarding mobilization at a divisional level, the
 strain on logistic is quite high. Transport units must perform an order check
-with 2 pin markers when moving out of reserve to represent the stressed personnel.</br>
+with 2 pin markers when moving out of reserve to represent the stressed personnel.
+
 *TLDR +2 pin on all reserve transports*
 
 ### High Training standards
 
 Many NATO soldiers had extensive pre-deployment training in JMRCs, allowing them
 to perform better under stressful situations. Regular or Veteran infantry units
-are allowed to reroll failed morale checks.</br>
+are allowed to reroll failed morale checks.
+
 *TLDR reroll failed morale checks for reg/vet infantry groups*
 
 ***
