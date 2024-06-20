@@ -2,36 +2,33 @@
 
 ![nspr logo](./ressources/nspr-rifle-contingent-logo.excalidraw.png)
 
+*Emblem of the Narva Volunteer Rifle Contingent*
+
 ![pmc logo](./ressources/bratstwa.excalidraw.png)
-***
 
-## Links
+*PMC Bratstwa Logo*
 
-[Platoon Leader](./NSPR%20Volunteer%20Rifle%20Contingent.md#platoon-leader--1)
+The NSPR has a standing force of around 10-13.000 personnel, which serve under
+the umbrella of the NSPR flag. Internally, there are several factions.
 
-[Infantry Units](./NSPR%20Volunteer%20Rifle%20Contingent.md#infantry-units--2---5)
+The "Bratstwa" far-right, russian-nationalistic militia is the best equipped part
+of the force. Their leader, Roman Sokolov, is a wealthy oligarch with ties to the
+Kremlin. Most personnel enjoyed a thorough paramilitary training and their
+equipment pool is modern. The entire force is estimated to consist of about
+2000-2500 men.
 
-[Combat Support Units](./NSPR%20Volunteer%20Rifle%20Contingent.md#combat-support-units--0---1)
+In contrast to Bratstwa stands the majority of NSPR soldiers, which consist of
+more left-leaning, mostly ethnic russian estonians, which are fighting for anything
+between a sovereign, communist state, just more autonomy, frustration and pure
+hartred for the West. These people come from diverse backgrounds, some have former
+military training, like the soviet mandatory service or come from a estonian armed
+forces background. Most have no real prior experience at all and were trained
+covertly in NSPR training camps throughout the county.
 
-[Machine gun](./NSPR%20Volunteer%20Rifle%20Contingent.md#machine-gun-team--0---1)
-
-[AT](./NSPR%20Volunteer%20Rifle%20Contingent.md#anti-tank-team--0---1)
-
-[AA](./NSPR%20Volunteer%20Rifle%20Contingent.md#anti-air-systems--0---1)
-
-[Drone](./NSPR%20Volunteer%20Rifle%20Contingent.md#drone-team--0---1)
-
-[Mortar](./NSPR%20Volunteer%20Rifle%20Contingent.md#mortar-team--0---1-)
-
-[Artillery](./NSPR%20Volunteer%20Rifle%20Contingent.md#artillery--0---1-)
-
-[Artillery Support](./NSPR%20Volunteer%20Rifle%20Contingent.md#artillery-support--0---1-)
-
-[IFVs and APCs](./NSPR%20Volunteer%20Rifle%20Contingent.md#armoured-personell-carriers--infantry-fighting-vehicles)
-
-[Heavy Armour](./NSPR%20Volunteer%20Rifle%20Contingent.md#extended-vehicle-pool--0---1)
-
-[Transports](./NSPR%20Volunteer%20Rifle%20Contingent.md#transport)
+The vehicle pool is a mix of former soviet equipment, some stolen western/estonian
+armed forces materiell, small amounts of modern russian weaponry and just reworked
+civilian technicals. Additionally, some civilian drones are used for surveillance,
+as IED carriers or suicide drones.
 
 ***
 
@@ -41,7 +38,8 @@
 
 Due to being accustomed to the surrounding terrain features, INDEPENDENT
 forces do not have to fulfill an order check to enter the map as reserve
-units.</br>
+units.
+
 *TLDR no order checks for all reserve transports*
 
 ### Foreign aid
@@ -50,7 +48,8 @@ As part of undisclosed weapon shipments from alligned nations, INDEPENDENT
 forces receive a free medium mortar as part of their artillery section.
 
 This unit is counted as a regular mortar with a spotter. It does not block
-a mortar slot.</br>
+a mortar slot.
+
 *TLDR free regular medium mortar with spotter*
 
 ### Old technology
@@ -124,13 +123,13 @@ and reporting enemy troop movement.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
 
-### Patrolling squad
+### Assault Detachment
 
 Light infantry unit, which is able to perform flanking operations without
 motorized support or operate in urban environments. Equipped with breaching
 material.
 
-| Patrol squad | Infantry unit |
+| Assault Detachmentä | Infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt |
@@ -150,14 +149,14 @@ A small group with DMR support. Can take up to two DMRs.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+10 pt</td></tr></table> |
 | Special rules | - |
 
-### NSPR resistance infantry squad
+### Motorized Infantry squad
 
 Armored infantry squad, the core of any modern fighting force. Deployed as the
 infanty part of IFVs. Part of the more well-trained core force, these freedom
 fighters have at least undergone mandatory services and understand how a military
 unit has to behave.
 
-| NSPR resistance infantry squad | Infantry unit |
+| Motorized Infantry Squad | Infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt |
@@ -165,13 +164,13 @@ unit has to behave.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
 | Special rules | - |
 
-### Bratstwa infantry squad
+### PMC Contractors squad
 
 The right wing, paramilitary force "Bratstwa" are well-trained and equipped,
 and are used since the revolution began to strike down difficult targets,
 perform covert operations or support breakthrough attempts.
 
-| Bratstwa squad | Infantry unit |
+| PMC squad | Infantry unit |
 | :---- | ---- |
 | Cost | - / 60 pt / 85 pt |
 | Reinforcement | up to 5 attendants (AR): - pt / 10 pt / 13 pt |
@@ -179,7 +178,7 @@ perform covert operations or support breakthrough attempts.
 |Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Stubborn</td><td>-</td></tr></table> |
 
-### Local volunteer rifle squad
+### Light Rifle squad
 
 While NSPR forces have a somewhat regular core force, the majority of freedom- |
 fighting revolutionaries consist of mostly untrained, unprofessional personell,
