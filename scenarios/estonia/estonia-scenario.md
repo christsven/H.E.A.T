@@ -9,7 +9,7 @@ war can be found [here](/scenarios/estonia/background-information-estonia.md).
 
 ## Factions
 
-![faction header](/factions/ressources/platoon-leader-nspr.excalidraw.png)
+<img src="/factions/ressources/platoon-leader-nspr.excalidraw.png" align="right" alt="Command team" height=400 width=auto></img>
 
 Factions are ordered by alignment as seen from a NATO perspective. BLUFOR are
 all NATO or NATO-allied forces, OPFOR represents all enemy forces.
@@ -72,22 +72,30 @@ and PMC formation with more modern equipment._
 
 ## Scenarios
 
-![header](/scenarios/ressources/estonia-map.excalidraw.png)
+<img src="/factions/ressources/leopard-new.excalidraw.png" align=right alt="Command team" height=400 width=auto></img>
 
 This section contains several key events, interesting locations and
 more general scenarios for typical skirmishes in this scenario.
+*Feel free to adjust any scenario to your liking, these are just ideas.*
 
 ### 2016
 
 #### Attack on Jõhvi Garrison
 
 At the beginning of the war, NSPR forces overwhelmed the Jõhvi Infantry
-Garrison in a surprise attack.
+Garrison in a surprise attack. 
+
+| **Attack on Jõhvi Garrison** | <img src="/scenarios/ressources/johvi-layout.excalidraw.png" align="right" alt="Command team" height=400 width=auto></img> |
+| :--- | :--- |
+| **Objective/Game Mode** | Attacker/Defender |
+| **Set-Up** | - Set up the garrison buildings to take up 2/3rds of the table. <br> - Choose two or more buildings as objective targets.<br> - Defenders set up their units within 12" of any of the objectives.<br> - Attacker sets up at the table edge opposite to the buildings. |
+| **Game Duration** | 6 + 1 Turns |
+| **Victory Conditions** | 1 VP per destroyed units + 3 VP per occupied objective. |
 
 #### Securing the roads
 
 To quickly assert control over Ida Viru, the NSPR built up checkpoints and control
-stations along the E35 and E624, which were frequently attacked by estonian 
+stations along the E35 and E624, which were frequently attacked by estonian
 forces.
 
 #### Urban fighting in Kothla Järve
