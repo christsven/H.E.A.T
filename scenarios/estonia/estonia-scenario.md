@@ -72,10 +72,12 @@ and PMC formation with more modern equipment._
 
 ## Scenarios
 
+![header](/scenarios/ressources/estonia-map.excalidraw.png)
+
 This section contains several key events, interesting locations and
 more general scenarios for typical skirmishes in this scenario.
 
-### 2016 
+### 2016
 
 #### Attack on Jõhvi Garrison
 
@@ -110,10 +112,11 @@ but made them susseptible against raid attacks via helicopter by the border guar
 
 A planned attack on an EUFOR convoi was widely televised as a propaganda tool.
 
-#### Fight for Jõhvi
+#### Battle below the Ashen Hills
 
 With the arrival of EUFOR troops, the estonian forces slowly pushed out NSPR holdouts
-from the larger settlements.
+from the larger settlements, with a notable fight below the artificial hills of
+the old oil shale excavation sites in Kivioli.
 
 #### EUFOR port raid on Sillimäe
 

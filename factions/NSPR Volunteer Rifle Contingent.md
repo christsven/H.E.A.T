@@ -321,7 +321,7 @@ Infantry section equipped with an AT RPG launcher. Used against small vehicles a
 
 Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
-| 9K113 Konkurs ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png-t.excalidraw.png" align="right" alt="ATGM team" height=30 width=auto></img> |
+| 9K113 Konkurs ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="ATGM team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |
@@ -511,9 +511,9 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles
 
-If a vehicle has the IFV rule and is chosen in an IFV role, these vehicles are connected to the first and second mandatory infantry units.
-
-Any vehicle that has the IFV rule can also choose to ignore it and act on its own.
+If a vehicle has the IFV rule and is chosen in an IFV role, these vehicles are
+connected to the first and second mandatory infantry units. Any vehicle that has
+the IFV rule can also choose to ignore it and act on its own.
 
 ### BTR-D
 
@@ -521,12 +521,12 @@ Any vehicle that has the IFV rule can also choose to ignore it and act on its ow
 
 | BTR-D | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 92 pt / 110 pt / 128 pt |
+| Cost | 102 pt / 120 pt / 138 pt |
 | Capacity | 10 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>PKB 7.62mm MMG</td><td>PKB 7.62mm medium machine gun<br><br>The weapon is located in the front-left,<br>similar to a headlight.</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>PKB 7.62mm MMG</td><td>PKB 7.62mm medium machine gun<br><br>The weapon is located in the front-right,<br>similar to a headlight.</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
 | Options |<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>ZSU-23-2<br>medium autocannon</td><td>ZSU-23-2 anti-air gun.<br>This weapon is secured by cables<br>on the sides of the tank, which<br>makes it less stable than a turret-<br>mounted gun, but it's better than<br>nothing, maybe?</td><td><ul><li>pintle-mounted</li><li>separted gun post</li></ul></td><td>+ 30 pt</td></tr></table>All weapons are mounted at the commander's hatch, so only one can be chosen.<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>AGS-17 "Plamja" AGL</td><td>AGS-17 "Plamja" automatic<br> grenade launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>9M14 Malyutka ATGM launcher</td><td>9M14 Malyutka Anti-Tank Guided <br>Missile Launcher<br><br>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Airborne Restraints</td><td>Due to being designed as small as possible to be air-dropped over enemy territory, <br>the BTR-Ds two bow-mounted machine guns were operated by a single machine gunner.<br><br><ul><li>While actively transporting units, the second MMG can be operated by one of the passengers,<br>but once disembarked, only one can be used per turn.</li><li>If any further weapon is added to the BTR-D, this also applies.</li></ul></td></tr><tr><td>Separted gun post</td><td>The cable-mounted ZSU is completely seperated from the inside of the tank.<br><br><ul><li> To operate it, the gunner has to exit the vehicle and get on his post. This can happen after any successful RALLY, ADVANCE or when going DOWN.<br>This cannot happen after a FIRE or RUN.</li><li>The weapon suffers a -1 on the first turn the gunner disembarks.</li><li>Disembarking can happen beforehand to negate this effect.</li><li>Reentering does not require a whole turn, but cannot happen during a RUN order, <br>and not after already firing the weapon.</li><li>While exposed, unit takes double pins.</li></ul></td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Airborne Restraints</td><td>Due to being designed as small as possible to be air-dropped over enemy territory, <br>the BTR-Ds two bow-mounted machine guns were operated by a single machine gunner.<br><br><ul><li>While actively transporting units, the second MMG can be operated by one of the passengers,<br>but once disembarked, only one can be used per turn.</li><li>If any further weapon is added to the BTR-D, this also applies.</li></ul></td></tr><tr><td>Separted gun post</td><td>The cable-mounted ZSU is completely seperated from the inside of the tank.<br><br><ul><li> To operate it, the gunner has to exit the vehicle and get on his post. This can happen after any successful RALLY, ADVANCE or when going DOWN.<br>This cannot happen after a FIRE or RUN.</li><li>The weapon suffers a -1 on the first turn the gunner disembarks.</li><li>Disembarking can happen beforehand to negate this effect.</li><li>Reentering does not require a whole turn, but cannot happen during a RUN order, <br>and not after already firing the weapon.</li><li>While exposed, unit takes double pins.</li></ul></td></tr><tr><td>Amphibious</td><td>-</td></tr></table> |
 
 ### BTR-60P/PB
 
@@ -538,12 +538,12 @@ capacity.
 
 | BTR-60P/PB | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 85 pt / 100 pt / 115 pt |
+| Cost | 95 pt / 110 pt / 125 pt |
 | Capacity | 14 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td><b>Modifier</td></tr><tr><tr><td>Smoke Screen </td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
 | Options | <table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td><td>+ 40 pt</td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.<br><br>Reduces the capacity to **8**.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>-</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Amphibious</td><td>-</td></tr></table> |
 
 ### BTR-80
 
@@ -553,19 +553,20 @@ More modern version of the older BTR series.
 
 | BTR-80 | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 110 pt / 120 pt / 130 pt |
+| Cost | 120 pt / 130 pt / 140 pt |
 | Capacity | 7 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table> |
 | Options |- |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Amphibious</td><td>-</td></tr></table> |
 
 ### MT-LB
 
 ![mt lb image](../factions/ressources/mtlb.excalidraw.png)
 
 The MT-LB is a Soviet multi-purpose, fully amphibious, tracked armored fighting
-vehicle in use since the 1970s.
+vehicle in use since the 1970s. With its flat chassis back, a low profile and
+big compartments, the MT-LB is ideal for the flat terrain of Estonia.
 
 | BTR-60P/PB | <img src="/factions/nato-symbols/units/tracked-apc.excalidraw.png" align="right" alt="APC" height=30 width=auto></img> |
 | :---- | ---- |
@@ -574,7 +575,7 @@ vehicle in use since the 1970s.
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
 | Options |<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td><td>+ 40 pt</td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.<br><br>Reduces the capacity to **8**.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>-</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr><tr><td>Amphibious</td><td>-</td></tr></table> |
 
 ***
 
@@ -589,12 +590,10 @@ predate the Berlin wall.
 
 ![toyota technical image](../factions/ressources/toyota-new.excalidraw.png)
 
-In this role the Hilux serves the full spectrum of armoured support. With almost
+The Toyota Hilux serves the full spectrum of armoured support. With almost
 anything the separtists deemed small enough to work being bolted to one, this
 fast pickup can serve as an anti-infantry, anti-tank or anti-air role, as
-artillery, as a driving bomb.
-
-Versatility, courtesy of Japan.
+artillery, as a driving bomb. Versatility, courtesy of Japan.
 
 | Toyota Hilux | <img src="/factions/nato-symbols/units/wheeled-unarmed.excalidraw.png" align="right" alt="Toyota" height=30 width=auto></img> |
 | :---- | ---- |
@@ -609,6 +608,11 @@ Versatility, courtesy of Japan.
 
 ![tracked technical](/factions/ressources/armouredtechnical.excalidraw.png)
 
+Repurposed tank hull from a scrap yard, museum or whereever else, the NSPR used
+everything which allowed them to move weapon systems as self propelled weapons
+to conceil their actual numbers, even a T34-mounted 120mm mortar is hardly ideal
+for shoot and scoot maneuvers...
+
 | Technical | <img src="/factions/nato-symbols/units/tracked-light-tank.excalidraw.png" align="right" alt="MBT" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
@@ -622,14 +626,18 @@ Versatility, courtesy of Japan.
 
 ![brdm 2 image](../factions/ressources/brdm2.excalidraw.png)
 
+The BRDM-2 is a soviet era reconnaissance and patrol vehicle. Not only used by
+over 35 nations, it is still in active production, despite being introduced in
+1962.
+
 | BRDM-2 | <img src="/factions/nato-symbols/units/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="APC" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 90 pt / 105 pt / 120 pt |
+| Cost | 100 pt / 115 pt / 130 pt |
 | Capacity | 2 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table> |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td></tr><td>7.62mm PKT MMG</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table> |
 | Options |- |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Recce</td><td>-</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Recce</td><td>-</td></tr><tr><td>Amphibious</td><td>-</td></tr></table> |
 
 ### PT-76
 
@@ -641,16 +649,20 @@ with a 76.2mm main gun, capable of damaging lightly armoured vehicles.
 
 | PT-76 | <img src="/factions/nato-symbols/units/tracked-light-tank.excalidraw.png" align="right" alt="Light tank" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 78 pt / 92 pt / 118 pt |
+| Cost | tbd |
 | Capacity | - |
 | Damage value | 7+ Armoured carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>turret-mounted</li><li>coaxial</li></ul></tr><tr><td>D56-T 76.2mm</td><td>76.2mm rifle-boored light anti-tank gun</td><td><ul><li>turret-mounted</li></ul></td></tr><tr><td>7.62mm SGMT MMG</td><td>7.62mm SGMT medium machine gun</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>turret-mounted</li><li>coaxial</li></ul></tr><tr><td>D56-T 76.2mm</td><td>76.2mm rifle-boored medium anti-tank gun</td><td><ul><li>turret-mounted</li><li>medium anti tank gun</li></ul></td></tr><tr><td>7.62mm SGMT MMG</td><td>7.62mm SGMT medium machine gun</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
 | Options | <table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>12.7mm DshK HMG</td><td>12.7mm DshK heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</tr></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Amphibious</td><td>-</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrel to propell a kinetic round. While firing HE rounds<br> as a light AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Amphibious</td><td>-</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a rifled barrel to propell a kinetic round. When firing at an armoured target, this weapon suffers a -1 PEN.</ul></td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
 
 ### T-54/T-55
 
 ![t 55 image](../factions/ressources/t55.excalidraw.png)
+
+NSPR forces have access to some T-54 and T-55 Main Battle Tanks. These vehicles
+are vastly inferiour in comparison against modern or even 1970s-onwards MBTs, but
+are still valuable armoured assets if used defensively.
 
 | T-54/T-55 | <img src="/factions/nato-symbols/units/mbt.excalidraw.png" align="right" alt="MBT" height=30 width=auto></img> |
 | :---- | ---- |
@@ -659,7 +671,7 @@ with a 76.2mm main gun, capable of damaging lightly armoured vehicles.
 | Damage value | 9+ Medium Tank |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>7.62mm SGMT MMG</td><td>7.62mm SGMT medium machine gun</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>D10-T 100mm</td><td>100mm rifle-boored heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr></table> |
 | Options | <table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>12.7mm DshK HMG</td><td>12.7mm DshK heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</tr></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Slow</td><td>Vehicle suffers a 50% reduction in speed.</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrel to propell a kinetic round. While firing HE rounds<br> as a heavy AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Slow</td><td>Vehicle suffers a 50% reduction in speed.</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a rifled barrel to propell a kinetic round. When firing at an armoured target, this weapon suffers a -1 PEN.</td><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
 
 ***
 
