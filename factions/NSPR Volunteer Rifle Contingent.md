@@ -517,7 +517,7 @@ Any vehicle that has the IFV rule can also choose to ignore it and act on its ow
 
 ### BTR-D
 
-![btr d image](../factions/ressources/btrd.excalidraw.png)
+![btr d image](../factions/ressources/btrd-new.excalidraw.png)
 
 | BTR-D | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
@@ -617,7 +617,7 @@ with a 76.2mm main gun, capable of damaging lightly armoured vehicles.
 
 ### Toyota Hilux
 
-![toyota technical image](../factions/ressources/toyota.excalidraw.png)
+![toyota technical image](../factions/ressources/toyota-new.excalidraw.png)
 
 In this role the Hilux serves the full spectrum of armoured support. With almost
 anything the separtists deemed small enough to work being bolted to one, this
