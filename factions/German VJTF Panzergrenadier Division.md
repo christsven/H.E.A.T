@@ -1,11 +1,11 @@
 # **BLUFOR VJTF Armored Infantry Brigade**
 
-<img src="/factions/ressources/vjtf-logo.excalidraw.png" align="center" alt="VJTF Logo" height=auto width=100%></img>
+<img src="/factions/ressources/vjtf-logo.excalidraw.png" align="center" alt="VJTF Logo" height=auto width=80%></img>
 
 
 *Panzergrenadierbrigade 37 „Freistaat Sachsen", currently assigned to the VJTF*
 
-<img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="center" alt="NRF Logo" height=auto width=100%></img>
+<img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="center" alt="NRF Logo" height=auto width=80%></img>
 
 *Logo of NATO Response Force*
 
@@ -94,8 +94,8 @@ motorized support.
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 3 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>PETN Plastiksprengstoff<br>(*Explosives*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>RABE drones</td><td>Small recon rc drones.</td><td>+20 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-.</td><td>+ 1 pt each</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>PETN Plastiksprengstoff</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr><tr><td>RABE drones</td><td>Unit has small rc drone to use in attacks into enemy buildings. If chosen, CQC attacks into a building always begin with this units attack.</td></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>PETN Plastiksprengstoff<br>(*Explosives*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>RABE drones</td><td>Small recon rc drones.</td><td>+20 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-</td><td>+ 1 pt each</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information.</td></tr><tr><td>RABE drones</td><td>Unit has small rc drone to use in attacks into enemy buildings. If chosen, CQC attacks into a building always begin with this units attack.</td></tr></table> |
 
 ### Panzergrenadiergruppe
 
@@ -116,7 +116,7 @@ Part of the NATO VJTF response regiment, during 2015 era consisting of german
 armoured infantry. Able to deploy rapidly and well equipped to face most
 conventional threats.
 
-| Rapid Response<br>squad | <img src="/factions/nato-symbols/blufor/specialforce-g.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
+| Rapid Response squad | <img src="/factions/nato-symbols/blufor/specialforce-g.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - / 60 pt / 75 pt |
 | Reinforcement | up to 5 attendants (AR): - pt / 10 pt / 13 pt |
@@ -151,7 +151,7 @@ Support infantry, used to clear terrain or restrict enemy movement.
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (SMG) + 2 attendants (SMG) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>PETN Plastiksprengstoff<br>(*Explosives*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Mines</td><td>See IED section in [ruleset](../ruleset/H.E.A.T.md#improvised-explosive-devices-ied-and-mines).<br>They behave the same as IEDs,<br>but can't be disguised.<br>Conventional forces don't use decoys.<td>+20 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>PETN Plastiksprengstoff</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information.</td></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr></table> |
 
 ### G22A2 sniper team
 
