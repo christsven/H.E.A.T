@@ -1,36 +1,8 @@
-# EUFOR Estonia Ground Forces
+# UNFIBAL Mission Forces
 
-![EUFOR logo](/scenarios/ressources/unfibal.excalidraw.png)
+<img src="/scenarios/ressources/unfibal.excalidraw.png" align="center" alt="UNFIBAL Logo" height=auto width=50%></img>
 
-***
-
-## Links
-
-[Platoon Leader](UNFIBAL%20Forces.md#platoon-leader--1-)
-
-[Infantry Units](UNFIBAL%20Forces.md#infantry-units--2---5-)
-
-[Combat Support Units](UNFIBAL%20Forces.md#combat-support-units--0---1-)
-
-[Machine gun](UNFIBAL%20Forces.md#machine-gun-team--0---1-)
-
-[AT](UNFIBAL%20Forces.md#anti-tank-team--0---1-)
-
-[AA](UNFIBAL%20Forces.md#anti-air-systems--0---1-)
-
-[Drone](UNFIBAL%20Forces.md#drone-team--0---1-)
-
-[Mortar](UNFIBAL%20Forces.md#mortar-team--0---1-)
-
-[Artillery](UNFIBAL%20Forces.md#artillery--0---1-)
-
-[Divisional Reinforcements](UNFIBAL%20Forces.md#divisional-reinforcements--0---1-)
-
-[IFVs and APCs](UNFIBAL%20Forces.md#armoured-personell-carriers--infantry-fighting-vehicles--0---2-)
-
-[Heavy Armour](UNFIBAL%20Forces.md#reinforcing-vehicles--0---1-)
-
-[Transports](UNFIBAL%20Forces.md#transports)
+*Logo of the UN Mission to Estonia*
 
 ***
 

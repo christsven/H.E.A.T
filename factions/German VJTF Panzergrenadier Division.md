@@ -1,11 +1,11 @@
 # **BLUFOR VJTF Armored Infantry Brigade**
 
-![vjtf logo](ressources/vjtf-logo.excalidraw.png)
+<img src="/factions/ressources/vjtf-logo.excalidraw.png" align="center" alt="VJTF Logo" height=auto width=50%></img>
+
 
 *Panzergrenadierbrigade 37 „Freistaat Sachsen", currently assigned to the VJTF*
 
-
-![nrf](/scenarios/ressources/nrf-logo.excalidraw.png)
+<img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="center" alt="NRF Logo" height=auto width=50%></img>
 
 *Logo of NATO Response Force*
 

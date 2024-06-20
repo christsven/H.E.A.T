@@ -1,10 +1,11 @@
 # **NSPR volunteer rifle contingent**
 
-![nspr logo](./ressources/nspr-rifle-contingent-logo.excalidraw.png)
+<img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" align="center" alt="NSPR Logo" height=auto width=50%></img>
 
 *Emblem of the Narva Volunteer Rifle Contingent*
 
-![pmc logo](./ressources/bratstwa.excalidraw.png)
+<img src="/factions/ressources/bratstwa.excalidraw.png" align="center" alt="PMC Logo" height=auto width=50%></img>
+
 
 *PMC Bratstwa Logo*
 

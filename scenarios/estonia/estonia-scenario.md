@@ -7,55 +7,25 @@
 A detailed description of events, locations and actors in this fictional civil
 war can be found [here](/scenarios/estonia/background-information-estonia.md).
 
-## Factions
+***
 
+## Factions
 
 Factions are ordered by alignment as seen from a NATO perspective. BLUFOR are
 all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
 ### BLUFOR
 
-<img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto width=150></img>
-
-#### Baltic Security Partnership Brigade
-
-Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
-estonian and latvian equipment. 2016 onward.
-
-_Airmobility and light infantry are the main feature, with a mix of baltic equipment._
-
-[BASEP Roster](/factions/Baltic%20Security%20Partnership%20Brigade.md)
-
-<img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto width=150></img>
-
-#### WIP: UN Peacekeeping and Support Mission UNFIBAL
-
-United Nations support brigade composed of mixed french and american equipment.
-2014 onward.
-
-_Mix of old equipment and modern arms donations. Emphasis on suppport units._
-
-[UNFIBAL Roster](/factions/UNFIBAL%20Forces.md)
-
 <img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto width=150></img>
 
-#### WIP: Estonian Land Forces
+#### Estonian Land Forces
 
 Combined Forces of the estonian army. 2016 onward.
 
-_A smaller army, but bleeding-edge equipment with many domestic drone products._
+_A small army with a large reservist pool, but cutting-edge equipment with many
+domestic drone products._
 
-[Estonia Roster](/factions/Estonian%20Land%20Forces.md)
-
-<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto width=150></img>
-
-#### WIP: EUFOR Estonia
-
-Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
-
-_Mix of german, french, italian and slovac gear. Modern and diverse._
-
-[EUFOR Roster](/factions/EUFOR%20Estonia%20Forces.md)
+[Estonia Army List](/factions/Estonian%20Land%20Forces.md)
 
 <img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto width=150></img>
 
@@ -66,7 +36,39 @@ Around Mid 2017 onward.
 
 _Classic modern force with modern vehicle pool and non-lethal drone options._
 
-[VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
+[VJTF Army List](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
+
+<img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto width=150></img>
+
+#### Baltic Security Partnership Brigade
+
+Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
+estonian and latvian equipment. 2016 onward.
+
+_Airmobility and light infantry are the main feature, with a mix of baltic equipment._
+
+[BASEP Army List](/factions/Baltic%20Security%20Partnership%20Brigade.md)
+
+<img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto width=150></img>
+
+#### WIP: UN Peacekeeping and Support Mission UNFIBAL
+
+United Nations support brigade composed of mixed french and american equipment.
+2014 onward.
+
+_Mix of old equipment and modern arms donations. Emphasis on suppport units._
+
+[WIP](/factions/UNFIBAL%20Forces.md)
+
+<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto width=150></img>
+
+#### WIP: EUFOR Estonia
+
+Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
+
+_Mix of german, french, italian and slovac gear. Modern and diverse._
+
+[WIP](/factions/EUFOR%20Estonia%20Forces.md)
 
 ### OPFOR
 
@@ -79,7 +81,9 @@ The free forces of Ida Viru, as well as the Brastwa PMC Group
 _Ragtag force with a huge, but old pool of equipment. Insurgent infantry sections
 and PMC formation with more modern equipment._
 
-[NSPR Roster](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
+[NSPR Army List](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
+
+***
 
 ## Scenarios
 
