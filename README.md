@@ -24,7 +24,7 @@ everything else needed for a modern wargame.
 
 ### Estonian Civil War
 
-<img src="/scenarios/ressources/flag-nspr.excalidraw.png" align="center" alt="NSPR Flag" height=auto width=50%></img>
+<img src="/scenarios/ressources/flag-nspr.excalidraw.png" align="center" alt="NSPR Flag" height=auto width=80%></img>
 
 War in Europe right next to the russian border.
 
