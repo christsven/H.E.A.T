@@ -85,7 +85,7 @@ more general scenarios for typical skirmishes in this scenario.
 At the beginning of the war, NSPR forces overwhelmed the Jõhvi Infantry
 Garrison in a surprise attack.
 
-| **Attack on Jõhvi Garrison** | <img src="/scenarios/ressources/johvi-layout.excalidraw.png" align="right" alt="Command team" height=400 width=auto></img> |
+| **Attack on Jõhvi Garrison** | <img src="/scenarios/ressources/johvi-layout.excalidraw.png" align="right" alt="Johvi scenario image" height=auto width=auto></img> |
 | :--- | :--- |
 | **Objective/Game Mode** | Attacker/Defender |
 | **Set-Up** | - Set up the garrison buildings to take up 2/3rds of the table. <br> - Choose two or more buildings as objective targets.<br> - Defenders set up their units within 12" of any of the objectives.<br> - Attacker sets up at the table edge opposite to the buildings. |
