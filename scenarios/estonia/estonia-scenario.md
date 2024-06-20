@@ -9,12 +9,13 @@ war can be found [here](/scenarios/estonia/background-information-estonia.md).
 
 ## Factions
 
-<img src="/factions/ressources/platoon-leader-nspr.excalidraw.png" align="right" alt="Command team" height=auto width=250></img>
 
 Factions are ordered by alignment as seen from a NATO perspective. BLUFOR are
 all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
 ### BLUFOR
+
+<img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto width=150></img>
 
 #### Baltic Security Partnership Brigade
 
@@ -25,6 +26,8 @@ _Airmobility and light infantry are the main feature, with a mix of baltic equip
 
 [BASEP Roster](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
+<img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto width=150></img>
+
 #### WIP: UN Peacekeeping and Support Mission UNFIBAL
 
 United Nations support brigade composed of mixed french and american equipment.
@@ -34,6 +37,8 @@ _Mix of old equipment and modern arms donations. Emphasis on suppport units._
 
 [UNFIBAL Roster](/factions/UNFIBAL%20Forces.md)
 
+<img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto width=150></img>
+
 #### WIP: Estonian Land Forces
 
 Combined Forces of the estonian army. 2016 onward.
@@ -42,6 +47,8 @@ _A smaller army, but bleeding-edge equipment with many domestic drone products._
 
 [Estonia Roster](/factions/Estonian%20Land%20Forces.md)
 
+<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto width=150></img>
+
 #### WIP: EUFOR Estonia
 
 Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
@@ -49,6 +56,8 @@ Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
 _Mix of german, french, italian and slovac gear. Modern and diverse._
 
 [EUFOR Roster](/factions/EUFOR%20Division.md)
+
+<img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto width=150></img>
 
 #### NATO VJTF and Initial Follow-Up Forces
 
@@ -60,6 +69,8 @@ _Classic modern force with modern vehicle pool and non-lethal drone options._
 [VJTF Roster](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
 ### OPFOR
+
+<img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" align="right" alt="NSPR Forces" height=auto width=150></img>
 
 #### NSPR Combined Forces
 
@@ -83,7 +94,9 @@ more general scenarios for typical skirmishes in this scenario.
 #### Attack on Jõhvi Garrison
 
 At the beginning of the war, NSPR forces overwhelmed the Jõhvi Infantry
-Garrison in a surprise attack.
+Garrison in a surprise attack. The garrison was used for infantry training and
+is the home to the Viru Infantry Battalion, which was not prepared for the attack,
+but fought valiantly.
 
 | **Attack on Jõhvi Garrison** | <img src="/scenarios/ressources/johvi-layout.excalidraw.png" align="right" alt="Johvi scenario image" height=auto width=auto></img> |
 | :--- | :--- |
@@ -97,6 +110,13 @@ Garrison in a surprise attack.
 To quickly assert control over Ida Viru, the NSPR built up checkpoints and control
 stations along the E35 and E624, which were frequently attacked by estonian
 forces.
+
+| **Attack on Jõhvi Garrison** | <img src="/scenarios/ressources/roads-layout.excalidraw.png" align="right" alt="Crossroads scenario image" height=auto width=auto></img> |
+| :--- | :--- |
+| **Objective/Game Mode** | - |
+| **Set-Up** | - |
+| **Game Duration** | 6 + 1 Turns |
+| **Victory Conditions** | 1 VP per destroyed units + 3 VP per occupied objective. |
 
 #### Urban fighting in Kothla Järve
 
