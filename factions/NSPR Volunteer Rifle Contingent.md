@@ -248,7 +248,7 @@ cover.
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | - |
 | Setup | NCO (AMR) + 1 attendant (SMG) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>-</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
 
 ### Medic
@@ -258,7 +258,7 @@ cover.
 | Cost | - / - / 45 pt |
 | Reinforcement | - |
 | Setup | NCO (unarmed) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Medic</td><td>-</td></tr></table> |
 
 ***
@@ -274,7 +274,7 @@ A machine gun team equipped with a RPK.
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
 | Setup | NCO (MMG) + 2 loaders (SMG) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
 
 ### NSV HMG team
@@ -286,7 +286,7 @@ Infantry unit equipped with an HMG, used to surpress infantry sections, light ve
 | Cost | 49 pt / 70 pt / 91 pt |
 | Reinforcement | - |
 | Setup | NCO (HMG) + 2 loaders (SMG) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
 
 ### AGS-17 Plamja AGL eam
@@ -298,7 +298,7 @@ Infantry unit equipped with an AGL, used to surpress infantry sections.
 | Cost | 50 pt / 60 pt / 75 pt |
 | Reinforcement | - |
 | Setup | NCO (AGL) + 2 loaders (SMG) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>AGL</td><td>Automatic grenade launcher,<br>which rapidly fires 40mm ordnance.<br><br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl). </td></tr></table> |
 
 ***
@@ -381,7 +381,7 @@ light mortar team.
 | Cost | 24 pt / 35 pt / 46 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
 | Setup | NCO (LIGHT MORTAR) + 1 loader (PISTOL) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
 ### M1938 107mm medium mortar team
@@ -393,7 +393,7 @@ medium mortar team.
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
 | Setup | NCO (MEDIUM MORTAR) + 2 loader (PISTOL) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
 ### 120mm 2S12 "Sani" heavy mortar team
@@ -405,7 +405,7 @@ heavy mortar team.
 | Cost | 46 pt / 65 pt / 84 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
 | Setup | NCO (HEAVY MORTAR) + 3 loader (PISTOL) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
 ### "Hell Cannon" propane mortar team
@@ -420,7 +420,7 @@ not too accurate, is able to inflict a hefty amount of damage to whatever it hit
 | Cost | 56 pt / 75 pt / 94 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
 | Setup | NCO (HELL CANNON) + 3 loader (PISTOL) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr><tr><td>Selfmade</td><td>Hits 6-D6" in a random direction around the target.</td></tr></table> |
 
 ***
@@ -436,7 +436,7 @@ light howitzer.
 | Cost | 40 pt / 50 pt / 60 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
 | Setup | NCO (LIGHT HOWITZER) + 3 loader (PISTOL) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
 ### 2A65 Msta-B 152mm medium howitzer
@@ -448,7 +448,7 @@ medium howitzer.
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
 | Setup | NCO (MEDIUM HOWITZER) + 3 loader (PISTOL) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
 ### M1931 B-4 203mm heavy howitzer
@@ -460,7 +460,7 @@ heavy howitzer.
 | Cost | 92 pt / 115 pt / 138 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
 | Setup | NCO (HEAVY HOWITZER) + 4 loader (PISTOL) |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 4"</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
 ***
@@ -476,7 +476,7 @@ Forward Observer team for artillery Batteries located off-map.
 | Cost | - pt / 100 pt / 115 pt |
 | Reinforcement | up to 2 attendants (SMG) |
 | Setup | NCO (SMG) |
-|Options|- |
+| Options |- |
 | Special rules | - |
 
 ***
@@ -541,8 +541,8 @@ capacity.
 | Cost | 85 pt / 100 pt / 115 pt |
 | Capacity | 14 soldiers |
 | Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td><td>+ 40 pt</td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.<br><br>Reduces the capacity to **8**.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>-</td></tr></table> |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td><b>Modifier</td></tr><tr><tr><td>Smoke Screen </td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options | <table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td><td>+ 40 pt</td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.<br><br>Reduces the capacity to **8**.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>-</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table> |
 
 ### BTR-80
@@ -557,7 +557,7 @@ More modern version of the older BTR series.
 | Capacity | 7 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table> |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV</td><td>Detailed rules see [HEAT rules](../H.E.A.T.excalidraw).</td></tr></table> |
 
 ### MT-LB
@@ -585,36 +585,6 @@ and has a gun, and utilizes old tanks and APCs just as much as modern civilian
 vehicles. A fast pickup with an AA gun, a mortar on a truck, T-54s old enough to
 predate the Berlin wall.
 
-### T-54/T-55
-
-![t 55 image](../factions/ressources/t55.excalidraw.png)
-
-| T-54/T-55 | <img src="/factions/nato-symbols/units/mbt.excalidraw.png" align="right" alt="MBT" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | 144 pt / 159 pt / 174 pt |
-| Capacity | - |
-| Damage value | 9+ Medium Tank |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>7.62mm SGMT MMG</td><td>7.62mm SGMT medium machine gun</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>D10-T 100mm</td><td>100mm rifle-boored heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr><tr><td>12.7mm DshK HMG</td><td>12.7mm DshK heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td></tr></table> |
-|Options| - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Slow</td><td>Vehicle suffers a 50% reduction in speed.</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrel to propell a kinetic round. While firing HE rounds<br> as a heavy AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
-
-### PT-76
-
-![pt 76 image](../factions/ressources/pt76.excalidraw.png)
-
-Developed in the 60s and since used in most soviet armies, the PT-76 and its
-derivatives serve to this day as light reconnaissance tanks. An amphibious tank
-with a 76.2mm main gun, capable of damaging lightly armoured vehicles.
-
-| PT-76 | <img src="/factions/nato-symbols/units/tracked-light-tank.excalidraw.png" align="right" alt="Light tank" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | 78 pt / 92 pt / 118 pt |
-| Capacity | - |
-| Damage value | 7+ Armoured carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>turret-mounted</li><li>coaxial</li></ul></tr><tr><td>7.62mm SGMT MMG</td><td>7.62mm SGMT medium machine gun</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>D56-T 76.2mm</td><td>76.2mm rifle-boored light anti-tank gun</td><td><ul><li>turret-mounted</li></ul></td></tr></table> |
-|Options| - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Amphibious</td><td>-</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrel to propell a kinetic round. While firing HE rounds<br> as a light AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
-
 ### Toyota Hilux
 
 ![toyota technical image](../factions/ressources/toyota-new.excalidraw.png)
@@ -633,7 +603,20 @@ Versatility, courtesy of Japan.
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Default weapon configuration |- |
 | Options |<table><tr><td><b>Rules</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>This vehicle is equipped with multiple<br>radios and acts as a command vehicle.<br><br>Removes troop carrying ability.</td><td><ul><li>Command</li><li>No longer carries <br>troops</li></ul></td><td>+45 pt</td></tr><tr><td>Medical Equipment</td><td>The back of the vehicle is modified to<br>tend for the wounded and transport<br>patients.<br><br>Removes troop carrying ability.</td><td><ul><li>Medic</li><li>No longer carries <br>troops</li><li>No armaments allowed</li></ul></td><td>+ 20 pt</td></tr><tr><td>Selfmade armour</td><td>Metal sheets, chicken wire, rebar, <br>concrete; This vehicle is equipped<br> with DIY armour, protecting it from small arms fire and shrappnel.<br><br> Also, it weights way too much now.</td><td><ul><li>Slow</li><li>7+ Damage Value</li></ul></td><td>+25 pt</td></tr></table>Since these weapons are mounted to the back flat, only one main weapon may be chosen.<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Back mounted MMG<br><br>Reduces troop capacity to **4**.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>14.5mm DshK HMG</td><td>Back mounted HMG<br><br>Reduces troop capacity to **4**.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+20 pt</td></tr><tr><td>AGS-17 "Plamja" AGL</td><td>AGS-17 "Plamja" automatic<br> grenade launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl). <br>Reduces troop capacity to **4**.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>9K113 Konkurs ATGM launcher</td><td>9K113 Konkurs Anti-Tank Guided <br>Missile Launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).<br>Reduces troop capacity to **4**.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 30 pt</td></tr><tr><td>SPG-9 recoilless rifle</td><td>SPG-9 recoilless rifle. Used to fire <br>projectiles similar to the BMP-1's 73 mm<br> 2A28 Grom.<br> Counts as a light anti-tank gun.<br><br>Reduces troop capacity to **4**.</td><td><ul><li>front-facing</li><li>light anti-tank gun</li><li>open-topped</li><li>Backblast</li></ul></td><td>+30 pt</td></tr><tr><td>UB-32 rocket pod system</td><td>Air-to-ground S5 rocket pod, which is <br>used as an area suppression weapon. While not very<br>accurate, it is able to fire<br>rapidly and is effective, if it hits.</td><td><ul><li>open-topped</li><li>front-facing</li><li>Indirect Fire</li><li>HE 2"</li><li>rocket pod</li></ul></td><td>+25 pt</td></tr><tr><td>M1938 107mm medium mortar</td><td>medium mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+ 30 pt</td></tr><tr><td>ZSU-23-2 medium autocannon</td><td>ZSU-23-2 anti-air gun.</td><td><ul><li>hull-mounted</li><li>open-topped</li></ul></td><td>+40 pt</td></tr></table> |
-| Special rules |  <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rocket pod</td><td>Acts like a medium mortar, but fires 2 shots per salvo. <br>Per shot, the rocket hits D6" - 1 in a random direction (order dice) <br>around the target.</td></tr></table> |
+| Special rules | - |
+
+### Tracked Technical
+
+![tracked technical](/factions/ressources/armouredtechnical.excalidraw.png)
+
+| Technical | <img src="/factions/nato-symbols/units/tracked-light-tank.excalidraw.png" align="right" alt="MBT" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 8+ Light Tank |
+| Default weapon configuration | - |
+| Options |<table><tr><td><b>Rules</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>This vehicle is equipped with multiple<br>radios and acts as a command vehicle.<br><br>Removes troop carrying ability.</td><td><ul><li>Command</li><li>No longer carries <br>troops</li></ul></td><td>+45 pt</td></tr><tr><td>Medical Equipment</td><td>The back of the vehicle is modified to<br>tend for the wounded and transport<br>patients.<br><br>Removes troop carrying ability.</td><td><ul><li>Medic</li><li>No longer carries <br>troops</li><li>No armaments allowed</li></ul></td><td>+ 20 pt</td></tr><tr><td>Selfmade armour</td><td>Metal sheets, chicken wire, rebar, <br>concrete; This vehicle is equipped<br> with DIY armour, protecting it from small arms fire and shrappnel.<br><br> Also, it weights way too much now.</td><td><ul><li>Slow</li><li>7+ Damage Value</li></ul></td><td>+25 pt</td></tr></table>Since these weapons are mounted to the interiour, only one main weapon may be chosen.<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Back mounted MMG</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>14.5mm DshK HMG</td><td>Back mounted HMG</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+20 pt</td></tr><tr><td>AGS-17 "Plamja" AGL</td><td>AGS-17 "Plamja" automatic<br> grenade launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl). </td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>9K113 Konkurs ATGM launcher</td><td>9K113 Konkurs Anti-Tank Guided <br>Missile Launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 30 pt</td></tr><tr><td>SPG-9 recoilless rifle</td><td>SPG-9 recoilless rifle. Used to fire <br>projectiles similar to the BMP-1's 73 mm<br> 2A28 Grom.<br> Counts as a light anti-tank gun.</td><td><ul><li>front-facing</li><li>light anti-tank gun</li><li>open-topped</li><li>Backblast</li></ul></td><td>+30 pt</td></tr><tr><td>UB-32 rocket pod system</td><td>Air-to-ground S5 rocket pod, which is <br>used as an area suppression weapon. While not very<br>accurate, it is able to fire<br>rapidly and is effective, if it hits.</td><td><ul><li>open-topped</li><li>front-facing</li><li>Indirect Fire</li><li>HE 2"</li><li>rocket pod</li></ul></td><td>+25 pt</td></tr><tr><td>M1938 107mm medium mortar</td><td>medium mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+ 30 pt</td></tr><tr><td>S2S1 120mm heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+ 40 pt</td></tr><tr><td>ZSU-23-2 medium autocannon</td><td>ZSU-23-2 anti-air gun.</td><td><ul><li>hull-mounted</li><li>open-topped</li></ul></td><td>+40 pt</td></tr></table> |
+| Special rules | - |
 
 ### BRDM-2
 
@@ -645,8 +628,38 @@ Versatility, courtesy of Japan.
 | Capacity | 2 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>14.5mm KPWT</td><td>Light auto-cannon.</td><td><ul><li>turret-mounted</li></ul></td></tr><td>7.62mm PKT</td><td>Co-axial MMG. <br>Comes as part of turret with the autocannon.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td></tr></table> |
-|Options|- |
+| Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Recce</td><td>-</td></tr></table> |
+
+### PT-76
+
+![pt 76 image](../factions/ressources/pt76.excalidraw.png)
+
+Developed in the 60s and since used in most soviet armies, the PT-76 and its
+derivatives serve to this day as light reconnaissance tanks. An amphibious tank
+with a 76.2mm main gun, capable of damaging lightly armoured vehicles.
+
+| PT-76 | <img src="/factions/nato-symbols/units/tracked-light-tank.excalidraw.png" align="right" alt="Light tank" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 78 pt / 92 pt / 118 pt |
+| Capacity | - |
+| Damage value | 7+ Armoured carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>turret-mounted</li><li>coaxial</li></ul></tr><tr><td>D56-T 76.2mm</td><td>76.2mm rifle-boored light anti-tank gun</td><td><ul><li>turret-mounted</li></ul></td></tr><tr><td>7.62mm SGMT MMG</td><td>7.62mm SGMT medium machine gun</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
+| Options | <table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>12.7mm DshK HMG</td><td>12.7mm DshK heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</tr></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Amphibious</td><td>-</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrel to propell a kinetic round. While firing HE rounds<br> as a light AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
+
+### T-54/T-55
+
+![t 55 image](../factions/ressources/t55.excalidraw.png)
+
+| T-54/T-55 | <img src="/factions/nato-symbols/units/mbt.excalidraw.png" align="right" alt="MBT" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 144 pt / 159 pt / 174 pt |
+| Capacity | - |
+| Damage value | 9+ Medium Tank |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>7.62mm SGMT MMG</td><td>7.62mm SGMT medium machine gun</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>D10-T 100mm</td><td>100mm rifle-boored heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr></table> |
+| Options | <table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>12.7mm DshK HMG</td><td>12.7mm DshK heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</tr></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Slow</td><td>Vehicle suffers a 50% reduction in speed.</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a<br> rifled barrel to propell a kinetic round. While firing HE rounds<br> as a heavy AT gun, this weapon suffers a -1 PEN when attacking<br> armoured vehicles.<br><br><ul><li>Suffers -1 PEN modifier when firing AT round.</li></ul></td><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
 
 ***
 
@@ -660,7 +673,7 @@ Versatility, courtesy of Japan.
 | Capacity | 14 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | - |
-|Options|- |
+| Options |- |
 | Special rules | - |
 
 ### GAZ-51 Transport
@@ -671,7 +684,7 @@ Versatility, courtesy of Japan.
 | Capacity | 16 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Default weapon configuration |- |
-|Options|- |
+| Options |- |
 | Special rules | - |
 
 ### GAZ-69 Jeep
@@ -682,7 +695,7 @@ Versatility, courtesy of Japan.
 | Capacity | 6 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Default weapon configuration |- |
-|Options|- |
+| Options |- |
 | Special rules | - |
 
 ### Toyota Hilux Transport
@@ -704,7 +717,7 @@ Versatility, courtesy of Japan.
 | Capacity | 2 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Default weapon configuration |- |
-|Options| <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Side car mounted MMG</td><td><ul><li>front-facing</li></ul></td><td>+15 pt</td></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Side car mounted MMG</td><td><ul><li>front-facing</li></ul></td><td>+15 pt</td></tr></table> |
 | Special rules | - |
 
 ### Mil Mi-2B
@@ -715,5 +728,5 @@ Versatility, courtesy of Japan.
 | Capacity | 16 soldiers |
 | Damage value | 7+ Medium helicopter |
 | Default weapon configuration |- |
-|Options|- |
+| Options |- |
 | Special rules | - |
