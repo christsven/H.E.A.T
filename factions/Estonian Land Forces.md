@@ -1,10 +1,10 @@
 # 1. Estonian Division
 
-<img src="ressources/elf-logo.excalidraw.png" align="center" alt="Estonia Land Forces Logo" height=auto width=80%></img>
+<img src="ressources/elf-logo.excalidraw.png"  style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
 
 *Emblem of the 1. Estonian Division*
 
-<img src="ressources/kaitseliit.excalidraw.png" align="center" alt="Estonia Defence League Logo" height=auto width=80%></img>
+<img src="ressources/kaitseliit.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
 
 *Emblem of the Kaitseliig, the Estonian Defense League*
 
