@@ -1,6 +1,6 @@
 # UNFIBAL Mission Forces
 
-<img src="/scenarios/ressources/unfibal.excalidraw.png" align="center" alt="UNFIBAL Logo" height=auto width=50%></img>
+<img src="/scenarios/ressources/unfibal.excalidraw.png" align="center" alt="UNFIBAL Logo" height=auto width=80%></img>
 
 *Logo of the UN Mission to Estonia*
 

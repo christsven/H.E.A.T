@@ -1,7 +1,7 @@
 # Baltic Security Partnership Brigade
 
 
-<img src="ressources/bsp-logo-no-text.excalidraw.png" align="center" alt="BASEP Brigade" height=auto width=100%></img>
+<img src="ressources/bsp-logo-no-text.excalidraw.png" align="center" alt="BASEP Brigade" height=auto width=80%></img>
 
 *Logo of the Baltic Security Partnership Brigade*
 
