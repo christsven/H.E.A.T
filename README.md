@@ -17,9 +17,9 @@ as well, once its out).
 
 ***
 
-## Scenarios
+## Theatre
 
-A list of scenarios with their own storyline, scenarios templates, army lists and
+A list of theatres with their own storyline, scenarios templates, army lists and
 everything else needed for a modern wargame.
 
 ### Estonian Civil War
@@ -31,7 +31,7 @@ War in Europe right next to the russian border.
 A volatile situation ready to escalate to a full-blown land war between NATO
 and Russia over a single misstep on either side.
 
-[Scenario Overview Page](/scenarios/estonia/estonia-scenario.md)
+[Theatre Overview Page](/scenarios/estonia/estonia-scenario.md)
 
 ***
 
