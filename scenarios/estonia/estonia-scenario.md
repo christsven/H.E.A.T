@@ -1,4 +1,4 @@
-# Scenario I: Estonia
+# Theatre I: Estonia
 
 ## Campaign introduction
 
