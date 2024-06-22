@@ -5,6 +5,8 @@
 This is **H.E.A.T**, a 28mm platoon-sized wargame expansion. Ideal for 2010-2020 era
 symmetrical or assymetrical warfare.
 
+***
+
 ## Rules
 
 <img src="factions/ressources/milmi8.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto" alt="Mi 8">
