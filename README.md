@@ -7,6 +7,8 @@ symmetrical or assymetrical warfare.
 
 ## Rules
 
+<img src="factions/ressources/milmi8.excalidraw.png" align="right" alt="Mi 8" height=auto width=80%>
+
 This is meant as a expansion of Bolt Action rules, so only additions or in a few
 cases rebalanced rules are provided. Everything else can be found in the
 Bolt Action v2 rulebook (and if necessary, I will adjust this for the v3 rulebook
@@ -17,8 +19,6 @@ as well, once its out).
 ***
 
 ## Theatres
-
-<img src="factions/ressources/milmi8.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Mi 8" height=auto width=80%>
 
 A list of theatres with their own storyline, scenarios templates, army lists and
 everything else needed for a modern wargame.
