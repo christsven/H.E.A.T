@@ -16,7 +16,9 @@ as well, once its out).
 
 ***
 
-## Theatre
+## Theatres
+
+<img src="factions/ressources/milmi8.excalidraw.png"  style="display: block; margin-left: auto; margin-right: auto;" alt="Mi 8" height=auto width=80%>
 
 A list of theatres with their own storyline, scenarios templates, army lists and
 everything else needed for a modern wargame.
