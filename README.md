@@ -1,6 +1,6 @@
 # H.E.A.T. Skirmish Wargame
 
-<img src="/ruleset/ressources/introduction.excalidraw.png"  style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto;" alt="NSPR Logo">
+<img src="/ruleset/ressources/introduction.excalidraw.png"  style="display: block; margin-left: 50%; margin-right: auto; width: 80%; height: auto;" alt="NSPR Logo">
 
 This is **H.E.A.T**, a 28mm platoon-sized wargame expansion. Ideal for 2010-2020 era
 symmetrical or assymetrical warfare.
