@@ -16,9 +16,11 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
 ### BLUFOR
 
-<img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto width=150></img>
-
 #### Estonian Land Forces
+
+<p align=right>
+<img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto width=150></img>
+</p>
 
 Combined Forces of the estonian army. 2016 onward.
 
@@ -27,9 +29,11 @@ domestic drone products._
 
 [Estonia Army List](/factions/Estonian%20Land%20Forces.md)
 
-<img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto width=150></img>
+#### NATO VJTF + NRF
 
-#### NATO VJTF and Initial Follow-Up Forces
+<p align=right>
+<img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto width=150></img>
+</p>
 
 German led NRF forces, VJTF + IF-U/F-U forces.
 Around Mid 2017 onward.
@@ -51,9 +55,11 @@ _Airmobility and light infantry are the main feature, with a mix of baltic equip
 
 [BASEP Army List](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
-<img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto width=150></img>
+#### UNFIBAL Mission Forces
 
-#### WIP: UN Peacekeeping and Support Mission UNFIBAL
+<p align=right>
+<img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto width=150></img>
+</p>
 
 United Nations support brigade composed of mixed french and american equipment.
 2014 onward.
@@ -62,9 +68,11 @@ _Mix of old equipment and modern arms donations. Emphasis on suppport units._
 
 [WIP](/factions/UNFIBAL%20Forces.md)
 
-<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto width=150></img>
-
 #### WIP: EUFOR Estonia
+
+<p align=right>
+img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto width=150></img>
+</p>
 
 Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
 
@@ -74,9 +82,11 @@ _Mix of german, french, italian and slovac gear. Modern and diverse._
 
 ### OPFOR
 
-<img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" align="right" alt="NSPR Forces" height=auto width=150></img>
-
 #### NSPR Combined Forces
+
+<p align=right>
+<img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" align="right" alt="NSPR Forces" height=auto width=150></img>
+</p>
 
 The free forces of Ida Viru, as well as the Brastwa PMC Group
 
