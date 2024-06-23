@@ -16,11 +16,11 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
 ### BLUFOR
 
-#### Estonian Land Forces
-
 <p align=right style="right:0;top:0px; position:fixed;">
 <img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto width=130></img>
 </p>
+
+#### Estonian Land Forces
 
 Combined Forces of the estonian army. 2016 onward.
 
@@ -29,11 +29,11 @@ domestic drone products._
 
 [Estonia Army List](/factions/Estonian%20Land%20Forces.md)
 
-#### NATO VJTF + NRF
-
 <p align=right style="right:0;top:0px;position:fixed;">
 <img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto width=130></img>
 </p>
+
+#### NATO VJTF + NRF
 
 German led NRF forces, VJTF + IF-U/F-U forces.
 Around Mid 2017 onward.
@@ -42,25 +42,24 @@ _Classic modern force with modern vehicle pool and non-lethal drone options._
 
 [VJTF Army List](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
-#### Baltic Security Partnership Brigade
-
 <p align=right style="right:0;top:0px;position:fixed;">
 <img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto width=130></img>
 </p>
-<p align=left>
+
+#### Baltic Security Partnership Brigade
+
 Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
 estonian and latvian equipment. 2016 onward.
 
 _Airmobility and light infantry are the main feature, with a mix of baltic equipment._
-</p>
 
 [BASEP Army List](/factions/Baltic%20Security%20Partnership%20Brigade.md)
-
-#### UNFIBAL Mission Forces
 
 <p align=right style="right:0;top:0px;position:fixed;">
 <img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto width=130></img>
 </p>
+
+#### UNFIBAL Mission Forces
 
 United Nations support brigade composed of mixed french and american equipment.
 2014 onward.
@@ -69,11 +68,11 @@ _Mix of old equipment and modern arms donations. Emphasis on suppport units._
 
 [WIP](/factions/UNFIBAL%20Forces.md)
 
-#### WIP: EUFOR Estonia
-
 <p align=right style="right:0;top:0px;position:fixed;">
 <img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto width=130></img>
 </p>
+
+#### WIP: EUFOR Estonia
 
 Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
 
@@ -83,11 +82,11 @@ _Mix of german, french, italian and slovac gear. Modern and diverse._
 
 ### OPFOR
 
-#### NSPR Combined Forces
-
 <p align=right style="right:0;top:0px;position:fixed;">
 <img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" align="right" alt="NSPR Forces" height=auto width=130></img>
 </p>
+
+#### NSPR Combined Forces
 
 The free forces of Ida Viru, as well as the Brastwa PMC Group
 
