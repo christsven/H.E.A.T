@@ -35,7 +35,7 @@ domestic drone products._
 
 #### NATO VJTF + NRF
 
-German led NRF forces, VJTF + IF-U/F-U forces.
+German led NRF forces, VJTF with IF-U/F-U Forces from the Panzerbrigade 37.
 Around Mid 2017 onward.
 
 _Classic modern force with modern vehicle pool and non-lethal drone options._
