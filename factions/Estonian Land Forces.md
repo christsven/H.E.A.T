@@ -13,7 +13,7 @@ Emblem of the 1. Estonian Division
 </p>
 
 <p align=center>
-Emblem of the Kaitseliig, the Estonian Defense League*
+Emblem of the Kaitseliig, the Estonian Defense League
 </p>
 
 The combined remaining forces fighting for the liberation of Ida Viru. While not
