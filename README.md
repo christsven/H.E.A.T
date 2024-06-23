@@ -18,10 +18,9 @@ This is meant as an expansion of Bolt Action rules, so only additions or in a fe
 cases rebalanced rules are provided. Everything else can be found in the
 Bolt Action v2 rulebook (and if necessary, I will adjust this for the v3 rulebook
 as well, once its out).
+<br>
 
-<p align=center>
 [Ruleset Expansion](ruleset/H.E.A.T.md)
-</p>
 
 ***
 
