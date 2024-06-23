@@ -47,11 +47,12 @@ _Classic modern force with modern vehicle pool and non-lethal drone options._
 <p align=right style="right:0;top:5px;position:fixed;">
 <img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto width=150></img>
 </p>
-
+<p align=left>
 Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
 estonian and latvian equipment. 2016 onward.
 
 _Airmobility and light infantry are the main feature, with a mix of baltic equipment._
+</p>
 
 [BASEP Army List](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
