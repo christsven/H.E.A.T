@@ -5,7 +5,9 @@
 </p>
 <br>
 
+<p align=center>
 This is **H.E.A.T**, a ruleset expansion for 28mm ultramodern tabletop.
+</p>
 
 ***
 
