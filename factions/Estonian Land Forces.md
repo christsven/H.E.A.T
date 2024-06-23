@@ -4,13 +4,17 @@
 <img src="ressources/elf-logo.excalidraw.png"  style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
 </p>
 
-*Emblem of the 1. Estonian Division*
+<p align=center>
+Emblem of the 1. Estonian Division
+</p>
 
 <p align=center>
 <img src="ressources/kaitseliit.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
 </p>
 
-*Emblem of the Kaitseliig, the Estonian Defense League*
+<p align=center>
+Emblem of the Kaitseliig, the Estonian Defense League*
+</p>
 
 The combined remaining forces fighting for the liberation of Ida Viru. While not
 a large force in comparison to its neighbours Russia or Finland, the estonian
