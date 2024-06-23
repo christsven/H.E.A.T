@@ -38,11 +38,11 @@ _Classic modern force with modern vehicle pool and non-lethal drone options._
 
 [VJTF Army List](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
+#### Baltic Security Partnership Brigade
+
 <p align=right>
 <img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto width=150></img>
 </p>
-
-#### Baltic Security Partnership Brigade
 
 Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
 estonian and latvian equipment. 2016 onward.
