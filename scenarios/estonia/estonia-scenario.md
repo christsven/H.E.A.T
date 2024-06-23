@@ -55,7 +55,7 @@ _Airmobility and light infantry are the main feature, with a mix of baltic equip
 
 [BASEP Army List](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
-<p align=right style="right:0;top:0px;position:fixed;">
+<p align=right style="right:0;top:10px;position:fixed;">
 <img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto width=130></img>
 </p>
 
