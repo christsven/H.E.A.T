@@ -1,6 +1,8 @@
 # H.E.A.T. Skirmish Wargame
 
+<p align=center>
 <img src="/ruleset/ressources/introduction.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto; width: 95%; height: auto" alt="NSPR Logo">
+</p>
 <br>
 
 This is **H.E.A.T**, a ruleset expansion for 28mm ultramodern tabletop.
@@ -28,7 +30,9 @@ everything else needed for a modern wargame.
 
 ### Estonian Civil War
 
+<p align=center>
 <img src="/scenarios/ressources/flag-nspr.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
+</p>
 <br>
 War in Europe right next to the russian border.
 
