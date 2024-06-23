@@ -1,9 +1,13 @@
 # Baltic Security Partnership Brigade
 
 
+<p align=center>
 <img src="ressources/bsp-logo-no-text.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
+</p>
 
-*Logo of the Baltic Security Partnership Brigade*
+<p align=center>
+Logo of the Baltic Security Partnership Brigade
+</p>
 
 ***
 
