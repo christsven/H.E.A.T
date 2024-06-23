@@ -8,8 +8,9 @@ This is **H.E.A.T**, a ruleset expansion for 28mm ultramodern tabletop.
 ***
 
 ## Rules
-
+<p align=center>
 <img src="factions/ressources/milmi8.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" alt="Mi 8">
+</p>
 <br>
 This is meant as an expansion of Bolt Action rules, so only additions or in a few
 cases rebalanced rules are provided. Everything else can be found in the
