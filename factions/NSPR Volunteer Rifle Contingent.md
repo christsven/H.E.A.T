@@ -1,13 +1,20 @@
 # **NSPR volunteer rifle contingent**
 
+<p align=center>
 <img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
+</p>
 
-*Emblem of the Narva Volunteer Rifle Contingent*
+<p align=center>
+Emblem of the Narva Volunteer Rifle Contingent
+</p>
 
+<p align=center>
 <img src="/factions/ressources/bratstwa.excalidraw.png"  style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
+</p>
 
-
-*PMC Bratstwa Logo*
+<p align=center>
+PMC Bratstwa Logo
+</p>
 
 The NSPR has a standing force of around 10-13.000 personnel, which serve under
 the umbrella of the NSPR flag. Internally, there are several factions.
