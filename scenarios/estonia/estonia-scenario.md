@@ -18,7 +18,7 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
 #### Estonian Land Forces
 
-<p align=right style="right:0;top:5px; position:fixed;">
+<p align=right style="right:0;top:0px; position:fixed;">
 <img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto width=150></img>
 </p>
 
@@ -31,7 +31,7 @@ domestic drone products._
 
 #### NATO VJTF + NRF
 
-<p align=right style="right:0;top:5px;position:fixed;">
+<p align=right style="right:0;top:0px;position:fixed;">
 <img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto width=150></img>
 </p>
 
@@ -44,7 +44,7 @@ _Classic modern force with modern vehicle pool and non-lethal drone options._
 
 #### Baltic Security Partnership Brigade
 
-<p align=right style="right:0;top:5px;position:fixed;">
+<p align=right style="right:0;top:0px;position:fixed;">
 <img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto width=150></img>
 </p>
 <p align=left>
@@ -58,7 +58,7 @@ _Airmobility and light infantry are the main feature, with a mix of baltic equip
 
 #### UNFIBAL Mission Forces
 
-<p align=right style="right:0;top:5px;position:fixed;">
+<p align=right style="right:0;top:0px;position:fixed;">
 <img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto width=150></img>
 </p>
 
@@ -71,7 +71,7 @@ _Mix of old equipment and modern arms donations. Emphasis on suppport units._
 
 #### WIP: EUFOR Estonia
 
-<p align=right style="right:0;top:5px;position:fixed;">
+<p align=right style="right:0;top:0px;position:fixed;">
 <img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto width=150></img>
 </p>
 
@@ -85,7 +85,7 @@ _Mix of german, french, italian and slovac gear. Modern and diverse._
 
 #### NSPR Combined Forces
 
-<p align=right style="right:0;top:5px;position:fixed;">
+<p align=right style="right:0;top:0px;position:fixed;">
 <img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" align="right" alt="NSPR Forces" height=auto width=150></img>
 </p>
 
