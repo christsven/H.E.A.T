@@ -4,7 +4,7 @@
 <img src="/ruleset/ressources/introduction.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto; width: 95%; height: auto" alt="NSPR Logo">
 </p>
 <p align=center>
-This is **H.E.A.T**, a ruleset expansion for 28mm ultramodern tabletop.
+This is <b>H.E.A.T</b>, a ruleset expansion for 28mm ultramodern tabletop.
 </p>
 
 ***
