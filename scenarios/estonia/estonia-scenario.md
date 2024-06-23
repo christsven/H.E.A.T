@@ -71,7 +71,7 @@ _Mix of old equipment and modern arms donations. Emphasis on suppport units._
 #### WIP: EUFOR Estonia
 
 <p align=right>
-img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto width=150></img>
+<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto width=150></img>
 </p>
 
 Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
