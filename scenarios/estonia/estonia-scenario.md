@@ -44,7 +44,7 @@ _Classic modern force with modern vehicle pool and non-lethal drone options._
 
 #### Baltic Security Partnership Brigade
 
-<p align=right style="right:0;top:0px;position:fixed;">
+<p align=right style="float:right;right:0;top:0px;position:fixed;">
 <img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto width=150></img>
 </p>
 <p align=left>
