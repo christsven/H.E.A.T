@@ -99,10 +99,11 @@ and PMC formation with more modern equipment._
 
 ## Scenarios
 
-<img src="/factions/ressources/leopard-new.excalidraw.png" alt="MBT" align=right height=auto width=350></img>
+<img src="/factions/ressources/leopard-new.excalidraw.png" alt="MBT" align=right height=auto width=45%></img>
 
 This section contains several key events, interesting locations and
 more general scenarios for typical skirmishes in this scenario.
+
 *Feel free to adjust any scenario to your liking, these are just ideas.*
 
 ### 2016
