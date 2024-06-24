@@ -44,7 +44,7 @@ and Russia over a single misstep on either side.
 
 ***
 
-<img src="/factions/ressources/armouredtechnical.excalidraw.png" alt="MBT" align=right height=auto width=300></img>
+<img src="/factions/ressources/armouredtechnical.excalidraw.png" alt="MBT" align=right height=auto width=50%></img>
 
 ## Templates
 
