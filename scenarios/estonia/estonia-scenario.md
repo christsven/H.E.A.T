@@ -16,7 +16,7 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
 ### BLUFOR
 
-<p align=right style="right:0;top:0px; position:fixed;">
+<p align=right style="right:0;">
 <img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto width=130></img>
 </p>
 
@@ -29,7 +29,7 @@ domestic drone products._
 
 [Estonia Army List](/factions/Estonian%20Land%20Forces.md)
 
-<p align=right style="right:0;top:0px;position:fixed;">
+<p align=right style="right:0;">
 <img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto width=130></img>
 </p>
 
@@ -42,7 +42,7 @@ _Classic modern force with modern vehicle pool and non-lethal drone options._
 
 [VJTF Army List](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
-<p align=right style="right:0;top:0px;position:fixed;">
+<p align=right style="right:0;">
 <img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto width=130></img>
 </p>
 
@@ -55,7 +55,7 @@ _Airmobility and light infantry are the main feature, with a mix of baltic equip
 
 [BASEP Army List](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
-<p align=right style="right:0;top:10px;position:fixed;">
+<p align=right style="right:0;">
 <img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto width=130></img>
 </p>
 
@@ -68,7 +68,7 @@ _Mix of old equipment and modern arms donations. Emphasis on suppport units._
 
 [WIP](/factions/UNFIBAL%20Forces.md)
 
-<p align=right style="right:0;top:0px;position:fixed;">
+<p align=right style="right:0;">
 <img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto width=130></img>
 </p>
 
@@ -82,7 +82,7 @@ _Mix of german, french, italian and slovac gear. Modern and diverse._
 
 ### OPFOR
 
-<p align=right style="right:0;top:0px;position:fixed;">
+<p align=right style="right:0;">
 <img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" align="right" alt="NSPR Forces" height=auto width=130></img>
 </p>
 
