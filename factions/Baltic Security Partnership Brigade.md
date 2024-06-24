@@ -35,7 +35,7 @@ at 3pt/u:
 
 ## Platoon leader [ 1 ]
 
-![platoon leader](/factions/ressources/basep-leader.excalidraw.png)
+<img src="/factions/ressources/basep-leader.excalidraw.png" style="display: flex; margin-left: auto; margin-right: auto;" alt="platoon leader" height=auto width=50% >
 
 ### Leitenantas
 
@@ -60,8 +60,6 @@ at 3pt/u:
 ***
 
 ## Infantry Units [ 2 - 5 ]
-
-![infantry](/factions/ressources/basep-infantry.excalidraw.png)
 
 ### Žvalgybos komanda
 
