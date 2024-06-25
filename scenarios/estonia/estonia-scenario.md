@@ -17,7 +17,7 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 ### BLUFOR
 
 <div align=right style="right:0;margin-down:15px;">
-<img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto style="max-width:110px; display:flex;" width=20%></img>
+<img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto style="max-width:110px; display:flex;" width=18%></img>
 </div>
 
 #### Estonian Land Forces
@@ -30,7 +30,7 @@ domestic drone products._
 [Estonia Army List](/factions/Estonian%20Land%20Forces.md)
 
 <div align=right style="right:0;margin-down:15px;">
-<img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto style="max-width:110px; display:flex;" width=20%></img>
+<img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto style="max-width:110px; display:flex;" width=18%></img>
 </div>
 
 #### NATO VJTF + NRF
@@ -56,7 +56,7 @@ _Airmobility and light infantry are the main feature, with a mix of baltic equip
 [BASEP Army List](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
 <div align=right style="right:0;margin-down:15px;">
-<img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto style="max-width:110px; display:flex;" width=20%></img>
+<img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto style="max-width:110px; display:flex;" width=17%></img>
 </div>
 
 #### UNFIBAL Mission Forces
