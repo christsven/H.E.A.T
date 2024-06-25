@@ -46,9 +46,10 @@ and Russia over a single misstep on either side.
 
 ## Templates
 
-<img src="/factions/ressources/armouredtechnical.excalidraw.png" alt="MBT" align=right height=auto width=50%></img>
 
 ### Infantry/System operator unit template
+
+<img src="/factions/ressources/armouredtechnical.excalidraw.png" alt="MBT" align=right height=auto width=50% style="margin-bottom:15px">
 
 Units such as infantry groups, artillery, mortars, etc. are described in a table
 as seen below:
