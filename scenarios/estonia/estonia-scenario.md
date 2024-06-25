@@ -32,7 +32,7 @@ domestic drone products._
 [Estonia Army List](/factions/Estonian%20Land%20Forces.md)
 
 <div align=right style="right:0;">
-<img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto style="max-width:110px; display:flex;" width=17%></img>
+<img src="/scenarios/ressources/nrf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto style="max-width:110px; display:flex;" width=16%></img>
 </div>
 
 #### NATO VJTF + NRF
