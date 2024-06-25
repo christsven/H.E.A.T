@@ -22,7 +22,9 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
 #### Estonian Land Forces
 
-Combined Forces of the estonian army. 2016 onward.
+Combined Forces of the estonian army. 
+
+2016 onward.
 
 _A small army with a large reservist pool, but cutting-edge equipment with many
 domestic drone products._
@@ -36,6 +38,7 @@ domestic drone products._
 #### NATO VJTF + NRF
 
 German led NRF forces, VJTF with IF-U/F-U Forces from the Panzerbrigade 37.
+
 Around Mid 2017 onward.
 
 _Classic modern force with modern vehicle pool and non-lethal drone options._
@@ -62,6 +65,7 @@ _Airmobility and light infantry are the main feature, with a mix of baltic equip
 #### UNFIBAL Mission Forces
 
 United Nations support brigade composed of mixed french and american equipment.
+
 2014 onward.
 
 _Mix of old equipment and modern arms donations. Emphasis on suppport units._
