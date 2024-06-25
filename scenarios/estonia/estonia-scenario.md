@@ -110,10 +110,10 @@ more general scenarios for typical skirmishes in this scenario.
 
 #### Attack on Jõhvi Garrison
 
-At the beginning of the war, NSPR forces overwhelmed the Jõhvi Infantry
-Garrison in a surprise attack. The garrison was used for infantry training and
-is the home to the Viru Infantry Battalion, which was not prepared for the attack,
-but fought valiantly.
+At the beginning of the war, NSPR forces attacked the Jõhvi Infantry Garrison in an
+attempt to cut down the strategically placed facility before it could pose a
+significant problem. The garrison is used for infantry training and is the home
+to the Viru Infantry Battalion.
 
 | **Attack on Jõhvi Garrison** | <img src="/scenarios/ressources/johvi-layout.excalidraw.png" align="right" alt="Johvi scenario image" height=auto width=auto></img> |
 | :--- | :--- |
