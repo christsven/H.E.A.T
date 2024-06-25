@@ -10,6 +10,7 @@ This is <b>H.E.A.T</b>, a ruleset expansion for 28mm ultramodern tabletop.
 ***
 
 ## Rules
+
 <p align=center>
 <img src="factions/ressources/milmi8.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" alt="Mi 8">
 </p>
@@ -43,9 +44,9 @@ and Russia over a single misstep on either side.
 
 ***
 
-<img src="/factions/ressources/armouredtechnical.excalidraw.png" alt="MBT" align=right height=auto width=50%></img>
-
 ## Templates
+
+<img src="/factions/ressources/armouredtechnical.excalidraw.png" alt="MBT" align=right height=auto width=50%></img>
 
 ### Infantry/System operator unit template
 
