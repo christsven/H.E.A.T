@@ -225,6 +225,8 @@ it can enter the match at any height after a successful order test.
 Lift-Off and Landing require the helicopter to perform a successful order test
 as well and are performed to/from 6" height (always measured from bottom of hull).
 
+<img src="/factions/ressources/milmi8.excalidraw.png" alt="mi 8" align=right height=auto width=45%></img>
+
 The minimum flight height is 6", the maximum is 30".
 
 Horizontal movement works the same as normal vehicle movement. The helicopter can
@@ -293,6 +295,8 @@ The helicopter gets the "Open Topped" rule while having open rear/side doors. As
 soon as the helicoter succesfully performs a RUN order or the turn is over, the
 rule does no longer apply.
 
+<img src="/factions/ressources/eurocopter.excalidraw.png" alt="eurocopter" align=right height=auto width=45%></img>
+
 Reconnaissance units like spotters are allowed to perform their role from the
 helicopter in 45° arks from the opening they are looking from. The door has to be
 open to do this.
@@ -359,6 +363,8 @@ As soon as either the drone or the operator is lost, the team is considered
 destroyed. In any given round either the operator or his drone acts, just like a
 spotter and artillery.
 
+<img src="/factions/ressources/kzo.excalidraw.png" alt="kzo bundeswehr" align=right height=auto width=45%></img>
+
 The UAV uses the same damage value as its team. They always deploy grounded with
 the operator, except if the scenario rules state otherwise.
 
@@ -401,6 +407,8 @@ travel distance of 24" or 12".
 ##### Variants
 
 ###### Reconnaissance
+
+<img src="/ruleset/ressources/mikado.excalidraw.png" alt="toyota technical" align=right height=auto width=45%></img>
 
 Enables capable of spotting enemy targets in direct LoS. The DOT can communicate
 with any unit within the DOTs platoon and any unit capable of indirect fire in 12"
@@ -886,6 +894,8 @@ A squad can change out none, a couple or even all their weapons, and we count th
 logistical strain by adding up the points, since we don't really have that much
 of a buff anymore by using SMGs. It's much more about the role the unit is supposed
 to fulfill.
+
+<img src="/factions/ressources/wiesel20mm.excalidraw.png" alt="spotter wiesel with 20mm for some reason" align=right height=auto width=45%></img>
 
 #### Spotters
 
