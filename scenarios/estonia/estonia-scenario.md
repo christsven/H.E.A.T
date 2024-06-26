@@ -111,8 +111,7 @@ and PMC formation with more modern equipment._
 
 <img src="/factions/ressources/leopard-new.excalidraw.png" alt="MBT" align=right height=auto width=45%></img>
 
-This section contains several key events, interesting locations and
-more general scenarios for typical skirmishes in this scenario.
+This section contains several key events, interesting locations and more general scenarios for typical skirmishes in this scenario.
 
 *Feel free to adjust any scenario to your liking, these are just ideas.*
 
@@ -125,7 +124,7 @@ attempt to cut down the strategically placed facility before it could pose a
 significant problem. The garrison is used for infantry training and is the home
 to the Viru Infantry Battalion.
 
-| **Attack on Jõhvi Garrison** | <img src="/scenarios/ressources/johvi-layout.excalidraw.png" align="right" alt="Johvi scenario image" height=auto width=auto></img> |
+| **Attack on Jõhvi Garrison** | <img src="/scenarios/ressources/johvi-layout.excalidraw.png" alt="Johvi scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img> |
 | :--- | :--- |
 | **Objective/Game Mode** | Attacker/Defender |
 | **Set-Up** | - Set up the garrison buildings to take up 2/3rds of the table. <br> - Choose two or more buildings as objective targets.<br> - Defenders set up their units within 12" of any of the objectives.<br> - Attacker sets up at the table edge opposite to the buildings. |
@@ -138,12 +137,12 @@ To quickly assert control over Ida Viru, the NSPR built up checkpoints and contr
 stations along the E35 and E624, which were frequently attacked by estonian
 forces.
 
-| **Attack on Jõhvi Garrison** | <img src="/scenarios/ressources/roads-layout.excalidraw.png" align="right" alt="Crossroads scenario image" height=auto width=auto></img> |
+| **Securing the Roads** | <img src="/scenarios/ressources/crossroads-layout.excalidraw.png" alt="crossroads scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img> |
 | :--- | :--- |
-| **Objective/Game Mode** | - |
-| **Set-Up** | - |
+| **Objective/Game Mode** | Objective Defense |
+| **Set-Up** | - Set up a table with a prominent road leading from one edge to another, either straight or a curve. <br> - Add some side-roads meeting up in the middle or along the curve.<br> - Defenders choose one crossroad or space in the middle of the table to set up their defense:<br>&emsp; · Defender are allowed to place encampments<br>&emsp;&emsp;bunkers, razor wire, anything applicable.<br>&emsp; · For every 2 objects, one unit is moved to reserve.<br> - Attackers choose one table edge to set up their units. |
 | **Game Duration** | 6 + 1 Turns |
-| **Victory Conditions** | 1 VP per destroyed units + 3 VP per occupied objective. |
+| **Victory Conditions** | 1 VP per destroyed unit + 3 VP to whoever has units inside the crossroad encampment at the end of game. |
 
 #### Urban fighting in Kothla Järve
 
