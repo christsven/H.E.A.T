@@ -119,12 +119,14 @@ This section contains several key events, interesting locations and more general
 
 #### Attack on Jõhvi Garrison
 
+<img src="/scenarios/ressources/johvi-layout.excalidraw.png" alt="Johvi scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+
 At the beginning of the war, NSPR forces attacked the Jõhvi Infantry Garrison in an
 attempt to cut down the strategically placed facility before it could pose a
 significant problem. The garrison is used for infantry training and is the home
 to the Viru Infantry Battalion.
 
-| **Attack on Jõhvi Garrison** | <img src="/scenarios/ressources/johvi-layout.excalidraw.png" alt="Johvi scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img> |
+| **Attack on Jõhvi Garrison** | |
 | :--- | :--- |
 | **Objective/Game Mode** | Objective Defense |
 | **Set-Up** | - Set up the garrison buildings to take up 2/3rds of the table. <br> - Choose two or more buildings as objective targets.<br> - Defenders set up their units within 12" of any of the objectives.<br> - Attacker sets up at the table edge opposite to the buildings. |
@@ -133,11 +135,13 @@ to the Viru Infantry Battalion.
 
 #### Securing the roads
 
+<img src="/scenarios/ressources/crossroads-layout.excalidraw.png" alt="crossroads scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+
 To quickly assert control over Ida Viru, the NSPR built up checkpoints and control
 stations along the E35 and E624, which were frequently attacked by estonian
 forces.
 
-| **Securing the Roads** | <img src="/scenarios/ressources/crossroads-layout.excalidraw.png" alt="crossroads scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img> |
+| **Securing the Roads** | |
 | :--- | :--- |
 | **Objective/Game Mode** | Area Defense |
 | **Set-Up** | - Set up a table with a prominent road leading from one edge to another, either straight or a curve. <br> - Add some side-roads meeting up in the middle or along the curve.<br> - Defenders choose one crossroad or space in the middle of the table to set up their defense:<br>&emsp; · Defender are allowed to place encampments<br>&emsp;&emsp;bunkers, razor wire, anything applicable.<br>&emsp; · For every 2 objects, one unit is moved to reserve.<br> - Attackers choose one table edge to set up their units. |
@@ -146,11 +150,13 @@ forces.
 
 #### Urban fighting in Kothla Järve
 
+<img src="/scenarios/ressources/city-hall-layout.excalidraw.png" alt="city hall scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+
 The bitter urban fighting for Kothla Järve, in some cases days on end over singular
 streets and houses, culminated in a battle over the city hall alongside the Keskallee
 in the city centre.
 
-| **Urban fighting in Kothla Järve** | <img src="/scenarios/ressources/city-hall-layout.excalidraw.png" alt="city hall scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img> |
+| **Urban fighting in Kothla Järve** | |
 | :--- | :--- |
 | **Objective/Game Mode** | Objective Defense |
 | **Set-Up** | - Set up a table with a large city hall flanked by other administratie buildings adjacent to a wide, forested promenade. This is the objective as well as the starting position for defending forces.<br> - The rest of the table can be set up with smaller buildings, parks, open areas and fortifications, as desired.<br> - Attackers are allowed to choose a side from which to attack and set up their units along the table edge. |
@@ -159,10 +165,12 @@ in the city centre.
 
 #### Skirmish at Tudulinna Dam
 
+<img src="/scenarios/ressources/tudulinna-layout.excalidraw.png" alt="city hall scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+
 A disagreement between UN Peacekeepers and NSPR forces over control of the Tudulinna
 dam led to a skirmish between the two.
 
-| **Skirmish at Tudulinna Dam** | <img src="/scenarios/ressources/tudulinna-layout.excalidraw.png" alt="city hall scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img> |
+| **Skirmish at Tudulinna Dam** | |
 | :--- | :--- |
 | **Objective/Game Mode** | Objective Defense |
 | **Set-Up** | |
