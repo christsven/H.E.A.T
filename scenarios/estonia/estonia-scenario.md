@@ -18,92 +18,74 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
 ### BLUFOR
 
-<div align=right style="right:0;">
-<img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto style="max-width:100px; display:flex;" width=16%></img>
-</div>
-
 #### Estonian Land Forces
 
-Combined Forces of the estonian army. 
-
-2016 onward.
-
-_A small army with a large reservist pool, but cutting-edge equipment with many
-domestic drone products._
-
-[Estonia Army List](/factions/Estonian%20Land%20Forces.md)
-
-<div align=right style="right:0;">
-<img src="/factions/ressources/vjtf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto style="max-width:100px; display:flex;" width=16%></img>
+<div>
+<div style="width: 50%; display: inline-block; margin-bottom:0%">
+Combined Forces of the estonian army. 2016 onward.<br><br><i>A small army with a large reservist pool, but cutting-edge equipment with many domestic drone products.</i><br><br><a href="/factions/Estonian%20Land%20Forces.md">Estonia Army List</a>
+</div>
+<div style="width: 50%; display: inline-block; float: right;">
+<img src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Army"style="width: 50%; float: right"></img>
+</div>
 </div>
 
 #### NATO VJTF + NRF
 
-German led NRF forces, VJTF with IF-U/F-U Forces from the Panzerbrigade 37.
-
-Around Mid 2017 onward.
-
-_Classic modern force with modern vehicle pool and non-lethal drone options._
-
-[VJTF Army List](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
-
-<div align=right style="right:0;">
-<img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto style="max-width:100px; display:flex;" width=16%></img>
+<div>
+<div style="width: 50%; display: inline-block; margin-bottom:0%">
+German led NRF forces, VJTF with IF-U/F-U Forces from the Panzerbrigade 37.<br><br>Around Mid 2017 onward.<br><br><i>Classic modern force with modern vehicle pool and non-lethal drone options.</i><br><br><a href="/factions/German%20VJTF%20Panzergrenadier%20Division.md">VJTF Army List</a>
+</div>
+<div style="width: 50%; display: inline-block; float: right;">
+<img src="/factions/ressources/vjtf-logo.excalidraw.png" alt="VJTF Forces"style="width: 50%; float: right"></img>
+</div>
 </div>
 
 #### Baltic Security Partnership Brigade
 
+<div>
+<div style="width: 50%; display: inline-block; margin-bottom:0%">
 Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
-estonian and latvian equipment. 
-
-2016 onward.
-
-_Airmobility and light infantry are the main feature, with a mix of baltic equipment._
-
-[BASEP Army List](/factions/Baltic%20Security%20Partnership%20Brigade.md)
-
-<div align=right style="right:0;">
-<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto style="max-width:120px; display:flex;" width=20%></img>
+estonian and latvian equipment.<br><br>2016 onward.<br><br><i>Airmobility and light infantry are the main feature, with a mix of baltic equipment.</i><br><br><a href="/factions/German%20VJTF%20Panzergrenadier%20Division.md">BASEP Army List</a>
+</div>
+<div style="width: 50%; display: inline-block; float: right;">
+<img src="/factions/ressources/bsp-logo.excalidraw.png" alt="BASEP Forces"style="width: 50%; float: right"></img>
+</div>
 </div>
 
 #### WIP: EUFOR Estonia
 
-Composite force of two EU Battlegroups and EUROCORPS. 
-
-Early 2017.
-
-_Mix of german, french, italian and slovac gear. Modern and diverse._
-
-[WIP](/factions/EUFOR%20Estonia%20Forces.md)
-
-<div align=right style="right:0;">
-<img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto style="max-width:120px; display:flex;" width=20%></img>
+<div>
+<div style="width: 50%; display: inline-block; margin-bottom:0%">
+Composite force of two EU Battlegroups and EUROCORPS.<br><br>Early 2017.<br><br><i>Mix of german, french, italian and slovac gear. Modern and diverse.</i><br><br><a href="/factions/German%20VJTF%20Panzergrenadier%20Division.md">EUFOR Army List</a>
+</div>
+<div style="width: 50%; display: inline-block; float: right;">
+<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Estonia Forces" style="width: 50%; float: right;"></img>
+</div>
 </div>
 
 #### UNFIBAL Mission Forces
 
-United Nations support brigade composed of mixed french and american equipment.
-
-2014 onward.
-
-_Mix of old equipment and modern arms donations. Emphasis on suppport units._
-
-[WIP](/factions/UNFIBAL%20Forces.md)
+<div>
+<div style="width: 50%; display: inline-block; margin-bottom:0%">
+United Nations support brigade composed of mixed french and american equipment.<br><br>2014 onward.<br><br><i>Mix of old equipment and modern arms donations. Emphasis on support units.</i><br><br><a href="/factions/UNFIBAL Forces.md">UNFIBAL Army List</a>
+</div>
+<div style="width: 50%; display: inline-block; float: right;">
+<img src="/scenarios/ressources/unfibal.excalidraw.png" alt="UNFIBAL Mission Forces" style="width: 50%; float: right;"></img>
+</div>
+</div>
 
 ### OPFOR
 
-<div align=right style="right:0;">
-<img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" align="right" alt="NSPR Forces" height=auto style="max-width:120px; display:flex;" width=20%></img>
-</div>
-
 #### NSPR Combined Forces
 
-The free forces of Ida Viru, as well as the Brastwa PMC Group
-
-_Ragtag force with a huge, but old pool of equipment. Insurgent infantry sections
-and PMC formation with more modern equipment._
-
-[NSPR Army List](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md)
+<div>
+<div style="width: 50%; display: inline-block; margin-bottom:0%">
+The free forces of Ida Viru, as well as the Brastwa PMC Group.<br><br><i>Ragtag force with a huge, but old pool of equipment. Insurgent infantry sections and PMC formation with more modern equipment.</i><br><br><a href="/factions/NSPR Volunteer Rifle Contingent.md">NSPR Army List</a>
+</div>
+<div style="width: 50%; display: inline-block; float: right;">
+<img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" alt="UNFIBAL Mission Forces" style="width: 50%; float: right;"></img>
+</div>
+</div>
 
 ***
 
