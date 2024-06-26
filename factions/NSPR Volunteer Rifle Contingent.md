@@ -1,11 +1,11 @@
-# **NSPR volunteer rifle contingent**
+# **NSPR Volunteer Rifle Contingent**
 
 <p align=center>
 <img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
 </p>
 
 <p align=center>
-Emblem of the Narva Volunteer Rifle Contingent
+Emblem of the Narva Armed Forces
 </p>
 
 <p align=center>
@@ -44,7 +44,7 @@ as IED carriers or suicide drones.
 
 ### Territorial knowledge
 
-Due to being accustomed to the surrounding terrain features, INDEPENDENT
+Due to being accustomed to the surrounding terrain features, NSPR
 forces do not have to fulfill an order check to enter the map as reserve
 units.
 
@@ -52,7 +52,7 @@ units.
 
 ### Foreign aid
 
-As part of undisclosed weapon shipments from alligned nations, INDEPENDENT
+As part of undisclosed weapon shipments from alligned nations, NSPR
 forces receive a free medium mortar as part of their artillery section.
 
 This unit is counted as a regular mortar with a spotter. It does not block
@@ -62,7 +62,7 @@ a mortar slot.
 
 ### Old technology
 
-Most vehicles in the INDEPENDENT forces are old, salvaged material from
+Most vehicles in the NSPR forces are old, salvaged material from
 soviet stockpiles, inferior to modern equipment.
 
 These vehicle types do have to suffer one of the following modifiers:
@@ -143,19 +143,20 @@ material.
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt |
 | Setup | NCO (SMG) + 3 attendants (SMG) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Explosives pipe</td><td>+15 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-</td><td>+ 1 pt each</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives (*if selected*)</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information</td></tr></table> |
 
 ### Support Infantry group
 
-A small group with DMR support. Can take up to two DMRs.
+A small group with DMR support. Can take up to two DMRs. This unit is
+able to be mounted on horses to maximize their mobility.
 
 | Support infantry group | <img src="/factions/nato-symbols/opfor/infantry-marksmen-g.excalidraw.png" align="right" alt="Marksman infantry" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt |
 | Setup | NCO (DMR) + 2 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+10 pt</td></tr></table> |
-| Special rules | - |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+10 pt</td></tr></table><table><tr><td><b>Optional Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Cavalry</td><td>-</td><td>+1 pt/u</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Cavalry (*if selected*)</td><td>-</td></tr></table> |
 
 ### Motorized Infantry squad
 
