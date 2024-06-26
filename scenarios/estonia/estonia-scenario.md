@@ -61,6 +61,18 @@ _Airmobility and light infantry are the main feature, with a mix of baltic equip
 [BASEP Army List](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
 <div align=right style="right:0;">
+<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto style="max-width:120px; display:flex;" width=20%></img>
+</div>
+
+#### WIP: EUFOR Estonia
+
+Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
+
+_Mix of german, french, italian and slovac gear. Modern and diverse._
+
+[WIP](/factions/EUFOR%20Estonia%20Forces.md)
+
+<div align=right style="right:0;">
 <img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto style="max-width:110px; display:flex;" width=17%></img>
 </div>
 
@@ -73,18 +85,6 @@ United Nations support brigade composed of mixed french and american equipment.
 _Mix of old equipment and modern arms donations. Emphasis on suppport units._
 
 [WIP](/factions/UNFIBAL%20Forces.md)
-
-<div align=right style="right:0;">
-<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto style="max-width:120px; display:flex;" width=20%></img>
-</div>
-
-#### WIP: EUFOR Estonia
-
-Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
-
-_Mix of german, french, italian and slovac gear. Modern and diverse._
-
-[WIP](/factions/EUFOR%20Estonia%20Forces.md)
 
 ### OPFOR
 
