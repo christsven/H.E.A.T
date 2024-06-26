@@ -162,6 +162,13 @@ in the city centre.
 A disagreement between UN Peacekeepers and NSPR forces over control of the Tudulinna
 dam led to a skirmish between the two.
 
+| **Skirmish at Tudulinna Dam** | <img src="/scenarios/ressources/tudulinna-layout.excalidraw.png" alt="city hall scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img> |
+| :--- | :--- |
+| **Objective/Game Mode** | Objective Defense |
+| **Set-Up** | |
+| **Game Duration** | 6 + 1 Turns |
+| **Victory Conditions** | 1 VP per destroyed units + 3 VP per occupied objective at the end of game. -5 VP to side destroying the dam, if it happens. |
+
 ### 2017
 
 #### Bog raids
