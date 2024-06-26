@@ -170,6 +170,8 @@ The IFV shares its slots (2 per platoon) with APCs and is not mandatory. Some
 IFVs also can switch out their crew compartments for weapon systems or other
 upgrades, rendering them unable to fulfill this role.
 
+<img src="/factions/ressources/tpz-fuchs.excalidraw.png" alt="tpz fuchs" align=right height=auto width=45%></img>
+
 If chosen as an IFV, they connect to one of the two mandatory infantry groups.
 Keep the maximum carry capacity in mind, if this is the case, as they do need to
 fit into their IFV.
@@ -180,6 +182,8 @@ infantry group is filled by the IFV itself.
 
 The infantry group and the IFV are still two different units with
 separate order dice.
+
+<img src="/factions/ressources/gtk-boxer.excalidraw.png" alt="gtk boxer" align=left height=auto width=45%></img>
 
 If the infantry unit is destroyed, the IFV does not need to be removed and serves
 as a normal vehicle. If the connected unit is separated by more than 36" from its
@@ -222,10 +226,10 @@ way as any other vehicle.
 A helicopter may begin the match on the ground or offmap in reserve, from where
 it can enter the match at any height after a successful order test.
 
+<img src="/factions/ressources/milmi8.excalidraw.png" alt="mi 8" align=right height=auto width=45%></img>
+
 Lift-Off and Landing require the helicopter to perform a successful order test
 as well and are performed to/from 6" height (always measured from bottom of hull).
-
-<img src="/factions/ressources/milmi8.excalidraw.png" alt="mi 8" align=right height=auto width=45%></img>
 
 The minimum flight height is 6", the maximum is 30".
 
