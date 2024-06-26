@@ -48,7 +48,7 @@ _Classic modern force with modern vehicle pool and non-lethal drone options._
 [VJTF Army List](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
 <div align=right style="right:0;">
-<img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto style="max-width:120px; display:flex;" width=20%></img>
+<img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto style="max-width:100px; display:flex;" width=16%></img>
 </div>
 
 #### Baltic Security Partnership Brigade
