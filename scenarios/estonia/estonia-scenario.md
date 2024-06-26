@@ -29,7 +29,6 @@ Combined Forces of the estonian army. 2016 onward.<br><br><i>A small army with a
 </p>
 </div>
 
-
 #### NATO VJTF + NRF
 
 <div>
