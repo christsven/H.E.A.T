@@ -4,6 +4,8 @@
 
 ## Introduction
 
+![introductional panzerhaubitze](/factions/ressources/panzerhaubitze.excalidraw.png)
+
 This is a ruleset for a modern, platoon-sized tabletop wargame. While size- and
 modelagnostic, weapon ranges and distances are balanced towards a 28mm size. If
 used in another scale, adjustments might be necessary.
@@ -130,6 +132,8 @@ Chart for high explosives and how to calculate losses.
 | 4" | D6 | 4 | 3D6 |
 
 ## Gameplay Rules
+
+![](/factions/ressources/toyota-new.excalidraw.png)
 
 ### Vehicles
 
