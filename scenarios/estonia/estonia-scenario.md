@@ -19,7 +19,7 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 ### BLUFOR
 
 <div align=right style="right:0;">
-<img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto style="max-width:110px; display:flex;" width=17%></img>
+<img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto style="max-width:120px; display:flex;" width=20%></img>
 </div>
 
 #### Estonian Land Forces
@@ -34,7 +34,7 @@ domestic drone products._
 [Estonia Army List](/factions/Estonian%20Land%20Forces.md)
 
 <div align=right style="right:0;">
-<img src="/factions/ressources/vjtf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto style="max-width:110px; display:flex;" width=16%></img>
+<img src="/factions/ressources/vjtf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto style="max-width:120px; display:flex;" width=20%></img>
 </div>
 
 #### NATO VJTF + NRF
@@ -48,32 +48,36 @@ _Classic modern force with modern vehicle pool and non-lethal drone options._
 [VJTF Army List](/factions/German%20VJTF%20Panzergrenadier%20Division.md)
 
 <div align=right style="right:0;">
-<img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto style="max-width:110px; display:flex;" width=18%></img>
+<img src="/factions/ressources/bsp-logo.excalidraw.png" align="right" alt="BASEP Brigade" height=auto style="max-width:120px; display:flex;" width=20%></img>
 </div>
 
 #### Baltic Security Partnership Brigade
 
 Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
-estonian and latvian equipment. 2016 onward.
+estonian and latvian equipment. 
+
+2016 onward.
 
 _Airmobility and light infantry are the main feature, with a mix of baltic equipment._
 
 [BASEP Army List](/factions/Baltic%20Security%20Partnership%20Brigade.md)
 
 <div align=right style="right:0;">
-<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto style="max-width:110px; display:flex;" width=20%></img>
+<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" align="right" alt="EUFOR Estonia" height=auto style="max-width:120px; display:flex;" width=20%></img>
 </div>
 
 #### WIP: EUFOR Estonia
 
-Composite force of two EU Battlegroups and EUROCORPS. Early 2017.
+Composite force of two EU Battlegroups and EUROCORPS. 
+
+Early 2017.
 
 _Mix of german, french, italian and slovac gear. Modern and diverse._
 
 [WIP](/factions/EUFOR%20Estonia%20Forces.md)
 
 <div align=right style="right:0;">
-<img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto style="max-width:120px; display:flex;" width=17%></img>
+<img src="/scenarios/ressources/unfibal.excalidraw.png" align="right" alt="UN Forces" height=auto style="max-width:120px; display:flex;" width=20%></img>
 </div>
 
 #### UNFIBAL Mission Forces
