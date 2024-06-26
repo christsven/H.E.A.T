@@ -1,7 +1,7 @@
 # H.E.A.T. Skirmish Wargame
 
 <p align=center>
-<img src="/ruleset/ressources/introduction.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto; width: 95%; height: auto" alt="NSPR Logo">
+<img src="/ruleset/ressources/introduction.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto; width: 99%; height: auto" alt="NSPR Logo">
 </p>
 <p align=center>
 This is <b>H.E.A.T</b>, a ruleset expansion for 28mm ultramodern tabletop.
