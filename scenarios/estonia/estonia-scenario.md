@@ -91,6 +91,10 @@ to the Viru Infantry Battalion.
 | **Game Duration** | 6 + 1 Turns |
 | **Victory Conditions** | 1 VP per destroyed units + 3 VP per occupied objective at the end of game. |
 
+##### Example Report
+
+A Battle List with two forces can be found here: [Example Report](/reports/report-5.md)
+
 #### Securing the roads
 
 <img src="/scenarios/ressources/crossroads-layout.excalidraw.png" alt="crossroads scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
