@@ -20,14 +20,10 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
 #### Estonian Land Forces
 
-<div>
 <div style="width: 50%; display: inline-block; margin-bottom:0%">
 Combined Forces of the estonian army. 2016 onward.<br><br><i>A small army with a large reservist pool, but cutting-edge equipment with many domestic drone products.</i><br><br><a href="/factions/Estonian%20Land%20Forces.md">Estonia Army List</a>
 </div>
-<div style="width: 50%; display: inline-block; float: right;">
-<img src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Army"style="max-height: 150px; max-width: 50%; float: right"></img>
-</div>
-</div>
+<img src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Army"style=" max-width: 30%; float: right"></img>
 
 #### NATO VJTF + NRF
 
