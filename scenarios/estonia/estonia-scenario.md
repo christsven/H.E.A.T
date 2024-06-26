@@ -5,7 +5,9 @@
 ![header](/scenarios/ressources/estonia-map.excalidraw.png)
 
 A detailed description of events, locations and actors in this fictional civil
-war can be found [here](/scenarios/estonia/background-information-estonia.md).
+war can be found here.
+
+[Event Timeline](/scenarios/estonia/background-information-estonia.md)
 
 ***
 

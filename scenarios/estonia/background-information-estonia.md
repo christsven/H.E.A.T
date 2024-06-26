@@ -73,9 +73,11 @@ in not only the estonian, but also the other baltic border counties with Russia.
 
 #### 2015 - Spiraling protests
 
-![UN APC guarding election](/scenarios/ressources/elections.excalidraw.png)
+<img src="/scenarios/ressources/elections.excalidraw.png" alt="UN APC guarding election" style="display: block; margin-left: auto; margin-right: auto; width: 60%; height: auto"></img>
 
-*A UN APC guarding an election hall, April 2015*
+<p align=center>
+A UN APC guarding an election hall, April 2015
+</p>
 
 With reoccuring protests demanding more autonomy and accepting russian as a state
 language, civil unrest grew over the course of couple of months in early 2015,
@@ -108,9 +110,11 @@ and african troops and was largely well received as a mediating third party.
 
 #### 2016 - Outbreak of war
 
-![garrison attack](/ruleset/ressources/garrisonattack.excalidraw.png)
+<img src="/ruleset/ressources/garrisonattack.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; width: 60%; height: auto"></img>
 
-*Attacks on garrisons plunge the country into civil war, 2016*
+<p align=center>
+Attacks on garrisons plunge the country into civil war, 2016
+</p>
 
 After multiple years of preperation, coordinated attacks in April of 2016 lead
 to civil war.
@@ -182,9 +186,11 @@ situation.
 
 ##### Reinforced resistance
 
-![military site](/scenarios/ressources/military-tower.excalidraw.png)
+<img src="/scenarios/ressources/military-tower.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; width: 60%; height: auto"></img>
 
-*Military site, NSPR, early 2017*
+<p align=center>
+Military site, NSPR, early 2017
+</p>
 
 Even though the resistance suffered a hefty amount of attrition from fighting not
 only against the estonian army, the baltic territorial defense and UNFIBAL personnel,
@@ -228,15 +234,19 @@ follow up units arriving shortly after.
 
 #### Estonian Land Forces
 
-![Estonian Land Forces](/factions/ressources/elf-logo.excalidraw.png)
+<img src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; width: 50%; height: auto"></img>
 
-*Insignia of the Estonian Land Forces*
+<p align=center>
+Insignia of the Estonian Land Forces
+</p>
 
-![Estonian Divison](/scenarios/ressources/estonian-division.excalidraw.png)
+<img src="/factions/ressources/kaitseliit.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; width: 50%; height: auto"></img>
 
-*Estonian Division Insignia*
+<p align=center>
+First Estonian Division Insignia
+</p>
 
-The Estonian Land Forces are the ground component of the Estonian Defence Forces
+The **Estonian Land Forces** are the ground component of the Estonian Defence Forces
 (EDF), responsible for defending the territorial integrity and sovereignty of
 Estonia. It consists of around 3000 personnel during peacetimes, and is division-
 sized with some parts only staffed by reserve units.
@@ -293,9 +303,13 @@ are out of finnish production.
 
 #### Baltic Security Partnership
 
-![BASEP logo](/factions/ressources/bsp-logo-no-text.excalidraw.png)
+<img src="/factions/ressources/bsp-logo-no-text.excalidraw.png" alt="Baltic Security Partnership" style="display: block; margin-left: auto; margin-right: auto; width: 50%; height: auto"></img>
 
-The Baltic Security Partnership Brigade, or BASEP,  was founded in 2014 as a
+<p align=center>
+BASEP Bridage Insignia
+</p>
+
+The **Baltic Security Partnership Brigade**, or BASEP,  was founded in 2014 as a
 reaction to tension arrising in several counties of the baltic states at the
 russian border. It was established as a combined brigade of all 3 state's ground
 forces with the aim to signal cohesion and willingness to defend each other.
@@ -346,15 +360,19 @@ under lithuanian commandship.
 
 #### UNFIBAL
 
-![unfibal logo](/scenarios/ressources/unfibal.excalidraw.png)
+<img src="/scenarios/ressources/unfibal.excalidraw.png" alt="UNFIBAL Logo" style="display: block; margin-left: auto; margin-right: auto; width: 50%; height: auto"></img>
 
-*UNFIBAL Logo*
+<p align=center>
+UNFIBAL Logo
+</p>
 
-![task force patch](/scenarios/ressources/taskforce.excalidraw.png)
- 
-*Task Force Ida Viru Patch*
+<img src="/scenarios/ressources/taskforce.excalidraw.png" alt="Task Force Patch" style="display: block; margin-left: auto; margin-right: auto; width: 50%; height: auto"></img>
 
-The *Force des Nations unies chargée du maintien de la paix à l'Estonie* is a
+<p align=center>
+Task Force Ida Viru Patch
+</p>
+
+The **Force des Nations unies chargée du maintien de la paix à l'Estonie** is a
 United Nations peacekeeping operation established in 2015. UN troops were largely
 composed of bangladeshi forces, with some african nations like Rwanda, Ghana and
 Egypt.
@@ -400,15 +418,19 @@ where possible, as well as documenting potential war crimes for later prosecussi
 
 #### EUFOR Estonia
 
-![eufor logo](/scenarios/ressources/eufor-estonia.excalidraw.png)
+<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Logo" style="display: block; margin-left: auto; margin-right: auto; width: 50%; height: auto"></img>
 
-*EUFOR Estonia*
+<p align=center>
+EUFOR Estonia Patch
+</p>
 
-![csdp logo](/scenarios/ressources/csdp-logo.excalidraw.png)
+<img src="/scenarios/ressources/csdp-logo.excalidraw.png" alt="CSDP Insignia" style="display: block; margin-left: auto; margin-right: auto; width: 50%; height: auto"></img>
 
-*Common Security and Defense Policy, EU*
+<p align=center>
+Common Security and Defense Policy, EU
+</p>
 
-Under the mission name EUFOR fall two EU battlegroups, the italian led
+Under the mission name **EUFOR Estonia** fall two EU battlegroups, the italian led
 "Multinational Land Force", a french one, as well as the EUROCORPS. They are
 furthermore working in conjunction with a naval force "EUNAVFOR Baltic Sea"
 composed of german and swedish frigates.
@@ -454,15 +476,19 @@ reinforced the EUBGs with units from the franco-german brigade.
 
 ##### VJTF & I-F/I-FU
 
-![nato logo](/scenarios/ressources/NATO-logo.excalidraw.png)
+<img src="/scenarios/ressources/NATO-logo.excalidraw.png" alt="NATO Logo" style="display: block; margin-left: auto; margin-right: auto; width: 50%; height: auto"></img>
 
-*NATO flag*
+<p align=center>
+Northatlantic Treaty Organisation
+</p>
 
-![nsr logo](/scenarios/ressources/nrf-logo.excalidraw.png)
+<img src="/scenarios/ressources/nrf-logo.excalidraw.png" alt="NRF Logo" style="display: block; margin-left: auto; margin-right: auto; width: 40%; height: auto"></img>
 
-*Emblem of NATO response forces, stationed in the baltic countries*
+<p align=center>
+Emblem of NATO response forces, stationed in the baltic countries
+</p>
 
-The Very High Readiness Joint Task Force (VJTF) is a multinational rapid reaction
+The **Very High Readiness Joint Task Force** (VJTF) is a multinational rapid reaction
 force established by NATO. Designed to be a highly agile and capable force, the
 VJTF serves as a deterrent and quick-response element in times of crisis.
 
@@ -475,17 +501,23 @@ collective defense and the security of its member states. The force is capable o
 conducting a range of missions, including crisis response, deterrence, and
 reinforcement operations.
 
+### Opposing Force
+
 #### NSPR
 
-![nspr logo](/scenarios/ressources/flag-nspr.excalidraw.png)
+<img src="/scenarios/ressources/flag-nspr.excalidraw.png" alt="NSPR Flag" style="display: block; margin-left: auto; margin-right: auto; width: 50%; height: auto"></img>
 
-*Narva Socialist People's Republic flag*
+<p align=center>
+Narva Socialist People's Republic flag
+</p>
 
-![bratstwa logo](/factions/ressources/bratstwa.excalidraw.png)
+<img src="/factions/ressources/bratstwa.excalidraw.png" alt="Bratstwa Group Patch" style="display: block; margin-left: auto; margin-right: auto; width: 50%; height: auto"></img>
 
-*Bratstwa PMC group patch*
+<p align=center>
+A Bratstwa PMC group patch found on a POW, 2017
+</p>
 
-The NSPR has a standing force of around 10-13.000 personnel, which serve under
+The **Narva Socialist People's Republic** has a standing force of around 10-13.000 personnel, which serve under
 the umbrella of the NSPR flag. Internally, there are several factions.
 
 The "Bratstwa" far-right, russian-nationalistic militia is the best equipped part
@@ -506,200 +538,3 @@ The vehicle pool is a mix of former soviet equipment, some stolen western/estoni
 armed forces materiell, small amounts of modern russian weaponry and just reworked
 civilian technicals. Additionally, some civilian drones are used for surveillance,
 as IED carriers or suicide drones.
-
-##### Goals
-
-The war goal for NSPR is to somehow drive out the invaders and establish a functional
-state in Ida Viru.
-
-Control over power stations, the oil shale production and excavation sites, quarries,
-city centres and the agricultural sites must be established and uphold without
-damaging too much infrastructre.
-
-Kivioli is an important site to the oil shale production, which needs to be
-restarted for power autonomy. Sillimäe has old uranium processing sites, which
-are a lucrative market for future potential economical problems.
-
-While Russia does seem like a natural ally against the West and was already useful
-in arms procurement, depending too much on their intervention could lead to being
-integrated in the Russian Federation, or even a third world war.
-
-***
-
-## Geography
-
-### General Description
-
-![estonia map](/scenarios/ressources/estonia-map.excalidraw.png)
-
-*Map of Estonia before 19.04.2016*
-
-Ida Viru lies at the russian-estonian land border as well as the Gulf of Finland
-in the north. To the south-east, a large part of the border runs through Lake
-Peipsi.
-
-The terrain itself is largely flat with up to 30% composed of mires and bogs.
-These areas cover open fields with muddy, almost swampy terrain and waist-high
-vegetation. Additionally many small rivers and revines, some artificial, cover
-the landscape. While some parts are used for agriculture, there are still vast
-swathes of forest and bushlands remaining, also thanks to a nation-wide
-reforestation program. Ida Viru county is the location of several national
-reserves, two of the larger and more important ones can be found below.
-
->Raised bogs are unique ecosystems characterized by the accumulation of peat,
-which is formed from decaying organic matter over thousands of years. Agusalu
-offers a remarkable display of the typical features found in a raised bog,
-including an undulating surface with hummocks, hollows, and pools. The bog is
-rich in biodiversity, supporting a variety of plant species, such as sphagnum
-mosses, cranberries, and heather, which are specially adapted to the acidic
-and nutrientpoor conditions of the bog.
-
-With the population centres along the northern coast most other parts of the
-Ida-Viru are only compromised of small villages, connected by two major roads,
-for once the E246 motorway connecting Jõhvi through the forests of Agusalu
-national reserve with several larger villages and along the shore of Lake Peipus
-with Tartu, a city in a neighboring county. Only one other road, Route 32, covers
-this north-south route.
-
-In the north, the E20 highway not only connects western counties to all major
-settlements in Ida-Viru, e. g. Kothla-Järve, Jõhvi, Sillimäe and Narva, but also
-leads to the only major bridge joining the country to Russia over a Narva river.
-
-### Points of interest
-
-Here are some probable locations for the conflict between the NSPR and BLUFOR.
-
-#### North
-
-With the population centres, mining operations and connection to the Gulf of
-Finland in the north, this region is the most important to control.
-
-##### E20
-
-The E20 is part of the european road 20, connecting Ireland to Saint Petersburg.
-It runs through all the major cities in Ida-Viru, which makes it invaluable for
-troop transportation for either side of the conflict.
-
-##### Kiviõli/Püssi
-
-![kivioli](/scenarios/ressources/kivioli.excalidraw.png)
-
-With the name literally being "oil shale" in estonian, it is no secret what type
-of industry is prevalent in Kiviõli. After the dissolution of the USSR, this town
-of 10.000 lost almost half of its inhabitants. A stronghold of *Iseseisvus rahvale*
-support with the two ash hills, highest artificial points in the entire baltics,
-towering over empty houses.
-
-###### Aidu karjääri tööstusplats
-
-A mine east of Püssi, wide open terrain with excellent train network. Used by NSPR
-forces as a rallying place.
-
-###### Ash Hills of Kiviõli oil factory
-
-A sad landmark and constant reminder of former life in the USSR, these over 100m
-high hills were created by oil shale extraction.
-
-##### Kohtla-Järve
-
-![kohla](/scenarios/ressources/kohtla.excalidraw.png)
-
-Kothla-Järve is a large town in the centre of Ida-Viru, the fifth-largest in Estonia.
-Established as a mining town in the 1920s, it is a key element in the oil shale
-industry of Ida-Viru, making it a valuable target to NSPR forces.
-
-##### Jõhvi
-
-![johvi](/scenarios/ressources/johvi.excalidraw.png)
-
-Another former mining town with declining population. Most buildings are typical
-soviet blocks, and over 50% of the population are ethnically russian, with another
-20% from other former eastern bloc countries. Other than similar, neighboring towns,
-Jõhvi never developed any business to the same extend of oil shale mining, which
-led to a high level of unemployment.
-
-Almost 92% of Jõhvi voted for independence, and it is home to many of *Iseseisvus*
-*rahvale*'s most fierce supporters.
-
-##### Sillimäe
-
-![sillimae](/scenarios/ressources/sillimae.excalidraw.png)
-
-Sillamäe is a former closed city located in northeastern Estonia. Placed colse to
-the shores of the Gulf of Finland, it offers a unique blend of natural beauty and
-intriguing history. Once a secretive Soviet-era uranium processing center, Sillamäe
-has multiple locations of interest, with its city centre boasting former soviet
-architecture, an old city hall, a well equipped port and a valuable thermal power
-station.
-
-Further points of interest:
-
-- City Centre
-- Thermal power plant
-- Port of Sillamäe
-
-##### Narva
-
-![narva](/scenarios/ressources/narva.excalidraw.png)
-
-Narva is a historic city located in northeastern Estonia, situated on the banks
-of the Narva River, which forms the border with Russia. Known for its rich history
-and cultural heritage, Narva stands as a unique blend of Estonian and Russian
-influences. The city is renowned for its striking medieval fortress,
-Narva Castle, which overlooks the river and serves as a symbol of its past.
-
-Narva is characterized by its diverse architecture, showcasing a mix of medieval,
-Soviet-era, and modern buildings. The city has witnessed a fusion of cultures
-over the centuries, resulting in a vibrant atmosphere and a fascinating blend
-of traditions. Narva is home to a multicultural community, and both Estonian
-and Russian languages are widely spoken.
-
-Further points of interest:
-
-- Enefit Power AS
-- Narva river bridge
-- Hermann castle
-
-#### Centre
-
-##### Mäetaguse
-
-![Mäetaguse](/scenarios/ressources/alugatuse.excalidraw.png)
-
-Mäetaguse is a village located in the Ida-Viru County of northeastern Estonia.
-It is situated approximately 25 kilometers southwest of the city of Jõhvi. The
-village is known for its rich history, with settlements dating back to ancient
-times. Today, it serves as a residential area with a close-knit community and a
-slower pace of life. Mäetaguse is characterized by its predominantly rural
-landscape, surrounded by lush forests and picturesque countryside.
-
-The village is home to a small number of traditional wooden houses, reflecting
-the architectural style of the region. It offers basic amenities such as schools,
-a church, and local shops, providing a sense of community for its residents.
-
-#### East
-
-##### Agusalu national reserve
-
-Agusalu is a raised bog located in Estonia, specifically in the northeastern
-part of the country. It is situated in the Lahemaa National Park, which is known
-for its diverse and pristine natural landscapes. Agusalu is one of the largest
-and most well-preserved raised bogs in Estonia, covering an area of approximately
-9 square kilometers.
-
-#### South
-
-##### Tudulinna
-
-Tudulinna is a small settlement located in the Lääne-Viru County of northeastern
-Estonia. It lies approximately 35 kilometers northwest of the city of Mustvee.
-The settlement has a relatively small population and is characterized by its rural
-and peaceful environment.
-
-Tudulinna serves as a local administrative center, providing basic services and
-amenities to its residents. The settlement is home to a school, a church, and a
-few local shops. The settlement is also located in proximity to Lake Peipus, one
-of the largest freshwater lakes in Europe-
-
-Here also sits the Tudulinna hydroelectric dam, a key position with strategic and
-civilian value, as it provides a huge amount of energy for Estonia.
