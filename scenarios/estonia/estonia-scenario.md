@@ -19,7 +19,7 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 ### BLUFOR
 
 <div align=right style="right:0;">
-<img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto style="max-width:120px; display:flex;" width=20%></img>
+<img src="/factions/ressources/elf-logo.excalidraw.png" align="right" alt="Estonian Army" height=auto style="max-width:100px; display:flex;" width=20%></img>
 </div>
 
 #### Estonian Land Forces
@@ -34,7 +34,7 @@ domestic drone products._
 [Estonia Army List](/factions/Estonian%20Land%20Forces.md)
 
 <div align=right style="right:0;">
-<img src="/factions/ressources/vjtf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto style="max-width:120px; display:flex;" width=20%></img>
+<img src="/factions/ressources/vjtf-logo.excalidraw.png" align="right" alt="NATO Forces" height=auto style="max-width:100px; display:flex;" width=20%></img>
 </div>
 
 #### NATO VJTF + NRF
