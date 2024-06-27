@@ -4,7 +4,7 @@
 
 ## Introduction
 
-<img src="/factions/ressources/panzerhaubitze.excalidraw.png" alt="introductional panzerhaubitze" align=right height=auto width=45%></img>
+<img src="/factions/ressources/humvee.excalidraw.png" alt="introductional humvee" align=right height=auto width=50%></img>
 
 This is a ruleset for a modern, platoon-sized tabletop wargame. While size- and
 modelagnostic, weapon ranges and distances are balanced towards a 28mm size. If
@@ -24,17 +24,17 @@ vehicles suddenly turn out way bigger than most WW2 era vehicles.
 
 These weapons are operated by a single unit, which uses it as its primary weapon.
 
-| Small arms | Range | Shots | PEN | Special rules |
-| :---- | :----: | :----: | :----: | ---- |
-| Pistol | 0" - 6" | 1 | - | Assault |
-| Personal defense weapon | 0" - 12" | 3 | - | Assault |
-| Submachine gun | 0" - 18" | 2 | - | Assault |
-| Assault rifle | 0" - 12" | 2 | - | - |
-| Assault rifle* | 12" - 24" | 1 | - | - |
-| Rifle | 0" - 24" | 1 | - | - |
-| Designated marksman rifle | 0" - 38" | 1 | - | DMR |
-| Shotgun | 0" - 18" | D3 | - | Assault |
-| Underbarrel grenade launcher | 6" - 20" | 1 | HE | UGL |
+| Small arms | Range | Shots | Pins | PEN | Special rules |
+| :---- | :----: | :----: | :----: | :----: | ---- |
+| Pistol | 0" - 6" | 1 || - | Assault |
+| Personal defense weapon | 0" - 12" | 3 || - | Assault |
+| Submachine gun | 0" - 18" | 2 || - | Assault |
+| Assault rifle | 0" - 12" | 2 || - | - |
+| Assault rifle* | 12" - 24" | 1 || - | - |
+| Rifle | 0" - 24" | 1 || - | - |
+| Designated marksman rifle | 0" - 38" | 1 || - | DMR |
+| Shotgun | 0" - 18" | D3 || - | Assault |
+| Underbarrel grenade launcher | 6" - 20" | 1 || HE | UGL |
 
 *This replaces the long range hit modifier.
 
@@ -44,63 +44,63 @@ This does not apply if operated as e. g. a vehicle weapon.
 
 ### Team-based weapons chart
 
-| Infantry weapon systems | Atten-<br>dants | Range | Shots | PEN | Special rules |
-| :---- | :----: | :----: | :----: | :----: | ---- |
-| Light machine gun | 1 | 0" - 36" | 4 | - | Team |
-| Medium machine gun | 1 | 0" - 36" | 5 | - | Team, Fixed |
-| Heavy machine gun | 2 | 0" - 36" | 3 | +1 | Team, Fixed |
-| Sniper | 1 | 12" - 48" | 1 | - | Team, Sniper|
-| Anti-materiel rifle | 1 | 12" - 36" | 1 | +2 | Team, Sniper, Fixed |
-| Flamethrower (Infantry) | 1 | 0" - 6" | D6 | +3 | Team, Flamethrower |
-| Automatic grenade launcher | 1 | 0" - 36" | 2 | HE | Team, Fixed, HE 1" |
+| Infantry weapon systems | Atten-<br>dants | Range | Shots | Pins | PEN | Special rules |
+| :---- | :----: | :----: | :----: | :----: | :----: | ---- |
+| Light machine gun | 1 | 0" - 36" | 4 || - | Team |
+| Medium machine gun | 1 | 0" - 36" | 5 || - | Team, Fixed |
+| Heavy machine gun | 2 | 0" - 36" | 3 || +1 | Team, Fixed |
+| Sniper | 1 | 12" - 48" | 1 || - | Team, Sniper |
+| Anti-materiel rifle | 1 | 12" - 36" | 1 || +2 | Team, Sniper, Fixed |
+| Flamethrower (Infantry) | 1 | 0" - 6" | D6 || +3 | Team, Flamethrower |
+| Automatic grenade launcher | 1 | 0" - 36" | 2 || HE | Team, Fixed, HE 1" |
 
 ### Vehicle-mounted or fixed weapon systems chart
 
 Every following unit is counted as a system operator plus the given amount of attendants.
 
-| Vehicle weapon systems | Atten-<br>dants | Range | Shots | PEN | Special rules |
-| :---- | :----: | :----: | :----: | :----: | ---- |
-| Light anti-tank gun | 2 | 0" - 48" | 1 | +4 | Team, Fixed, HE 1" |
-| Medium anti-tank gun | 3 | 0" - 60" | 1 | +5 | Team, Fixed, HE 1" |
-| Heavy anti-tank gun | 3 | 0" - 72" | 1 | +6 | Team, Fixed, HE 2" |
-| Super-heavy<br>anti-tank gun | 3 | 0" - 82" | 1 | +7 | Team, Fixed, HE 3"|
-| Light autocannon | 2 | 0" - 48" | 2 | +2 | Team, Fixed, HE 1" |
-| Medium autocannon | 2 | 0" - 60" | 2 | +3 | Team, Fixed, HE 1" |
-| Heavy autocannon | 3 | 0" - 72" | 2 | +3 | Team, Fixed, HE 2" |
-| Flamethrower (Vehicle) | - | 0" - 12" | D6+1 | +3 | Flamethrower |
+| Vehicle weapon systems | Atten-<br>dants | Range | Shots | Pins | PEN | Special rules |
+| :---- | :----: | :----: | :----: | :----: | :---: | ---- |
+| Light anti-tank gun | 2 | 0" - 48" | 1 || +4 | Team, Fixed, HE 1" |
+| Medium anti-tank gun | 3 | 0" - 60" | 1 || +5 | Team, Fixed, HE 1" |
+| Heavy anti-tank gun | 3 | 0" - 72" | 1 || +6 | Team, Fixed, HE 2" |
+| Super-heavy<br>anti-tank gun | 3 | 0" - 82" | 1 || +7 | Team, Fixed, HE 3"|
+| Light autocannon | 2 | 0" - 48" | 2 || +2 | Team, Fixed, HE 1" |
+| Medium autocannon | 2 | 0" - 60" | 2 || +3 | Team, Fixed, HE 1" |
+| Heavy autocannon | 3 | 0" - 72" | 2 || +3 | Team, Fixed, HE 2" |
+| Flamethrower (Vehicle) | - | 0" - 12" | D6+1 || +3 | Flamethrower |
 
 #### Hardpoint arsenal weapon chart
 
 To make it easier to find, helicopter weapon systems are listed here separately.
 
-| Weapon system | Range | Shots | PEN | Special Rules |
-| :--- | :---: | :---: | :---: | --- |
-| Light autocannon | 0" - 48" | 2 | +2 | HE 1" |
-| Medium autocannon | 0" - 60" | 2 | +3 | HE 1" |
-| Heavy autocannon | 0" - 72" | 2 | +3 | HE 2" |
-| Light rocket pod | 0" - 48" | 2 | +4 | Rocket Pod, HE 1" |
-| Medium rocket pod | 0" - 60" | 2 | +5 | Rocket Pod, HE 1" |
-| Heavy rocket pod | 0" - 72" | 2 | +6 | Rocket Pod, HE 2" |
-| Light missile | 20" - 60" | 1 | +5 | Single Use, HE 1" |
-| Medium missile | 20" - 72" | 1 | +6 | Single Use, HE 2" |
-| Heavy missile | 20" - 82" | 1 | +7 | Single Use, HE 3" |
-| Small bomb | ||||
-| Medium bomb | ||||
-| Large bomb | ||||
-| Clusterbomb | ||||
+| Weapon system | Range | Shots | Pins | PEN | Special Rules |
+| :--- | :---: | :---: | :---: | :---: |--- |
+| Light autocannon | 0" - 48" | 2 || +2 | HE 1" |
+| Medium autocannon | 0" - 60" | 2 || +3 | HE 1" |
+| Heavy autocannon | 0" - 72" | 2 || +3 | HE 2" |
+| Light rocket pod | 0" - 48" | 2 || +4 | Rocket Pod, HE 1" |
+| Medium rocket pod | 0" - 60" | 2 || +5 | Rocket Pod, HE 1" |
+| Heavy rocket pod | 0" - 72" | 2 || +6 | Rocket Pod, HE 2" |
+| Light missile | 20" - 60" | 1 || +5 | Single Use, HE 1" |
+| Medium missile | 20" - 72" | 1 || +6 | Single Use, HE 2" |
+| Heavy missile | 20" - 82" | 1 || +7 | Single Use, HE 3" |
+| Small bomb | |||||
+| Medium bomb | |||||
+| Large bomb | |||||
+| Clusterbomb | |||||
 
 ### Indirect fire weapons chart
 
 Every following unit is counted as a system operator plus the given amount of attendants.
 
-| Indirect fire<br>systems | Atten-<br>dants | Range | Shots | PEN | Special rules |
-| :---- | :----: | :----: | :----: | :----: | ---- |
-| Light mortar | 1 | 12" - 24" | 1 | HE | Team,<br> Indirect Fire, HE 1" |
-| Medium mortar | 2 | 12" - 60" | 1 | HE | Team, Fixed,<br> Indirect Fire, HE 2" |
-| Heavy mortar | 2 | 12" - 72" | 1 | HE | Team, Fixed,<br> Indirect Fire, HE 3" |
-| Light howitzer | 2 | 0" - 48"<br>(24" - 60") | 1 | HE | Team, Fixed,<br> Howitzer, HE 2" |
-| Medium howitzer | 3 | 0" - 60"<br>(30" - 72") | 1 | HE | Team, Fixed,<br> Howitzer, HE 3" |
-| Heavy howitzer | 3 | 0" - 72"<br>(36" - 84") | 1 | HE | Team, Fixed,<br> Howitzer, HE 4" |
+| Indirect fire<br>systems | Atten-<br>dants | Range | Shots | Pins | PEN | Special rules |
+| :---- | :----: | :----: | :----: | :----: | :----: | ---- |
+| Light mortar | 1 | 12" - 24" | 1 || HE | Team,<br> Indirect Fire, HE 1" |
+| Medium mortar | 2 | 12" - 60" | 1 || HE | Team, Fixed,<br> Indirect Fire, HE 2" |
+| Heavy mortar | 2 | 12" - 72" | 1 || HE | Team, Fixed,<br> Indirect Fire, HE 3" |
+| Light howitzer | 2 | 0" - 48"<br>(24" - 60") | 1 || HE | Team, Fixed,<br> Howitzer, HE 2" |
+| Medium howitzer | 3 | 0" - 60"<br>(30" - 72") | 1 || HE | Team, Fixed,<br> Howitzer, HE 3" |
+| Heavy howitzer | 3 | 0" - 72"<br>(36" - 84") | 1 || HE | Team, Fixed,<br> Howitzer, HE 4" |
 
 ### Explosives and rockets weapons chart
 
@@ -108,32 +108,33 @@ Every following unit is counted as a system operator plus the given amount of at
 
 Additional weapon systems, explosives, mines, ...
 
-| Explosives | Atten-<br>dants | Range | Shots | PEN | Special rules |
-| :---- | :----: | :----: | :----: | :----: | ---- |
-| Rocket propelled<br>grenade launcher | 1 | 6" - 36" | 1 | +5 | Team, Backblast,<br> Shaped charge |
-| Tandem HEAT<br>charge launcher | 1 | 6" - 24" | 1 | +7 | Team, Backblast,<br> Shaped charge |
-| Light Anti-tank<br>guided missile<br>launcher | 1 | 90" <br>(30" per turn) | 1 | +5  | Team, Fixed,<br> Backblast, ATGM |
-| Anti-tank guided<br>missile launcher | 1 | 90" <br>(30" per turn) | 1 | +7  | Team, Fixed,<br> Backblast, ATGM |
-| Light Man-portable<br>anti air defense<br>system | 1 | 72" | 1 | +2 | Team, Fixed,<br>Backblast, MANPADS |
-| Man-portable<br>anti air defense<br>system | 1 | 72" | 1 | +4 | Team, Fixed,<br>Backblast, MANPADS |
-| Improvised<br>Explosive Device | 1 | placed down | 1 | +4 | Explosive, IED,<br>HE 3" |
-| Mine | 1 | placed down | 1 | +6 | Explosive, HE 3" |
-| Explosives | - | 0" - 6" | 1 | HE | Explosives,<br>Single-Shot, HE 1" |
+| Explosives | Atten-<br>dants | Range | Shots | Pins | PEN | Special rules |
+| :---- | :----: | :----: | :----: | :----: | :----: | ---- |
+| Rocket propelled<br>grenade launcher | 1 | 6" - 36" | 1 || +5 | Team, Backblast,<br> Shaped charge |
+| Tandem HEAT<br>charge launcher | 1 | 6" - 24" | 1 || +7 | Team, Backblast,<br> Shaped charge |
+| Light Anti-tank<br>guided missile<br>launcher | 1 | 90" <br>(30" per turn) | 1 || +5 | Team, Fixed,<br> Backblast, ATGM |
+| Anti-tank guided<br>missile launcher | 1 | 90" <br>(30" per turn) | 1 || +7 | Team, Fixed,<br> Backblast, ATGM |
+| Light Man-portable<br>anti air defense<br>system | 1 | 72" | 1 || +2 | Team, Fixed,<br>Backblast, MANPADS |
+| Man-portable<br>anti air defense<br>system | 1 | 72" | 1 || +4 | Team, Fixed,<br>Backblast, MANPADS |
+| Improvised<br>Explosive Device | 1 | placed down | 1 || +4 | Explosive, IED,<br>HE 3" |
+| Mine | 1 | placed down | 1 || +6 | Explosive, HE 3" |
+| Explosives | - | 0" - 6" | 1 || HE | Explosives,<br>Single-Shot, HE 1" |
 
 ### HE chart
 
-Chart for high explosives and how to calculate losses.
+Chart for high explosives and how to calculate losses against units in buildings
+or for HE hits without the HE template.
 
 | Radius | Pins | PEN | Hits |
-| ----- | ---- | ---- | ---- |
+| :----: | :----: | :----: | :----: |
 | 1" | D2 | 1 | D3 |
 | 2" | D3 | 2 | D6 |
 | 3" | D3 | 3 | 2D6 |
 | 4" | D6 | 4 | 3D6 |
 
-## Gameplay Rules
+***
 
-<img src="/factions/ressources/toyota-new.excalidraw.png" alt="toyota technical" align=right height=auto width=45%></img>
+## Gameplay Rules
 
 ### Vehicles
 
@@ -170,7 +171,7 @@ The IFV shares its slots (2 per platoon) with APCs and is not mandatory. Some
 IFVs also can switch out their crew compartments for weapon systems or other
 upgrades, rendering them unable to fulfill this role.
 
-<img src="/factions/ressources/tpz-fuchs.excalidraw.png" alt="tpz fuchs" align=right height=auto width=45%></img>
+<img src="/factions/ressources/tpz-fuchs.excalidraw.png" alt="tpz fuchs" align=right height=auto width=60%></img>
 
 If chosen as an IFV, they connect to one of the two mandatory infantry groups.
 Keep the maximum carry capacity in mind, if this is the case, as they do need to
@@ -182,8 +183,6 @@ infantry group is filled by the IFV itself.
 
 The infantry group and the IFV are still two different units with
 separate order dice.
-
-<img src="/factions/ressources/gtk-boxer.excalidraw.png" alt="gtk boxer" align=left height=auto width=45%></img>
 
 If the infantry unit is destroyed, the IFV does not need to be removed and serves
 as a normal vehicle. If the connected unit is separated by more than 36" from its
@@ -226,7 +225,7 @@ way as any other vehicle.
 A helicopter may begin the match on the ground or offmap in reserve, from where
 it can enter the match at any height after a successful order test.
 
-<img src="/factions/ressources/milmi8.excalidraw.png" alt="mi 8" align=right height=auto width=45%></img>
+<img src="/factions/ressources/milmi8.excalidraw.png" alt="mi 8" align=right height=auto width=60%></img>
 
 Lift-Off and Landing require the helicopter to perform a successful order test
 as well and are performed to/from 6" height (always measured from bottom of hull).
@@ -299,7 +298,7 @@ The helicopter gets the "Open Topped" rule while having open rear/side doors. As
 soon as the helicoter succesfully performs a RUN order or the turn is over, the
 rule does no longer apply.
 
-<img src="/factions/ressources/eurocopter.excalidraw.png" alt="eurocopter" align=right height=auto width=45%></img>
+<img src="/factions/ressources/eurocopter.excalidraw.png" alt="eurocopter" align=left height=auto width=60%></img>
 
 Reconnaissance units like spotters are allowed to perform their role from the
 helicopter in 45° arks from the opening they are looking from. The door has to be
@@ -367,8 +366,6 @@ As soon as either the drone or the operator is lost, the team is considered
 destroyed. In any given round either the operator or his drone acts, just like a
 spotter and artillery.
 
-<img src="/factions/ressources/kzo.excalidraw.png" alt="kzo bundeswehr" align=right height=auto width=45%></img>
-
 The UAV uses the same damage value as its team. They always deploy grounded with
 the operator, except if the scenario rules state otherwise.
 
@@ -412,7 +409,7 @@ travel distance of 24" or 12".
 
 ###### Reconnaissance
 
-<img src="/ruleset/ressources/mikado.excalidraw.png" alt="toyota technical" align=right height=auto width=45%></img>
+<img src="/ruleset/ressources/mikado.excalidraw.png" alt="mikado" align=right height=auto width=60%></img>
 
 Enables capable of spotting enemy targets in direct LoS. The DOT can communicate
 with any unit within the DOTs platoon and any unit capable of indirect fire in 12"
@@ -875,6 +872,9 @@ is damaged.
 
 ## Additional Rules and Systems
 
+<img src="/factions/ressources/toyota-new.excalidraw.png" alt="technical" height=auto width=70%></img>
+
+
 ### Adjustments
 
 These are adjustments or rule rewrites my group worked out as house rules. Take
@@ -898,8 +898,6 @@ A squad can change out none, a couple or even all their weapons, and we count th
 logistical strain by adding up the points, since we don't really have that much
 of a buff anymore by using SMGs. It's much more about the role the unit is supposed
 to fulfill.
-
-<img src="/factions/ressources/wiesel20mm.excalidraw.png" alt="spotter wiesel with 20mm for some reason" align=right height=auto width=45%></img>
 
 #### Spotters
 
