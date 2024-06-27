@@ -4,8 +4,6 @@
 
 ## Introduction
 
-<img src="/factions/ressources/humvee.excalidraw.png" alt="introductional humvee" align=right height=auto width=50%></img>
-
 This is a ruleset for a modern, platoon-sized tabletop wargame. While size- and
 modelagnostic, weapon ranges and distances are balanced towards a 28mm size. If
 used in another scale, adjustments might be necessary.
@@ -53,6 +51,8 @@ This does not apply if operated as e. g. a vehicle weapon.
 | Anti-materiel rifle | 1 | 12" - 36" | 1 || +2 | Team, Sniper, Fixed |
 | Flamethrower (Infantry) | 1 | 0" - 6" | D6 || +3 | Team, Flamethrower |
 | Automatic grenade launcher | 1 | 0" - 36" | 2 || HE | Team, Fixed, HE 1" |
+
+<img src="/factions/ressources/humvee.excalidraw.png" alt="introductional humvee" align=right height=auto width=40%></img>
 
 ### Vehicle-mounted or fixed weapon systems chart
 
@@ -104,7 +104,7 @@ Every following unit is counted as a system operator plus the given amount of at
 
 ### Explosives and rockets weapons chart
 
-Every following unit is counted as a system operator plus the given amount of attendants.
+Every following unit is counted as a system operator plus the given amount of attendants. 
 
 Additional weapon systems, explosives, mines, ...
 
@@ -143,7 +143,7 @@ or for HE hits without the HE template.
 To adjust for half-tracks becoming obsolete, bulky multi-axial vehicles take their
 space:
 
-| Vehicle Type | ADVANCE (Pivots) | RUN (Pivots) |
+| Vehicle Type | ADVANCE<br>(Pivots) | RUN<br>(Pivots) |
 | :--- | ---- | ---- |
 | Wheeled | 12" (2) | 24" (1) |
 | Multi-axial wheeled | 12" (1) | 24" (0) |
