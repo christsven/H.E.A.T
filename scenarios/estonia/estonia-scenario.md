@@ -34,7 +34,7 @@ German led NRF forces, VJTF with IF-U/F-U Forces from the Panzerbrigade 37. Arou
 
 #### Baltic Security Partnership Brigade
 
-<img width="50%" height="auto" src="/factions/ressources/bsp-logo.excalidraw.png" alt="BASEP Forces">
+<img width="50%" height="auto" src="/factions/ressources/bsp-text.excalidraw.png" alt="BASEP Forces">
 <p>
 Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
 estonian and latvian equipment. 2016 onward.<br><br><i>Airmobility and light infantry are the main feature, with a mix of baltic equipment.</i><br><br><a href="/factions/German%20VJTF%20Panzergrenadier%20Division.md">BASEP Army List</a>
