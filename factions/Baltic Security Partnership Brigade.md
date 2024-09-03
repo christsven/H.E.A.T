@@ -35,7 +35,7 @@ at 3pt/u:
 
 ## Platoon leader [ 1 ]
 
-<img src="/factions/ressources/basep-leader.excalidraw.png" style="display: flex; margin-left: auto; margin-right: auto;" alt="platoon leader" height=auto width=80% >
+<img src="/factions/ressources/basep-leader.excalidraw.png" style="display: flex; margin-left: auto; margin-right: auto;" alt="platoon leader" height=auto width=100% >
 
 ### Leitenantas
 
