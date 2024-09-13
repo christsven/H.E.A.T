@@ -17,8 +17,10 @@ This is <b>H.E.A.T</b>, a ruleset expansion for 28mm ultramodern tabletop.
 
 This is meant as an expansion of Bolt Action rules, so only additions or in a few
 cases rebalanced rules are provided. Everything else can be found in the
-Bolt Action v2 rulebook (and if necessary, I will adjust this for the v3 rulebook
-as well, once its out).
+Bolt Action rulebook.
+
+This ruleset currently expands on the v2 ruleset, as soon as I got my hands
+on the new edition and rules I will adjust the gameplay accordingly.
 
 [Ruleset Expansion](ruleset/H.E.A.T.md)
 
