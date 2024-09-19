@@ -109,8 +109,9 @@ protests and clashes in Ukraine.
 At the request of the estonian government, the UN aided in the execution and oversight
 during the election, which was demanded by IV politicians and the Russian
 Federations spokesperson.
-This established a [UN peacekeeping operation](#unfibal) to streamline the process. The mission is mainly composed of bangladeshi
-and african troops and was largely well received as a mediating third party.
+This established a [UN peacekeeping operation](#unfibal) to streamline the process.
+
+##### The referendum
 
 #### 2016 - Outbreak of war
 
@@ -120,8 +121,13 @@ and african troops and was largely well received as a mediating third party.
 Attacks on garrisons plunge the country into civil war, 2016
 </p>
 
-After multiple years of preperation, coordinated attacks in April of 2016 lead
-to civil war.
+The IV party immediatly declared the results of the election to be invalid due
+to vote tampering. Russian election observers claimed to have proof of this,
+but before any serious investigations could be led, a storm of cyberattacks ground
+the country to a halt at the same time as targeted misinformation flooded social media
+channels. After several bomb attacks the government called out a state of emergency and
+started troop reserve activation to aid police forces. In the night of X, after
+three weeks of chaos, war broke out.
 
 The garrisons of the armed forces in Ida Viru, mainly used for training of new
 recruits, but also for the newly refurbished territorial defense units as well
