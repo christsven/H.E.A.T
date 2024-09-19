@@ -330,7 +330,7 @@ heavy mortar team.
 
 ## Operational Reinforcements [ 0 - 1 ]
 
-### PzH 2000 Battery Observer
+### EUNAVFOR Battery Observer
 
 | Artillery forward<br>observer | Divisional Reinforcements |
 | :---- | ---- |
@@ -339,6 +339,8 @@ heavy mortar team.
 | Setup | NCO (SMG) |
 | Options | - |
 | Special rules | - |
+
+### VAB VOA
 
 ***
 
@@ -382,9 +384,33 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
 
+### VMCI
+
+### VAB
+
+### VBL
+
+### PVP
+
 ***
 
 ## Reinforcing Vehicles [ 0 - 1 ]
+
+### AMX-10 RC
+
+### AMX-30 AuF1
+
+### AMX Leclerc
+
+### CAESAR
+
+### LRU MLRS
+
+### VLRA Mistral
+
+### Panhard VPS
+
+### Eurocopter
 
 ***
 
