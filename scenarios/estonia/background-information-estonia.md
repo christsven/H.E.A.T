@@ -173,7 +173,7 @@ to aid estonian forces. Just two years prior, the force had been restructured
 following Brexit and was still in a transitioning process. This had 
 established a command centre in Brussels
 and launched a shared EU
-Defense Fund (EDF), leading to a better integration of national forces and a
+Defense Fund, leading to a better integration of national forces and a
 more coherent structure. At the time of deployment, the two battlegroups where
 led by Italy and France.
 
