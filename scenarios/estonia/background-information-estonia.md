@@ -109,7 +109,8 @@ protests and clashes in Ukraine.
 At the request of the estonian government, the UN aided in the execution and oversight
 during the election, which was demanded by IV politicians and the Russian
 Federations spokesperson.
-This established a [UN peacekeeping operation](#unfibal) to streamline the process.
+This established a [UN peacekeeping operation](#unfibal) to streamline the process
+and create a more permanent presence in Estonia.
 
 ##### The referendum
 
