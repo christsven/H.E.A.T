@@ -37,14 +37,14 @@ German led NRF forces, VJTF with IF-U/F-U Forces from the Panzerbrigade 37. Arou
 <img width="50%" height="auto" src="/factions/ressources/bsp-text.excalidraw.png" alt="BASEP Forces">
 <p>
 Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
-estonian and latvian equipment. 2016 onward.<br><br><i>Airmobility and light infantry are the main feature, with a mix of baltic equipment.</i><br><br><a href="/factions/German%20VJTF%20Panzergrenadier%20Division.md">BASEP Army List</a>
+estonian and latvian equipment. 2016 onward.<br><br><i>Airmobility and light infantry are the main feature, with a mix of baltic equipment.</i><br><br><a href="/factions/Baltic%20Security%20Partnership%20Brigade.md">BASEP Army List</a>
 </p>
 
 #### WIP: EUFOR Estonia
 
 <img width="50%" height="auto" src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Estonia Forces" >
 <p>
-Composite force of two EU Battlegroups and EUROCORPS. Early 2017.<br><br><i>Mix of german, french, italian and slovac gear. Modern and diverse.</i><br><br><a href="/factions/German%20VJTF%20Panzergrenadier%20Division.md">EUFOR Army List</a>
+Composite force of two EU Battlegroups and EUROCORPS. Early 2017.<br><br><i>Mix of german, french, italian and slovac gear. Modern and diverse.</i><br><br><a href="/factions/EUFOR%20Estonia%20Forces.md">EUFOR Army List</a>
 </p>
 
 #### UNFIBAL Mission Forces
