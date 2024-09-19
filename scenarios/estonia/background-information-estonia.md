@@ -109,7 +109,7 @@ protests and clashes in Ukraine.
 At the request of the estonian government, the UN aided in the execution and oversight
 during the election, which was demanded by IV politicians and the Russian
 Federations spokesperson.
-This established a [UN peacekeeping operation](#unfibal) to aid the process. The mission is mainly composed of bangladeshi
+This established a [UN peacekeeping operation](#unfibal) to streamline the process. The mission is mainly composed of bangladeshi
 and african troops and was largely well received as a mediating third party.
 
 #### 2016 - Outbreak of war
