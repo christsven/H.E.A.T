@@ -10,13 +10,15 @@ full campaign is up to you.
 
 ### Breakdown
 
-A revolution in the eastern district of Ida Viru in Estonia plunged Estonia
-into a civil war. Many of the larger settlements were swiftly taken under control
-of the Narva Socialist People's Republic (NSPR), which has a standing force of
-around 10-13.000 men. The NSPR forces are a patchwork of former soldiers, poorly
-trained civilians and paramilitary groups, which are as differently trained as
-they are equipped, making use of old soviet equiment, civilian vehicles and more
-modern weaponry sponsored by foreign donors. Ideologically just as split, the
+A revolution in the eastern district of Ida Viru in Estonia plunged the small baltic
+country into a civil war. Many of the larger settlements were swiftly taken 
+under controlof the Narva Socialist People's Republic (NSPR), which has
+a standing force of around 10-13.000 men. 
+
+The NSPR Forces are a patchwork of former soldiers, poorly trained civilians and 
+paramilitary groups, which are as differently trained as they are equipped, making
+use of old soviet equiment, civilian vehicles and more modern weaponry sponsored 
+by foreign donors. Ideologically just as split, the
 NSPR is internally divided between left-leaning revolutionaries seeking their own
 state and far right militias such as "Bratstwa", who want to become part of the
 Russian Federation.
