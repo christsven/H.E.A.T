@@ -169,11 +169,13 @@ controlled.
 
 Since NATO was unwilling to intervene, the EUs Foreign Affairs Council (FAC) voted
 to send the two EU Battlegroups under the Common Security and Defence Policy (CSPD)
-to aid estonian forces. Just two years prior, the force had been restructured under
-PESCO following Brexit. This had established a command centre (MPCC) in Brussels
-and launched a shared EU Defense Fund (EDF), leading to a better integration of
-national forces and a more coherent structure. At the time of deployment, the
-two battlegroups where led by Italy and France.
+to aid estonian forces. Just two years prior, the force had been restructured
+following Brexit and was still in a transitioning process. This had 
+established a command centre in Brussels
+and launched a shared EU
+Defense Fund (EDF), leading to a better integration of national forces and a
+more coherent structure. At the time of deployment, the two battlegroups where
+led by Italy and France.
 
 In Estonia, the civil war had taken its toll on the land. After the initial gains
 from NSPR forces and the jolty response of the estonian army, a drawnout fight
