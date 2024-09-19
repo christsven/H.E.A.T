@@ -25,11 +25,12 @@ Russian Federation.
 
 Continued fighting already pulled the EU and the UN into the conflict, and after terrorist
 attacks in several participating countries NATO is deploying forces as well. 
-The US' glaringly missing from their ranks due to internal struggles, NATO seems 
+With the US glaringly missing from their ranks due to internal struggles, NATO seems 
 weaker than ever.
 
-The RF has condemned the use of NATO troops without a UN mandate and threatens to
-send their own force in an effort to protect ethnic russians in the region.
+The Russian Federation has condemned the use of NATO troops without a UN mandate
+and threatens to send their own force
+in an effort to protect ethnic russians in the region.
 
 ***
 
