@@ -106,9 +106,10 @@ not nearly as powerful as in Estonia, this helped to normalize the clashes and p
 in the eyes of the media. For many, this was just the smaller version to the Maidan
 protests and clashes in Ukraine.
 
-The UN on the other hand understood the dire state of affairs in the baltics.
-As a reaction, a [UN peacekeeping operation](#unfibal) was
-established to aid police forces. The mission is mainly composed of bangladeshi
+At the request of the estonian government, the UN aided in the execution and oversight
+during the election, which was demanded by IV politicians and the Russian
+Federations spokesperson.
+This established a [UN peacekeeping operation](#unfibal) to aid the process. The mission is mainly composed of bangladeshi
 and african troops and was largely well received as a mediating third party.
 
 #### 2016 - Outbreak of war
