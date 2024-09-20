@@ -114,6 +114,20 @@ and create a more permanent presence in Estonia.
 
 ##### The referendum
 
+After months of heated debates and several failed illegal attempts, the government
+caved and allowed a referendum over more autonomy in legislation, though for many this
+was more of an independence referendum than anything else. 
+
+While Estonia is a highly digitalized country where elections are usually held
+online, the mistrust of pro-separatist voters led many to vote via direct, 
+personal voting. The voting booths were dotted around the county, guarded by
+police forces and UNFIBAL peacekeepers, as well as russian observers the russian
+state pressured Estonia into allowing to monitor the referendum.
+
+The results were proclaimed at the 31st of December, with a slim majority
+voting against the reforms. But celebrations would quickly turn sour over the
+coming days.
+
 #### 2016 - Outbreak of war
 
 <img src="/ruleset/ressources/garrisonattack.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
