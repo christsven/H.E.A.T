@@ -142,8 +142,8 @@ voting booth results. Russian election observers claimed to have proof of this,
 but before any serious investigations could be led, a storm of cyberattacks ground
 the country to a halt at the same time as targeted misinformation flooded social media
 channels. After several bomb attacks the government called out a state of emergency and
-started troop reserve activation to aid police forces. In the night of X, after
-three weeks of chaos, war broke out.
+started troop reserve activation to aid police forces. After three weeks of chaos, 
+war broke out.
 
 The garrisons of the armed forces in Ida Viru, mainly used for training of new
 recruits, but also for the newly refurbished territorial defense units as well
