@@ -70,7 +70,7 @@ NATO, fueling anti-west sentiment.
 
 As a reaction to the annexation of Crimea, the baltic states increased the budgets
 for the large reservist and volunteer forces of their respective armed forces.
-Furthermore, a combined [border guard unit](#baltic-security-partnership) of all baltic statws was
+Furthermore, a combined [border guard unit](#baltic-security-partnership) of all baltic states was
 established as a sign of unison and resolve against russian aggression and dissent
 in not only the estonian, but also the other baltic border counties with Russia.
 
@@ -156,11 +156,12 @@ national forests are used to hide equipment and house medical facilities for
 casualties.
 
 Populist rethoric and disinformation campaigns lead to a polarized society in the
-years prior, and many unsupportive of the political rethoric were driven to move west.
-But not many people had the monetary support necessary for such a drastic move.
-There still are parts of the population which did not approve of the coup, and some
-even took to arms, forming small counter-revolutionary cells. The majority of these
-people are enlisted in the volunteer structures of the estonian forces.
+years prior, and those unsupportive of the political rethoric were driven 
+to move west. But not everyone had the monetary support necessary for such a 
+drastic change in life. There still are parts of the population which did not
+approve of the coup, and some even took to arms, forming small counter-revolutionary
+cells. The majority of these people are enlisted in the volunteer structures of the
+estonian forces.
 
 While this was enough to gain control in some parts of the country, the many small
 villages and settlements surrounding the cities were too many to be militarily
