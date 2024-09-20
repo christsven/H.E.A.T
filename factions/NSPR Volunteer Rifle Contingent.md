@@ -363,11 +363,13 @@ bombs.
 
 ![kamikaze drone](ressources/kamikaze.excalidraw.png)
 
-A domestic drone design used as loitering ammunition. While not as advanved as
-similar drone designs, the Bravo drone was developed to be cheap in production
-and does not require many high-tech parts. The drones are said to be of mixed
-quality, but due to them being used in a kamikaze drone, they are only expected
-to fly once anyway.
+Bravo drones, or colloquially also called "Muruniiduks" or "lawn mowers"
+due to their engine sound, are a domestic drone design used as loitering ammunition. 
+
+While not as advanved as similar drones of professional armies, the Bravo drone
+was developed to be cheap in production and does not require many high-tech parts. 
+The drones are said to be of mixed quality, but due to them being used in a kamikaze
+role, they are only expected to fly once anyway.
 
 | Bravo UAV |  <img src="/factions/nato-symbols/opfor/attack-drone-offmap.excalidraw.png" align="right" alt="Loitering ammunition" height=30 width=auto></img> |
 | :---- | ---- |
