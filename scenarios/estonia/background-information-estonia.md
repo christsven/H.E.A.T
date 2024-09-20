@@ -142,8 +142,8 @@ voting booth results. Russian election observers claimed to have proof of this,
 but before any serious investigations could be led, a storm of cyberattacks ground
 the country to a halt at the same time as targeted misinformation flooded social media
 channels. After several bomb attacks the government called out a state of emergency and
-started troop reserve activation to aid police forces. After three weeks of chaos, 
-war broke out.
+started troop reserve activation to aid police forces, but it was too late. 
+One night, three weeks into the new year, the country went up in flames.
 
 The garrisons of the armed forces in Ida Viru, mainly used for training of new
 recruits, but also for the newly refurbished territorial defense units as well
@@ -151,10 +151,16 @@ as the Baltic Brigade, were hit simultanously. Across all of Estonia, bombs and
 surprise attacks of small cells disabled bridges and important connections to
 the east.
 
+A provisional government in Narva was declared over television and radio, while internet
+connections in large parts of Europe cut off. The _Narva Socialist People's Republic_
+was proclaimed with the borders of the former Ida Viru, and all crossings were to remain
+closed until further notice. But with the threat of a civil war on everyones mind, most
+people fled westward and clogged every street into Europe's youngest republic.
+
 Refugees fleeing to the West quickly overwhelmed peacekeeping forces, who tried
-to keep the main roads and connections out of Ida Viru open. This also hindered
-the estonian armed forces from quickly intervening, as the few intact roads were
-full of civilian cars.
+to keep the main roads and connections out of Ida Viru open. This hindered the 
+now mostly mobilized estonian armed forces from quickly intervening, as the few
+intact roads were full of civilian cars.
 
 The Kremlin heavily lobbied against a NATO intervention and declared any aerial
 attacks against NSPR forces as a provocation and a reason for its own participation
