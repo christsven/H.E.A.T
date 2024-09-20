@@ -179,7 +179,7 @@ Defense Fund, leading to a better integration of national forces and a
 more coherent structure. At the time of deployment, the two battlegroups where
 led by Italy and France.
 
-In Estonia, the civil war had taken its toll on the land. After the initial gains
+In Estonia, the civil war had taken its toll on the country. After the initial gains
 from NSPR forces and the jolty response of the estonian army, a drawnout fight
 over control of key cities and passageways followed. Due to the de facto No Fly
 Zone over Ida Viru, the ground offensives had to proceed more caucious and slow,
