@@ -137,7 +137,8 @@ Attacks on garrisons plunge the country into civil war, 2016
 </p>
 
 The IV party immediatly declared the results of the election to be invalid due
-to vote tampering. Russian election observers claimed to have proof of this,
+to vote tampering, as there was a large difference between online results and the 
+voting booth results. Russian election observers claimed to have proof of this,
 but before any serious investigations could be led, a storm of cyberattacks ground
 the country to a halt at the same time as targeted misinformation flooded social media
 channels. After several bomb attacks the government called out a state of emergency and
