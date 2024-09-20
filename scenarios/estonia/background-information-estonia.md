@@ -188,17 +188,19 @@ While this was enough to gain control in some parts of the country, the many sma
 villages and settlements surrounding the cities were too many to be militarily
 controlled.
 
-#### 2017 - Baptism by Fire
+##### Baptism by Fire
 
-Since NATO was unwilling to intervene, the EUs Foreign Affairs Council (FAC) voted
-to send the two EU Battlegroups under the Common Security and Defence Policy (CSPD)
-to aid estonian forces. Just two years prior, the force had been restructured
-following Brexit and was still in a transitioning process. This had 
-established a command centre in Brussels
-and launched a shared EU
-Defense Fund, leading to a better integration of national forces and a
-more coherent structure. At the time of deployment, the two battlegroups where
-led by Italy and France.
+Since NATO was unwilling to intervene in the "internal affairs of member states", 
+the EUs Foreign Affairs Council voted to send the two EU Battlegroups under
+the Common Security and Defence Policy (CSPD)
+to aid estonian forces. 
+
+Just two years prior, the force had been restructured following Brexit
+and was still in a transitioning process. This had 
+established a command centre
+in Brussels and launched a shared EU Defense Fund, leading to a better integration
+of national forces and a more coherent structure. At the time of deployment,
+the two battlegroups where led by Italy and France.
 
 In Estonia, the civil war had taken its toll on the country. After the initial gains
 from NSPR forces and the jolty response of the estonian army, a drawnout fight
@@ -224,7 +226,7 @@ situation.
 <img src="/scenarios/ressources/military-tower.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
 
 <p align=center>
-Military site, NSPR, early 2017
+Military site, NSPR, early 2016
 </p>
 
 Even though the resistance suffered a hefty amount of attrition from fighting not
@@ -236,7 +238,7 @@ no other direction from where the resistance could have gotten their weapons in
 the first place, but russian officials always refused to acknowledge any participation
 in the conflict.
 
-#### Summer 2017 - Divided Unity
+### 2017 - Divided Unity
 
 The EUFOR battlegroup managed to crack the lines in the west and retake large
 amounts of territory, with drawnout figthing in the cities for in some cases
