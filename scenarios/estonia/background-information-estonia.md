@@ -238,7 +238,7 @@ no other direction from where the resistance could have gotten their weapons in
 the first place, but russian officials always refused to acknowledge any participation
 in the conflict.
 
-### 2017 - Divided Unity
+#### 2017 - Divided Unity
 
 The EUFOR battlegroup managed to crack the lines in the west and retake large
 amounts of territory, with drawnout figthing in the cities for in some cases
