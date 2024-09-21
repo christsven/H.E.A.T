@@ -4,8 +4,9 @@
 
 This list represents the reinforced battlegroups sent by the European Union to
 Estonia to defeat the separatist forces of Ida Viru. The corps-sized ground force
-is compromised of the multi-national brigade as well as a franco-belgian one, as
-described in the scenario details, as well as the EUROCORPS.
+is compromised of the multi-national brigade composed of italina, slovac and
+?? units as well as a franco-belgian one, as described in the scenario details.
+They are furthermore as the EUROCORPS.
 
 ***
 
@@ -86,6 +87,24 @@ A group of recon infantry.
 | Setup | NCO (SMG) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
+
+### French groupe de combat
+
+The french army structures its infantry into so called groupe de combats, which
+are mechanized infantry squads divided into three distinct sections of differing
+role.
+
+The first team is the leading element consisting of the squad leader and a
+designated marksman.
+
+The "Alpha team", formerly known as the "L´equipe choc" (Shock team), consists of
+the weapon systems with an effective range of up to 300m, which means HK416, one
+of sometimes is equipped with the HK269F 40mm grenade launcher, as well as LAW
+carried by the Grenadier-Voltiguer.
+
+The "Bravo team" or L´equipe feu" (Fire team) is the second half of the weapon
+section equipped with a FN Minimi Para and an optional Lance Grenadier carrying
+a 51mm light mortar, which can support the alpha teams advance.
 
 ### Chasseurs à cheval
 

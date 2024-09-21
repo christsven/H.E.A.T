@@ -874,7 +874,6 @@ is damaged.
 
 <img src="/factions/ressources/toyota-new.excalidraw.png" alt="technical" height=auto width=70%></img>
 
-
 ### Adjustments
 
 These are adjustments or rule rewrites my group worked out as house rules. Take
@@ -913,6 +912,39 @@ If they went from 6 to 4 on spotter A and spotter B takes over due to A dying or
 repositioning, the zeroing is not affected. But without a spotter correcting shots,
 it is also unable to further zero in and lower its value. A direct hit also needs
 to be observed to notify the artillery that zeroing has finished.
+
+#### Fireteams
+
+The structure and doctrine of many modern conventional infantry squads clashes
+greatly with the way infantry is handled in Bolt Action. As an example, the
+french groupe de combats loadout has everything from a DMR, ARs, pistols and
+underbarrel grenade launchers to a machine gun team and even a light mortar to
+assist the normal grenadiers. Suffice to say, the light mortar will have a
+completely different distance of engagement compared to the lighter weapon systems
+(which is the exact reason the groupe de combat has a 300m team and a 600m team,
+referencing the preferred distance the fireteam engages enemies at).
+
+To not split up what is meant as a singular, cohesive unit into three order dice
+and making the game flow artificially slower, the best compromise in my eyes is
+to allow units with the FIRETEAM rule to ignore the unit cohesion rules we have
+for normal infantry.
+
+Units with the FIRETEAM rule may be split up into smaller sections consisting of
+at least two infantry men each. As long as they stay the normal 1" distance
+from each other (with the NCO being the senior element to refer to here), the
+unit is treated normally.
+
+Once a fireteam splits off, an activation can only *move* one of the fireteams
+or the main team, mirroring spotter activations, but after moving after an
+ADVANCE or with a FIRE order the entire squad may engage the enemy.
+Each fireteam may engage seperately once its split off, the "connected" part of
+the ones split off enganges as one.
+
+As soon as one fireteam splits off, the unit has to pass an order check for every
+order it takes.
+
+If a fireteam is lowered to one soldier after an engagement, the last soldier
+is also considered destroyed. All squad members share a singular PEN value.
 
 #### Indirect fire rework
 
@@ -983,7 +1015,8 @@ option open.
 
 #### Machine gun buff
 
-As a quite popular buff for MGs, all weapons in the machine gun team slot deal D2 Pins to make them more viable.
+As a quite popular buff for MGs, all weapons in the machine gun team slot deal
+D2 Pins to make them more viable.
 
 ### Experimental Stuff
 
