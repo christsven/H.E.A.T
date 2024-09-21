@@ -927,7 +927,7 @@ referencing the preferred distance the fireteam engages enemies at).
 To not split up what is meant as a singular, cohesive unit into three order dice
 and making the game flow artificially slower, the best compromise in my eyes is
 to allow units with the FIRETEAM rule to ignore the unit cohesion rules we have
-for normal infantry.
+for normal infantry. Fireteams are preassigned and cant be changed on the fly.
 
 Units with the FIRETEAM rule may be split up into smaller sections consisting of
 at least two infantry men each. As long as they stay the normal 1" distance
@@ -945,6 +945,10 @@ order it takes.
 
 If a fireteam is lowered to one soldier after an engagement, the last soldier
 is also considered destroyed. All squad members share a singular PEN value.
+
+| Rule | Description |
+| :--- | :--- |
+| Fireteams | The infantry section has preassigned sub-teams that may split off and move separately from the NCO.|
 
 #### Indirect fire rework
 
