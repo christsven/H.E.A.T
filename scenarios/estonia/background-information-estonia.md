@@ -88,6 +88,12 @@ while the refugee crisis fueled conservative populism. First open calls for
 independence followed razzias against popular far-right extremists, shortly before
 the election of parliament in March.
 
+At the request of the estonian government, the UN aided in the execution and oversight
+during the election, which was demanded by IV politicians and the Russian
+Federations spokesperson.
+This established a [UN peacekeeping operation](#unfibal) to streamline the process
+and create a more permanent presence in Estonia.
+
 The *"Iseseisvus rahvale"* party were elected by a majority of voters in the Ida
 Viru and other bordering counties during the election run.
 
@@ -106,17 +112,11 @@ not nearly as powerful as in Estonia, this helped to normalize the clashes and p
 in the eyes of the media. For many, this was just the smaller version to the Maidan
 protests and clashes in Ukraine.
 
-At the request of the estonian government, the UN aided in the execution and oversight
-during the election, which was demanded by IV politicians and the Russian
-Federations spokesperson.
-This established a [UN peacekeeping operation](#unfibal) to streamline the process
-and create a more permanent presence in Estonia.
-
 ##### The referendum
 
 After months of heated debates and several failed illegal attempts, the government
-caved and allowed a referendum over more autonomy in legislation, though for many this
-was more of an independence referendum than anything else. 
+caved and allowed a referendum over more autonomy in legislation, though for many
+this was more of an independence referendum than anything else.
 
 While Estonia is a highly digitalized country where elections are usually held
 online, the mistrust of pro-separatist voters led many to vote via direct, 
@@ -190,17 +190,14 @@ controlled.
 
 ##### Baptism by Fire
 
-Since NATO was unwilling to intervene in the "internal affairs of member states", 
-the EUs Foreign Affairs Council voted to send the two EU Battlegroups under
-the Common Security and Defence Policy (CSPD)
-to aid estonian forces. 
+Since NATO was unwilling to intervene in the "internal affairs of member states",
+the EUs Foreign Affairs Council voted to send one of the two EU Battlegroups under
+the Common Security and Defence Policy (CSPD) to aid estonian forces.
 
 Just two years prior, the force had been restructured following Brexit
-and was still in a transitioning process. This had 
-established a command centre
-in Brussels and launched a shared EU Defense Fund, leading to a better integration
-of national forces and a more coherent structure. At the time of deployment,
-the two battlegroups where led by Italy and France.
+and was still in a transitioning process. At the time of deployment,
+the two battlegroups where led by Italy and France, and the french one was selected
+to be deployed reinforced with the EUROCORPS
 
 In Estonia, the civil war had taken its toll on the country. After the initial gains
 from NSPR forces and the jolty response of the estonian army, a drawnout fight

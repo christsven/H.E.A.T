@@ -4,9 +4,7 @@
 
 This list represents the reinforced battlegroups sent by the European Union to
 Estonia to defeat the separatist forces of Ida Viru. The corps-sized ground force
-is compromised of the multi-national brigade composed of italina, slovac and
-?? units as well as a franco-belgian one, as described in the scenario details.
-They are furthermore as the EUROCORPS.
+is compromised of the franco-belgian battlegroup as well as the EUROCORPS.
 
 ***
 
@@ -106,28 +104,15 @@ The "Bravo team" or L´equipe feu" (Fire team) is the second half of the weapon
 section equipped with a FN Minimi Para and an optional Lance Grenadier carrying
 a 51mm light mortar, which can support the alpha teams advance.
 
-### Chasseurs à cheval
-
-| Cavalry squad | Mechanized infantry unit |
+| Mechanized infantry squad | Mechanized infantry unit |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
-| Special rules | <tr><td>Airborne</td><td>When dismounting from a helicopter, this<br>unit may reroll failed order checks.</td></tr> |
+| Special rules | |
 
-### Hussards infantry group
-
-The heaviest infantry the brigade has to offer. The hussars are the mechanized
-units which use M113 and armoured reserve vehicles.
-
-| Husar squad | Mechanized infantry unit |
-| :---- | ---- |
-| Cost | 45 pt / 60 pt / 75 pt |
-| Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (AR) + 3 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information.</td></tr></table> |
+###
 
 ### SF
 
