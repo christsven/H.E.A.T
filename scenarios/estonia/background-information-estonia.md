@@ -11,26 +11,25 @@ full campaign is up to you.
 ### Breakdown
 
 A revolution in the eastern district of Ida Viru in Estonia plunged the small baltic
-country into a civil war. Many of the larger settlements were swiftly taken 
-under controlof the Narva Socialist People's Republic (NSPR), which has
-a standing force of around 10-13.000 men. 
+country into a civil war. Many of the larger settlements were swiftly taken under
+control of the Narva Socialist People's Republic (NSPR), which has a standing force
+of around 10-13.000 men.
 
-The NSPR Forces are a patchwork of former soldiers, poorly prepared civilians and 
+The NSPR Forces are a patchwork of former soldiers, poorly prepared civilians and
 paramilitary groups, which are as differently trained as they are equipped, making
-use of old soviet equiment, civilian vehicles and more modern weaponry sponsored 
-by foreign donors. Ideologically just as split, the
-NSPR is internally divided between left-leaning revolutionaries seeking their own
-state and far right militias such as "Bratstwa", who want to become part of the
-Russian Federation.
+use of old soviet equiment, civilian vehicles and more modern weaponry sponsored
+by foreign donors. Ideologically just as split, the NSPR is internally divided
+between left-leaning revolutionaries seeking their own state and far right militias
+such as "Bratstwa", who want to become part of the Russian Federation.
 
-Continued fighting already pulled the EU and the UN into the conflict, and after terrorist
-attacks in several participating countries NATO is deploying forces as well. 
-With the US glaringly missing from their ranks due to internal struggles, NATO seems 
-weaker than ever.
+Continued fighting already pulled the EU and the UN into the conflict, and after
+terrorist attacks in several participating countries NATO is deploying forces as
+well. With the US glaringly missing from their ranks due to internal struggles,
+NATO seems weaker than ever.
 
 The Russian Federation has condemned the use of NATO troops without a UN mandate
-and threatens to send their own force
-in an effort to protect ethnic russians in the region.
+and threatens to send their own force in an effort to protect ethnic russians in
+the region.
 
 ***
 
@@ -70,13 +69,13 @@ NATO, fueling anti-west sentiment.
 
 As a reaction to the annexation of Crimea, the baltic states increased the budgets
 for the large reservist and volunteer forces of their respective armed forces.
-Furthermore, a combined [border guard unit](#baltic-security-partnership) of all baltic states was
-established as a sign of unison and resolve against russian aggression and dissent
+Furthermore, a combined [border guard unit](#baltic-security-partnership) of all baltic states was established
+as a sign of unison and resolve against russian aggression and dissent
 in not only the estonian, but also the other baltic border counties with Russia.
 
 #### 2015 - Spiraling protests
 
-<img src="/scenarios/ressources/elections.excalidraw.png" alt="UN APC guarding election" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/scenarios/ressources/elections.excalidraw.png" alt="UN APC guarding election" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 A UN APC guarding an election hall, April 2015
@@ -89,12 +88,11 @@ independence followed razzias against popular far-right extremists, shortly befo
 the election of parliament in March.
 
 At the request of the estonian government, the UN aided in the execution and oversight
-during the election, which was demanded by IV politicians and the Russian
-Federations spokesperson.
-This established a [UN peacekeeping operation](#unfibal) to streamline the process
+during the election, which was demanded by IV politicians and a Russian Federation
+spokesperson. This established a [UN peacekeeping operation](#unfibal) to streamline the process
 and create a more permanent presence in Estonia.
 
-The *"Iseseisvus rahvale"* party were elected by a majority of voters in the Ida
+The *Iseseisvus rahvale* party were elected by a majority of voters in the Ida
 Viru and other bordering counties during the election run.
 
 After learning about their victory, party officials announced an independence
@@ -119,7 +117,7 @@ caved and allowed a referendum over more autonomy in legislation, though for man
 this was more of an independence referendum than anything else.
 
 While Estonia is a highly digitalized country where elections are usually held
-online, the mistrust of pro-separatist voters led many to vote via direct, 
+online, the mistrust of pro-separatist voters led many to vote via direct,
 personal voting. The voting booths were dotted around the county, guarded by
 police forces and UNFIBAL peacekeepers, as well as russian observers the russian
 state pressured Estonia into allowing to monitor the referendum.
@@ -130,19 +128,19 @@ coming days.
 
 #### 2016 - Outbreak of war
 
-<img src="/ruleset/ressources/garrisonattack.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/ruleset/ressources/garrisonattack.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 Attacks on garrisons plunge the country into civil war, 2016
 </p>
 
 The IV party immediatly declared the results of the election to be invalid due
-to vote tampering, as there was a large difference between online results and the 
+to vote tampering, as there was a large difference between online results and the
 voting booth results. Russian election observers claimed to have proof of this,
 but before any serious investigations could be led, a storm of cyberattacks ground
 the country to a halt at the same time as targeted misinformation flooded social media
-channels. After several bomb attacks the government called out a state of emergency and
-started troop reserve activation to aid police forces, but it was too late. 
+channels. After several bomb attacks the government called out a state of emergency
+and started troop reserve activation to aid police forces, but it was too late.
 One night, three weeks into the new year, the country went up in flames.
 
 The garrisons of the armed forces in Ida Viru, mainly used for training of new
@@ -151,14 +149,15 @@ as the Baltic Brigade, were hit simultanously. Across all of Estonia, bombs and
 surprise attacks of small cells disabled bridges and important connections to
 the east.
 
-A provisional government in Narva was declared over television and radio, while internet
-connections in large parts of Europe cut off. The _Narva Socialist People's Republic_
-was proclaimed with the borders of the former Ida Viru, and all crossings were to remain
-closed until further notice. But with the threat of a civil war on everyones mind, most
-people fled westward and clogged every street into Europe's youngest republic.
+A provisional government in Narva was declared over television and radio, while
+internet connections in large parts of eastern Europe were disrupted. The
+_Narva Socialist People's Republic_ was proclaimed with the borders of the former
+Ida Viru, and all crossings were to remain closed until further notice. But with
+the threat of a civil war on everyones mind, most people fled westward and clogged
+every street into Europe's youngest republic.
 
 Refugees fleeing to the West quickly overwhelmed peacekeeping forces, who tried
-to keep the main roads and connections out of Ida Viru open. This hindered the 
+to keep the main roads and connections out of Ida Viru open. This hindered the
 now mostly mobilized estonian armed forces from quickly intervening, as the few
 intact roads were full of civilian cars.
 
@@ -197,7 +196,7 @@ the Common Security and Defence Policy (CSPD) to aid estonian forces.
 Just two years prior, the force had been restructured following Brexit
 and was still in a transitioning process. At the time of deployment,
 the two battlegroups where led by Italy and France, and the french one was selected
-to be deployed reinforced with the EUROCORPS
+to be deployed reinforced with the EUROCORPS.
 
 In Estonia, the civil war had taken its toll on the country. After the initial gains
 from NSPR forces and the jolty response of the estonian army, a drawnout fight
@@ -220,7 +219,7 @@ situation.
 
 ##### Reinforced resistance
 
-<img src="/scenarios/ressources/military-tower.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/scenarios/ressources/military-tower.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 Military site, NSPR, early 2016
@@ -230,10 +229,10 @@ Even though the resistance suffered a hefty amount of attrition from fighting no
 only against the estonian army, the baltic territorial defense and UNFIBAL personnel,
 but now also the CSDP coalition, there was no noticable dip in ammunition or
 equipment, which led to accusations of Russia providing heavy equipment to the
-resistance fighters. This was not a very far fetched claim, since there was literally
-no other direction from where the resistance could have gotten their weapons in
-the first place, but russian officials always refused to acknowledge any participation
-in the conflict.
+resistance fighters. This was not a very far fetched claim, since there was
+literally no other direction from where the resistance could have gotten their
+weapons in the first place, but russian officials always refused to acknowledge
+any participation in the conflict.
 
 #### 2017 - Divided Unity
 
@@ -268,29 +267,29 @@ follow up units arriving shortly after.
 
 #### Estonian Land Forces
 
-<img src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 Insignia of the Estonian Land Forces
 </p>
 
-<img src="/factions/ressources/kaitseliit.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/factions/ressources/kaitseliit.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 First Estonian Division Insignia
 </p>
 
-The **Estonian Land Forces** are the ground component of the Estonian Defence Forces
+The **Estonian Land Forces** are the land component of the Estonian Defence Forces
 (EDF), responsible for defending the territorial integrity and sovereignty of
-Estonia. It consists of around 3000 personnel during peacetimes, and is division-
-sized with some parts only staffed by reserve units.
+Estonia. They consist of around 3000 personnel during peacetimes, and is division-
+sized with large parts only staffed by reserve units.
 
 After the first clashes in 2014, a reactivation of reservist forces and more
 thorough training started to fill back the ranks of the Estonian Division, similar
 to the BSP Brigade. The restructuring under the *National Defence Development*
-*Plan 2013-2022* had to be reworked to accelerate the force readiness and
-accomodate the new armored forces sponsored by Poland, who became a partner with
-the Estonian forces in a newly formed armoured Battalion.
+*Plan 2013-2022* had to be reworked to accelerate the force readiness and accomodate
+the new armored forces sponsored by Poland, who became a partner with the Estonian
+forces in a newly formed armoured Battalion.
 
 In response to the degrading situation european allies began arms donations to
 the army, especially Poland and Finland, where a large part of the estonian
@@ -337,7 +336,7 @@ are out of finnish production.
 
 #### Baltic Security Partnership
 
-<img src="/factions/ressources/bsp-logo-no-text.excalidraw.png" alt="Baltic Security Partnership" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/factions/ressources/bsp-logo-no-text.excalidraw.png" alt="Baltic Security Partnership" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 BASEP Bridage Insignia
@@ -394,13 +393,13 @@ under lithuanian commandship.
 
 #### UNFIBAL
 
-<img src="/scenarios/ressources/unfibal.excalidraw.png" alt="UNFIBAL Logo" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/scenarios/ressources/unfibal.excalidraw.png" alt="UNFIBAL Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 UNFIBAL Logo
 </p>
 
-<img src="/scenarios/ressources/taskforce.excalidraw.png" alt="Task Force Patch" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/scenarios/ressources/taskforce.excalidraw.png" alt="Task Force Patch" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 Task Force Ida Viru Patch
@@ -443,8 +442,8 @@ with EUFOR command and later NATO command.
 As an initial compromise in US politics, where less isolationist factions refused
 to accept the neutral stance towards the attacks on NATO members the President had
 taken, led to an arms deal with the UN forces, equipping them with more modern
-vehicles, weaponry and personal equipment. This included prominently M1117 Guardian
-ASVs, M1120 Strkyer APCs as well as Bradley M2A2/A3 IFVs.
+vehicles, weaponry and personal equipment. This included prominently M1117
+Guardian ASVs, M1120 Strkyer APCs as well as Bradley M2A2/A3 IFVs.
 
 Operational goals during wartime changed a more proactive protection of the
 civilian population, securing public infrastructure and upholding the rule of law
@@ -452,41 +451,25 @@ where possible, as well as documenting potential war crimes for later prosecussi
 
 #### EUFOR Estonia
 
-<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Logo" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 EUFOR Estonia Patch
 </p>
 
-<img src="/scenarios/ressources/csdp-logo.excalidraw.png" alt="CSDP Insignia" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/scenarios/ressources/csdp-logo.excalidraw.png" alt="CSDP Insignia" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 Common Security and Defense Policy, EU
 </p>
 
-Under the mission name **EUFOR Estonia** fall two EU battlegroups, the italian led
-"Multinational Land Force", a french one, as well as the EUROCORPS. They are
-furthermore working in conjunction with a naval force "EUNAVFOR Baltic Sea"
-composed of german and swedish frigates.
+Under the mission name **EUFOR Estonia** fall one of the two EU battlegroups as
+well as the EUROCORPS. They are furthermore working in conjunction with a naval
+force "EUNAVFOR Baltic Sea" composed of german and swedish frigates.
 
-The two EU Battlegroups are composed of around 1500 men each and are well
-established, reoccuring formations in the biannual standby roster of battlegroups.
-The Eurocorps routinely supports EU and EU member missions.
-
-##### Multinational Land Force
-
-Originating in 1990, this battlegroup is composed of italian, hungarian and
-slovenian formations.
-
-Participating units:
-
-- Support and Command Brigade Julia (Italy)
-- 8th Alpine Regiment (Italy)
-- 2nd Assault Engineer Regiment (Italy)
-- 3rd Mountain Artillery Regiment (Italy)
-- 10th Motorized Battalion (Slovenia)
-- 132nd Mountain Battalion (Slovenia)
-- 1st Mechanized Battalion (Hungary)
+The EU Battlegroups are composed of around 1500 men each and are well established,
+reoccuring formations in the biannual standby roster of battlegroups. The Eurocorps
+routinely supports EU and EU member missions.
 
 ##### Franco-belgian Battlegroup
 
@@ -510,21 +493,21 @@ reinforced the EUBGs with units from the franco-german brigade.
 
 ##### VJTF & I-F/I-FU
 
-<img src="/scenarios/ressources/NATO-logo.excalidraw.png" alt="NATO Logo" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/scenarios/ressources/NATO-logo.excalidraw.png" alt="NATO Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 Northatlantic Treaty Organisation
 </p>
 
-<img src="/scenarios/ressources/nrf-logo.excalidraw.png" alt="NRF Logo" style="display: block; margin-left: auto; margin-right: auto; width: 40%; height: auto"></img>
+<img src="/scenarios/ressources/nrf-logo.excalidraw.png" alt="NRF Logo" style="display: block; margin-left: auto; margin-right: auto; width: 40%; height: auto"/>
 
 <p align=center>
 Emblem of NATO response forces, stationed in the baltic countries
 </p>
 
-The **Very High Readiness Joint Task Force** (VJTF) is a multinational rapid reaction
-force established by NATO. Designed to be a highly agile and capable force, the
-VJTF serves as a deterrent and quick-response element in times of crisis.
+The **Very High Readiness Joint Task Force** (VJTF) is a multinational rapid
+reaction force established by NATO. Designed to be a highly agile and capable
+force, the VJTF serves as a deterrent and quick-response element in times of crisis.
 
 It consists of land, air, maritime, and special operations forces contributed by
 NATO member states on a rotational basis.
@@ -539,26 +522,28 @@ reinforcement operations.
 
 #### NSPR
 
-<img src="/scenarios/ressources/flag-nspr.excalidraw.png" alt="NSPR Flag" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/scenarios/ressources/flag-nspr.excalidraw.png" alt="NSPR Flag" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 Narva Socialist People's Republic flag
 </p>
 
-<img src="/factions/ressources/bratstwa.excalidraw.png" alt="Bratstwa Group Patch" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
+<img src="/factions/ressources/bratstwa.excalidraw.png" alt="Bratstwa Group Patch" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=60%/>
 
 <p align=center>
 A Bratstwa PMC group patch found on a POW, 2017
 </p>
 
-The **Narva Socialist People's Republic** has a standing force of around 10-13.000 personnel, which serve under
-the umbrella of the NSPR flag. Internally, there are several factions.
+The **Narva Socialist People's Republic** has a standing force of around 10-13.000
+personnel, which serve under the umbrella of the NSPR flag. The larger core army
+is composed of all kinds of citizens, from farmers to former military personel,
+and they are further reinforced by a russian PMC.
 
 The "Bratstwa" far-right, russian-nationalistic militia is the best equipped part
 of the force. Their leader, Roman Sokolov, is a wealthy oligarch with ties to the
 Kremlin. Most personnel enjoyed a thorough paramilitary training and their
 equipment pool is modern. The entire force is estimated to consist of about
-2000-2500 men.
+2000-2500 men, though some parts are also active in other parts of the world.
 
 In contrast to Bratstwa stands the majority of NSPR soldiers, which consist of
 more left-leaning, mostly ethnic russian estonians, which are fighting for anything
