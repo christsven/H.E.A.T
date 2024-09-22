@@ -76,7 +76,7 @@ in not only the estonian, but also the other baltic border counties with Russia.
 
 #### 2015 - Spiraling protests
 
-<img src="/scenarios/ressources/elections.excalidraw.png" alt="UN APC guarding election" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/scenarios/ressources/elections.excalidraw.png" alt="UN APC guarding election" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 A UN APC guarding an election hall, April 2015
@@ -130,7 +130,7 @@ coming days.
 
 #### 2016 - Outbreak of war
 
-<img src="/ruleset/ressources/garrisonattack.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/ruleset/ressources/garrisonattack.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 Attacks on garrisons plunge the country into civil war, 2016
@@ -220,7 +220,7 @@ situation.
 
 ##### Reinforced resistance
 
-<img src="/scenarios/ressources/military-tower.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/scenarios/ressources/military-tower.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 Military site, NSPR, early 2016
@@ -268,13 +268,13 @@ follow up units arriving shortly after.
 
 #### Estonian Land Forces
 
-<img src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 Insignia of the Estonian Land Forces
 </p>
 
-<img src="/factions/ressources/kaitseliit.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/factions/ressources/kaitseliit.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 First Estonian Division Insignia
@@ -337,7 +337,7 @@ are out of finnish production.
 
 #### Baltic Security Partnership
 
-<img src="/factions/ressources/bsp-logo-no-text.excalidraw.png" alt="Baltic Security Partnership" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/factions/ressources/bsp-logo-no-text.excalidraw.png" alt="Baltic Security Partnership" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 BASEP Bridage Insignia
@@ -394,13 +394,13 @@ under lithuanian commandship.
 
 #### UNFIBAL
 
-<img src="/scenarios/ressources/unfibal.excalidraw.png" alt="UNFIBAL Logo" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/scenarios/ressources/unfibal.excalidraw.png" alt="UNFIBAL Logo" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 UNFIBAL Logo
 </p>
 
-<img src="/scenarios/ressources/taskforce.excalidraw.png" alt="Task Force Patch" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/scenarios/ressources/taskforce.excalidraw.png" alt="Task Force Patch" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 Task Force Ida Viru Patch
@@ -452,13 +452,13 @@ where possible, as well as documenting potential war crimes for later prosecussi
 
 #### EUFOR Estonia
 
-<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Logo" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Logo" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 EUFOR Estonia Patch
 </p>
 
-<img src="/scenarios/ressources/csdp-logo.excalidraw.png" alt="CSDP Insignia" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/scenarios/ressources/csdp-logo.excalidraw.png" alt="CSDP Insignia" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 Common Security and Defense Policy, EU
@@ -510,7 +510,7 @@ reinforced the EUBGs with units from the franco-german brigade.
 
 ##### VJTF & I-F/I-FU
 
-<img src="/scenarios/ressources/NATO-logo.excalidraw.png" alt="NATO Logo" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/scenarios/ressources/NATO-logo.excalidraw.png" alt="NATO Logo" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 Northatlantic Treaty Organisation
@@ -539,13 +539,13 @@ reinforcement operations.
 
 #### NSPR
 
-<img src="/scenarios/ressources/flag-nspr.excalidraw.png" alt="NSPR Flag" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/scenarios/ressources/flag-nspr.excalidraw.png" alt="NSPR Flag" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 Narva Socialist People's Republic flag
 </p>
 
-<img src="/factions/ressources/bratstwa.excalidraw.png" alt="Bratstwa Group Patch" style="display: block; margin-left: auto; margin-right: auto;" width=60%></img>
+<img src="/factions/ressources/bratstwa.excalidraw.png" alt="Bratstwa Group Patch" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" width=60%></img>
 
 <p align=center>
 A Bratstwa PMC group patch found on a POW, 2017
