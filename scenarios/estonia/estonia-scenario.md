@@ -44,7 +44,7 @@ estonian and latvian equipment. 2016 onward.<br><br><i>Airmobility and light inf
 
 <img width="50%" height="auto" src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Estonia Forces" >
 <p>
-Composite force of two EU Battlegroups and EUROCORPS. Early 2017.<br><br><i>Mix of german, french, italian and slovac gear. Modern and diverse.</i><br><br><a href="/factions/EUFOR%20Estonia%20Forces.md">EUFOR Army List</a>
+Composite force of an EU Battlegroup and EUROCORPS. Early 2017.<br><br><i>Mix of german, french and belgian gear. Modern and diverse.</i><br><br><a href="/factions/EUFOR%20Estonia%20Forces.md">EUFOR Army List</a>
 </p>
 
 #### UNFIBAL Mission Forces
