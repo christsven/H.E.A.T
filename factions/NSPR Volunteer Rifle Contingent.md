@@ -174,7 +174,7 @@ undergone mandatory services and understand how a military unit has to behave.
 
 ### PMC Contractors squad
 
-The right wing, paramilitary force "Bratstwa" are well-trained and equipped,
+Solderis of the russian PMC group "Bratstwa" are well-trained and equipped,
 and are used since the revolution began to strike down difficult targets,
 perform covert operations or support breakthrough attempts.
 
@@ -229,8 +229,8 @@ enemy forces in the dynamic enviromnent of warfare.
 | Cost | 25 pt / 35 pt / 50 pt |
 | Reinforcement | up to 2 attendants (SMG): 7 pt / 10 pt / 13 pt |
 | Setup | NCO (SMG) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>Explosives</td><td>Explosives pipe</td><td>+15 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr><tr><td>Sapper</td><td>See [ruleset](../ruleset/H.E.A.T.md#sapper) for more information.</td></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>Explosives</td><td>Explosives pipe</td><td>+15 pt</td></tr></table><table><tr><td><b>Optional Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Cavalry</td><td>-</td><td>+1 pt/u</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr><tr><td>Sapper</td><td>See [ruleset](../ruleset/H.E.A.T.md#sapper) for more information.</td></tr>><tr><td>Cavalry (*if selected*)</td><td>-</td></tr></table> |
 
 ### Dragunov sniper team
 

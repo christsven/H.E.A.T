@@ -104,7 +104,7 @@ Every following unit is counted as a system operator plus the given amount of at
 
 ### Explosives and rockets weapons chart
 
-Every following unit is counted as a system operator plus the given amount of attendants. 
+Every following unit is counted as a system operator plus the given amount of attendants.
 
 Additional weapon systems, explosives, mines, ...
 
@@ -327,7 +327,7 @@ Unit mounted on a quad bike cannot fire their weapons.
 
 | Rule | Description |
 | ---- | ---- |
-| Quad Bikes | Unit mounts for faster deployment. Move as a wheeled vehicle without on road bonus. Can be chosen as an upgrade to a unit if available in unit options. Removed once disembarked. |
+| Quad Bikes | Unit mounts for faster deployment. Move as a wheeled vehicle without<br>on road bonus. Can be chosen as an upgrade to a unit if available in unit options.<br>Removed once disembarked. |
 
 ***
 
@@ -373,8 +373,8 @@ Except for recon role, a team is considered destroyed once the drone is lost.
 
 ##### Off-Map Operator
 
-Off-map operated drones act as their own unit and deploy like a helicopter airborne on-
-or off-map. They cannot be resupplied as the on-map operated drones.
+Off-map operated drones act as their own unit and deploy like a helicopter airborne
+on- or off-map. They cannot be resupplied as the on-map operated drones.
 
 #### Movement
 
@@ -411,12 +411,13 @@ travel distance of 24" or 12".
 
 <img src="/ruleset/ressources/mikado.excalidraw.png" alt="mikado" align=right height=auto width=60%></img>
 
-Enables capable of spotting enemy targets in direct LoS. The DOT can communicate
-with any unit within the DOTs platoon and any unit capable of indirect fire in 12"
-around the DOT, once per turn.
+Enables capable of spotting enemy targets in direct LoS. An on-map operator can
+communicate with any unit within the operators platoon and any unit capable of
+indirect fire in 12" around the operator, once per turn.
 
 The communication does not require or use up an activation, but is blocked if the
-DOT is DOWN. If the drone is shot down, the DOT takes the role of a normal spotter.
+unit is DOWN. If the drone is shot down, the operator takes the role of a normal
+spotter.
 
 ###### IED variant
 
@@ -927,12 +928,12 @@ referencing the preferred distance the fireteam engages enemies at).
 To not split up what is meant as a singular, cohesive unit into three order dice
 and making the game flow artificially slower, the best compromise in my eyes is
 to allow units with the FIRETEAM rule to ignore the unit cohesion rules we have
-for normal infantry. Fireteams are preassigned and cant be changed on the fly.
+for normal infantry.
 
 Units with the FIRETEAM rule may be split up into smaller sections consisting of
 at least two infantry men each. As long as they stay the normal 1" distance
 from each other (with the NCO being the senior element to refer to here), the
-unit is treated normally.
+unit is treated normally. Fireteams are preassigned and cant be changed on the fly.
 
 Once a fireteam splits off, an activation can only *move* one of the fireteams
 or the main team, mirroring spotter activations, but after moving after an
@@ -948,7 +949,7 @@ is also considered destroyed. All squad members share a singular PEN value.
 
 | Rule | Description |
 | :--- | :--- |
-| Fireteams | The infantry section has preassigned sub-teams that may split off and move separately from the NCO.|
+| Fireteams | The infantry section has preassigned sub-teams<br>that may split off and move separately from the NCO.|
 
 #### Indirect fire rework
 
