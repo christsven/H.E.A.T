@@ -20,7 +20,8 @@ position and real-time camera information between each other.
 
 ## Platoon leader [ 1 ]
 
-![platoon leader]()
+![eurojaks](/factions/ressources/eurocorps.excalidraw.png)
+_an actual image i found an eurocorps leaflet, they even used that military font lmao_
 
 ### OF-1 Officer
 
@@ -45,9 +46,6 @@ position and real-time camera information between each other.
 ***
 
 ## Infantry Units [ 2 - 5 ]
-
-![eurojaks](/factions/ressources/eurocorps.excalidraw.png)
-_an actual image i found an eurocorps leaflet, they even used that military font lmao_
 
 ### Reconnaissance team
 
