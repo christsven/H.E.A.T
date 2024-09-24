@@ -46,7 +46,7 @@ text
 
 ### French OF-2 Lieutenant
 
-French officers have 
+With the 
 
 | OF-2 Officer | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |

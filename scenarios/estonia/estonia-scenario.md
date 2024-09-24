@@ -73,9 +73,7 @@ This section contains several key events, interesting locations and more general
 
 *Feel free to adjust any scenario to your liking, these are just ideas.*
 
-### 2016
-
-#### Attack on Jõhvi Garrison
+### Attack on Jõhvi Garrison
 
 <img src="/scenarios/ressources/johvi-layout.excalidraw.png" alt="Johvi scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
 
@@ -91,11 +89,7 @@ to the Viru Infantry Battalion.
 | **Game Duration** | 6 + 1 Turns |
 | **Victory Conditions** | 1 VP per destroyed units + 3 VP per occupied objective at the end of game. |
 
-##### Example Report
-
-A Battle List with two forces can be found here: [Example Report](/reports/report-5.md)
-
-#### Securing the roads
+### Securing the roads
 
 <img src="/scenarios/ressources/crossroads-layout.excalidraw.png" alt="crossroads scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
 
@@ -110,7 +104,7 @@ forces.
 | **Game Duration** | 6 + 1 Turns |
 | **Victory Conditions** | 1 VP per destroyed unit + 3 VP to whoever has units inside the crossroad encampment at the end of game. |
 
-#### Urban fighting in Kothla Järve
+### Urban fighting in Kothla Järve
 
 <img src="/scenarios/ressources/city-hall-layout.excalidraw.png" alt="city hall scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
 
@@ -125,7 +119,7 @@ in the city centre.
 | **Game Duration** | 6 + 1 Turns |
 | **Victory Conditions** | 1 VP per destroyed units + 3 VP per occupied objective at the end of game. |
 
-#### Skirmish at Tudulinna Dam
+### Skirmish at Tudulinna Dam
 
 <img src="/scenarios/ressources/tudulinna-layout.excalidraw.png" alt="city hall scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
 
@@ -139,51 +133,51 @@ dam led to a skirmish between the two.
 | **Game Duration** | 6 + 1 Turns |
 | **Victory Conditions** | 1 VP per destroyed units + 3 VP per occupied objective at the end of game. -5 VP to side destroying the dam, if it happens. |
 
-### 2017
+***
 
-#### Bog raids
+### Bog raids
 
 The decentralized logistical grid helped the NSPR against singular artillery strikes,
 but made them susseptible against raid attacks via helicopter by the border guards.
 
-#### Attack on convoi
+### Attack on convoi
 
 A planned attack on an EUFOR convoi was widely televised as a propaganda tool.
 
-#### Battle below the Ashen Hills
+### Battle below the Ashen Hills
 
 With the arrival of EUFOR troops, the estonian forces slowly pushed out NSPR holdouts
 from the larger settlements, with a notable fight below the artificial hills of
 the old oil shale excavation sites in Kivioli.
 
-#### EUFOR port raid on Sillimäe
+### EUFOR port raid on Sillimäe
 
 NAVEUFOR attacked Sillimäe port in a night campaign, securing a bridgehead
 for reinforcements.
 
-### 2018
+***
 
-#### Fight for Narva City
+### Fight for Narva City
 
 Reinforced by the NATO mission, the estonian army took back Narva city in a long
 fight through the streets.
 
-#### First battle for Balti power station
+### First battle for Balti power station
 
 The large power plant south of Narva saw a coordinated attack by BASEP and
 EUFOR, taking control of the facility and using it as a staging ground for the Narva
 campaign.
 
-#### Second Battle for Balti power station
+### Second Battle for Balti power station
 
 Shortly after the loss of the first battle, NSPR forces started a counterattack on
 the power station with boats and tanks.
 
-#### Siege at Hermann Castle
+### Siege at Hermann Castle
 
 The Narva City campaign was prolonged by a stronghold at the river itself
 which was occupied by a NSPR company.
 
-#### Last Stand
+### Last Stand
 
 After losing most ground, the NSPR was defeated in a last battle for the Jõhvi garrison.

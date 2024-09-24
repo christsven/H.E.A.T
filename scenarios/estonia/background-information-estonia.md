@@ -463,7 +463,7 @@ EUFOR Estonia Patch
 Common Security and Defense Policy, EU
 </p>
 
-Under the mission name **EUFOR Estonia** fall one of the two EU battlegroups as
+Under the mission name [EUFOR Estonia](/factions/EUFOR%20Estonia%20Forces.md) fall one of the two EU battlegroups as
 well as the EUROCORPS. They are furthermore working in conjunction with a naval
 force "EUNAVFOR Baltic Sea" composed of german and swedish frigates.
 
@@ -475,9 +475,9 @@ routinely supports EU and EU member missions.
 
 The battlegroup is led by french forces and supported by belgian formations.
 
-##### Eurocorps
+##### EUROCORPS
 
-The Eurocorps is a multinational organisation consisting of a whole list of
+The EUROCORPS is a multinational organisation consisting of a whole list of
 pariticipants. The main body is made up of the franco-german brigade, its
 headquarters is part of the nine NATO High Readiness Land Headquarters
 (NATO HRF (L) HQ).
@@ -505,18 +505,17 @@ Northatlantic Treaty Organisation
 Emblem of NATO response forces, stationed in the baltic countries
 </p>
 
-The **Very High Readiness Joint Task Force** (VJTF) is a multinational rapid
-reaction force established by NATO. Designed to be a highly agile and capable
-force, the VJTF serves as a deterrent and quick-response element in times of crisis.
+While NATO of course exists as a mutual defense organization and its main armed
+capabilities stem from armies of all member states, there are also several units
+specifically for immediate deployment.
 
-It consists of land, air, maritime, and special operations forces contributed by
-NATO member states on a rotational basis.
+The most mobile of all is the "Very High Readiness Joint Task Force" which is
+able to deploy in less than two days, which is then supplemented by "Follow-Up"
+units of a slightly lower readiness.
 
-It is characterized by its high readiness and ability to rapidly deploy within a
-few days' notice. It serves as a visible demonstration of NATO's commitment to
-collective defense and the security of its member states. The force is capable of
-conducting a range of missions, including crisis response, deterrence, and
-reinforcement operations.
+During the time of deployment, the Panzergrenadierbrigade 37 „Freistaat Sachsen"
+held the VJTF position and was sent to Estonia, followed up by more german
+units, as well as other quickly deployable european armies.
 
 ### Opposing Force
 
