@@ -75,7 +75,9 @@ in not only the estonian, but also the other baltic border counties with Russia.
 
 #### 2015 - Spiraling protests
 
+<p align=center>
 <img src="/scenarios/ressources/elections.excalidraw.png" alt="UN APC guarding election" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 A UN APC guarding an election hall, April 2015
