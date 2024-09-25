@@ -242,16 +242,15 @@ any participation in the conflict.
 
 #### 2017 - Divided Unity
 
-The EUFOR battlegroup managed to crack the lines in the west and retake large
-amounts of territory, with drawnout figthing in the cities for in some cases
-singular streets. NSPR forces reverted to asymmetrical fighting where necessary,
-but still held onto the eastern cities. The southern roads are also either under
-NSPR control or in an unusable state, mined or destroyed.
+With the help of EUFORs corps-sized land force, large parts of the west and north
+were retaken over the course of the year. NSPR forces reverted to asymmetrical
+fighting where necessary,but still held onto the eastern cities. The southern roads
+are also either under NSPR control or in an unusable state, mined or destroyed.
 
 Some cells, especially in the cities, became more radicalized than others due to
 the heavy attrition during this campaign. After the fall of Kothla-Järve, several
 individuals of defeated local defense teams were so consumed by this hatred, that
-they turned to attacking the countries involved in the EUBGs. Multiple huge
+they turned to attacking the countries involved in the allied forces. Multiple huge
 bombing attacks on garrisons in France and Italy as well as a failed IED truck
 in Brussels held the West on edge for weeks. France as well as Italy invoked
 Article 5 in response to the attacks, but especially the US administration held
