@@ -130,7 +130,9 @@ coming days.
 
 #### 2016 - Outbreak of war
 
+<p align=center>
 <img src="/ruleset/ressources/garrisonattack.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 Attacks on garrisons plunge the country into civil war, 2016
@@ -221,7 +223,9 @@ situation.
 
 ##### Reinforced resistance
 
+<p align=center>
 <img src="/scenarios/ressources/military-tower.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 Military site, NSPR, early 2016
@@ -269,13 +273,17 @@ follow up units arriving shortly after.
 
 #### Estonian Land Forces
 
+<p align=center>
 <img src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 Insignia of the Estonian Land Forces
 </p>
 
+<p align=center>
 <img src="/factions/ressources/kaitseliit.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 First Estonian Division Insignia
@@ -338,7 +346,9 @@ are out of finnish production.
 
 #### Baltic Security Partnership
 
+<p align=center>
 <img src="/factions/ressources/bsp-logo-no-text.excalidraw.png" alt="Baltic Security Partnership" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 BASEP Bridage Insignia
@@ -395,13 +405,17 @@ under lithuanian commandship.
 
 #### UNFIBAL
 
+<p align=center>
 <img src="/scenarios/ressources/unfibal.excalidraw.png" alt="UNFIBAL Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 UNFIBAL Logo
 </p>
 
+<p align=center>
 <img src="/scenarios/ressources/taskforce.excalidraw.png" alt="Task Force Patch" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 Task Force Ida Viru Patch
@@ -453,13 +467,17 @@ where possible, as well as documenting potential war crimes for later prosecussi
 
 #### EUFOR Estonia
 
+<p align=center>
 <img src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 EUFOR Estonia Patch
 </p>
 
+<p align=center>
 <img src="/scenarios/ressources/csdp-logo.excalidraw.png" alt="CSDP Insignia" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 Common Security and Defense Policy, EU
@@ -493,15 +511,19 @@ reinforced the EUBGs with units from the franco-german brigade.
 
 #### NATO
 
-##### VJTF & I-F/I-FU
+##### NATO Response Force
 
+<p align=center>
 <img src="/scenarios/ressources/NATO-logo.excalidraw.png" alt="NATO Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 Northatlantic Treaty Organisation
 </p>
 
+<p align=center>
 <img src="/scenarios/ressources/nrf-logo.excalidraw.png" alt="NRF Logo" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto"/>
+</p>
 
 <p align=center>
 Emblem of NATO response forces, stationed in the baltic countries
@@ -512,7 +534,7 @@ capabilities stem from armies of all member states, there are also several units
 specifically for immediate deployment.
 
 The most mobile of all is the "Very High Readiness Joint Task Force" which is
-able to deploy in less than two days, which is then supplemented by "Follow-Up"
+able to deploy in less than two days, which is then supplemented by "Follow-On"
 units of a slightly lower readiness.
 
 During the time of deployment, the Panzergrenadierbrigade 37 „Freistaat Sachsen"
@@ -523,13 +545,17 @@ units, as well as other quickly deployable european armies.
 
 #### NSPR
 
+<p align=center>
 <img src="/scenarios/ressources/flag-nspr.excalidraw.png" alt="NSPR Flag" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 Narva Socialist People's Republic flag
 </p>
 
+<p align=center>
 <img src="/factions/ressources/bratstwa.excalidraw.png" alt="Bratstwa Group Patch" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
 
 <p align=center>
 A Bratstwa PMC group patch found on a POW, 2017
