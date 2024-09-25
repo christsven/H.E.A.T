@@ -349,13 +349,33 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
 
-### VMCI
+### Nexter Aravis / Dingo II
+
+![](/factions/ressources/dingo-apc.excalidraw.png)
+
+### pvp
+
+![vbcipvpfactions/ressources/vmci.excalidraw.png)
+
+#### VBCI VCI
+
+#### VBCI VPC
 
 ### VAB
 
+![vab](/factions/ressources/vab.excalidraw.png)
+
 ### VBL
 
+![vbci](/factions/ressources/vbl.excalidraw.png)
+
 ### PVP
+
+![pvp](/factions/ressources/pvp.excalidraw.png)
+
+### GTK Boxer
+
+![boxer](/factions/ressources/gtk-boxer.excalidraw.png)
 
 ***
 
@@ -376,6 +396,8 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 ### Panhard VPS
 
 ### Eurocopter
+
+![](/factions/ressources/eurocopter.excalidraw.png)
 
 ***
 
