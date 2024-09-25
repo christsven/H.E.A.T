@@ -353,9 +353,9 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ![](/factions/ressources/dingo-apc.excalidraw.png)
 
-### pvp
+### VBCI
 
-![vbcipvpfactions/ressources/vmci.excalidraw.png)
+![vbci](/factions/ressources/vmci.excalidraw.png)
 
 #### VBCI VCI
 
