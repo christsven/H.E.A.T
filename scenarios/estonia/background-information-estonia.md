@@ -195,7 +195,7 @@ controlled.
 
 Since NATO was unwilling to intervene in the "internal affairs of member states",
 the EUs Foreign Affairs Council voted to send one of the two EU Battlegroups under
-the Common Security and Defence Policy (CSPD) to aid estonian forces.
+the [Common Security and Defense Policy](#eufor-estonia) (CSPD) to aid estonian forces.
 
 Just two years prior, the force had been restructured following Brexit
 and was still in a transitioning process. At the time of deployment,
@@ -263,7 +263,7 @@ of countries who piggyback on US spending".
 > up, it's massive amounts of money is owed!"*
 
 With the US internal politics devolving into chaos, european states had to muster
-up an operation of their own. The VJTF was sent as a first response, with initial
+up an operation of their own. The [VJTF](#nato-response-force) was sent as a first response, with initial
 follow up units arriving shortly after.
 
 ***
