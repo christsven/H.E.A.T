@@ -155,7 +155,7 @@ the east.
 
 A provisional government in Narva was declared over television and radio, while
 internet connections in large parts of eastern Europe were disrupted. The
-_Narva Socialist People's Republic_ was proclaimed with the borders of the former
+[_Narva Socialist People's Republic_](#nspr) was proclaimed with the borders of the former
 Ida Viru, and all crossings were to remain closed until further notice. But with
 the threat of a civil war on everyones mind, most people fled westward and clogged
 every street into Europe's youngest republic.
