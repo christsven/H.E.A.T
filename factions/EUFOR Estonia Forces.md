@@ -1,6 +1,8 @@
 # EUFOR Estonia Ground Forces
 
+<p align=center>
 <img src="/scenarios/ressources/eufor-estonia.excalidraw.png"  style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px" alt="NSPR Logo" height=auto width=80%>
+</p>
 
 This list represents the reinforced battlegroups sent by the European Union to
 Estonia to defeat the separatist forces of Ida Viru. The corps-sized ground force
