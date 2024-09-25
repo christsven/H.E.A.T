@@ -139,6 +139,22 @@ volunteers and former military servicemen.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Shirkers</td><td>-</td><td>-2 pt each</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Green</td><td>-</td></tr></table> |
 
+### Counter-Resistance Group (Early-War)
+
+When the conflict broke out, soldiers, reservists and civilians alike took up
+arms against the revolutionists from inside Ida Viru. Using anything they
+could get their hands on before retreating and reforming in the underground,
+these cells attacked NSPR logistical operations, relayed troop movement information
+or attacked facilities wheee possible.
+
+Once allied forces reached them, they were rescued or integrated into the conventional
+forces, their intel being invaluable in forming a cohesive reassesment of NSPR strength
+and force capability.
+
+| Light infantry group | <img src="/factions/nato-symbols/blufor/lightinfantry.excalidraw.png" align="right" alt="light infantry group" height=30 width=auto></img> |
+| :---- | ---- |
+|||
+
 ***
 
 ## Combat support units [ 0 - 1 ]
