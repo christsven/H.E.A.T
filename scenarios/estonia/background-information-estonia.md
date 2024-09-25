@@ -340,7 +340,6 @@ are out of finnish production.
     - Signal Group
     - Tank Company (T-72)
     - Tank Company (T-72)
-    - Self-Propelled Art. Group (2S1 Gozdzik)
     - Anti-Aircraft Group EE/PL
     - Logistics Company PL
 
