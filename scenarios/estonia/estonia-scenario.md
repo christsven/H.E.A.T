@@ -21,7 +21,7 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 #### Estonian Land Forces
 
 <p align=center>
-<img width="50%" height="auto" src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Army">
+<img width="70%" height="auto" src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Army">
 </p>
 <p>
 Combined Forces of the estonian army. 2016 onward.<br><br><i>A small army with a large reservist pool, but cutting-edge equipment with many domestic drone products.</i><br><br><a href="/factions/Estonian%20Land%20Forces.md">Estonia Army List</a>
