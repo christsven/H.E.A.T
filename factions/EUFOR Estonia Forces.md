@@ -57,8 +57,8 @@ _an actual image i found an eurocorps leaflet, they even used that military font
 
 ### Aufklärergruppe
 
-Reconnaissance infantry group, watching the area in front of friendly forces
-and reporting enemy troop movement.
+German reconnaissance infantry group, watching the area in front of friendly
+forces and reporting enemy troop movement.
 
 | Recon infantry group | <img src="/factions/nato-symbols/blufor/reconinfantry-g.excalidraw.png" align="right" alt="recon infantry group" height=30 width=auto></img> |
 | :---- | ---- |
@@ -81,7 +81,7 @@ motorized support.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>PETN Plastiksprengstoff<br>(*Explosives*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>RABE drones</td><td>Small recon rc drones.</td><td>+20 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-</td><td>+ 1 pt each</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information.</td></tr><tr><td>RABE drones</td><td>Unit has small rc drone to use in attacks into enemy buildings. If chosen, CQC attacks into a building always begin with this units attack.</td></tr></table> |
 
-### French groupe de combat
+### Groupe de Combat
 
 The french army structures its infantry into so called _groupe de combat_, which
 are mechanized infantry squads divided into three distinct sections of differing
@@ -99,18 +99,17 @@ The "Bravo team" or _L´equipe feu_ (Fire team) is the second half of the weapon
 section equipped with a FN Minimi Para and an optional Lance Grenadier carrying
 a 51mm light mortar, which can support the Alpha teams advance.
 
-| Mechanized infantry squad | Mechanized infantry unit |
+| Mechanized infantry group | <img src="/factions/nato-symbols/blufor/mechinfantry.excalidraw.png" align="right" alt="mechanized infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 3 attendants (AR) |
-| Options | TODO |
-| Special rules | TODO |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
+| Special rules | - |
 
 ### Panzergrenadiergruppe
 
-Armored infantry squad, the core of any modern fighting force. Deployed as the
-infanty part of german IFVs.
+Armoured infantry from the german-franco EUROCORPS.
 
 | Armoured infantry group | <img src="/factions/nato-symbols/blufor/mechinfantry.excalidraw.png" align="right" alt="mechanized infantry group" height=30 width=auto></img> |
 | :---- | ---- |
@@ -120,9 +119,33 @@ infanty part of german IFVs.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
 | Special rules | - |
 
-### SF
+### Groupe de Hussards
 
-| Frogmen | <img src="/factions/nato-symbols/blufor/fernspaeher.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
+French hussards look back on a long history of reactivations and restructures,
+from the horseborne heavy infantry units of the 1700s to the airborne cavalry
+role they serve today.
+
+Hussards, e. g. from the  _1e Régiment de Hussards Parachutistes_ are trained not
+only as airborne infantry, but also serve in a reconnaissance role. In the french
+army, this often includes engagements with the enemy, and these units are equipped
+with wheeled tanks and other APCs and IFVs other armies would not use in a
+recon role.
+
+| Mechanized Cavalry group | <img src="/factions/nato-symbols/blufor/mechinfantry.excalidraw.png" align="right" alt="mechanized infantry group" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 3 attendants (AR) |
+| Options | TODO |
+| Special rules | - |
+
+### Groupe de Dragons Parachutistes
+
+Dragoons have been decommissioned, reactived and repurposed just as the Hussards.
+These days, they serve as special reconnaisance teams in the Special Forces
+Command of the French Army, and have seen deployment in dozens of campaigns.
+
+| Special Recon group | <img src="/factions/nato-symbols/blufor/fernspaeher.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 55 pt / 70 pt / 85 pt |
 | Reinforcement | up to 3 attendants (SMG): 7 pt / 10 pt / 13 pt each |
@@ -292,6 +315,18 @@ heavy mortar team.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
+### Wiesel I Mörser 120mm
+
+Wiesel I mounted heavy mortar system.
+
+| 120mm heavy mortar Wiesel | <img src="/factions/nato-symbols/units/tracked-heavy-mortar.excalidraw.png" align="right" alt="self propelled heavy mortar team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 46 pt / 65 pt / 84 pt |
+| Reinforcement | Spotter (PDW) +10 pt |
+| Options | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 ***
 
 ## Operational Reinforcements [ 0 - 1 ]
@@ -401,37 +436,141 @@ they are even produced by the same company KNDS KMW! And yet, they seem to have
 been developed separately. But regarding their points and equipment, they are
 as similar as they look.
 
-### VBCI
-
-![vbci](/factions/ressources/vmci.excalidraw.png)
-
-#### VBCI VCI
-
-#### VBCI VPC
-
-### VAB
-
-![vab](/factions/ressources/vab.excalidraw.png)
+| Aravis/Dingo 2 |<img src="/factions/nato-symbols/units/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 70 pt / 80 pt / 90 pt |
+| Capacity | 5 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | - |
+| Options | _Only one FLW can be mounted per vehicle._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 200<br>(7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr><tr><td>FLW 200<br>(12.7mm) HMG</td><td>Remote-controlled HMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 25 pt</td></tr><tr><td>FLW 200<br>(40mm HE) GraMaWa</td><td>Remote-controlled AGL</td><td><ul><li>turret-mounted</li></ul></td><td>+ 35 pt</td></tr></table> |
+| Special rules | - |
 
 ### VBL
 
-![vbci](/factions/ressources/vbl.excalidraw.png)
+![VBL](/factions/ressources/vbl.excalidraw.png)
+
+The Panhard Véhicule Blindé Léger ("Light armoured vehicle") is a french 4x4 based
+on the P4 Peugeot. It serves in several roles in the french armed forces, from
+a light combat reconnaissance role in combination with the AMX-10RC, as a MILAN
+platform or as a troop transport. 
+
+| VBL | <img src="/factions/nato-symbols/units/wheeled-oneaxis-recon-apc.excalidraw.png" align="right" alt="Recon MRAP" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 60 pt / 65 pt / 70 pt |
+| Capacity | 2 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>ANF1 MMG</td><td>Pintle-mounted MMG.<br></td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></tr></table> |
+| Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>POSTE DE<br>COMMANDEMENT<br>*Command Vehicle*</td><td>-<br><br>*This does <b>not</b> cancel weapons options.*</td><td>+40 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MILAN ATGM launcher</td><td>MILAN Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>HK GMG 40mm</td><td>40mm AGL.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 30 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr><tr><td>Recce</td><td>-</td></tr></table> |
+
 
 ### PVP
 
 ![pvp](/factions/ressources/pvp.excalidraw.png)
 
+| PVP | <img src="/factions/nato-symbols/units/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 4 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | - |
+| Options | _Only one FLW can be mounted per vehicle._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 200<br>(7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr><tr><td>FLW 200<br>(12.7mm) HMG</td><td>Remote-controlled HMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 25 pt</td></tr><tr><td>FLW 200<br>(40mm HE) GraMaWa</td><td>Remote-controlled AGL</td><td><ul><li>turret-mounted</li></ul></td><td>+ 35 pt</td></tr></table>|
+| Special rules | - |
+
+### VAB
+
+![vab](/factions/ressources/vab.excalidraw.png)
+
+| VAB | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 95 pt / 110 pt / 125 pt |
+| Capacity | 8 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>.50cal M2HB HMG</td><td>Heavy machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 20 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>-</td></tr></table> |
+
+### VBCI
+
+![vbci](/factions/ressources/vmci.excalidraw.png)
+
+| VBCI | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 145 pt / 170 pt / 185 pt |
+| Capacity | 6 soldiers |
+| Damage value | 8+ Light Tank |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>GIAT modèle M811 25 mm</td><td>25mm light autocannon.</td><td><ul><li>turret-mounted</li></ul></tr><tr><td>MMG</td><td>Coaxial MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
+| Options |- |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr></table> |
+
+#### VBCI VCI
+
+#### VBCI VPC
+
 ### GTK Boxer
 
-![boxer](/factions/ressources/.excalidraw.png)
+![gtk boxer picture](../factions/ressources/gtk-boxer.excalidraw.png)
+
+The GTK Boxer is a German-designed and manufactured Infantry Fighting Vehicle (IFV)
+known for its versatility and modular design. It is part of the Boxer family of
+armored vehicles, which includes various configurations for different military roles.
+The GTK Boxer IFV is specifically designed to transport and support infantry
+troops on the battlefield.
+
+| GTK Boxer | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 90 pt / 105 pt / 120 pt |
+| Capacity | 7 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options |_Only one FLW can be mounted per vehicle._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 200<br>(7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr><tr><td>FLW 200<br>(12.7mm) HMG</td><td>Remote-controlled HMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 25 pt</td></tr><tr><td>FLW 200<br>(40mm HE) GraMaWa</td><td>Remote-controlled AGL</td><td><ul><li>turret-mounted</li></ul></td><td>+ 35 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>AGL _(if selected)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl).</td></tr><tr><td>HE 1" _(if selected)_</td><td>-</td></tr></table> |
 
 ***
 
 ## Reinforcing Vehicles [ 0 - 1 ]
 
+### Wiesel I
+
+![wiesel](/factions/ressources/wiesel20mm.excalidraw.png)
+
+A german tankette used in a variety of roles, from ambulance and reconnaissance
+to combat roles with a 20mm autocannon, a TOW or even with an Ozelot
+anti air system. Capable of air transport with a A400M or helicopter.
+
+#### Wiesel I TOW
+
+| Wiesel I TOW | <img src="/factions/nato-symbols/units/wiesel.excalidraw.png" align="right" alt="Tankette" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 8+ Light Tank |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>TOW ATGM Launcher</td><td>TOW Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li></ul></td><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG 3 MMG</td><td>Medium machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>ATGM</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td></tr></table> |
+
+#### Wiesel I A3 MK
+
+| Wiesel I A3 MK | <img src="/factions/nato-symbols/units/wiesel.excalidraw.png" align="right" alt="Tankette" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 8+ Light Tank |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>30-mm-MK 30-2/ABM</td><td>30mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></td></tr></table> |
+| Options | - |
+
 ### Panhard VPS
 
 ![Panhard VPS](/factions/ressources/vps.excalidraw.png)
+
+| Panhard VPS | <img src="/factions/nato-symbols/units/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 3 soldiers |
+| Damage value | 6+ Soft-skinned Vehicle |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>.50cal</td><td>HMG.</td><td><ul><li>pintle-mounted</li></ul></tr><tr><td>ANF1 MMG</td><td>MMG.</td><td><ul><li>front-facing</li></ul></tr></table> |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-topped</td><td>-</td></tr></table> |
 
 ### AMX-10 RC
 
@@ -441,6 +580,15 @@ as similar as they look.
 
 ![AMX Leclerc](/factions/ressources/leclerc.excalidraw.png)
 
+| AMX Leclerc | <img src="/factions/nato-symbols/units/mbt.excalidraw.png" align="right" alt="Main battle tank" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 210 pt / 225 pt / 240 pt |
+| Capacity | - |
+| Damage value | 9+ Medium Tank |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>GIAT CN120-26/52 120mm</td><td>120mm smoothbore heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr><tr><td>ANF1 MMG</td><td>ANF1 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>.50cal M2HB HMG</td><td>Heavy machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 20 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
+
 ### CAESAR
 
 ![CAESAR](/factions/ressources/.excalidraw.png)
@@ -449,9 +597,40 @@ as similar as they look.
 
 ![AMX-30 AuF1](/factions/ressources/amx30auf1.excalidraw.png)
 
-### LRU MLRS
+| Panzerhaubitze 2000 | <img src="/factions/nato-symbols/units/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>155mm Howitzer</td><td>Medium sized howitzer.</td><td><ul><li>turret-mounted</li><li>Howitzer</li></ul></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>.50cal M2HB HMG</td><td>Heavy machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 20 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |
 
-![LRU MLRS](/factions/ressources/mars2.excalidraw.png)
+### Panzerhaubitze 2000
+
+![pzh2k](/factions/ressources/panzerhaubitze.excalidraw.png)
+
+| Panzerhaubitze 2000 | <img src="/factions/nato-symbols/units/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>L/52 155mm Haubitze</td><td>Medium sized howitzer.</td><td><ul><li>turret-mounted</li><li>Howitzer</li></ul></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG 3 MMG</td><td>Medium machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |
+
+### MARS II MLRS
+
+![mars mlrs](/factions/ressources/mars2.excalidraw.png)
+
+| MARS II MLRS | <img src="/factions/nato-symbols/units/tracked-artillery-mlrs.excalidraw.png" align="right" alt="MLRS System" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 181 pt / 196 pt / 211 pt |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>Cal. 298mm MLRS</td><td>Multiple Launcher Rocket System</td><td><ul><li>turret-mounted</li><li>rocket-launcher</li></ul></tr></table> |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |
 
 ### VLRA Mistral
 
@@ -459,7 +638,16 @@ as similar as they look.
 
 ### Eurocopter
 
-![](/Eurocopterressources/eurocopter.excalidraw.png)
+![eurocopter](/factions/ressources/eurocopter.excalidraw.png)
+
+| Eurocopter Tiger | <img src="/factions/nato-symbols/blufor/helicopter-attack.excalidraw.png" align="right" alt="Eurocopter Tiger" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 145 pt / 160 pt / 175 pt |
+| Capacity | - |
+| Damage value | 7+ Medium Helicopter |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>30 mm (1.18 in) GIAT 30</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>70mm Hydra rockets</td><td></td><td><ul><li>front-facing</li><li>rocket-launcher</li></ul></td><td>+ 50 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table> |
 
 ***
 
