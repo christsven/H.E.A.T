@@ -24,7 +24,6 @@ as long as they have no Pins. The system costs +1pt/soldier of a squad.
 
 _TLDR: FÉLIN system for every infantry unit at +1pt/u. Units with FÉLIN system do not need to do an order check when splitting into fireteams._
 
-
 ***
 
 ## Platoon leader [ 1 ]
@@ -56,29 +55,31 @@ _an actual image i found an eurocorps leaflet, they even used that military font
 
 ## Infantry Units [ 2 - 5 ]
 
-### Reconnaissance team
+### Aufklärergruppe
 
-A small team of forward reconnaissance infantry.
+Reconnaissance infantry group, watching the area in front of friendly forces
+and reporting enemy troop movement.
 
-| Recon team | <img src="/factions/nato-symbols/blufor/reconinfantry-t.excalidraw.png" align="right" alt="Recon team" height=30 width=auto></img> |
+| Recon infantry group | <img src="/factions/nato-symbols/blufor/reconinfantry-g.excalidraw.png" align="right" alt="recon infantry group" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 20 pt / 30 pt / 40 pt |
-| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (AR) + 1 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Quad Bikes</td><td>Unit is equipped with quad bikes.<br><br>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes) for more information.</td><td>+15 pt/unit</td></tr></table> |
+| Cost | 45 pt / 60 pt / 75 pt |
+| Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 3 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
 
-### Reconnaissance infantry squad
+### Jägergruppe
 
-A group of recon infantry.
+Light infantry unit, which is able to perform flanking operations without
+motorized support.
 
-| Recon group | <img src="/factions/nato-symbols/blufor/reconinfantry-g.excalidraw.png" align="right" alt="Recon group" height=30 width=auto></img> |
+| Light infantry group | <img src="/factions/nato-symbols/blufor/lightinfantry.excalidraw.png" align="right" alt="light infantry group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
-| Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (SMG) + 3 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
+| Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 3 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>PETN Plastiksprengstoff<br>(*Explosives*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>RABE drones</td><td>Small recon rc drones.</td><td>+20 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-</td><td>+ 1 pt each</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information.</td></tr><tr><td>RABE drones</td><td>Unit has small rc drone to use in attacks into enemy buildings. If chosen, CQC attacks into a building always begin with this units attack.</td></tr></table> |
 
 ### French groupe de combat
 
@@ -106,11 +107,22 @@ a 51mm light mortar, which can support the Alpha teams advance.
 | Options | TODO |
 | Special rules | TODO |
 
-###
+### Panzergrenadiergruppe
+
+Armored infantry squad, the core of any modern fighting force. Deployed as the
+infanty part of german IFVs.
+
+| Armoured infantry group | <img src="/factions/nato-symbols/blufor/mechinfantry.excalidraw.png" align="right" alt="mechanized infantry group" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (AR) + 3 attendants (AR) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
+| Special rules | - |
 
 ### SF
 
-| Frogmen | Infantry unit |
+| Frogmen | <img src="/factions/nato-symbols/blufor/fernspaeher.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 55 pt / 70 pt / 85 pt |
 | Reinforcement | up to 3 attendants (SMG): 7 pt / 10 pt / 13 pt each |
@@ -122,22 +134,22 @@ a 51mm light mortar, which can support the Alpha teams advance.
 
 ## Combat support units [ 0 - 1 ]
 
-### Panzerpionier group
+### Panzerpioniergruppe
 
 German armoured engineers from the franco-german brigade, equipped with explosives
 and mine clearing equipment.
 
-| Engineers group | Combat support unit |
+| Engineer group | <img src="/factions/nato-symbols/blufor/engineers.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 40 pt / 55 pt / 70 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (SMG) + 2 attendants (SMG) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Mines</td><td>See IED section in [ruleset](../ruleset/H.E.A.T.md#improvised-explosive-devices-ied-and-mines).<br>They behave the same as IEDs,<br>but can't be disguised.<br>Conventional forces don't use decoys.<td>+20 pt</td></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>PETN Plastiksprengstoff<br>(*Explosives*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Mines</td><td>See IED section in [ruleset](../ruleset/H.E.A.T.md#improvised-explosive-devices-ied-and-mines).<br>They behave the same as IEDs,<br>but can't be disguised.<br>Conventional forces don't use decoys.<td>+20 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information.</td></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr></table> |
 
 ### FR F2 sniper team
 
-| FR F2 sniper<br>team | Combat support unit |
+| FR F2 sniper<br>team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -149,7 +161,7 @@ and mine clearing equipment.
 
 Anti materiell rifle sniper team.
 
-| PGM Hécate II<br>AMR team | Combat support unit |
+| PGM Hécate II<br>AMR team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 45 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -159,7 +171,7 @@ Anti materiell rifle sniper team.
 
 ### Medical specialist
 
-| Medic | Combat support unit |
+| Medic | <img src="/factions/nato-symbols/blufor/medic-t.excalidraw.png" align="right" alt="medical operator" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - / - / 45 pt |
 | Reinforcement | - |
@@ -175,22 +187,22 @@ Anti materiell rifle sniper team.
 
 Widely used in the conventional forces of the french army.
 
-| FN Minimi<br>LMG team | Machine gun team |
+| FN Minimi<br>LMG team | <img src="/factions/nato-symbols/units/lmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | tbd |
+| Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
-| Setup | NCO (LMG) + 1 loaders (SMG) |
+| Setup | NCO (MMG) + 2 loaders (SMG) |
 | Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
 
 ### FN MAG 58 MMG team
 
 The general purpose machine gun currently replacing the old ANF1 GMGs. Used
 in most parts of the french army.
 
-| FN MAG 58<br>MMG team | Machine gun team |
+| FN MAG 58<br>MMG team | <img src="/factions/nato-symbols/units/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 35 / 50 /65 pt |
+| Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
 | Setup | NCO (MMG) + 2 loaders (SMG) |
 | Options | - |
@@ -200,7 +212,7 @@ in most parts of the french army.
 
 .50cal HMG team.
 
-| .50cal Browning HMG team | Machine gun team |
+| .50cal Browning HMG team | <img src="/factions/nato-symbols/units/hmg-t.excalidraw.png" align="right" alt="heavy machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 49 pt / 70 pt / 91 pt |
 | Reinforcement | - |
@@ -212,7 +224,7 @@ in most parts of the french army.
 
 AGL team with a HK GMG 40mm.
 
-| AGL team | Machine gun team |
+| AGL team | <img src="/factions/nato-symbols/units/gmg-t.excalidraw.png" align="right" alt="grenade machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 60 pt / 75 pt |
 | Reinforcement | - |
@@ -232,7 +244,7 @@ AGL team with a HK GMG 40mm.
 
 Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
-| Javelin team | Anti-Tank team |
+| Javelin team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |
@@ -248,7 +260,7 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
 light mortar team.
 
-| 60mm light<br>mortar team | Mortar team |
+| M60 60mm light<br>mortar team | <img src="/factions/nato-symbols/units/light-mortar.excalidraw.png" align="right" alt="light mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 24 pt / 35 pt / 46 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -256,11 +268,11 @@ light mortar team.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
-### L16 81mm medium mortar team
+### Mo 81 LLR F1 81mm medium mortar team
 
 medium mortar team.
 
-| 81mm medium<br>mortar team | Mortar team |
+| 81mm medium<br>mortar team | <img src="/factions/nato-symbols/units/medium-mortar.excalidraw.png" align="right" alt="medium mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | Spotter +10 pt |
@@ -268,11 +280,11 @@ medium mortar team.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
-### m/41D 120 mm heavy mortar team
+### MO 120 RT F1 120 mm heavy mortar team
 
 heavy mortar team.
 
-| 120mm heavy<br>mortar team | Mortar team |
+| 120mm heavy<br>mortar team |<img src="/factions/nato-symbols/units/heavy-mortar.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 46 pt / 65 pt / 84 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -280,24 +292,13 @@ heavy mortar team.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
-### M113 self propelled mortar
-
-| M113 | APC Armoured Carrier |
-| :---- | ---- |
-| Cost |  |
-| Capacity | - |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>Panzermörser 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td></tr></table> |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
-
 ***
 
 ## Operational Reinforcements [ 0 - 1 ]
 
 ### EUNAVFOR Battery Observer
 
-| Artillery forward<br>observer | Divisional Reinforcements |
+| Artillery forward<br>observer | <img src="/factions/nato-symbols/units/art-recon-t" align="right" alt="artillery spotter" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 100 pt / 115 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -307,15 +308,78 @@ heavy mortar team.
 
 ### VAB VOA
 
+| APC Observer | <img src="/factions/nato-symbols/units/art-recon-t" align="right" alt="artillery spotter apc" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | - |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Artillery Observer</td><td>Detailed rules see [Rule adjustments](../ruleset/H.E.A.T.md#spotters).</td></tr><tr><td>Amphibious</td><td>-</td></tr></table> |
+
+***
+
+## Micro Air Vehicles [ 0 - 1 ]
+
+### AirRobot AR 100-B "Mikado"
+
+![mikado](/ruleset/ressources/mikado.excalidraw.png)
+
+Mikado is a micro quadcopter drone with several imaging capabilities. Equipped
+with a normal camera, a black/white NV capable one and a thermal imaging device,
+Mikado can be used to observe an area of up to one kilometer at any time of the
+day. In use since 2011 and used in Afghanistan, Kosovo, Mali and other missions.
+
+| Recon UAV team | <img src="/factions/nato-symbols/blufor/recon-drone-onmap.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
+| Setup | NCO (PDW) |
+|Options| - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>On-map Operator</td><td>Operator of unit is present on map.</td></tr><tr><td>Quadrocopter</td><td>Drone is propelled by multiple rotors. </td></tr></table> |
+
+### EMT Aladin
+
+![aladin](/factions/ressources/aladin.excalidraw.png)
+
+The "Abbildende Luftgestützte Aufklärungsdrohne im Nächstbereich" or "Airborne
+Reconnaissance drone for image generation in close proximity" is a fixed wing,
+lightweight drone with a camera capable of broadcasting a live-feed to its
+operator. Used mainly in Afghanistan and Mali, EMT Aladin is a proven design
+and a part of german reconnaissance capabilities since 2005.
+
+| Recon UAV team |  <img src="/factions/nato-symbols/blufor/recon-drone-onmap.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
+| Setup | NCO (PDW) |
+|Options| - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>On-map Operator</td><td>Operator of unit is present on map.</td></tr><tr><td>Fixed wing</td><td>Drone is propelled by a rotor and fixed wings. </td></tr></table> |
+
+### Rheinmetall KZO
+
+![kzo](/factions/ressources/kzo.excalidraw.png)
+
+The "Kleinfluggerät für Zielortung" (small guidance air vehicle) is a tactical
+fixed wing air vehicle for artillery guidance.
+
+| Artillery UAV team |  <img src="/factions/nato-symbols/blufor/recon-drone-offmap.excalidraw.png" align="right" alt="artillery recon uav team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | - |
+| Setup | Drone |
+|Options| - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>Off-map Operator</td><td>Unit is operated off-map.</td></tr><tr><td>Fixed wing</td><td>Drone is propelled by a rotor and fixed wings. </td></tr><tr><td>Artillery Observer</td><td>Unit acts the same a normal artillery observer.</td></tr></table> |
+
 ***
 
 ## Anti-Air systems [ 0 - 1 ]
 
-### FIM-92 Stinger team
+### Mistral team
 
 Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 
-| MANPADS<br>team | Infantry unit |
+| MANPADS<br>team | <img src="/factions/nato-symbols/blufor/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 65 pt / 80 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -323,35 +387,19 @@ Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>MANPADS</td><td>See [ruleset](../ruleset/H.E.A.T.md#manportable-air-defense-systems-manpads) for more information.</td></tr></table> |
 
-### ZU-23-2 anti air autocannon
-
-The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
-
-| ZU-23-2 AA gun team | <img src="/factions/nato-symbols/blufor/antiair-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | 40 / 51 / 62 pt |
-| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (MEDIUM AUTOCANNON) + 2 loader (SMG) |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
-
-### L/70 Bofors anti air gun
-
-| L/70 Bofors gun team | <img src="/factions/nato-symbols/blufor/antiair-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | 52 / 63 / 74 pt |
-| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (HEAVY AUTOCANNON) + 3 loader (SMG) |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
-
 ***
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
 
-### Nexter Aravis / Dingo II
+### Nexter Systems Aravis / Dingo II
 
 ![](/factions/ressources/dingo-apc.excalidraw.png)
+
+Both the Aravis and the Dingo II use the U5000 Unimog chassis as a base, and
+are in many regards very similar vehicles. Since the merger of KMW and Nexus,
+they are even produced by the same company KNDS KMW! And yet, they seem to have
+been developed separately. But regarding their points and equipment, they are
+as similar as they look.
 
 ### VBCI
 
@@ -375,30 +423,110 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ### GTK Boxer
 
-![boxer](/factions/ressources/gtk-boxer.excalidraw.png)
+![boxer](/factions/ressources/.excalidraw.png)
 
 ***
 
 ## Reinforcing Vehicles [ 0 - 1 ]
 
+### Panhard VPS
+
+![Panhard VPS](/factions/ressources/vps.excalidraw.png)
+
 ### AMX-10 RC
 
-### AMX-30 AuF1
+![amx 10 rc](/factions/ressources/amx10rc.excalidraw.png)
 
 ### AMX Leclerc
 
+![AMX Leclerc](/factions/ressources/leclerc.excalidraw.png)
+
 ### CAESAR
+
+![CAESAR](/factions/ressources/.excalidraw.png)
+
+### AMX-30 AuF1
+
+![AMX-30 AuF1](/factions/ressources/amx30auf1.excalidraw.png)
 
 ### LRU MLRS
 
+![LRU MLRS](/factions/ressources/mars2.excalidraw.png)
+
 ### VLRA Mistral
 
-### Panhard VPS
+![VLRA Mistral](/factions/ressources/.excalidraw.png)
 
 ### Eurocopter
 
-![](/factions/ressources/eurocopter.excalidraw.png)
+![](/Eurocopterressources/eurocopter.excalidraw.png)
 
 ***
 
 ## Transports
+
+### M113 Transport
+
+| M113 | Armoured Carrier |
+| :---- | ---- |
+| Cost | 85 pt / 90 pt / 95 pt |
+| Capacity | 15 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>-</td></tr></table> |
+
+### TPz Fuchs 1A4/5 Transport
+
+| TPz Fuchs 1A4/5 | Armoured Carrier |
+| :---- | ---- |
+| Cost | 60 pt / 65 pt / 70 pt |
+| Capacity | 8 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG3 MMG <br>(*3x possible*)</td><td>Medium machine guns,<br>either at the co-pilot's hatch (*front-right*),<br> the commander's hatch (*center-right*),<br> or the transport room hatch (*back-left*).<br></td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt each</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>-</td></tr></table> |
+
+### GTK Boxer Tranport
+
+| GTK Boxer | Armoured Carrier |
+| :---- | ---- |
+| Cost | 55 pt / 60 pt / 65 pt |
+| Capacity | 7 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options | - |
+| Special rules | - |
+
+### MAN gl Transport
+
+| MAN gl | Soft-Skinned Vehicle |
+| :---- | ---- |
+| Cost | 25 pt / 30 pt / 35 pt |
+| Capacity | 16 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Default weapon configuration |- |
+| Options | - |
+| Special rules | - |
+
+### Unimog
+
+| Unimog | Soft-Skinned Vehicle |
+| :---- | ---- |
+| Cost | 20 pt / 25 pt / 30 pt |
+| Capacity | 12 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Default weapon configuration |- |
+| Options | - |
+| Special rules | - |
+
+### Wolf G5 Jeep
+
+| Wolf G5 Jeep | Soft-Skinned Vehicle |
+| :---- | ---- |
+| Cost | 15 pt / 20 pt / 25 pt |
+| Capacity | 6 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Default weapon configuration |- |
+| Options | - |
+| Special rules | - |

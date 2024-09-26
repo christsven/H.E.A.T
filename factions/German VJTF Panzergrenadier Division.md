@@ -373,7 +373,7 @@ fixed wing air vehicle for artillery guidance.
 
 light mortar team.
 
-| M224 LWCMS 60mm light mortar team | <img src="/factions/nato-symbols/units/light-mortar.excalidraw.png" align="right" alt="light mortar team" height=30 width=auto></img> |
+| M224 LWCMS 60mm<br>light mortar team | <img src="/factions/nato-symbols/units/light-mortar.excalidraw.png" align="right" alt="light mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 24 pt / 35 pt / 46 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -397,7 +397,7 @@ Medium mortar team, equipped with a M252 mortar firing a 81mm round.
 
 Tampella Mörser 120mm with "Erdsporen" for non-vehicle deployment.
 
-| 120mm heavy mortar team | <img src="/factions/nato-symbols/units/heavy-mortar.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
+| 120mm heavy<br>mortar team | <img src="/factions/nato-symbols/units/heavy-mortar.excalidraw.png" align="right" alt="heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 46 pt / 65 pt / 84 pt |
 | Reinforcement | Spotter (PDW) +10 pt |
@@ -409,7 +409,7 @@ Tampella Mörser 120mm with "Erdsporen" for non-vehicle deployment.
 
 M113 mounted heavy mortar system, as it is form for any good NATO army.
 
-| 120mm heavy mortar M113 | <img src="/factions/nato-symbols/units/tracked-heavy-mortar.excalidraw.png" align="right" alt="self propelled heavy mortar team" height=30 width=auto></img> |
+| 120mm heavy<br>mortar M113 | <img src="/factions/nato-symbols/units/tracked-heavy-mortar.excalidraw.png" align="right" alt="self propelled heavy mortar team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Reinforcement | Spotter (PDW) +10 pt |
