@@ -89,7 +89,9 @@ This section contains several key events, interesting locations and more general
 
 ### Attack on Jõhvi Garrison
 
+<p align=center>
 <img src="/scenarios/ressources/johvi-layout.excalidraw.png" alt="Johvi scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+</p>
 
 At the beginning of the war, NSPR forces attacked the Jõhvi Infantry Garrison in an
 attempt to cut down the strategically placed facility before it could pose a
@@ -105,7 +107,9 @@ to the Viru Infantry Battalion.
 
 ### Securing the roads
 
+<p align=center>
 <img src="/scenarios/ressources/crossroads-layout.excalidraw.png" alt="crossroads scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+</p>
 
 To quickly assert control over Ida Viru, the NSPR built up checkpoints and control
 stations along the E35 and E624, which were frequently attacked by estonian
@@ -120,7 +124,9 @@ forces.
 
 ### Urban fighting in Kothla Järve
 
+<p align=center>
 <img src="/scenarios/ressources/city-hall-layout.excalidraw.png" alt="city hall scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+</p>
 
 The bitter urban fighting for Kothla Järve, in some cases days on end over singular
 streets and houses, culminated in a battle over the city hall alongside the Keskallee
@@ -135,7 +141,9 @@ in the city centre.
 
 ### Skirmish at Tudulinna Dam
 
+<p align=center>
 <img src="/scenarios/ressources/tudulinna-layout.excalidraw.png" alt="city hall scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+</p>
 
 A disagreement between UN Peacekeepers and NSPR forces over control of the Tudulinna
 dam led to a skirmish between the two.
