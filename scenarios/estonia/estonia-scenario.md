@@ -79,11 +79,13 @@ The free forces of Ida Viru, as well as the Brastwa PMC Group.<br><br><i>Ragtag 
 
 ## Scenarios
 
+<p>
 <img src="/factions/ressources/leopard-new.excalidraw.png" alt="MBT" align=right height=auto width=45%></img>
 
 This section contains several key events, interesting locations and more general scenarios for typical skirmishes in this scenario.
 
 *Feel free to adjust any scenario to your liking, these are just ideas.*
+</p>
 
 ### Attack on Jõhvi Garrison
 
