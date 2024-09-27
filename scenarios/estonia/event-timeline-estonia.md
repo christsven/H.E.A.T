@@ -1,7 +1,7 @@
 # Scenario Estonia
 
 <p align=center>
-<img src="/scenarios/ressources/estonia-map.excalidraw.png" alt="Ida Viru" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
+<img src="/scenarios/ressources/estonia-map.excalidraw.png" alt="Ida Viru" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=85%/>
 </p>
 
 ## Scenario breakdown
