@@ -93,7 +93,7 @@ autonomous country [sic]", as one member of the party declared in a press confer
 <img src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
 <p align=center>
-<img src="/factions/ressources/kaitseliit.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
+<img src="/factions/ressources/kaitseliit.excalidraw.png" alt="Estonian Reservr Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
 
 ##### Baltic Security Partnership Brigade
@@ -127,7 +127,7 @@ autonomous country [sic]", as one member of the party declared in a press confer
 <img src="/scenarios/ressources/NATO-logo.excalidraw.png" alt="NATO Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
 <p align=center>
-<img src="/scenarios/ressources/nrf-logo.excalidraw.png" alt="NRF Logo" style="display: block; margin-left: auto; margin-right: auto; width:=70%; height: auto"/>
+<img src="/scenarios/ressources/nrf-logo.excalidraw.png" alt="NRF Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
 
 ### OPFOR
