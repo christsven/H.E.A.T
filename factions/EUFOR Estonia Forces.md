@@ -481,7 +481,7 @@ platform or as a troop transport.
 
 ![vab](/factions/ressources/vab.excalidraw.png)
 
-| VAB | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| VAB | <img src="/factions/nato-symbols/units/wheeled-oneaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 95 pt / 110 pt / 125 pt |
 | Capacity | 8 soldiers |
