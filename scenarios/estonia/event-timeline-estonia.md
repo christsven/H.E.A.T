@@ -7,15 +7,15 @@
 ## Scenario breakdown
 
 Estonia is one of the three baltic countries, between Russia and the baltic sea.
-Just to the north east, along the Gulf of Finland, sits Saint Petersburg, one of
+Just to the north east along the Gulf of Finland sits Saint Petersburg, one of
 Russias largest population and cultural centres. And right at that critical 20km
 stretch of water to Russia's second largest cargo port and the mostly EU controlled
 passings into the North Sea sits Ida Viru.
 
 The estonian county shares not only a border, but also a sizable chunk of its
 population with Russia. Narva, the third-largest city of Estonia, sits right on
-that line between East and West. And after years of rising tensions, polarization
-and political turmoil, Ida Viru decided to split off to form a new Republic, thus
+that line between East and West. Now, after years of rising tensions, polarization
+and political turmoil, Ida Viru decided to split off to form a new Republic,
 plunging the tiny country of 1.3 million inhabitants into a civil war.
 
 With a standing force of over ten thousand revolutionaries ranging from former
