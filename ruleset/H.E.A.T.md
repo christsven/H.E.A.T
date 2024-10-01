@@ -8,10 +8,10 @@ This is a ruleset for a modern, platoon-sized tabletop wargame. While size- and
 modelagnostic, weapon ranges and distances are balanced towards a 28mm size. If
 used in another scale, adjustments might be necessary.
 
->As a note: modern vehicles for 28mm are often >scaled to "true" size, which is
->1/50 in relation to the miniatures. While I >personally dont care about size too
->much, it is noticable on the table if you mix up a >1/56 M113 next to a 1/50 or
->even 1/48 M1 Abrams. Just a heads up, so you wont >be too surprised when the "28mm"
+>As a note: modern vehicles for 28mm are often scaled to "true" size, which is
+>1/50 in relation to the miniatures. While I personally dont care about size too
+>much, it is noticable on the table if you mix up a 1/56 M113 next to a 1/50 or
+>even 1/48 M1 Abrams. Just a heads up, so you wont be too surprised when the "28mm"
 >vehicles suddenly turn out way bigger than most WW2 era vehicles.
 
 ## Weapons
