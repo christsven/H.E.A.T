@@ -36,6 +36,10 @@ are allowed to reroll failed morale checks.
 
 *TLDR reroll failed morale checks for reg/vet infantry groups*
 
+### Initiative Training
+
+For all infantry. See _Armies of Germany_ Rulebook.
+
 ***
 
 ## Platoon leader **[ 1 ]**
