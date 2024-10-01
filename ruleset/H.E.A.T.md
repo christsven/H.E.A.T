@@ -444,6 +444,11 @@ In this configuration, the drone itself is the weapon, and is destroyed once the
 payload detonates. Detonation can be triggered by a FIRE or at the end of an
 ADVANCE.
 
+Alternatively, the drone operator may go into an AMBUSH, and activate the drone
+at any point after that. Quadrocopter drones remain stay in an ambush if not activated
+during a turn, but fixed wing designs are forced to move. If no activation happened at
+the end of a round, the drone moves straight forwardfor its max distance.
+
 ##### Drone rules
 
 | Rule | Description |
