@@ -31,7 +31,7 @@ These weapons are operated by a single unit, which uses it as its primary weapon
 | Assault rifle* | 12" - 24" | 1 | 1 | - | - |
 | Rifle | 0" - 24" | 1 | 1 | - | - |
 | Designated marksman rifle | 0" - 38" | 1 | 1 | - | DMR |
-| Shotgun | 0" - 18" | D3 | 1 | - | Assault |
+| Shotgun | 0" - 18" | D3 | 1 | - | Assault, Anti-Drone |
 | Underbarrel grenade launcher | 6" - 20" | 1 | D2 | HE | UGL |
 
 *This replaces the long range hit modifier.
@@ -457,6 +457,7 @@ the end of a round, the drone moves straight forwardfor its max distance.
 | Fixed Wing | UAV has to constantly move as described in the fixed-wing movement section. |
 | VTOL | For fixed-wing UAVs, allows takeoff without being physically thrown by the operator. |
 |Loitering<br>Munition | Acts like an IED. Explodes once triggered by the operator. |
+| Anti-Drone | Some weapons are more useful against drones than others.<br>Weapons with this rule ignore the hit penalties of the drone rule. |
 
 ***
 
