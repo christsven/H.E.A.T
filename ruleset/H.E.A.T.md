@@ -714,7 +714,7 @@ decimate infantry groups.
 
 | Rule | Description |
 | :--- | :--- |
-| AGL | A platform to fire HE 1" grenades from. The system functions fires 2 HE shots at a<br> target, for each hit the HE 1" template can be placed over the unit. They need to<br>connect to each other and can overlap.<br><br> When firing at buildings, the HE hits are rolled as described in the HE section.<br><br>For more information see [weapons chart](#explosives-and-rockets-weapons-chart) |
+| AGL | A platform to fire HE 1" grenades from.<br>The system functions fires 2 HE shots at a target,<br>for each hit the HE 1" template can be placed over the unit.<br>They need to connect to each other and can overlap.<br><br> When firing at buildings, the HE hits are rolled as described in the HE section.<br><br>For more information see [weapons chart](#explosives-and-rockets-weapons-chart) |
 
 ***
 
