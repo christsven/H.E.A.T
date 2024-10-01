@@ -1,21 +1,21 @@
 # Scenario Estonia
 
 <p align=center>
-<img src="/scenarios/ressources/estonia-map.excalidraw.png" alt="Ida Viru" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
+<img src="/scenarios/ressources/estonia-map.excalidraw.png" alt="Ida Viru" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=85%/>
 </p>
 
 ## Scenario breakdown
 
 Estonia is one of the three baltic countries, between Russia and the baltic sea.
-Just to the north east, along the Gulf of Finland, sits Saint Petersburg, one of
+Just to the north east along the Gulf of Finland sits Saint Petersburg, one of
 Russias largest population and cultural centres. And right at that critical 20km
 stretch of water to Russia's second largest cargo port and the mostly EU controlled
 passings into the North Sea sits Ida Viru.
 
 The estonian county shares not only a border, but also a sizable chunk of its
 population with Russia. Narva, the third-largest city of Estonia, sits right on
-that line between East and West. And after years of rising tensions, polarization
-and political turmoil, Ida Viru decided to split off to form a new Republic, thus
+that line between East and West. Now, after years of rising tensions, polarization
+and political turmoil, Ida Viru decided to split off to form a new Republic,
 plunging the tiny country of 1.3 million inhabitants into a civil war.
 
 With a standing force of over ten thousand revolutionaries ranging from former
@@ -93,7 +93,7 @@ autonomous country [sic]", as one member of the party declared in a press confer
 <img src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
 <p align=center>
-<img src="/factions/ressources/kaitseliit.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
+<img src="/factions/ressources/kaitseliit.excalidraw.png" alt="Estonian Reservr Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
 
 ##### Baltic Security Partnership Brigade
@@ -127,7 +127,7 @@ autonomous country [sic]", as one member of the party declared in a press confer
 <img src="/scenarios/ressources/NATO-logo.excalidraw.png" alt="NATO Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
 <p align=center>
-<img src="/scenarios/ressources/nrf-logo.excalidraw.png" alt="NRF Logo" style="display: block; margin-left: auto; margin-right: auto; width:=70%; height: auto"/>
+<img src="/scenarios/ressources/nrf-logo.excalidraw.png" alt="NRF Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
 
 ### OPFOR

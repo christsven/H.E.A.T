@@ -8,11 +8,11 @@ This is a ruleset for a modern, platoon-sized tabletop wargame. While size- and
 modelagnostic, weapon ranges and distances are balanced towards a 28mm size. If
 used in another scale, adjustments might be necessary.
 
-As a note: modern vehicles for 28mm are often scaled to "true" size, which is
-1/50 in relation to the miniatures. While I personally dont care about size too
-much, it is noticable on the table if you mix up a 1/56 M113 next to a 1/50 or
-even 1/48 M1 Abrams. Just a heads up, so you wont be too surprised when the "28mm"
-vehicles suddenly turn out way bigger than most WW2 era vehicles.
+>As a note: modern vehicles for 28mm are often scaled to "true" size, which is
+>1/50 in relation to the miniatures. While I personally dont care about size too
+>much, it is noticable on the table if you mix up a 1/56 M113 next to a 1/50 or
+>even 1/48 M1 Abrams. Just a heads up, so you wont be too surprised when the "28mm"
+>vehicles suddenly turn out way bigger than most WW2 era vehicles.
 
 ## Weapons
 
@@ -31,7 +31,7 @@ These weapons are operated by a single unit, which uses it as its primary weapon
 | Assault rifle* | 12" - 24" | 1 | 1 | - | - |
 | Rifle | 0" - 24" | 1 | 1 | - | - |
 | Designated marksman rifle | 0" - 38" | 1 | 1 | - | DMR |
-| Shotgun | 0" - 18" | D3 | 1 | - | Assault |
+| Shotgun | 0" - 18" | D3 | 1 | - | Assault, Anti-Drone |
 | Underbarrel grenade launcher | 6" - 20" | 1 | D2 | HE | UGL |
 
 *This replaces the long range hit modifier.
@@ -444,6 +444,11 @@ In this configuration, the drone itself is the weapon, and is destroyed once the
 payload detonates. Detonation can be triggered by a FIRE or at the end of an
 ADVANCE.
 
+Alternatively, the drone operator may go into an AMBUSH, and activate the drone
+at any point after that. Quadrocopter drones remain stay in an ambush if not activated
+during a turn, but fixed wing designs are forced to move. If no activation happened at
+the end of a round, the drone moves straight forwardfor its max distance.
+
 ##### Drone rules
 
 | Rule | Description |
@@ -452,6 +457,7 @@ ADVANCE.
 | Fixed Wing | UAV has to constantly move as described in the fixed-wing movement section. |
 | VTOL | For fixed-wing UAVs, allows takeoff without being physically thrown by the operator. |
 |Loitering<br>Munition | Acts like an IED. Explodes once triggered by the operator. |
+| Anti-Drone | Some weapons are more useful against drones than others.<br>Weapons with this rule ignore the hit penalties of the drone rule. |
 
 ***
 
@@ -708,7 +714,7 @@ decimate infantry groups.
 
 | Rule | Description |
 | :--- | :--- |
-| AGL | A platform to fire HE 1" grenades from. The system functions fires 2 HE shots at a<br> target, for each hit the HE 1" template can be placed over the unit. They need to<br>connect to each other and can overlap.<br><br> When firing at buildings, the HE hits are rolled as described in the HE section.<br><br>For more information see [weapons chart](#explosives-and-rockets-weapons-chart) |
+| AGL | A platform to fire HE 1" grenades from.<br>The system functions fires 2 HE shots at a target,<br>for each hit the HE 1" template can be placed over the unit.<br>They need to connect to each other and can overlap.<br><br> When firing at buildings, the HE hits are rolled as described in the HE section.<br><br>For more information see [weapons chart](#explosives-and-rockets-weapons-chart) |
 
 ***
 
