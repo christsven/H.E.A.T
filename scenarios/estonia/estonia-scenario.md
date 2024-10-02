@@ -11,7 +11,7 @@ war can be found here.
 
 ***
 
-## Factions
+## Army Lists
 
 Factions are ordered by alignment as seen from a NATO perspective. BLUFOR are
 all NATO or NATO-allied forces, OPFOR represents all enemy forces.
