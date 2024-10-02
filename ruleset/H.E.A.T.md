@@ -449,11 +449,16 @@ at any point after that. Quadrocopter drones remain stay in an ambush if not act
 during a turn, but fixed wing designs are forced to move. If no activation happened at
 the end of a round, the drone moves straight forwardfor its max distance.
 
+#### Shooting at a drone
+
+When shooting at an airborne drone, the firer receives a -1 hit modifier,
+or a -2 the drones last order was a RUN.
+
 ##### Drone rules
 
 | Rule | Description |
 | :--- | :--- |
-| Drone | -1 hit modifier while airborne<br>-2 if airborne plus RUN as last active order. |
+| Drone | Autonomous flying unit with differing role. |
 | Fixed Wing | UAV has to constantly move as described in the fixed-wing movement section. |
 | VTOL | For fixed-wing UAVs, allows takeoff without being physically thrown by the operator. |
 |Loitering<br>Munition | Acts like an IED. Explodes once triggered by the operator. |
