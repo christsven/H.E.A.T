@@ -75,6 +75,17 @@ United Nations support brigade composed of mixed french and american equipment. 
 The free forces of Ida Viru, as well as the Brastwa PMC Group.<br><br><i>Ragtag force with a huge, but old pool of equipment. Insurgent infantry sections and PMC formation with more modern equipment.</i><br><br><a href="/factions/NSPR Volunteer Rifle Contingent.md">NSPR Army List</a>
 </p>
 
+#### Russian Forces
+
+<p>
+While not part of the true event timeline, your campaign might require the Russian
+Federation to intervene. This is a first draft of a russian Batallion Tactical Group (BTG)
+that will be expanded on in the next scenario.
+<br><br>
+<i>We've all seen the russian armies abysmal performance over the last three years, don't expect much more here</i><br><br><a href="/factions/russian-army-list.md">RF Army List</a></p>
+
+
+
 ***
 
 ## Scenarios
