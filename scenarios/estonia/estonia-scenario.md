@@ -82,7 +82,7 @@ While not part of the true event timeline, your campaign might require the Russi
 Federation to intervene. This is a first draft of a russian Batallion Tactical Group (BTG)
 that will be expanded on in the next scenario.
 <br><br>
-<i>We've all seen the russian armies abysmal performance over the last three years, don't expect much more here</i><br><br><a href="/factions/russian-army-list.md">RF Army List</a></p>
+<i>We've all seen the russian armies abysmal performance over the last three years, don't expect much more here.</i><br><br><a href="/factions/russian-army-list.md">RF Army List</a></p>
 
 
 
