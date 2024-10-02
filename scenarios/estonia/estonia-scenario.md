@@ -128,9 +128,9 @@ forces.
 <img src="/scenarios/ressources/city-hall-layout.excalidraw.png" alt="city hall scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
 </p>
 
-The bitter urban fighting for Kothla Järve, in some cases days on end over singular
-streets and houses, culminated in a battle over the city hall alongside the Keskallee
-in the city centre.
+The bitter urban fighting for Kothla Järve, the former capitol city of
+Ida Viru, culminated in a battle over the city hall alongside the Keskallee in
+the city centre.
 
 | **Urban fighting in Kothla Järve** | |
 | :--- | :--- |
