@@ -1,7 +1,7 @@
 # 1. Estonian Division
 
 <p align=center>
-<img src="ressources/elf-logo.excalidraw.png"  style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
+<img src="ressources/elf-logo.excalidraw.png"  style="display: block; margin-left: auto; margin-right: auto;" alt="EDF Logo" height=auto width=80%>
 </p>
 
 <p align=center>
@@ -18,7 +18,7 @@ Emblem of the Kaitseliig, the Estonian Defense League
 
 The combined remaining forces fighting for the liberation of Ida Viru. While not
 a large force in comparison to its neighbours Russia or Finland, the estonian
-army is one of the few in NATO actually having a budget of 2% of GDP. With well-
+army is one of the few in NATO actually having a budget of 2% of GDP. With well
 equipped infantry brigades, modern Combat Vehicle 90 and a modern technology stack,
 the estonian army is a capable army.
 
