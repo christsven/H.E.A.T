@@ -26,7 +26,7 @@ _TLDR: FÉLIN system for every infantry unit at +1pt/u. Units with FÉLIN system
 
 ***
 
-## Platoon leader [ 1 ]
+## HQ Units
 
 ![eurojaks](/factions/ressources/eurocorps.excalidraw.png)
 _an actual image i found an eurocorps leaflet, they even used that military font lmao_
@@ -59,7 +59,7 @@ platoons and outrank all other units on the table.
 
 ***
 
-## Infantry Units [ 2 - 5 ]
+## Infantry Units
 
 ### Aufklärergruppe
 
@@ -161,7 +161,7 @@ Command of the French Army, and have seen deployment in dozens of campaigns.
 
 ***
 
-## Combat support units [ 0 - 1 ]
+## Combat support units
 
 ### Panzerpioniergruppe
 
@@ -210,7 +210,7 @@ Anti materiell rifle sniper team.
 
 ***
 
-## Machine gun team [ 0 - 1 ]
+## Machine gun teams
 
 ### FN Minimi Para LMG team
 
@@ -263,7 +263,7 @@ AGL team with a HK GMG 40mm.
 
 ***
 
-## Anti-Tank team [ 0 - 1 ]
+## Anti-Tank teams
 
 ### MILAN ATGM team
 
@@ -283,7 +283,7 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
 ***
 
-## Mortar team [ 0 - 1 ]
+## Mortar teams
 
 ### Hirtenberger M60 60mm light mortar team
 
@@ -335,7 +335,7 @@ Wiesel I mounted heavy mortar system.
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 ***
 
-## Operational Reinforcements [ 0 - 1 ]
+## Divisional Reinforcements
 
 ### EUNAVFOR Battery Observer
 
@@ -364,7 +364,7 @@ Ground based radar system operated by a radar unit.
 
 ***
 
-## Micro Air Vehicles [ 0 - 1 ]
+## Micro Air Vehicles
 
 ### AirRobot AR 100-B "Mikado"
 
@@ -418,7 +418,7 @@ fixed wing air vehicle for artillery guidance.
 
 ***
 
-## Anti-Air systems [ 0 - 1 ]
+## Anti-Air system teams
 
 ### Mistral team
 
@@ -434,7 +434,7 @@ Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 
 ***
 
-## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
+## Armoured Personell Carriers / Infantry Fighting Vehicles
 
 ### Nexter Systems Aravis / Dingo II
 
@@ -553,7 +553,7 @@ The main IFV used by belgian armoured infantry. The belgian army fields a range 
 
 ***
 
-## Reinforcing Vehicles [ 0 - 1 ]
+## Heavy Weapon Systems
 
 ### Jankel FOX RRV
 
