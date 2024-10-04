@@ -352,6 +352,10 @@ Wiesel I mounted heavy mortar system.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Artillery Observer</td><td>Detailed rules see [Rule adjustments](../ruleset/H.E.A.T.md#spotters).</td></tr><tr><td>Amphibious</td><td>-</td></tr></table> |
 
+### Thales Squire GBR
+
+Ground based radar system operated by a radar unit.
+
 ***
 
 ## Micro Air Vehicles [ 0 - 1 ]
@@ -463,7 +467,6 @@ platform or as a troop transport.
 | Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>POSTE DE<br>COMMANDEMENT<br>*Command Vehicle*</td><td>-<br><br>*This does <b>not</b> cancel weapons options.*</td><td>+40 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MILAN ATGM launcher</td><td>MILAN Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr><tr><td>HK GMG 40mm</td><td>40mm AGL.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 30 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr><tr><td>Recce</td><td>-</td></tr></table> |
 
-
 ### PVP
 
 ![pvp](/factions/ressources/pvp.excalidraw.png)
@@ -526,9 +529,33 @@ troops on the battlefield.
 | Options |_Only one FLW can be mounted per vehicle._<table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 200<br>(7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr><tr><td>FLW 200<br>(12.7mm) HMG</td><td>Remote-controlled HMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 25 pt</td></tr><tr><td>FLW 200<br>(40mm HE) GraMaWa</td><td>Remote-controlled AGL</td><td><ul><li>turret-mounted</li></ul></td><td>+ 35 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>AGL _(if selected)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl).</td></tr><tr><td>HE 1" _(if selected)_</td><td>-</td></tr></table> |
 
+### Pandur I
+
+APC used by the belgian army. The vehicle comes in the normal configuration
+with a 12.7mm weapon station, in a reconaissance variant or a medical evacuation vehicle.
+
+### Piranha IIIC
+
+The main IFV used by belgian armoured infantry. The belgian army fields a range of variants:
+<ul>
+<li>APC - default configuration</li>
+<li>DF30 - IFV variant with RWS</li>
+<li>DF90 - assault gun variant </li>
+<li>C2 - mobile command post</li>
+<li>Ambulance - medical evacuation vehicle</li>
+</ul>
+
 ***
 
 ## Reinforcing Vehicles [ 0 - 1 ]
+
+### Jankel FOX RRV
+
+Special Forces vehicle.
+
+### Jankel/NP Aerospace: WOLF LTTV
+
+Special Forces vehicle.
 
 ### Wiesel I
 
