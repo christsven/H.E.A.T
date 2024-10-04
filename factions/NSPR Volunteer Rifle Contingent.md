@@ -142,7 +142,7 @@ material.
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt |
 | Setup | NCO (SMG) + 3 attendants (SMG) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Explosives pipe</td><td>+15 pt</td></tr><tr><td>2x LAW</td><td>Light anti-tank weapon</td><td>+20 pt/u</td></tr><tr><tr><td>1x RPG-7</td><td>AT Rocket Launcher.<br>One further soldiers becomes a loader.<br>Both soldiers keep their rifles<br>and can use either.</td><td>+ 35 pt</tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-</td><td>+ 1 pt each</td></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Explosives pipe</td><td>+15 pt</td></tr><tr><td>2x LAW</td><td>Light anti-tank weapon</td><td>+20 pt/u</td></tr><tr><td>1x RPG-7</td><td>AT Rocket Launcher.<br>One further soldiers becomes a loader.<br>Both soldiers keep their rifles<br>and can use either.</td><td>+ 35 pt</tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-</td><td>+ 1 pt each</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives (*if selected*)</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information</td></tr></table> |
 
 ### Support Infantry group
