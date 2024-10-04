@@ -232,7 +232,7 @@ direct fire team against infantry in buildings and bunkers, or light vehicles.
 | Reinforcement | - |
 | Setup | NCO (AGL) + 1 loader (SMG) |
 | Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Bunker Buster<br>round</td><td>HE 3" value attack, with the same range<br> as a standard RPG.</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Bunker Buster<br>round</td><td>HE 2" value attack, with the same range<br> as a standard RPG.</td></tr></table> |
 
 ***
 
