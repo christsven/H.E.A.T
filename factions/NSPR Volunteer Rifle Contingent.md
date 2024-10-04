@@ -375,7 +375,7 @@ role, they are only expected to fly once anyway.
 | :---- | ---- |
 | Cost | tbd |
 | Reinforcement | - |
-| Setup | Drone |
+| Setup | Drone (MEDIUM BOMB) |
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>Off-map Operator</td><td>Unit is operated off-map.</td></tr><tr><td>Fixed wing</td><td>Drone is propelled by a rotor and fixed wings. </td></tr><tr><td>Loitering Ammonition</td><td>Self-destroying drone with large payload. See [ruleset](../ruleset/H.E.A.T.md#drones).</td></tr></table> |
 
