@@ -65,23 +65,171 @@ regions.
 
 ### Growing tensions
 
+<p align=center>
+<img src="/scenarios/ressources/elections.excalidraw.png" alt="UN APC guarding election" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
+
 With the RIP gaining more and more political influence, the rethoric grew ever
 more dividing, and protests became commonplace. Elections were held in March of
 2015 where the RIP became the senior party in Ida Viru, talks of an independence
 referendum were making the rounds. The county understood itself as a "de facto
 autonomous country [sic]", as one member of the party declared in a press conference.
 
-<p align=center>
-<img src="/scenarios/ressources/elections.excalidraw.png" alt="UN APC guarding election" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
-</p>
+Outside pressures forced the estonian government into accepting a third party as
+an election observer, and as such a [UN peacekeeping operation](#un-mission-for-estonia) was established,
+since the EU was not seen as as neutral enough. The forces stayed in the country
+and  aided the local police in Ida Viru which struggled with dissent and increased
+violence.
 
-<p align=center>
-<img src="/ruleset/ressources/garrisonattack.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
-</p>
+While the other baltic countries also struggled with similar situations in their
+border counties, nowhere did it develop so rapidly as in Ida Viru. Yet still the
+global awareness was quite low of the protests. Most media outlets where preoccupied
+with flashier events, and the protests where largely ignored as smaller versions
+of the Euromaidan protests in Ukraine.
+
+### The referendum
+
+After months of heated debates and several failed illegal attempts, the government
+caved and allowed a referendum over more autonomy in legislation, though for many
+this was more of an independence referendum than anything else.
+
+While Estonia is a highly digitalized country where elections are usually held
+online, the mistrust of pro-separatist voters led many to vote via direct,
+personal voting. The voting booths were dotted around the county, guarded by
+police forces and UNFIBAL peacekeepers, as well as russian observers that were
+demanded by the Kremlin to monitor the referendum.
+
+The results were proclaimed at the 31st of December, with a slim majority
+voting against the reforms. After an initial sigh of relief, the celebrations
+would quickly turn sour over the coming days.
+
+The RIP party immediatly declared the results of the election to be invalid due
+to vote tampering, as there was a large divergence between online results and the
+voting booth results. Russian election observers claimed to have proof of this,
+but before any serious investigations could be led, a storm of cyberattacks ground
+the country to a halt at the same time as targeted misinformation flooded social media
+channels. After several bomb attacks the government called out a state of emergency
+and started troop reserve activation to aid police forces, but it was too late.
+One night, three weeks into the new year, the country went up in flames.
+
+### Crossing the rubicon
+
+The garrisons of the armed forces in Ida Viru, mainly used for training of new
+recruits, but also for the newly refurbished territorial defense units as well
+as the Baltic Brigade, were hit simultanously. Across all of Estonia, bombs and
+surprise attacks of small cells disabled bridges and important connections to
+the east.
+
+A provisional government in Narva was declared over television and radio, while
+internet connections in large parts of eastern Europe were disrupted. The
+[_Narva Socialist People's Republic_](#narva-socialist-peoples-republic) was proclaimed with the borders of the former
+Ida Viru, and all crossings were to remain closed until further notice. But with
+the threat of a civil war on everyones mind, most people fled westward and clogged
+every street into Europe's youngest republic.
+
+Refugees fleeing to the West quickly overwhelmed peacekeeping forces, who tried
+to keep the main roads and connections out of Ida Viru open. This hindered the
+now mostly mobilized estonian armed forces from quickly intervening, as the few
+intact roads were full of civilian cars.
+
+The Kremlin heavily lobbied against a NATO intervention and declared any aerial
+attacks against NSPR forces as a provocation and a reason for its own participation
+in the conflict. Due to the already tense political situation in many european
+nations, this was accepted as a deescalatory agreement.
+
+With the largest settlements under control, central POI for the economical effort
+and logistical centres were taken swiftly to create a decentralized net of holdouts
+for assymetrical defense. Power stations, important crossroads, the north-south
+connection to Tudulinna were a high priority. Former quarries and parts of the
+national forests are used to hide equipment and house medical facilities for
+casualties.
+
+Populist rethoric and disinformation campaigns lead to a polarized society in the
+years prior, and those unsupportive of the political rethoric were driven
+to move west. But not everyone had the monetary support necessary for such a 
+drastic change in life. There still are parts of the population which did not
+approve of the coup, and some even took to arms, forming small counter-revolutionary
+cells. The majority of these people are enlisted in the volunteer structures of the
+estonian forces.
+
+While this was enough to gain control in some parts of the country, the many small
+villages and settlements surrounding the cities were too many to be militarily
+controlled.
+
+### Baptism by Fire
+
+Since NATO was unwilling to intervene in the "internal affairs of member states",
+the EUs Foreign Affairs Council voted to send one of the two EU Battlegroups under
+the [Common Security and Defense Policy](#eufor-estonia) (CSPD) to aid estonian forces.
+
+Just two years prior, the force had been restructured following Brexit
+and was still in a transitioning process. At the time of deployment,
+the two battlegroups where led by Italy and France, and the french one was selected
+to be deployed reinforced with the EUROCORPS.
+
+In Estonia, the civil war had taken its toll on the country. After the initial gains
+from NSPR forces and the jolty response of the estonian army, a drawnout fight
+over control of key cities and passageways followed. Due to the de facto No Fly
+Zone over Ida Viru, the ground offensives had to proceed more caucious and slow,
+with NSPR defenders using the dense forests and few still usable streets into the
+county to their advantage. Urban combat proved especially costly for the small army,
+but the NSPR also had to suffer painful losses in irreplaceble equipment due to
+BASEP raids into the lightly defended sites located in the national parks. Many
+villages and farms lay in ruin after skirmishes, and terrorist cells routinely
+performed attacks on military and logisical sites outside of Ida Viru.
+
+While not targeted in the beginning of open conflict, the UNFIBAL peacekeepers
+had to change their approach after a disagreement between a group of resistance
+fighters attempted to take control of the Tudulinna dam, which deteriorated into
+a drawnout skirmish between them.
+The mission was further resupplied to also support the Estonial Defense League in
+the rest of the country, who are primarily occupied dealing with the refugee
+situation.
+
+### Reinforced resistance
 
 <p align=center>
 <img src="/scenarios/ressources/military-tower.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
 </p>
+
+<p align=center>
+Military site, NSPR, early 2016
+</p>
+
+Even though the resistance suffered a hefty amount of attrition from fighting not
+only against the estonian army, the baltic territorial defense and UNFIBAL personnel,
+but now also the CSDP coalition, there was no noticable dip in ammunition or
+equipment, which led to accusations of Russia providing heavy equipment to the
+resistance fighters. This was not a very far fetched claim, since there was
+literally no other direction from where the resistance could have gotten their
+weapons in the first place, but russian officials always refused to acknowledge
+any participation in the conflict.
+
+### Divided Unity
+
+With the help of EUFORs corps-sized land force, large parts of the west and north
+were retaken over the course of the year. NSPR forces reverted to asymmetrical
+fighting where necessary,but still held onto the eastern cities. The southern roads
+are also either under NSPR control or in an unusable state, mined or destroyed.
+
+Some cells, especially in the cities, became more radicalized than others due to
+the heavy attrition during this campaign. After the fall of Kothla-Järve, several
+individuals of defeated local defense teams were so consumed by this hatred, that
+they turned to attacking the countries involved in the allied forces. Multiple huge
+bombing attacks on garrisons in France and Italy as well as a failed IED truck
+in Brussels held the West on edge for weeks. France as well as Italy invoked
+Article 5 in response to the attacks, but especially the US administration held
+back on support, since the US "[...] should not be required to pay for the defense
+of countries who piggyback on US spending".
+
+> *"Many countries owe us a tremendous amount of money from many years back,
+> where they're delinquent as far as I'm concerned, because the United States has
+> had to pay for them. So if you go back 10 or 20 years, you'll just add it all
+> up, it's massive amounts of money is owed!"*
+
+With the US internal politics devolving into chaos, european states had to muster
+up an operation of their own. The [VJTF](#nato-response-force) was sent as a first response, with initial
+follow up units arriving shortly after.
 
 ## Factions
 
@@ -142,3 +290,7 @@ autonomous country [sic]", as one member of the party declared in a press confer
 </p>
 
 #### Russian Armed Forces
+
+<p align=center>
+<img src="/scenarios/ressources/rf-logo.excalidraw.png" alt="RF Ground Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
+</p>
