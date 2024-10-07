@@ -7,8 +7,8 @@
 ## Scenario breakdown
 
 Estonia is one of the three baltic countries, between Russia and the baltic sea.
-Just to the north east along the Gulf of Finland sits Saint Petersburg, one of
-Russias largest population and cultural centres. And right at that critical 20km
+Just to the north east along the Gulf of Finland sits Saint Petersburg, Russias 
+second largest population and cultural centres. And right at that critical 20km
 stretch of water to Russia's second largest cargo port and the mostly EU controlled
 passings into the North Sea sits Ida Viru.
 
