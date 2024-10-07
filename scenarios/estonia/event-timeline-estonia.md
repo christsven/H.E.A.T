@@ -9,7 +9,7 @@
 Estonia is one of the three baltic countries, the northernmost next to Russia and
 the baltic sea. Just to the north east along the Gulf of Finland sits Saint
 Petersburg, Russias second largest population and cultural centres. And right
-at that critical 20km stretch of water to Russia's second largest cargo port and
+at that critical 20km wide stretch of water to Russia's second largest cargo port and
 the mostly EU controlled passings into the North Sea sits Ida Viru.
 
 The estonian county shares not only a border, but also a sizable chunk of its
