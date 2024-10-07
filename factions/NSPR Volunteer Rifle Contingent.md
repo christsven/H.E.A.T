@@ -356,7 +356,7 @@ bombs.
 | Cost | 41 pt / 52 pt / 63 pt |
 | Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
 | Setup | NCO (PDW) |
-| Options |<table><tr><td><b>Payload</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>IED </td><td>Rigged IED, set to explode a HE payload on release.<br><br>See UAV section in [ruleset](../ruleset/H.E.A.T.md#ied-variant).<td>+10 pt</td></tr><tr><td>AT IED</td><td>Heavier payload which is able to damage or destroy vehicels.<br><br>See IED section in [ruleset](../ruleset/H.E.A.T.md#anti-tank-ied-variant).<td>+20 pt</td></tr></table> |
+| Options |<table><tr><td><b>Payload</td><td><b>Description</td><td><b>Cost</b></td></tr><td>-</td><td> Recon role. Serves as spotter.</td><td>-</td></tr><tr><td>IED </td><td>Rigged IED, set to explode a HE payload on release.<br><br>See UAV section in [ruleset](../ruleset/H.E.A.T.md#ied-variant).<td>+10 pt</td></tr><tr><td>AT IED</td><td>Heavier payload which is able to damage or destroy vehicels.<br><br>See IED section in [ruleset](../ruleset/H.E.A.T.md#anti-tank-ied-variant).<td>+20 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>On-map Operator</td><td>Operator of unit is present on map.</td></tr><tr><td>Quadrocopter</td><td>Drone is propelled by multiple rotors. </td></tr></table> |
 
 ### Bomb "Bravo" drone
