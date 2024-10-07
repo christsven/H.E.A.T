@@ -265,6 +265,8 @@ AGL team with a HK GMG 40mm.
 
 ## Anti-Tank teams
 
+### Panzerfaust team
+
 ### MILAN ATGM team
 
 ### Eryx 136mm ATGM team
