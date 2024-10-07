@@ -24,6 +24,8 @@ on the new edition and rules I will adjust the gameplay accordingly.
 
 [Ruleset Expansion](ruleset/H.E.A.T.md)
 
+[Quick Chart Expansion](ruleset/quickchart.pdf)
+
 ***
 
 ## Theatres
