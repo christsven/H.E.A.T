@@ -29,7 +29,7 @@ _TLDR: FÉLIN system for every infantry unit at +1pt/u. Units with FÉLIN system
 ## HQ Units
 
 ![eurojaks](/factions/ressources/eurocorps.excalidraw.png)
-_an actual image i found an eurocorps leaflet, they even used that military font lmao_
+_an actual image i found an eurocorps leaflet. The document even used the classic Windows military font for headers lmao_
 
 ### Platoon Officer
 
