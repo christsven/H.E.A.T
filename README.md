@@ -19,8 +19,9 @@ This is meant as an expansion of Bolt Action rules, so only additions or in a fe
 cases rebalanced rules are provided. Everything else can be found in the
 Bolt Action rulebook.
 
-This ruleset currently expands on the v2 ruleset, as soon as I got my hands
-on the new edition and rules I will adjust the gameplay accordingly.
+This ruleset currently expands on the v3 ruleset. Since it initially was written
+for v2, some phrasing might be a bit off, but I think everything should work fine.
+If you find anything, just let me know.
 
 [Ruleset Expansion](ruleset/H.E.A.T.md)
 
