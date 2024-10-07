@@ -30,7 +30,7 @@ These weapons are operated by a single unit, which uses it as its primary weapon
 | Assault rifle | 0" - 12" | 2 | 1 | - | - |
 | Assault rifle* | 12" - 24" | 1 | 1 | - | - |
 | Rifle | 0" - 24" | 1 | 1 | - | - |
-| Designated marksman rifle | 0" - 38" | 1 | 1 | - | DMR |
+| Designated marksman rifle | 0" - 36" | 1 | 1 | - | DMR |
 | Shotgun | 0" - 18" | D3 | 1 | - | Assault, Anti-Drone |
 | Underbarrel grenade launcher | 6" - 20" | 1 | D2 | HE | UGL |
 
@@ -868,17 +868,19 @@ as long as its heat signature is higher than its surroundings.
 ##### Gameplay
 
 Thermal cameras reduce the effectiveness of conceilment. A weapon systems operator
-that has access to a thermal camera is thus not affected by light cover, so when
-shooting at someone behind a bush or trees, the light cover bonus is ignored.
+that has access to a thermal camera is thus not affected as much by cover.
+
+That means a unit attacked by a firer with the Thermal Camera rule receives a
+malus of +1 on cover saves, making them less effective.
 
 On vehicles, the thermal camera is considered destroyed as soon as the vehicle
-is damaged.
+is damaged in any way.
 
 ##### Rule
 
 | Rule | Description |
 | :--- | :--- |
-| Thermal Camera | A vehicle or infantry team with a thermal camera ignores the light cover<br>bonus when attacking. For vehicles, the camera is considered inoperable<br>as soon as the vehicle is damaged, losing the bonus. |
+| Thermal Camera | A vehicle or infantry team with a thermal camera inferes<br>a +1 malus when rolling cover saves. For vehicles, the camera is considered inoperable<br>as soon as the vehicle is damaged, losing the bonus. |
 
 ***
 

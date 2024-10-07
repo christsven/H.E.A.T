@@ -19,10 +19,13 @@ This is meant as an expansion of Bolt Action rules, so only additions or in a fe
 cases rebalanced rules are provided. Everything else can be found in the
 Bolt Action rulebook.
 
-This ruleset currently expands on the v2 ruleset, as soon as I got my hands
-on the new edition and rules I will adjust the gameplay accordingly.
+>This ruleset currently expands on the v3 ruleset. Since it initially was written
+>for v2, some phrasing might be a bit off, but I think everything should work fine.
+>If you find anything, just let me know.
 
 [Ruleset Expansion](ruleset/H.E.A.T.md)
+
+[Quick Chart Expansion](ruleset/quickchart.pdf)
 
 ***
 
@@ -79,3 +82,13 @@ even be fielded without any at all.
 | Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Modifiers</td><td><b>Rules</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table> |
 |Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Rule</td><td>This rule does things.</td><td>+/-X [pt/unit]</td></tr><tr><td>...</td><td>...</td><td>+/-X [pt/unit]</td></tr></table><table><tr><td><b>Main Weapon Replacement</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Additional Weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>Modifiers and other information.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example Rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table> |
+
+***
+
+## Calculators
+
+Based in large parts on the [v2 cost calculator](https://www.wargaming3d.com/product/bolt-action-unofficial-vehicle-design-system/). Unit calculator based on stuff i parsed from the book.
+
+(Unit calculator sheet [.xlsx])[]
+
+(Vehicle calculator sheet [.xlsx])[]
