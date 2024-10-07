@@ -151,13 +151,13 @@ Dragoons have been decommissioned, reactived and repurposed just as the Hussards
 These days, they serve as special reconnaisance teams in the Special Forces
 Command of the French Army, and have seen deployment in dozens of campaigns.
 
-| Special Recon group | <img src="/factions/nato-symbols/blufor/fernspaeher.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
+| Special Forces group | <img src="/factions/nato-symbols/blufor/airborne-sf.excalidraw.png" align="right" alt="airborne special forces group" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 55 pt / 70 pt / 85 pt |
 | Reinforcement | up to 3 attendants (SMG): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (SMG) + 3 attendants (SMG) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Boats</td><td>Unit is mounted on a small boat.<br><br>See [ruleset](../ruleset/H.E.A.T.md#boats) for more information.</td><td>+15 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Stubborn</td><td>-</td></tr><tr><td>Recon training</td><td>These soldiers are trained to operate and maneuver<br> in even the toughest terrain.<br><br>When using an ADVANCE to move through rough<br>terrain, throw a D2, and on a positive result the team<br>may instead use the RUN distance.</td><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information.</td></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr></tr></tr><tr><td>Stubborn</td><td>-</td></tr><tr><td>Tough Fighters</td><td>-</td><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information.</td></tr></table> |
 
 ***
 
