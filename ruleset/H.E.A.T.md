@@ -870,8 +870,11 @@ as long as its heat signature is higher than its surroundings.
 Thermal cameras reduce the effectiveness of conceilment. A weapon systems operator
 that has access to a thermal camera is thus not affected as much by cover.
 
+That means a unit attacked by a firer with the Thermal Camera rule receives a
+malus of +1 on cover saves, making them less effective.
+
 On vehicles, the thermal camera is considered destroyed as soon as the vehicle
-is damaged.
+is damaged in any way.
 
 ##### Rule
 
