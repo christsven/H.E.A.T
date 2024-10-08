@@ -52,7 +52,7 @@ and Russia over a single misstep on either side.
 ## Calculators
 
 <p align=center>
-<img src="/scenarios/ressources/nspr-commander.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Commander Image" height=auto width=80%>
+<img src="/scenarios/ressources/platoon-leader-nspr.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Commander Image" height=auto width=80%>
 </p>
 
 Based in large parts on the [v2 cost calculator](https://www.wargaming3d.com/product/bolt-action-unofficial-vehicle-design-system/). Unit calculator based on stuff i parsed from the book.
