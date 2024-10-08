@@ -127,6 +127,14 @@ Ida Viru, and all crossings were to remain closed until further notice. But with
 the threat of a civil war on everyones mind, most people fled westward and clogged
 every street into Europe's youngest republic.
 
+<p align=center>
+<img src="/ruleset/ressources/garrisonattack.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+</p>
+
+<p align=center>
+Attacks on garrisons plunge the country into civil war, 2016
+</p>
+
 Refugees fleeing to the West quickly overwhelmed peacekeeping forces, who tried
 to keep the main roads and connections out of Ida Viru open. This hindered the
 now mostly mobilized estonian armed forces from quickly intervening, as the few
