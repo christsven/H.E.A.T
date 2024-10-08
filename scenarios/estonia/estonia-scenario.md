@@ -81,7 +81,7 @@ The free forces of Ida Viru, as well as the Brastwa PMC Group.<br><br><i>Ragtag 
 <img width="70%" height="auto" src="/scenarios/ressources/rf-logo.excalidraw.png" alt="Russian Ground forces">
 </p>
 <p>
-While not part of the true event timeline, your campaign might require the Russian
+While not part of the "true" event timeline, your campaign might require the Russian
 Federation to intervene. This is a first draft of a russian Batallion Tactical Group (BTG)
 that will be expanded on in the next scenario.
 <br><br>
