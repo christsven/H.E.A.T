@@ -66,7 +66,7 @@ regions.
 ### Growing tensions
 
 <p align=center>
-<img src="/scenarios/ressources/elections.excalidraw.png" alt="UN APC guarding election" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+<img src="/scenarios/ressources/elections.excalidraw.png" alt="UN APC guarding election" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
 
 With the RIP gaining more and more political influence, the rethoric grew ever
@@ -128,7 +128,7 @@ the threat of a civil war on everyones mind, most people fled westward and clogg
 every street into Europe's youngest republic.
 
 <p align=center>
-<img src="/ruleset/ressources/garrisonattack.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+<img src="/ruleset/ressources/garrisonattack.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
 
 <p align=center>
@@ -197,7 +197,7 @@ situation.
 ### Reinforced resistance
 
 <p align=center>
-<img src="/scenarios/ressources/military-tower.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=80%/>
+<img src="/scenarios/ressources/military-tower.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
 
 <p align=center>
@@ -248,9 +248,72 @@ follow up units arriving shortly after.
 <p align=center>
 <img src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Land Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
+
+<p align=center>
+Insignia of the Estonian Land Forces
+</p>
+
 <p align=center>
 <img src="/factions/ressources/kaitseliit.excalidraw.png" alt="Estonian Reservr Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
+
+<p align=center>
+First Estonian Division Insignia
+</p>
+
+The **Estonian Land Forces** are the land component of the [Estonian Defence Forces](/factions/Estonian%20Land%20Forces.md)
+(EDF), responsible for defending the territorial integrity and sovereignty of
+Estonia. They consist of around 3000 personnel during peacetimes, and is division-
+sized with large parts only staffed by reserve units.
+
+After the first clashes in 2014, a reactivation of reservist forces and more
+thorough training started to fill back the ranks of the Estonian Division, similar
+to the BSP Brigade. The restructuring under the *National Defence Development*
+*Plan 2013-2022* had to be reworked to accelerate the force readiness and accomodate
+the new armored forces sponsored by Poland, who became a partner with the Estonian
+forces in a newly formed armoured Battalion.
+
+In response to the degrading situation european allies began arms donations to
+the army, especially Poland and Finland, where a large part of the estonian
+vehicle fleet and weaponry originated from. Training on and with the new equipment
+took place in polish bases, for example T-72M and T-72M1(R)s variants, as well as
+BWP-1s for reservist mechanized infantry formations. Other shipments included
+unarmoured vehicles for the border guards, weapons for activated reservists,
+ammunition and logistical vehicles.
+
+Finland came to a bilateral agreement of vehicle refurbishment and maintenance in
+finnish territory, since the most used APC, the Sisu Parsi variants XA-170/XA-188,
+are out of finnish production.
+
+- **Estonian Division**
+  - **1st Infantry Brigade**
+    - Staff Company
+    - Headquarters and Signal Company
+    - Scouts Battalion
+    - Kalev Infantry Battalion (moved to Tallinn)
+    - Viru Infantry Battalion (moved to Tapa)
+    - Air Defense Battalion
+    - Engineer Battalion
+    - Combat Service Support Battalion
+    - Anti-Tank Company (moved to Tallinn)
+  - **2nd Infantry Brigade**
+    - Staff Company
+    - Headquarters and Signal Company
+    - Kuperjanov Infantry Battalion
+    - 22nd Infantry Battalion (Reserve)
+    - 23rd Infantry Battalion (Reserve)
+    - Artillery Battalion (Reserve)
+    - Air Defense Battalion (Reserve)
+    - Engineer Battalion (Reserve)
+    - Combat Service Support Battalion
+    - Anti-Tank Company (Reserve)
+  - **1st Armoured Battalion**
+    - Staff Company EE/PL
+    - Signal Group
+    - Tank Company (T-72)
+    - Tank Company (T-72)
+    - Anti-Aircraft Group EE/PL
+    - Logistics Company PL
 
 ##### Baltic Security Partnership Brigade
 
@@ -258,14 +321,101 @@ follow up units arriving shortly after.
 <img src="/factions/ressources/bsp-logo-no-text.excalidraw.png" alt="Baltic Security Partnership" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
 
+<p align=center>
+BASEP Bridage Insignia
+</p>
+
+The **Baltic Security Partnership Brigade**, or [BASEP](/factions/Baltic%20Security%20Partnership%20Brigade.md),  was founded in 2014 as a
+reaction to tension arrising in several counties of the baltic states at the
+russian border. It was established as a combined brigade of all 3 state's ground
+forces with the aim to signal cohesion and willingness to defend each other.
+
+Mission goals include:
+
+- Security in border regions
+- Operations within national parks
+- Low or non mechanized infantry operations
+
+Some other properties of this light infantry include:
+
+- Fast Deployment in swamp and bogs
+- Modularity in equipment with NATO partners
+- Interoperability with border guard units
+
+With large parts of the estonian and lithuanian forces being either reservists,
+volunteers and border guards, some of these structures were integrated into this
+newly formed brigade. The brigade was structured as an air cavalry battalion
+under lithuanian commandship.
+
+- **Baltic Security Partnership Brigade**
+  - Headquarters and Signal Company LT
+  - Logistics Company LT
+  - **1st Light Infantry Battalion "*Łauma*"**
+    - Headquarters and Support Company
+    - First Light Infantry Company
+    - Second Light Infantry Company
+    - Third Light Infantry Company (Reserve)
+    - Combat Service Support Company
+  - **2st Light Infantry Battalion "*Kaukas*"** (Reserve)
+    - Headquarters and Support Company (Reserve)
+    - Light Infantry Company (Reserve)
+    - Light Infantry Company (Reserve) LV
+    - Light Infantry Company (Reserve) LV
+    - Combat Service Support Company (Reserve)
+  - **Air Cavalry Battalion "*Vēja māte*"**
+    - Headquarters and Support Company LV
+    - Air Cavalry Company LV
+    - Air Cavalry Company LV
+    - Aviation Company, General Support LV
+  - **Artillery Company** (Reserve) LT
+  - **Combat Support Battalion**
+    - Signal Company
+    - Supply and Transport Company
+    - Technical Support and Maintenance Company
+    - Medical Company
+
 #### EUFOR Estonia
 
 <p align=center>
 <img src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
+
+<p align=center>
+EUFOR Estonia Patch
+</p>
+
 <p align=center>
 <img src="/scenarios/ressources/csdp-logo.excalidraw.png" alt="CSDP Insignia" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
+
+<p align=center>
+Common Security and Defense Policy, EU
+</p>
+
+Under the mission name [EUFOR Estonia](/factions/EUFOR%20Estonia%20Forces.md) fall one of the two EU battlegroups as well as the EUROCORPS. They are furthermore working in conjunction
+with a naval force "EUNAVFOR Baltic Sea" composed of german and swedish frigates.
+
+The EU Battlegroups are composed of around 1500 men each and are well established,
+reoccuring formations in the biannual standby roster of battlegroups. The Eurocorps
+routinely supports EU and EU member missions.
+
+##### Franco-belgian Battlegroup
+
+The battlegroup is led by french forces and supported by belgian formations.
+
+##### EUROCORPS
+
+The EUROCORPS is a multinational organisation consisting of a whole list of
+pariticipants. The main body is made up of the franco-german brigade, its
+headquarters is part of the nine NATO High Readiness Land Headquarters
+(NATO HRF (L) HQ).
+
+Formerly, the Corps had several belgian, german and french brigades permanently
+associated with it. Since then, several new framework nations and associated
+members joined and a more modular approach was introduced.
+
+The Corps is involved as a headquarter element to the battlegroups and also
+reinforced the EUBGs with units from the franco-german brigade.
 
 #### UN Mission for Estonia
 
@@ -274,17 +424,90 @@ follow up units arriving shortly after.
 </p>
 
 <p align=center>
+UNFIBAL Logo
+</p>
+
+<p align=center>
 <img src="/scenarios/ressources/taskforce.excalidraw.png" alt="Task Force Patch" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
+
+<p align=center>
+Task Force Ida Viru Patch
+</p>
+
+The **Force des Nations unies chargée du maintien de la paix à l'Estonie** is a
+United Nations [peacekeeping operation](/factions/UNFIBAL%20Forces.md) established in 2015. UN troops were largely
+composed of bangladeshi forces, with some african nations like Rwanda, Ghana and
+Egypt.
+
+The mission aided in policing duties where normal police was no longer present
+or completely overwhelmed, as well as security operations around critical
+infrastructure. While some clashes did occur, most civilians received their
+presence as a welcome help.
+
+##### Main contributors and equipment during early crisis
+
+Force composition of UNFIBAL forces consists mainly of bangladeshi, rwandan,
+ghanaian and egyptian personnel. Other countries also contribute specialized
+personnel or commanding officers, but the bulk of policing and security forces
+come from those nations.
+
+Their equipment is also provided by their consecutive armies, but european and
+western nations did contribute vehicles, as their equipment is better suited for
+the east european theatre.
+
+This lead to a patchworked force with vehicles from all over the world, mostly
+old and under-weaponized, since peacekeepers main focus is not lethal in nature.
+Still, some security detachments for places of interest do have access to APCs
+and IFVs, and a very small number of tanks was also provided.
+
+#### Wartime contributors
+
+After clashes forced UNFIBAL peacekeepers to divise a different plan of action,
+initially most humanitarian and policing units assisted reservist formations and
+NGOs in the rest of Estonia with refugee movement as well as organisation of
+accomodation. Peacekeeping operations in Ida-Viru were organized in cooperation
+with EUFOR command and later NATO command.
+
+As an initial compromise in US politics, where less isolationist factions refused
+to accept the neutral stance towards the attacks on NATO members the President had
+taken, led to an arms deal with the UN forces, equipping them with more modern
+vehicles, weaponry and personal equipment. This included prominently M1117
+Guardian ASVs, M1120 Strkyer APCs as well as Bradley M2A2/A3 IFVs.
+
+Operational goals during wartime changed a more proactive protection of the
+civilian population, securing public infrastructure and upholding the rule of law
+where possible, as well as documenting potential war crimes for later prosecussion.
 
 #### NATO Response Force
 
 <p align=center>
 <img src="/scenarios/ressources/NATO-logo.excalidraw.png" alt="NATO Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
+
+<p align=center>
+Northatlantic Treaty Organisation
+</p>
+
 <p align=center>
 <img src="/scenarios/ressources/nrf-logo.excalidraw.png" alt="NRF Logo" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
+
+<p align=center>
+Emblem of NATO response forces, stationed in the baltic countries
+</p>
+
+While NATO of course exists as a mutual defense organization and its main armed
+capabilities stem from armies of all member states, there are also several units
+specifically for immediate deployment.
+
+The most mobile of all is the "Very High Readiness Joint Task Force" which is
+able to deploy in less than two days, which is then supplemented by "Follow-On"
+units of a slightly lower readiness.
+
+During the time of deployment, the [Panzergrenadierbrigade 37](/factions/German%20VJTF%20Panzergrenadier%20Division.md) „Freistaat Sachsen"
+held the VJTF position and was sent to Estonia, followed up by more german
+units, as well as other quickly deployable european armies.
 
 ### OPFOR
 
@@ -293,9 +516,42 @@ follow up units arriving shortly after.
 <p align=center>
 <img src="/scenarios/ressources/flag-nspr.excalidraw.png" alt="NSPR Flag" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
+
+<p align=center>
+Narva Socialist People's Republic flag
+</p>
+
 <p align=center>
 <img src="/factions/ressources/bratstwa.excalidraw.png" alt="Bratstwa Group Patch" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
+
+<p align=center>
+A Bratstwa PMC group patch found on a POW, 2017
+</p>
+
+The **Narva Socialist People's Republic** has a [standing force](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md) of around 10-13.000
+personnel, which serve under the umbrella of the NSPR flag. The larger core army
+is composed of all kinds of citizens, from farmers to former military personel,
+and they are further reinforced by a russian PMC.
+
+The "Bratstwa" far-right, russian-nationalistic militia is the best equipped part
+of the force. Their leader, Roman Sokolov, is a wealthy oligarch with ties to the
+Kremlin. Most personnel enjoyed a thorough paramilitary training and their
+equipment pool is modern. The entire force is estimated to consist of about
+2000-2500 men, though some parts are also active in other parts of the world.
+
+In contrast to Bratstwa stands the majority of NSPR soldiers, which consist of
+more left-leaning, mostly ethnic russian estonians, which are fighting for anything
+between a sovereign, communist state, just more autonomy, frustration and pure
+hartred for the West. These people come from diverse backgrounds, some have former
+military training, like the soviet mandatory service or come from a estonian armed
+forces background. Most have no real prior experience at all and were trained
+covertly in NSPR training camps throughout the county.
+
+The vehicle pool is a mix of former soviet equipment, some stolen western/estonian
+armed forces materiell, small amounts of modern russian weaponry and just reworked
+civilian technicals. Additionally, some civilian drones are used for surveillance,
+as IED carriers or suicide drones.
 
 #### Russian Armed Forces
 
