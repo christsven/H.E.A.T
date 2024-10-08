@@ -89,6 +89,6 @@ even be fielded without any at all.
 
 Based in large parts on the [v2 cost calculator](https://www.wargaming3d.com/product/bolt-action-unofficial-vehicle-design-system/). Unit calculator based on stuff i parsed from the book.
 
-(Unit calculator sheet [.xlsx])[]
+<a href=""> Unit calculator sheet [.xlsx]</a>
 
-(Vehicle calculator sheet [.xlsx])[]
+<a href=""> Vehicle calculator sheet [.xlsx]</a>
