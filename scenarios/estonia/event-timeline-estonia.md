@@ -38,8 +38,8 @@ years ago, no US troops in sight. A single misstep is all it takes.
 Ida Viru used to be a centre for oil shale excavation and processing as well as
 nuclear research, being a wealthy part of the USSR during the Cold War. Many of
 the workers came from Russia, and to this day remember the times of importance in
-a nostalgic light. But with the breakup of the Soviet Union and establishment of
-a sovereign state, the region fell from an important producer of oil shale as well
+a nostalgic light. But with the breakup of the Soviet Union and reestablishment of
+a sovereign Estonia, the region fell from an important producer of oil shale as well
 as enriched uranium into unimportance. With no other significant industry ever
 seriously taking over, many fell into poverty and unemployment.
 
