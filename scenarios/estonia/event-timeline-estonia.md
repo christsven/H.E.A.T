@@ -135,22 +135,21 @@ every street into Europe's youngest republic.
 Attacks on garrisons plunge the country into civil war, 2016
 </p>
 
-Refugees fleeing to the West quickly overwhelmed peacekeeping forces, who tried
+The refugees fleeing to the West overwhelmed peacekeeping forces, who tried
 to keep the main roads and connections out of Ida Viru open. This hindered the
 now mostly mobilized estonian armed forces from quickly intervening, as the few
 intact roads were full of civilian cars.
 
-The Kremlin heavily lobbied against a NATO intervention and declared any aerial
+The Kremlin heavily lobbied against any outside intervention and declared aerial
 attacks against NSPR forces as a provocation and a reason for its own participation
 in the conflict. Due to the already tense political situation in many european
-nations, this was accepted as a deescalatory agreement.
+nations, this was quietly accepted as a deescalatory agreement.
 
-With the largest settlements under control, central POI for the economical effort
-and logistical centres were taken swiftly to create a decentralized net of holdouts
-for assymetrical defense. Power stations, important crossroads, the north-south
+With the largest settlements under control, central points of interest for the
+economical effort and logistical centres were taken swiftly to create a decentralized
+net of holdouts for defense. Power stations, important crossroads, the north-south
 connection to Tudulinna were a high priority. Former quarries and parts of the
-national forests are used to hide equipment and house medical facilities for
-casualties.
+national forests are used to hide equipment and house medical facilities for casualties.
 
 Populist rethoric and disinformation campaigns lead to a polarized society in the
 years prior, and those unsupportive of the political rethoric were driven
@@ -194,8 +193,6 @@ The mission was further resupplied to also support the Estonial Defense League i
 the rest of the country, who are primarily occupied dealing with the refugee
 situation.
 
-### Reinforced resistance
-
 <p align=center>
 <img src="/scenarios/ressources/military-tower.excalidraw.png" alt="Military Site" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
 </p>
@@ -235,7 +232,7 @@ of countries who piggyback on US spending".
 > had to pay for them. So if you go back 10 or 20 years, you'll just add it all
 > up, it's massive amounts of money is owed!"*
 
-With the US internal politics devolving into chaos, european states had to muster
+With the US internal politics devolving into chaos, the other members had to muster
 up an operation of their own. The [VJTF](#nato-response-force) was sent as a first response, with initial
 follow up units arriving shortly after.
 
