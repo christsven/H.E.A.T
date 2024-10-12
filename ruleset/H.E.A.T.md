@@ -167,19 +167,21 @@ a 20mm autocannon or ATGM systems, is called "infantry fighting vehicle" (IFV).
 
 ##### Mechanics
 
-The IFV shares its slots (2 per platoon) with APCs and is not mandatory. Some
-IFVs also can switch out their crew compartments for weapon systems or other
-upgrades, rendering them unable to fulfill this role.
+The IFV shares its platoon slots with other armoured vehicles, and the rule
+is not mandatory. Some IFVs can e. g. switch out their crew compartments for
+weapon systems or other upgrades, rendering them unable to fulfill this role.
 
 <img src="/factions/ressources/tpz-fuchs.excalidraw.png" alt="tpz fuchs" align=right height=auto width=60%></img>
 
-If chosen as an IFV, they connect to one of the two mandatory infantry groups.
+If chosen as an IFV, they connect to one of the platoons infantry groups.
 Keep the maximum carry capacity in mind, if this is the case, as they do need to
 fit into their IFV.
 
-The IFV combines transport capabilities with a combat role. Since they work
-extensively interconnected with the infantry they carry, the NCO role of the
-infantry group is filled by the IFV itself.
+The IFV combines transport capabilities with a combat role. They work in an
+interconnected role closely together with their squad, and oftentimes the unit
+commander or second-in-command stay behind in the IFV. To illustrate this without
+overcomplicating dismounts and who stays behind, the IFV itself assumes the NCO
+role of its connected infantry group.
 
 The infantry group and the IFV are still two different units with
 separate order dice.
@@ -195,7 +197,7 @@ out for the vehicle is mitigated by needing to stay relatively close to the IFV.
 
 | Rule | Description |
 | ---- | ---- |
-| IFV | <li>The IFV is connected to the first or second mandatory infantry<br> unit, if applicable. Otherwise it serves just as a normal unit.</li><li>Vehicle stays as a separate unit.</li><li>It replaces the NCO of the infantry group.</li><li>If connected infantry is further than 30" away, they have to perform<br> an order test for any action. This does not apply to the vehicle.</li> |
+| IFV | <li>The IFV is connected to a infantry squad of its platoon.</li><li>Vehicle stays as a separate unit.</li><li>It replaces the NCO of the infantry group.</li><li>If connected infantry is further than 36" away, they have to perform<br> an order test for any action. This does not apply to the vehicle.</li><li> This rule is not mandatory, and can be ignored if desired.</li> |
 
 #### Helicopters
 
