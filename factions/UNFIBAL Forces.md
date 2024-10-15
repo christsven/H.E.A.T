@@ -12,8 +12,10 @@
 
 UN Peacekeepers are meant as a deescalatory force aiding police work and opening
 dialogue, not as another army to fight. That meams that certain weapon systems are
-not required to fulfill every role they serve in a conventional army. To reduce potential
-colloteral damage, tanks and IFVs do not carry HE shells, since they are only meant
+not required to fulfill every role they serve in a conventional army.
+
+To reduce potential
+collateral damage, tanks and IFVs do not carry HE shells, since they are only meant
 to engage targets that pose a direct threat without destroying the area those threats
 occupy.
 
