@@ -27,6 +27,7 @@ field a high amount of field medics.
 _TLDR: Every infantry group may replace one soldier by a field medic for +30pt._
 
 | Rule | Description | Cost |
+| --- | --- | --- |
 | Team Medic | One soldier is replaced by a medic. The medic obeys standard medic rules<br>for its squad and any friendly unit within 6" of the squad. | +30pt |
 
 ***
