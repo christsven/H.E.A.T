@@ -15,9 +15,8 @@ The region shares not only a border, but also a sizable chunk of its
 population's ethnicity with Russia.
 
 Now, after years of rising tensions, polarization and political turmoil, Ida Viru
-splits off to form a new russian republic,
-plunging the tiny country of
-1.3 million inhabitants into a civil war.
+splits off to form a new russian republic, plunging the tiny country of 1.3 million
+inhabitants into a civil war.
 
 With a standing force of over ten thousand revolutionaries ranging from former
 soldiers to armed civilians, and backed by a russian PMC, these separatists already
