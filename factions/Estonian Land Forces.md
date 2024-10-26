@@ -27,6 +27,27 @@ Kaitseliit, or Estonian Defense League.
 
 ***
 
+## Table of content
+
+[Army modifiers](#army-modifiers)
+
+[Officers](#officers)
+[Infantry](#infantry)
+[Combat support](#combat-support-units)
+[Machine guns](#machine-gun-teams)
+[Anti tank teams](#anti-tank-teams)
+[Micro air vehicles](#micro-air-vehicles)
+[Mortar teams](#mortar-teams)
+[Artillery](#artillery)
+[Anti-air systems](#anti-air-systems)
+[Divisional reinforcements](#divisional-reinforcements)
+
+[APCs/IFVs](#apcs--ifvs)
+[Heavy vehicles](#heavy-vehicles)
+[Transports](#transports)
+
+***
+
 ## Army modifiers
 
 ### A personal affair
@@ -43,15 +64,18 @@ they might reroll failed checks to reflect this vigilance.
 
 ***
 
-## Platoon leader [ 1 ]
+## Officers
 
 ![platoon leader](/factions/ressources/estonia-leader.excalidraw.png)
 
 ### Nooremleitnant
 
-| Nooremleitnant | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
+Officers of NATO code OF-1 are young officers such as First or Second Lieutenants.
+They lead a platoon into battle.
+
+| OF-1 Officer | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 35 pt / 50 pt / 65 pt |
+| Cost | 21 pt / 30 pt / 39 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (as depicted) |
 | Options | - |
@@ -59,9 +83,12 @@ they might reroll failed checks to reflect this vigilance.
 
 ### Leitnant
 
-| Leitnant | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
+Companies are lead by Captains or in some cases even Majors. They manage several
+platoons and outrank all other units on the table.
+
+| OF-2 Officer | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 60 pt / 75 pt / 90 pt |
+| Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (as depicted) |
 | Options | - |
@@ -69,7 +96,7 @@ they might reroll failed checks to reflect this vigilance.
 
 ***
 
-## Infantry Units [ 2 - 5 ]
+## Infantry
 
 ![infantry unit](/factions/ressources/kaitseliit-infantryman.excalidraw.png)
 
@@ -157,7 +184,7 @@ and force capability.
 
 ***
 
-## Combat support units [ 0 - 1 ]
+## Combat support units
 
 ### Lahingpioneerid jagu
 
@@ -205,7 +232,7 @@ Anti materiell rifle sniper team.
 
 ***
 
-## Machine gun team [ 0 - 1 ]
+## Machine gun teams
 
 ### MG3/Ksp 58 MMG team
 
@@ -236,7 +263,7 @@ direct fire team against infantry in buildings and bunkers, or light vehicles.
 
 ***
 
-## Anti-Tank team [ 0 - 1 ]
+## Anti-tank teams
 
 ### Carl-Gustav M2/3/4 team
 
@@ -291,7 +318,7 @@ carriage and can be towed.
 
 ***
 
-## Drone team [ 0 - 1 ]
+## Micro air vehicles
 
 ### AeroVironment RQ-20 Puma
 
@@ -343,7 +370,7 @@ missions, or be fielded with remote weapon stations in a support or attack role.
 
 ***
 
-## Mortar team [ 0 - 1 ]
+## Mortar teams
 
 ### 81mm medium mortar team
 
@@ -372,7 +399,7 @@ heavy mortar team.
 
 ***
 
-## Artillery [ 0 - 1 ]
+## Artillery
 
 ### H61-37 105mm
 
@@ -416,7 +443,7 @@ to this day.
 
 ***
 
-## Operational Reinforcements [ 0 - 1 ]
+## Divisional Reinforcements
 
 ### PzH 2000 Battery Observer
 
@@ -444,7 +471,7 @@ vehicle, which was repurposed in an artillery oberver role.
 
 ***
 
-## Anti-Air systems [ 0 - 1 ]
+## Anti-air systems
 
 ### PPZR Piorun 72mm MANPADS team
 
@@ -484,9 +511,19 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
 
+### L/70 Bofors gun system
+
+| L/70 Bofors gun team | <img src="/factions/nato-symbols/blufor/antiair-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 52 / 63 / 74 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (HEAVY AUTOCANNON) + 3 loader (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
+
 ***
 
-## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
+## APCs / IFVs
 
 ### Mamba Mk2 EE
 
@@ -622,7 +659,7 @@ by 17 nations, 7 of which are NATO members.
 
 ***
 
-## Reinforcing Vehicles [ 0 - 1 ]
+## Heavy vehicles
 
 While the brigade itself only fielded IFVs and helicopters, some older reserve
 vehicles and light armoured vehicles are available.

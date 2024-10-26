@@ -281,6 +281,14 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ### L/70 Bofors anti air gun
 
+| L/70 Bofors gun team | <img src="/factions/nato-symbols/blufor/antiair-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 52 / 63 / 74 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (HEAVY AUTOCANNON) + 3 loader (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
+
 ***
 
 ## Armoured Personell Carriers / Infantry Fighting Vehicles
@@ -303,7 +311,17 @@ phases to make it more navigable.
 
 ### Post-arms delivery
 
-#### M1A2 Bradley
+#### M2/M3 Bradley
+
+| M2/M3 Bradley | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 134 pt / 149 pt / 164 pt |
+| Capacity | 6 soldiers |
+| Damage value | 7+ Armoured carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>M240C MMG</td><td>M240C MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>25 mm M242 </td><td>25mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM Launcher</td><td>TOW Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>+ 35 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>ATGM</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td></tr></table> |
+
 
 #### Stryker APC
 

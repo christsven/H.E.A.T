@@ -18,6 +18,26 @@ Logo of NATO Response Force
 
 ***
 
+## Table of content
+
+[Army modifiers](#army-modifiers)
+
+[Officers](#officers)
+[Infantry](#infantry)
+[Combat support](#combat-support-units)
+[Machine guns](#machine-gun-teams)
+[Anti tank teams](#anti-tank-teams)
+[Micro air vehicles](#micro-air-vehicles)
+[Mortar teams](#mortar-teams)
+[Artillery](#artillery)
+[Anti-air systems](#anti-air-systems)
+
+[APCs/IFVs](#apcs--ifvs)
+[Heavy vehicles](#heavy-vehicles)
+[Transports](#transports)
+
+***
+
 ## Army modifiers
 
 ### Combat Readiness
@@ -42,31 +62,37 @@ For all infantry. See _Armies of Germany_ Rulebook.
 
 ***
 
-## Platoon leader **[ 1 ]**
+## Officers
 
-### Leutnant
+### Zugführer
 
-| Leutnant | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
+Officers of NATO code OF-1 are young officers such as First or Second Lieutenants.
+They lead a platoon into battle.
+
+| OF-1 Officer | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 35 pt / 50 pt / 65 pt |
+| Cost | 21 pt / 30 pt / 39 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (as depicted) |
 | Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action!</td><td>-</td></tr><tr><td>Command</td><td>-</td></tr></table>|
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action!</td><td>-</td></tr><tr><td>Command</td><td>-</td></tr></table> |
 
-### Oberleutnant
+### Kompaniechef
 
-| Oberleutnant | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
+Companies are lead by Captains or in some cases even Majors. They manage several
+platoons and outrank all other units on the table.
+
+| OF-2 Officer | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 60 pt / 75 pt / 90 pt |
+| Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (as depicted) |
 | Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action! (2x)</td><td>-</td></tr><tr><td>Command</td><td>-</td></tr></table>|
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action! (2x)</td><td>-</td></tr><tr><td>Command</td><td>-</td></tr></table> |
 
 ***
 
-## Infantry Units **[ 2 - 5 ]**
+## Infantry
 
 ### Aufklärertrupp
 
@@ -80,7 +106,7 @@ repositioning.
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 1 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Quad Bikes</td><td>Unit is equipped with quad bikes.<br><br>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes) for more information.</td><td>+15 pt/unit</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Break contact</td><td>Recon units are often confronted with superior enemies<br>they are not meant to engage. To fall back in a controlled fashion,<br> these units may fire first, then maneuver during an ADVANCE.</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Lösen/Break contact</td><td>Recon units are often confronted with superior enemies<br>they are not meant to engage. To fall back in a controlled fashion,<br> these units may fire first, then maneuver during an ADVANCE.</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
 
 ### Aufklärergruppe
 
@@ -93,7 +119,7 @@ and reporting enemy troop movement.
 | Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Break contact</td><td>Recon units are often confronted with superior enemies<br>they are not meant to engage. To fall back in a controlled fashion,<br> these units may fire first, then maneuver during an ADVANCE.</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Lösen/Break contact</td><td>Recon units are often confronted with superior enemies<br>they are not meant to engage. To fall back in a controlled fashion,<br> these units may fire first, then maneuver during an ADVANCE.</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
 
 ### Jägergruppe
 
@@ -150,7 +176,7 @@ report movement back to the command structure.
 
 ***
 
-## Combat support units [ 0 - 1 ]
+## Combat support units
 
 ### Panzerpioniergruppe
 
@@ -200,7 +226,7 @@ Anti materiell rifle sniper team.
 
 ***
 
-## Machine gun team [ 0 - 1 ]
+## Machine gun teams
 
 ### MG 3 MMG team
 
@@ -286,7 +312,7 @@ light vehicles.
 
 ***
 
-## Anti-Tank team [ 0 - 1 ]
+## Anti-tank teams
 
 ### PzF 3 team
 
@@ -317,7 +343,7 @@ with modern, israeli "Spike" missiles, under the german designation "MELLS" for
 
 ***
 
-## Micro Air Vehicles [ 0 - 1 ]
+## Micro air vehicles
 
 ### AirRobot AR 100-B "Mikado"
 
@@ -371,7 +397,7 @@ fixed wing air vehicle for artillery guidance.
 
 ***
 
-## Mortar team [ 0 - 1 ]
+## Mortar teams
 
 ### M224 LWCMS 60mm light mortar team
 
@@ -437,7 +463,7 @@ Wiesel I mounted heavy mortar system.
 
 ***
 
-## Artillery [ 0 - 1 ]
+## Artillery
 
 German forces have a combined arm called the "Artillerietruppe", which combines
 most indirect fire assets of the army.
@@ -488,7 +514,7 @@ The unit is mounted on a LGS Fennek 1A4.
 
 ***
 
-## Anti-Air systems [ 0 - 1 ]
+## Anti-air systems
 
 ### Stinger ground team
 
@@ -518,7 +544,7 @@ UHF range, blocking satellite communitation, radios, data connections and more.
 
 ***
 
-## APCs / IFVs [ 0 - 2 ]
+## APCs / IFVs
 
 If a vehicle has the IFV rule and is chosen in an IFV role, these vehicles are
 connected to the first and second mandatory infantry units.
@@ -752,20 +778,9 @@ small numbers for field testing.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>Spike VR ATGM Launcher</td><td>Spike Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li><li>fire-and-forget</li></ul></td><td>+ 50 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>ATGM</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td></tr><tr><td>Fire-And-Forget</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td></tr></table> |
 
-### M2/M3 Bradley
-
-| M2/M3 Bradley | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | 134 pt / 149 pt / 164 pt |
-| Capacity | 6 soldiers |
-| Damage value | 7+ Armoured carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>M240C MMG</td><td>M240C MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>25 mm M242 </td><td>25mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM Launcher</td><td>TOW Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>+ 35 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>ATGM</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td></tr></table> |
-
 ***
 
-## Reinforcing Vehicles [ 0 - 1 ]
+## Heavy vehicles
 
 ### AGF Serval LIV (SO)
 
@@ -870,21 +885,18 @@ and reliability.
 
 ![eurocopter](/factions/ressources/eurocopter.excalidraw.png)
 
+The Eurocopter Tiger is a four blade, twin engine attack helicopter produced
+by Airbus Helicopters since 2003. It has seen use in 4 armies and about 180
+units were produced. It saw service in Afghanistan, Libya, and Mali.
+
 | Eurocopter Tiger | <img src="/factions/nato-symbols/blufor/helicopter-attack.excalidraw.png" align="right" alt="Eurocopter Tiger" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 145 pt / 160 pt / 175 pt |
 | Capacity | - |
 | Damage value | 7+ Medium Helicopter |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>30 mm (1.18 in) GIAT 30</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>70mm Hydra rockets</td><td></td><td><ul><li>front-facing</li><li>rocket-launcher</li></ul></td><td>+ 50 pt</td></tr></table> |
+| Options |*The Tiger has 4 hardpoints, which can be equipped with the following weapon pods:*<table><tr><td><b>Weapon Pod</td><td><b>Modifier</td><td><b>Cost</td></tr><tr><td>12.7mm rotary gun pod</td><td><ul><li>front-facing</li><li>heavy machine gun</li></ul></td><td>+25 pt/u</td></tr><tr><td>30mm autocannon<br>pod</td><td><ul><li>front-facing</li><li>medium auto cannon</li><li>HE 1"</li></ul></td><td>+30 pt/u</td></tr><tr><td>23mm autocannon pod </td><td><ul><li>front-facing</li><li>light auto cannon</li><li>HE 1"</li></ul></td><td>+40 pt/u</td></tr><tr><td>HEAT dump rockets</td><td><ul><li>front-facing</li><li>medium rocket pod</li><li>HE 2"</li></ul></td><td>+70 pt/u</td></tr><tr><td>70mm hydra rockets</td><td><ul><li>front-facing</li><li>medium missile</li><li>HE 2"</li><li>Single Use</li></ul></td><td>+65 pt/u</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table> |
-
-: 2 Außenstationen für
-4 Luft-Luft-Lenkflugkörper „Stinger“,
-2 Innenstationen für Behälter mit
-12,7 mm, Behälter mit 19 x 70 mm
-Raketen, Behälter mit 4 PARS 3 LR,
-Behälter mit 4 Lenkflugkörpern HOT
 
 ***
 
@@ -934,7 +946,7 @@ Behälter mit 4 Lenkflugkörpern HOT
 | Options | - |
 | Special rules | - |
 
-### Unimog
+### Unimog Transport
 
 | Unimog | Soft-Skinned Vehicle |
 | :---- | ---- |
@@ -945,7 +957,7 @@ Behälter mit 4 Lenkflugkörpern HOT
 | Options | - |
 | Special rules | - |
 
-### Wolf G5 Jeep
+### Wolf G5 Jeep Transport
 
 | Wolf G5 Jeep | Soft-Skinned Vehicle |
 | :---- | ---- |

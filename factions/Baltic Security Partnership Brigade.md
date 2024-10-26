@@ -11,6 +11,26 @@ Logo of the Baltic Security Partnership Brigade
 
 ***
 
+## Table of content
+
+[Army modifiers](#army-modifiers)
+
+[Officers](#officers)
+[Infantry](#infantry)
+[Combat support](#combat-support-units)
+[Machine guns](#machine-gun-teams)
+[Anti tank teams](#anti-tank-teams)
+[Micro air vehicles](#micro-air-vehicles)
+[Mortar teams](#mortar-teams)
+[Anti-air systems](#anti-air-systems)
+[Divisional reinforcements](#divisional-reinforcements)
+
+[APCs/IFVs](#apcs--ifvs)
+[Heavy vehicles](#heavy-vehicles)
+[Transports](#transports)
+
+***
+
 ## Army modifiers
 
 ### Cavalry Training
@@ -33,15 +53,18 @@ at 3pt/u:
 
 ***
 
-## Platoon leader [ 1 ]
+## Officers
 
 <img src="/factions/ressources/basep-leader.excalidraw.png" style="display: flex; margin-left: auto; margin-right: auto;" alt="platoon leader" height=auto width=100% >
 
 ### Leitenantas
 
-| Leitenantas | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
+Officers of NATO code OF-1 are young officers such as First or Second Lieutenants.
+They lead a platoon into battle.
+
+| OF-1 Officer | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 35 pt / 50 pt / 65 pt |
+| Cost | 21 pt / 30 pt / 39 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (as depicted) |
 | Options | - |
@@ -49,9 +72,12 @@ at 3pt/u:
 
 ### Vyresnysis leitenantas
 
-| Vyresnysis leitenantas | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
+Companies are lead by Captains or in some cases even Majors. They manage several
+platoons and outrank all other units on the table.
+
+| OF-2 Officer | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 60 pt / 75 pt / 90 pt |
+| Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (as depicted) |
 | Options | - |
@@ -59,7 +85,7 @@ at 3pt/u:
 
 ***
 
-## Infantry Units [ 2 - 5 ]
+## Infantry
 
 ### Žvalgybos komanda
 
@@ -143,7 +169,7 @@ haunting estonian bogs.
 
 ***
 
-## Combat support units [ 0 - 1 ]
+## Combat support units
 
 ### Armoured Engineer group
 
@@ -191,7 +217,7 @@ Anti materiell rifle sniper team.
 
 ***
 
-## Machine gun team [ 0 - 1 ]
+## Machine gun teams
 
 ### MG3 MMG team
 
@@ -244,7 +270,7 @@ AGL team with a HK GMG 40mm.
 
 ***
 
-## Anti-Tank team [ 0 - 1 ]
+## Anti-tank teams
 
 ### RPG team
 
@@ -288,7 +314,7 @@ carriage and can be towed.
 
 ***
 
-## Drone team [ 0 - 1 ]
+## Micro air vehicles
 
 ### AeroVironment RQ-20 Puma
 
@@ -323,7 +349,7 @@ missions, or be fielded with remote weapon stations in a support or attack role.
 
 ***
 
-## Mortar team [ 0 - 2 ]
+## Mortar teams
 
 Since this brigade does not field any artillery, mortars are used to counter-
 balance the missing firepower.
@@ -378,7 +404,7 @@ heavy mortar team.
 
 ***
 
-## Operational Reinforcements [ 0 - 1 ]
+## Divisional reinforcements
 
 ### PzH 2000 Battery Observer
 
@@ -392,7 +418,7 @@ heavy mortar team.
 
 ***
 
-## Anti-Air systems [ 0 - 1 ]
+## Anti-air systems
 
 ### FIM-92 Stinger team
 
@@ -445,7 +471,7 @@ pulses at up to 5km of range. Issued for experimental use.
 
 ***
 
-## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
+## APCs / IFVs
 
 ### HMMWV "Humvee"
 
@@ -544,7 +570,7 @@ by 17 nations, 7 of which are NATO members.
 
 ***
 
-## Reinforcing Vehicles [ 0 - 1 ]
+## Heavy vehicles
 
 ### CVR(T)
 

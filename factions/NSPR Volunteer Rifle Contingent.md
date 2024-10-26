@@ -40,6 +40,26 @@ as IED carriers or suicide drones.
 
 ***
 
+## Table of content
+
+[Army modifiers](#army-modifiers)
+
+[Leadership](#leadership)
+[Infantry](#infantry)
+[Combat support](#combat-support-units)
+[Machine guns](#machine-gun-teams)
+[Anti tank teams](#anti-tank-teams)
+[Drone teams](#drone-teams)
+[Mortar teams](#mortar-teams)
+[Anti-air systems](#anti-air-systems)
+[Artillery support](#artillery-support)
+
+[APCs/IFVs](#apcs--ifvs)
+[Heavy vehicles](#heavy-vehicles)
+[Transports](#transports)
+
+***
+
 ## Army modifiers
 
 ### Territorial knowledge
@@ -75,7 +95,7 @@ These vehicle types do have to suffer one of the following modifiers:
 
 ***
 
-## Platoon leader **[ 1 ]**
+## Leadership
 
 ![platoon leader](../factions/ressources/platoon-leader-nspr.excalidraw.png)
 
@@ -101,7 +121,7 @@ These vehicle types do have to suffer one of the following modifiers:
 
 ***
 
-## Infantry Units **[ 2 - 5 ]**
+## Infantry
 
 ![infantry! ](../factions/ressources/infantry-nspr.excalidraw.png)
 
@@ -204,7 +224,7 @@ and follow orders.
 
 ***
 
-## Combat support units [ 0 - 1 ]
+## Combat support units
 
 ![horse man](/factions/ressources/nspr-infantry-horse.excalidraw.png)
 
@@ -273,7 +293,7 @@ cover.
 
 ***
 
-## Machine gun team [ 0 - 1 ]
+## Machine gun teams
 
 ### RPK MMG team
 
@@ -313,7 +333,7 @@ Infantry unit equipped with an AGL, used to surpress infantry sections.
 
 ***
 
-## Anti-Tank team [ 0 - 1 ]
+## Anti-tank teams
 
 ### RPG-7 team
 
@@ -341,7 +361,7 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 
 ***
 
-## Drone team [ 0 - 1 ]
+## Drone teams
 
 ### UAV operator team
 
@@ -382,7 +402,7 @@ role, they are only expected to fly once anyway.
 
 ***
 
-## Mortar team [ 0 - 1 ]
+## Mortar teams
 
 ### RM-38 50mm light mortar team
 
@@ -437,7 +457,7 @@ not too accurate, is able to inflict a hefty amount of damage to whatever it hit
 
 ***
 
-## Artillery [ 0 - 1 ]
+## Artillery
 
 ### M1938 M-30 122mm light howitzer
 
@@ -477,7 +497,7 @@ heavy howitzer.
 
 ***
 
-## Artillery Support [ 0 - 1 ]
+## Artillery support
 
 ### Artillery forward observer
 
@@ -493,7 +513,7 @@ Forward Observer team for artillery Batteries located off-map.
 
 ***
 
-## Anti-Air systems [ 0 - 1 ]
+## Anti-air systems
 
 ### Strela ground team
 
@@ -521,7 +541,7 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ***
 
-## Armoured Personell Carriers / Infantry Fighting Vehicles
+## APCs / IFVs
 
 If a vehicle has the IFV rule and is chosen in an IFV role, these vehicles are
 connected to the first and second mandatory infantry units. Any vehicle that has
@@ -600,7 +620,7 @@ big compartments, the MT-LB is ideal for the flat terrain of Estonia.
 
 ***
 
-## Extended vehicle pool [ 0 - 1 ]
+## Heavy vehicles
 
 The NSPR uses what it has. Their arsenal is a patchwork of anything that drives
 and has a gun, and utilizes old tanks and APCs just as much as modern civilian
@@ -696,7 +716,7 @@ are still valuable armoured assets if used defensively.
 
 ***
 
-## Transport
+## Transports
 
 ### BTR-60P Transport
 
