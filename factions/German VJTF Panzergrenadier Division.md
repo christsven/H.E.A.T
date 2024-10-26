@@ -514,7 +514,7 @@ UHF range, blocking satellite communitation, radios, data connections and more.
 | Capacity | - |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>EK 33 ECM System</td><td>Electronical Warfare System.</td><td><ul><li>top-mounted</li></ul></tr></table> |
-| Special Rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>EK 33</td><td>TODO</td></tr><tr><td>Amphibious</td><td>-</td></tr></table> |
+| Special Rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>EK 33</td><td>Activated with a FIRE or AMBUSH. While active, all drones or remotely operated units need to pass a D2 check whether they are operational. If not, they go DOWN.</td></tr><tr><td>Amphibious</td><td>-</td></tr></table> |
 
 ***
 

@@ -8,15 +8,39 @@
 
 ## Army modifiers
 
+### Minimal attrition
+
+UN Peacekeepers are meant as a deescalatory force aiding police work and opening
+dialogue, not as another army to fight. That meams that certain weapon systems are
+not required to fulfill every role they serve in a conventional army.
+
+To reduce potential
+collateral damage, tanks and IFVs do not carry HE shells, since they are only meant
+to engage targets that pose a direct threat without destroying the area those threats
+occupy.
+
+_TLDR: AT guns and autocannons do not get HE shells and may only use the PEN value when engaging enemies._
+
+### Minimal casualties
+
+To reduce combat fatalities, most patrols or other operations expecting combat
+field a high amount of field medics.
+
+_TLDR: Every infantry group may replace one soldier by a field medic for +30pt._
+
+| Rule | Description | Cost |
+| --- | --- | --- |
+| Team Medic | One soldier is replaced by a medic. The medic obeys standard medic rules<br>for its squad and any friendly unit within 6" of the squad. | +30pt |
+
 ***
 
-## Platoon leader [ 1 ]
+## HQ Units
 
 ![platoon leader]()
 
-### Leitenantas
+### OF-1 Officer
 
-| Leitenantas | Platoon Leader |
+| Platoon Leader | Platoon Leader |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -24,9 +48,9 @@
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action!</td><td>-</td></tr><tr><td>Command</td><td>-</td></tr></table> |
 
-### Vyresnysis leitenantas
+### OF-2 Officer
 
-| Vyresnysis leitenantas | Platoon Leader |
+| Company Leader | Company Leader |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
@@ -36,11 +60,11 @@
 
 ***
 
-## Infantry Units [ 2 - 5 ]
+## Infantry Units
 
 ![infantry]()
 
-### Žvalgybos komanda
+### Forward reconnaissance squad
 
 A small team of forward reconnaissance infantry.
 
@@ -52,7 +76,7 @@ A small team of forward reconnaissance infantry.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr><</table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Quad Bikes</td><td>Unit is equipped with quad bikes.<br><br>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes) for more information.</td><td>+15 pt/unit</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
 
-### Žvalgybos skyrius
+### Light infantry squad
 
 A group of recon infantry.
 
@@ -64,24 +88,7 @@ A group of recon infantry.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
 
-### Pasienis pėstininkų "Varlių vyrai"
-
-Nicknamed frog men, this group of infantry is boarded on small boats to
-traverse the bogs and marches of the baltic national parks along the borders.
-
-| Frogmen | Infantry unit |
-| :---- | ---- |
-| Cost | 55 pt / 70 pt / 85 pt |
-| Reinforcement | up to 3 attendants (SMG): 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (SMG) + 3 attendants (SMG) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Boats</td><td>Unit is mounted on a small boat.<br><br>See [ruleset](../ruleset/H.E.A.T.md#boats) for more information.</td><td>+15 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Stubborn</td><td>-</td></tr><tr><td>Recon training</td><td>These soldiers are trained to operate and maneuver<br> in even the toughest terrain.<br><br>When using an ADVANCE to move through rough<br>terrain, throw a D2, and on a positive result the team<br>may instead use the RUN distance.</td><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
-
-### Kavalerijos skyrius
-
-Retaining the old name for horse mounted infantry, modern cavalry is mounted upon
-helicopters. This infantry group works in conjunction with a helicopter
-in areas which are hard to reach by any other means.
+### Airborne infantry squad
 
 | Cavalry squad | Mechanized infantry unit |
 | :---- | ---- |
@@ -91,10 +98,7 @@ in areas which are hard to reach by any other means.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
 | Special rules | <tr><td>Airborne</td><td>When dismounting from a helicopter, this<br>unit may reroll failed order checks.</td></tr> |
 
-### Husarų pėstininkų skyrius
-
-The heaviest infantry the brigade has to offer. The hussars are the mechanized
-units which use M113 and armoured reserve vehicles.
+### Mechanized infantry squad
 
 | Husar squad | Mechanized infantry unit |
 | :---- | ---- |
@@ -104,27 +108,7 @@ units which use M113 and armoured reserve vehicles.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
 
-### "Eksitaja" užpuolimas skyrius
-
-Raid infantry groups were used in the beginning of the war to deal heavy losses
-to the NSPR logistical hubs located in remote parts of the national park.
-
-This earned them the local nickname "Eksitaja", which are mythological creatures
-haunting estonian bogs.
-
-| Raiding squad | Raid infantry unit |
-| :---- | ---- |
-| Cost | 40 pt / 55 pt / 70 pt |
-| Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (SMG) + 3 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information</td></tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
-
-### Territorial Reserve Volunteers
-
-All baltic states have relatively large territorial reserves, made up from
-volunteers and former military servicemen. Some of those units were restructured
-under the Baltic Treaty to serve in this brigade.
+### Local reserve force squad
 
 | Volunteer squad | Infantry unit |
 | :---- | ---- |
@@ -136,7 +120,7 @@ under the Baltic Treaty to serve in this brigade.
 
 ***
 
-## Combat support units [ 0 - 1 ]
+## Combat support units
 
 ### Armoured Engineer group
 
@@ -184,7 +168,7 @@ Anti materiell rifle sniper team.
 
 ***
 
-## Machine gun team [ 0 - 1 ]
+## Machine gun teams
 
 ### MG3 MMG team
 
@@ -223,21 +207,9 @@ A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG.
 |Options| - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes)</td></tr><tr><td>Rear-mounted MMG</td><td>Fire ark of MG3 is to the back and 90° to each side<br>(so 9 and 3 o'clock from the drivers perspective).</table> |
 
-### GMG 40mm team
-
-AGL team with a HK GMG 40mm.
-
-| AGL team | Machine gun team |
-| :---- | ---- |
-| Cost | 50 pt / 60 pt / 75 pt |
-| Reinforcement | - |
-| Setup | NCO (AGL) + 2 loaders (SMG) |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>AGL</td><td>Automatic grenade launcher, which<br>rapidly fires 40mm ordnance.<br><br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl). </td></tr></table> |
-
 ***
 
-## Anti-Tank team [ 0 - 1 ]
+## Anti-Tank team
 
 ### RPG team
 
@@ -265,17 +237,11 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Fire-And-Forget</td><td>Weapon team is not required to stay<br>stationary during flight.<br><br>See ATGM section in [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).<td>+20 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
-### SPG-9 recoilless rifle team
-
 ***
 
-## Drone team [ 0 - 1 ]
+## Drone teams
 
 ### UAV operator team
-
-Just being tested as parts of modern conventional forces, small UAVs are becoming
-an integral part of modern warfare. This team is equipped with a small quadcopter
-for forward reconnaissance.
 
 | UAV team | UAV team |
 | :---- | ---- |
@@ -287,75 +253,7 @@ for forward reconnaissance.
 
 ***
 
-## Mortar team [ 0 - 2 ]
-
-Since this brigade does not field any artillery, mortars are used to counter-
-balance the missing firepower.
-
-### Hirtenberger M60 60mm light mortar team
-
-light mortar team.
-
-| 60mm light<br>mortar team | Mortar team |
-| :---- | ---- |
-| Cost | 24 pt / 35 pt / 46 pt |
-| Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (LIGHT MORTAR) + 1 loader (PISTOL) |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
-
-### L16 81mm medium mortar team
-
-medium mortar team.
-
-| 81mm medium<br>mortar team | Mortar team |
-| :---- | ---- |
-| Cost | 35 pt / 50 pt / 65 pt |
-| Reinforcement | Spotter +10 pt |
-| Setup | NCO (MEDIUM MORTAR) + 1 loader (PISTOL) |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
-
-### m/41D 120 mm heavy mortar team
-
-heavy mortar team.
-
-| 120mm heavy<br>mortar team | Mortar team |
-| :---- | ---- |
-| Cost | 46 pt / 65 pt / 84 pt |
-| Reinforcement | Spotter (PDW) +10 pt |
-| Setup | NCO (HEAVY MORTAR) + 2 loader (PISTOL) |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
-
-### M113 self propelled mortar
-
-| M113 | APC Armoured Carrier |
-| :---- | ---- |
-| Cost |  |
-| Capacity | - |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittelwurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>Panzermörser 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td></tr></table> |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
-
-***
-
-## Operational Reinforcements [ 0 - 1 ]
-
-### PzH 2000 Battery Observer
-
-| Artillery forward<br>observer | Divisional Reinforcements |
-| :---- | ---- |
-| Cost | - pt / 100 pt / 115 pt |
-| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
-| Setup | NCO (SMG) |
-| Options | - |
-| Special rules | - |
-
-***
-
-## Anti-Air systems [ 0 - 1 ]
+## Anti-Air systems
 
 ### FIM-92 Stinger team
 
@@ -385,11 +283,47 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ***
 
-## Armoured Personell Carriers / Infantry Fighting Vehicles [ 0 - 2 ]
+## Armoured Personell Carriers / Infantry Fighting Vehicles
+
+Since the mission received a major arms delivery by the United States replacing
+most of the motor pool, this section as well as the next are split into these two
+phases to make it more navigable.
+
+### Pre-arms delivery
+
+#### BTR 60
+
+#### BTR 70
+
+#### BTR 80
+
+#### VAB
+
+#### M113
+
+### Post-arms delivery
+
+#### M1A2 Bradley
+
+#### Stryker APC
+
+#### M1117 Guardian
 
 ***
 
-## Reinforcing Vehicles [ 0 - 1 ]
+## Reinforcing Vehicles
+
+### Pre-arms delivery
+
+#### AML-90
+
+#### UH-1 Bell
+
+### Post-arms delivery
+
+#### M1117 Guardian
+
+#### Blackhawk
 
 ***
 

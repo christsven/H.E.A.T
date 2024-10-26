@@ -161,8 +161,9 @@ able to be mounted on horses to maximize their mobility.
 ### Motorized Infantry squad
 
 The core of any modern fighting force. Deployed as the infanty part of IFVs.
-Part of the more well-trained core force, these freedom fighters have at least
-undergone mandatory services and understand how a military unit has to behave.
+Part of the more well-trained core force, these infantrists have at least
+undergone mandatory services and understand how a military unit has to behave
+in conjunction with other units and vehicles.
 
 | Motorized Infantry Squad | <img src="/factions/nato-symbols/opfor/infantry-motorized-g.excalidraw.png" align="right" alt="Motorized Infantry" height=30 width=auto></img> |
 | :---- | ---- |
@@ -174,7 +175,7 @@ undergone mandatory services and understand how a military unit has to behave.
 
 ### PMC Contractors squad
 
-Solderis of the russian PMC group "Bratstwa" are well-trained and equipped,
+Soldiers of the russian PMC group "Bratstwa" are well-trained and equipped,
 and are used since the revolution began to strike down difficult targets,
 perform covert operations or support breakthrough attempts.
 
@@ -188,8 +189,8 @@ perform covert operations or support breakthrough attempts.
 
 ### Light Rifle squad
 
-While NSPR forces have a somewhat regular core force, the majority of freedom- |
-fighting revolutionaries consist of mostly untrained, unprofessional personell,
+While NSPR forces have a somewhat regular core force, the majority of freedom-
+fighting revolutionaries consist of untrained, unprofessional personnel,
 with maybe the NCO and one or two trained leaders to keep everything together
 and follow orders.
 
