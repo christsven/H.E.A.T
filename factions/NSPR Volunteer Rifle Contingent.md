@@ -42,21 +42,21 @@ as IED carriers or suicide drones.
 
 ## Table of content
 
-[Army modifiers](#army-modifiers)
+- [Army modifiers](#army-modifiers)
 
-[Leadership](#leadership)
-[Infantry](#infantry)
-[Combat support](#combat-support-units)
-[Machine guns](#machine-gun-teams)
-[Anti tank teams](#anti-tank-teams)
-[Drone teams](#drone-teams)
-[Mortar teams](#mortar-teams)
-[Anti-air systems](#anti-air-systems)
-[Artillery support](#artillery-support)
+- [Leadership](#leadership)
+- [Infantry](#infantry)
+- [Combat support](#combat-support-units)
+- [Machine guns](#machine-gun-teams)
+- [Anti tank teams](#anti-tank-teams)
+- [Drone teams](#drone-teams)
+- [Mortar teams](#mortar-teams)
+- [Anti-air systems](#anti-air-systems)
+- [Artillery support](#artillery-support)
 
-[APCs/IFVs](#apcs--ifvs)
-[Heavy vehicles](#heavy-vehicles)
-[Transports](#transports)
+- [APCs/IFVs](#apcs--ifvs)
+- [Heavy vehicles](#heavy-vehicles)
+- [Transports](#transports)
 
 ***
 

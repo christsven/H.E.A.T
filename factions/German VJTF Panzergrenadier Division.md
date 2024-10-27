@@ -20,21 +20,21 @@ Logo of NATO Response Force
 
 ## Table of content
 
-[Army modifiers](#army-modifiers)
+- [Army modifiers](#army-modifiers)
 
-[Officers](#officers)
-[Infantry](#infantry)
-[Combat support](#combat-support-units)
-[Machine guns](#machine-gun-teams)
-[Anti tank teams](#anti-tank-teams)
-[Micro air vehicles](#micro-air-vehicles)
-[Mortar teams](#mortar-teams)
-[Artillery](#artillery)
-[Anti-air systems](#anti-air-systems)
+- [Officers](#officers)
+- [Infantry](#infantry)
+- [Combat support](#combat-support-units)
+- [Machine guns](#machine-gun-teams)
+- [Anti tank teams](#anti-tank-teams)
+- [Micro air vehicles](#micro-air-vehicles)
+- [Mortar teams](#mortar-teams)
+- [Artillery](#artillery)
+- [Anti-air systems](#anti-air-systems)
 
-[APCs/IFVs](#apcs--ifvs)
-[Heavy vehicles](#heavy-vehicles)
-[Transports](#transports)
+- [APCs/IFVs](#apcs--ifvs)
+- [Heavy vehicles](#heavy-vehicles)
+- [Transports](#transports)
 
 ***
 

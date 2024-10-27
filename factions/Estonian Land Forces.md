@@ -29,22 +29,22 @@ Kaitseliit, or Estonian Defense League.
 
 ## Table of content
 
-[Army modifiers](#army-modifiers)
+- [Army modifiers](#army-modifiers)
 
-[Officers](#officers)
-[Infantry](#infantry)
-[Combat support](#combat-support-units)
-[Machine guns](#machine-gun-teams)
-[Anti tank teams](#anti-tank-teams)
-[Micro air vehicles](#micro-air-vehicles)
-[Mortar teams](#mortar-teams)
-[Artillery](#artillery)
-[Anti-air systems](#anti-air-systems)
-[Divisional reinforcements](#divisional-reinforcements)
+- [Officers](#officers)
+- [Infantry](#infantry)
+- [Combat support](#combat-support-units)
+- [Machine guns](#machine-gun-teams)
+- [Anti tank teams](#anti-tank-teams)
+- [Micro air vehicles](#micro-air-vehicles)
+- [Mortar teams](#mortar-teams)
+- [Artillery](#artillery)
+- [Anti-air systems](#anti-air-systems)
+- [Divisional reinforcements](#divisional-reinforcements)
 
-[APCs/IFVs](#apcs--ifvs)
-[Heavy vehicles](#heavy-vehicles)
-[Transports](#transports)
+- [APCs/IFVs](#apcs--ifvs)
+- [Heavy vehicles](#heavy-vehicles)
+- [Transports](#transports)
 
 ***
 
