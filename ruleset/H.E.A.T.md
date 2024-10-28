@@ -87,7 +87,7 @@ To make it easier to find, helicopter weapon systems are listed here separately.
 | Small bomb | dropped | 1 | D2 | +2 | Single Use, HE 2" |
 | Medium bomb | dropped | 1 | D2 | +3 | Single Use, HE 3" |
 | Large bomb | dropped | 1 | D3 | +4 | Single Use, HE 4" |
-| Clusterbomb | dropped | 1 | D3 | +1 | Single Use, HE 4" |
+| Clusterbomb | dropped | 1 | D6 | - | Single Use, HE 3" |
 
 ### Indirect fire weapons chart
 
