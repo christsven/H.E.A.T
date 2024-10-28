@@ -84,10 +84,10 @@ To make it easier to find, helicopter weapon systems are listed here separately.
 | Light missile | 20" - 60" | 1 | D2 | +5 | Single Use, HE 1" |
 | Medium missile | 20" - 72" | 1 | D3 | +6 | Single Use, HE 2" |
 | Heavy missile | 20" - 82" | 1 | D3 | +7 | Single Use, HE 3" |
-| Small bomb | |||||
-| Medium bomb | |||||
-| Large bomb | |||||
-| Clusterbomb | |||||
+| Small bomb | dropped | 1 | D2 | +2 | Single Use, HE 2" |
+| Medium bomb | dropped | 1 | D2 | +3 | Single Use, HE 3" |
+| Large bomb | dropped | 1 | D3 | +4 | Single Use, HE 4" |
+| Clusterbomb | dropped | 1 | D3 | +1 | Single Use, HE 4" |
 
 ### Indirect fire weapons chart
 
