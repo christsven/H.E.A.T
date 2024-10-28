@@ -33,6 +33,7 @@ These weapons are operated by a single unit, which uses it as its primary weapon
 | Designated marksman rifle | 0" - 36" | 1 | 1 | - | DMR |
 | Shotgun | 0" - 18" | D3 | 1 | - | Assault, Anti-Drone |
 | Underbarrel grenade launcher | 6" - 20" | 1 | D2 | HE | UGL |
+| EW Rifle | 0" - 72" | 1 | - | - | Anti-Drone, EW Weapon |
 
 *This replaces the long range hit modifier.
 
@@ -465,6 +466,7 @@ or a -2 the drones last order was a RUN.
 | VTOL | For fixed-wing UAVs, allows takeoff without being physically thrown by the operator. |
 |Loitering<br>Munition | Acts like an IED. Explodes once triggered by the operator. |
 | Anti-Drone | Some weapons are more useful against drones than others.<br>Weapons with this rule ignore the hit penalties of the drone rule. |
+| EW Weapon | Electronic Warfare Weapons are specifically designed against drones and fry their electronics.<br>They ignore to-hit modifier and disable the drone on a "wound" for one round.<br>If a double six is achieved on a to damage roll, the drone is considered destroyed. |
 
 ***
 
