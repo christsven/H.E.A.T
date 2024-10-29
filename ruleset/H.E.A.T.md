@@ -412,13 +412,17 @@ travel distance of 24" or 12".
 
 <img src="/ruleset/ressources/mikado.excalidraw.png" alt="mikado" align=right height=auto width=60%></img>
 
-Enables capable of spotting enemy targets in direct LoS. An on-map operator can
+This is the standard drone configuration of not specified otherwise. It is
+capable of spotting enemy targets in direct LoS. An on-map operator can
 communicate with any unit within the operators platoon and any unit capable of
 indirect fire in 12" around the operator, once per turn.
 
 The communication does not require or use up an activation, but is blocked if the
 unit is DOWN. If the drone is shot down, the operator takes the role of a normal
 spotter.
+
+Using another drone variant removes both the operators' as well as the drones'
+spotting capability.
 
 ###### IED variant
 
