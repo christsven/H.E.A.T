@@ -341,9 +341,22 @@ frowned upon by most regular armies of today.
 | :---- | ---- |
 | Cost | 30 pt / 40 pt / 55 pt |
 | Reinforcement | up to 2 attendants (SMG): 7 pt / 10 pt / 13 pt |
-| Setup | NCO (FLAMETHROWER) + 1 attendant (SMG) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>Explosives</td><td>Explosives pipe</td><td>+15 pt</td></tr></table><table><tr><td><b>Optional Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Cavalry</td><td>-</td><td>+1 pt/u</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr><tr><td>Sapper</td><td>See [ruleset](../ruleset/H.E.A.T.md#sapper) for more information.</td></tr>><tr><td>Cavalry (*if selected*)</td><td>-</td></tr></table> |
+| Setup | NCO (FLAMETHROWER) + 1 loader (SMG) |
+| Options | - |
+| Special rules | - |
+
+### R75 Ural Motorcycle
+
+Old motorcycle with a side car that can be used as a mobile weapons platform.
+Weapon fires to the front and sides.
+
+| MG motorcycle | <img src="/factions/nato-symbols/units/mmg-q.excalidraw.png" align="right" alt="machine gun motorcycle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 30 pt / 45 pt / 60 pt |
+| Reinforcement | - |
+| Setup | Motorcycle (WEAPON SYSTEM)|
+|Options| Since these weapons are mounted to the side car, only one main weapon may be chosen.<table><tr><td><b>Main weapon options</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Side car mounted MMG.</td><td>+15 pt</td></tr><tr><td>14.5mm DshK HMG</td><td>Side car mounted HMG.</td><td>+20 pt</td></tr><tr><td>AGS-17 "Plamja" AGL</td><td>AGS-17 "Plamja" automatic<br> grenade launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl).</td><td>+ 25 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Motorcycle<br>(_Quad Bike Proxy_)</td><td>For movement, see [ruleset](../ruleset/H.E.A.T.md#quad-bikes). Otherwise behaves like<br>a normal infantrist regarding damage values, etc.</td></tr><tr><td>Front-facing MMG</td><td>Fire ark of machine gun is to the front and 90° to each side<br>(so 9 and 3 o'clock from the drivers perspective).</td></tr><tr><td>Anti-Air<br>sight</td><td>+1 to hit against helicopters.</td></tr></table> |
 
 ***
 
@@ -793,10 +806,10 @@ are still valuable armoured assets if used defensively.
 | Capacity | 8 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Default weapon configuration |- |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Back mounted MMG<br><br>Reduces troop capacity by **4**</td><td><ul><li>front-facing</li></ul></td><td>+15 pt</td></tr><tr><td>14.5mm DshK HMG</td><td>Back mounted HMG<br><br>Reduces troop capacity by **4**</td><td><ul><li>front-facing</li></ul></td><td>+25 pt</td></tr></table> |
+| Options | - |
 | Special rules | - |
 
-### R75 Ural Motorcycle
+### R75 Ural Motorcycle Transport
 
 | R75 Ural | Soft-Skinned Vehicle |
 | :---- | ---- |
@@ -804,7 +817,7 @@ are still valuable armoured assets if used defensively.
 | Capacity | 2 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Default weapon configuration |- |
-| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Side car mounted MMG</td><td><ul><li>front-facing</li></ul></td><td>+15 pt</td></tr></table> |
+| Options |- |
 | Special rules | - |
 
 ### Mil Mi-2B
