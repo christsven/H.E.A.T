@@ -319,7 +319,7 @@ Infantry unit equipped with an HMG, used to surpress infantry sections, light ve
 | Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
 
-### AGS-17 Plamja AGL eam
+### AGS-17 Plamja AGL team
 
 Infantry unit equipped with an AGL, used to surpress infantry sections.
 
@@ -330,6 +330,20 @@ Infantry unit equipped with an AGL, used to surpress infantry sections.
 | Setup | NCO (AGL) + 2 loaders (SMG) |
 | Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>AGL</td><td>Automatic grenade launcher,<br>which rapidly fires 40mm ordnance.<br><br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl). </td></tr></table> |
+
+### LPO-50 flamethrower team
+
+Small team equipped with an old LPO-50 flame thrower. This weapon saw use in
+many irregular armies alligned with the Soviet Union in the Cold War and is
+frowned upon by most regular armies of today.
+
+| Flamethrower team | <img src="/factions/nato-symbols/units/flamethrower-t.excalidraw.png" align="right" alt="Flamethrower team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 30 pt / 40 pt / 55 pt |
+| Reinforcement | up to 2 attendants (SMG): 7 pt / 10 pt / 13 pt |
+| Setup | NCO (FLAMETHROWER) + 1 attendant (SMG) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>Explosives</td><td>Explosives pipe</td><td>+15 pt</td></tr></table><table><tr><td><b>Optional Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Cavalry</td><td>-</td><td>+1 pt/u</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr><tr><td>Sapper</td><td>See [ruleset](../ruleset/H.E.A.T.md#sapper) for more information.</td></tr>><tr><td>Cavalry (*if selected*)</td><td>-</td></tr></table> |
 
 ***
 
@@ -358,6 +372,26 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 | Setup | NCO (ATGM) + 2 loaders (SMG) |
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
+
+### SPG-9 73mm recoilless rifle team
+
+| Recoilless rifle team | <img src="/factions/nato-symbols/units/recoilless-gun.excalidraw.png" align="right" alt="recoilless gun team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | - |
+| Setup | NCO (LIGHT AT GUN) + 2 loaders (PISTOL) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></table> |
+
+### B-10 82mm recoilless rifle team
+
+| Recoilless rifle team | <img src="/factions/nato-symbols/units/recoilless-gun.excalidraw.png" align="right" alt="recoilless gun team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Reinforcement | - |
+| Setup | NCO (MEDIUM AT GUN) + 2 loaders (PISTOL) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></table> |
 
 ***
 

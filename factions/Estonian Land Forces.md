@@ -308,7 +308,7 @@ The Pansarvärnspjäs 1110, commonly abbreviated as Pvpj-1110 and nicknamed
 "stove pipe", is a swedish anti tank recoilless rifle. It is mounted on a one-axial
 carriage and can be towed.
 
-| Recoilless rifle team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| Recoilless gun team | <img src="/factions/nato-symbols/units/recoilless-gun.excalidraw.png" align="right" alt="Recoilless gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Reinforcement | - |
