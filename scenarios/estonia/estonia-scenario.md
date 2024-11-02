@@ -173,20 +173,36 @@ dam led to a skirmish between the two.
 
 ### Bog raids
 
+<p align=center>
+<img src="/scenarios/ressources/bog-raids-layout.excalidraw.png" alt="bog raids scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+</p>
+
 The decentralized logistical grid helped the NSPR against singular artillery strikes,
 but made them susseptible against raid attacks via helicopter by the border guards.
 
 ### Attack on convoi
 
+<p align=center>
+<img src="/scenarios/ressources/convoi-layout.excalidraw.png" alt="convoi scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+</p>
+
 A planned attack on an EUFOR convoi was widely televised as a propaganda tool.
 
 ### Battle below the Ashen Hills
+
+<p align=center>
+<img src="/scenarios/ressources/ashen-hills-layout.excalidraw.png" alt="ashen hills scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+</p>
 
 With the arrival of EUFOR troops, the estonian forces slowly pushed out NSPR holdouts
 from the larger settlements, with a notable fight below the artificial hills of
 the old oil shale excavation sites in Kivioli.
 
 ### EUFOR port raid on Sillimäe
+
+<p align=center>
+<img src="/scenarios/ressources/sillimaee-layout.excalidraw.png" alt="sillimaee scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+</p>
 
 NAVEUFOR attacked Sillimäe port in a night campaign, securing a bridgehead
 for reinforcements.
