@@ -572,10 +572,14 @@ troops on the battlefield.
 
 ### Pandur I
 
+![pandur picture](../factions/ressources/pandur.excalidraw.png)
+
 APC used by the belgian army. The vehicle comes in the normal configuration
 with a 12.7mm weapon station, in a reconaissance variant or a medical evacuation vehicle.
 
 ### Piranha IIIC
+
+![piranha picture](../factions/ressources/piranha3.excalidraw.png)
 
 The main IFV used by belgian armoured infantry. The belgian army fields a range of variants:
 <ul>
@@ -594,9 +598,40 @@ The main IFV used by belgian armoured infantry. The belgian army fields a range 
 
 Special Forces vehicle.
 
+| Jankel FOX RRV | <img src="/factions/nato-symbols/units/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 3 soldiers |
+| Damage value | 6+ Soft-skinned Vehicle |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>.50cal</td><td>HMG.</td><td><ul><li>pintle-mounted</li></ul></tr><tr><td>ANF1 MMG</td><td>MMG.</td><td><ul><li>front-facing</li></ul></tr></table> |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-topped</td><td>-</td></tr></table> |
+
 ### Jankel/NP Aerospace: WOLF LTTV
 
 Special Forces vehicle.
+
+| Panhard VPS | <img src="/factions/nato-symbols/units/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 3 soldiers |
+| Damage value | 6+ Soft-skinned Vehicle |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>.50cal</td><td>HMG.</td><td><ul><li>pintle-mounted</li></ul></tr><tr><td>ANF1 MMG</td><td>MMG.</td><td><ul><li>front-facing</li></ul></tr></table> |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-topped</td><td>-</td></tr></table> |
+
+### Panhard VPS
+
+![Panhard VPS](/factions/ressources/vps.excalidraw.png)
+
+| Panhard VPS | <img src="/factions/nato-symbols/units/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 3 soldiers |
+| Damage value | 6+ Soft-skinned Vehicle |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>.50cal</td><td>HMG.</td><td><ul><li>pintle-mounted</li></ul></tr><tr><td>ANF1 MMG</td><td>MMG.</td><td><ul><li>front-facing</li></ul></tr></table> |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-topped</td><td>-</td></tr></table> |
 
 ### Wiesel I
 
@@ -627,19 +662,6 @@ anti air system. Capable of air transport with a A400M or helicopter.
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>30-mm-MK 30-2/ABM</td><td>30mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></td></tr></table> |
 | Options | - |
 
-### Panhard VPS
-
-![Panhard VPS](/factions/ressources/vps.excalidraw.png)
-
-| Panhard VPS | <img src="/factions/nato-symbols/units/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | tbd |
-| Capacity | 3 soldiers |
-| Damage value | 6+ Soft-skinned Vehicle |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>.50cal</td><td>HMG.</td><td><ul><li>pintle-mounted</li></ul></tr><tr><td>ANF1 MMG</td><td>MMG.</td><td><ul><li>front-facing</li></ul></tr></table> |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-topped</td><td>-</td></tr></table> |
-
 ### AMX-10 RC
 
 ![amx 10 rc](/factions/ressources/amx10rc.excalidraw.png)
@@ -669,6 +691,15 @@ anti air system. Capable of air transport with a A400M or helicopter.
 ### CAESAR
 
 ![CAESAR](/factions/ressources/caesar.excalidraw.png)
+
+| CAESAR | <img src="/factions/nato-symbols/units/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | TODO |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |
 
 ### AMX-30 AuF1
 
