@@ -84,8 +84,8 @@ motorized support.
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 3 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>PETN Plastiksprengstoff<br>(*Explosives*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>RABE drones</td><td>Small recon rc drones.</td><td>+20 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-</td><td>+ 1 pt each</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information.</td></tr><tr><td>RABE drones</td><td>Unit has small rc drone to use in attacks into enemy buildings. If chosen, CQC attacks into a building always begin with this units attack.</td></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>PETN Plastiksprengstoff<br>(*Explosives*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>RABE drones</td><td>Small recon rc drones.</td><td>+20 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-</td><td>+ 1 pt each</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information.</td></tr><tr><td>RABE drones</td><td>Unit has small rc drone to use in attacks into enemy buildings.<br>If chosen, CQC attacks into a building always begin with this units attack.</td></tr></table> |
 
 ### Groupe de Hussards
 
@@ -104,8 +104,8 @@ recon role.
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 3 attendants (AR) |
-| Options | TODO |
-| Special rules | - |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
+| Special rules | <table><tr><td>Airborne</td><td>When dismounting from a helicopter, this<br>unit may reroll failed order checks.</td></tr></table> |
 
 ### Groupe de Combat
 
@@ -131,7 +131,7 @@ a 51mm light mortar, which can support the Alpha teams advance.
 | Reinforcement | up to 5 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fireteam</td><td>Unit is able to split into fireteams. See [ruleset](../ruleset/H.E.A.T.md#fireteams) for details.</td></tr></table>
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fireteam</td><td>Unit is able to split into fireteams. See [ruleset](../ruleset/H.E.A.T.md#fireteams) for details.</td></tr></table> |
 
 ### Panzergrenadiergruppe
 
@@ -268,9 +268,29 @@ AGL team with a HK GMG 40mm.
 
 ### Panzerfaust team
 
-### MILAN ATGM team
+Anti-tank rocket team, equipped with Panzerfaust 3, which is the standard issue
+german RPG.
 
-### Eryx 136mm ATGM team
+| RPG team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="rpg  team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 42 pt / 60 pt / 78 pt |
+| Reinforcement | - |
+| Setup | NCO (RPG + SMG) + 1 loader (SMG) |
+| Options | <table><table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</td></tr><tr><td>Tandem HEAT Charge</td><td>Heavier charge than  normal<br>round, but less range.<br>Check [ruleset](../ruleset/H.E.A.T.md#tandem-heat-charges) for details.</td><td>+15 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
+
+### MILAN/Eryx 136mm ATGM team
+
+EUFOR fields a number of european ATGM launchers, most prominently the MILAN ATGM
+and the Eryx ATGM systems.
+
+|  ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 60 pt / 75 pt / 90 pt |
+| Reinforcement | - |
+| Setup | NCO (ATGM) + 2 loaders (SMG) |
+| Options |- |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
 ### FMG-48 Javelin team
 
@@ -342,17 +362,21 @@ Wiesel I mounted heavy mortar system.
 
 ### EUNAVFOR Battery Observer
 
-| Artillery forward<br>observer | <img src="/factions/nato-symbols/units/art-recon-t" align="right" alt="artillery spotter" height=30 width=auto></img> |
+Artillery Observer coordinating fire missions from EUNAVFOR naval assets.
+
+| Artillery forward<br>observer | <img src="/factions/nato-symbols/blufor/art-recon-t.excalidraw.png" align="right" alt="artillery spotter" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 100 pt / 115 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (SMG) |
 | Options | - |
-| Special rules | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Artillery Observer</td><td>Detailed rules see [Rule adjustments](../ruleset/H.E.A.T.md#spotters).</td></tr></table> |
 
 ### VAB VOA
 
-| APC Observer | <img src="/factions/nato-symbols/units/art-recon-t" align="right" alt="artillery spotter apc" height=30 width=auto></img> |
+VAB version for artillery coordination.
+
+| APC Observer | <img src="/factions/nato-symbols/units/wheeled-spotter-t.excalidraw.png" align="right" alt="artillery spotter apc" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
@@ -364,6 +388,14 @@ Wiesel I mounted heavy mortar system.
 ### Thales Squire GBR
 
 Ground based radar system operated by a radar unit.
+
+| RADAR team | <img src="/factions/nato-symbols/units/radar-t.excalidraw.png" align="right" alt="artillery spotter apc" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 65 pt / 75 pt / 85 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (RADAR) + 1 helper (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Ground Radar</td><td>Can enhance zeroing capability for indirect fire missions.<br>See [ruleset adjustments](/ruleset/H.E.A.T.md#radar) for detailed description.</td></tr></table> |
 
 ***
 
@@ -612,6 +644,15 @@ anti air system. Capable of air transport with a A400M or helicopter.
 
 ![amx 10 rc](/factions/ressources/amx10rc.excalidraw.png)
 
+| AMX 10 RC | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="Tankette" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 8+ Light Tank |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>105 mm F2 BK MECA L/47<br>medium anti tank gun</td><td>Medium anti tank gun.</td><td><ul><li>turret-mounted</li></ul></td><tr><td> 7.62 mm NF1<br>medium machine gun</td><td>Co-axial MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>M2HB 12.7mm</td><td>Heavy machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Recce</td><td>-</td></tr></table> |
+
 ### AMX Leclerc
 
 ![AMX Leclerc](/factions/ressources/leclerc.excalidraw.png)
@@ -627,7 +668,7 @@ anti air system. Capable of air transport with a A400M or helicopter.
 
 ### CAESAR
 
-![CAESAR](/factions/ressources/.excalidraw.png)
+![CAESAR](/factions/ressources/caesar.excalidraw.png)
 
 ### AMX-30 AuF1
 
@@ -670,7 +711,17 @@ anti air system. Capable of air transport with a A400M or helicopter.
 
 ### VLRA Mistral
 
-![VLRA Mistral](/factions/ressources/.excalidraw.png)
+![VLRA Mistral](/factions/ressources/vlra-mistral.excalidraw.png)
+
+
+| VLRA Mistral | <img src="/factions/nato-symbols/units/wheeled-manpads.excalidraw.png" align="right" alt="anti air System" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 6+ Soft-skinned vehicle |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Mistral MANPADS</td><td>Anti Air Rocket Launcher</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></tr></table> |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>MANPADS</td><td>Anti-Air rocket launcher system.<br>See [ruleset](../ruleset/H.E.A.T.md#manportable-air-defense-systems-manpads) for more information.</td></tr></table> |
 
 ### Eurocopter
 
@@ -682,8 +733,9 @@ anti air system. Capable of air transport with a A400M or helicopter.
 | Capacity | - |
 | Damage value | 7+ Medium Helicopter |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>30 mm (1.18 in) GIAT 30</td><td>medium autocannon</td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>70mm Hydra rockets</td><td></td><td><ul><li>front-facing</li><li>rocket-launcher</li></ul></td><td>+ 50 pt</td></tr></table> |
+| Options |*The Tiger has 4 hardpoints, which can be equipped with the following weapon pods:*<table><tr><td><b>Weapon Pod</td><td><b>Modifier</td><td><b>Cost</td></tr><tr><td>12.7mm rotary gun pod</td><td><ul><li>front-facing</li><li>heavy machine gun</li></ul></td><td>+25 pt/u</td></tr><tr><td>30mm autocannon<br>pod</td><td><ul><li>front-facing</li><li>medium auto cannon</li><li>HE 1"</li></ul></td><td>+30 pt/u</td></tr><tr><td>23mm autocannon pod </td><td><ul><li>front-facing</li><li>light auto cannon</li><li>HE 1"</li></ul></td><td>+40 pt/u</td></tr><tr><td>HEAT dump rockets</td><td><ul><li>front-facing</li><li>medium rocket pod</li><li>HE 2"</li></ul></td><td>+70 pt/u</td></tr><tr><td>70mm hydra rockets</td><td><ul><li>front-facing</li><li>medium missile</li><li>HE 2"</li><li>Single Use</li></ul></td><td>+65 pt/u</td></tr></table>*Additional Options:*<table><tr><td><b>Option</td><td><b>Cost</td></tr><tr><td>Countermeasures</td><td>+20 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table> |
+
 
 ***
 
