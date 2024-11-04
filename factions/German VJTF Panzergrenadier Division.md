@@ -472,7 +472,7 @@ most indirect fire assets of the army.
 
 Forward observer team for a artillery battery.
 
-| Artillery forward observer | <img src="/factions/nato-symbols/blufor/art-recon-t.excalidraw.png" align="right" alt="Artillery Observer team" height=30 width=auto></img> |
+| Artillery forward observer | <img src="/factions/nato-symbols/units/observer-team.excalidraw.png" align="right" alt="Artillery Observer team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 100 pt / 115 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -485,7 +485,7 @@ Forward observer team for a artillery battery.
 This variant of the M113 APC is used as a platoon spotter. Any indirect fire unit
 that can coordinate with a spotter can use this APC as its spotter (Check [adjustments](../ruleset/H.E.A.T.md#spotters)).
 
-| M113 Spotter | <img src="/factions/nato-symbols/units/tracked-spotter-t.excalidraw.png" align="right" alt="self propelled spotter" height=30 width=auto></img> |
+| M113 Spotter | <img src="/factions/nato-symbols/units/tracked-observer.excalidraw.png" align="right" alt="self propelled spotter" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 55 pt / 60 pt |
 | Capacity | - |
@@ -503,14 +503,42 @@ the ADLER III artillery command system and a BAA II surveillance module.
 
 The unit is mounted on a LGS Fennek 1A4.
 
-| JFST | <img src="/factions/nato-symbols/units/wheeled-spotter-t.excalidraw.png" align="right" alt="Artillery support unit" height=30 width=auto></img> |
+| JFST | <img src="/factions/nato-symbols/units/wheeled-observer.excalidraw.png" align="right" alt="Artillery support unit" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | - |
 | Options | <table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 100<br>(7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Spotter</td><td>Detailed rules see [Rule adjustments](../ruleset/H.E.A.T.md#spotters).</td></tr><tr><td>JFST</td><td>All artillery units which operate via this spotter get use 2D6 for its attack move and may use the preferrable outcome.</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Spotter</td><td>Detailed rules see [Rule adjustments](../ruleset/H.E.A.T.md#spotters).</td></tr><tr><td>JFST</td><td>All artillery units which operate via this spotter<br>get use 2D6 for its attack move and may use<br>the preferrable outcome.</td></tr></table> |
+
+
+### Panzerhaubitze 2000
+
+![pzh2k](/factions/ressources/panzerhaubitze.excalidraw.png)
+
+| Panzerhaubitze 2000 | <img src="/factions/nato-symbols/units/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>L/52 155mm Haubitze</td><td>Medium sized howitzer.</td><td><ul><li>turret-mounted</li><li>Howitzer</li></ul></tr></table> |
+| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG 3 MMG</td><td>Medium machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |
+
+### MARS II MLRS
+
+![mars mlrs](/factions/ressources/mars2.excalidraw.png)
+
+| MARS II MLRS | <img src="/factions/nato-symbols/units/tracked-artillery-mlrs.excalidraw.png" align="right" alt="MLRS System" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 181 pt / 196 pt / 211 pt |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>Cal. 298mm MLRS</td><td>Multiple Launcher Rocket System</td><td><ul><li>turret-mounted</li><li>rocket-launcher</li></ul></tr></table> |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |
+
 
 ***
 
@@ -540,7 +568,7 @@ UHF range, blocking satellite communitation, radios, data connections and more.
 | Capacity | - |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>EK 33 ECM System</td><td>Electronical Warfare System.</td><td><ul><li>top-mounted</li></ul></tr></table> |
-| Special Rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>EK 33</td><td>Activated with a FIRE or AMBUSH. While active, all drones or remotely operated units need to pass a D2 check whether they are operational. If not, they go DOWN.</td></tr><tr><td>Amphibious</td><td>-</td></tr></table> |
+| Special Rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>EK 33</td><td>Activated with a FIRE or AMBUSH.<br>While active, all drones or remotely operated units<br>need to pass a D2 check whether they are operational.<br>If not, they go DOWN.</td></tr><tr><td>Amphibious</td><td>-</td></tr></table> |
 
 ***
 
@@ -854,32 +882,6 @@ and reliability.
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>Rh-120 L/44 120 mm</td><td>120mm smoothbore heavy anti-tank gun</td><td><ul><li>turret-mounted</li></ul></tr><tr><td>MG 3 MMG</td><td>MG 3 MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
 | Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG 3 MMG</td><td>Medium machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
-
-### Panzerhaubitze 2000
-
-![pzh2k](/factions/ressources/panzerhaubitze.excalidraw.png)
-
-| Panzerhaubitze 2000 | <img src="/factions/nato-symbols/units/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | tbd |
-| Capacity | - |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>L/52 155mm Haubitze</td><td>Medium sized howitzer.</td><td><ul><li>turret-mounted</li><li>Howitzer</li></ul></tr></table> |
-| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG 3 MMG</td><td>Medium machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 15 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |
-
-### MARS II MLRS
-
-![mars mlrs](/factions/ressources/mars2.excalidraw.png)
-
-| MARS II MLRS | <img src="/factions/nato-symbols/units/tracked-artillery-mlrs.excalidraw.png" align="right" alt="MLRS System" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | 181 pt / 196 pt / 211 pt |
-| Capacity | - |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>Cal. 298mm MLRS</td><td>Multiple Launcher Rocket System</td><td><ul><li>turret-mounted</li><li>rocket-launcher</li></ul></tr></table> |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |
 
 ### Unterstützungshubschrauber Eurocopter Tiger
 
