@@ -364,7 +364,7 @@ Wiesel I mounted heavy mortar system.
 
 Artillery Observer coordinating fire missions from EUNAVFOR naval assets.
 
-| Artillery forward<br>observer | <img src="/factions/nato-symbols/blufor/art-recon-t.excalidraw.png" align="right" alt="artillery spotter" height=30 width=auto></img> |
+| Artillery forward<br>observer | <img src="/factions/nato-symbols/units/observer-team.excalidraw.png" align="right" alt="artillery spotter" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 100 pt / 115 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -376,7 +376,7 @@ Artillery Observer coordinating fire missions from EUNAVFOR naval assets.
 
 VAB version for artillery coordination.
 
-| APC Observer | <img src="/factions/nato-symbols/units/wheeled-spotter-t.excalidraw.png" align="right" alt="artillery spotter apc" height=30 width=auto></img> |
+| APC Observer | <img src="/factions/nato-symbols/units/wheeled-observer.excalidraw.png" align="right" alt="artillery spotter apc" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
@@ -459,7 +459,7 @@ fixed wing air vehicle for artillery guidance.
 
 Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 
-| MANPADS<br>team | <img src="/factions/nato-symbols/blufor/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
+| MANPADS<br>team | <img src="/factions/nato-symbols/units/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 65 pt / 80 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -692,7 +692,7 @@ anti air system. Capable of air transport with a A400M or helicopter.
 
 ![CAESAR](/factions/ressources/caesar.excalidraw.png)
 
-| CAESAR | <img src="/factions/nato-symbols/units/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
+| CAESAR | <img src="/factions/nato-symbols/units/wheeled-multiaxis-medium-howitzer.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
