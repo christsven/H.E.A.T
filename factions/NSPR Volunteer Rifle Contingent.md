@@ -550,7 +550,7 @@ heavy howitzer.
 
 Forward Observer team for artillery Batteries located off-map.
 
-| Artillery forward Observer | <img src="/factions/nato-symbols/opfor/art-recon-t.excalidraw.png" align="right" alt="Forward Observer" height=30 width=auto></img> |
+| Artillery forward Observer | <img src="/factions/nato-symbols/units/observer-team.excalidraw.png" align="right" alt="Forward Observer" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 100 pt / 115 pt |
 | Reinforcement | up to 2 attendants (SMG) |
@@ -566,7 +566,7 @@ Forward Observer team for artillery Batteries located off-map.
 
 Small team of infantry with a MANPADS Strela Surface-to-air-missile launcher.
 
-| MANPADS team | <img src="/factions/nato-symbols/opfor/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
+| MANPADS team | <img src="/factions/nato-symbols/units/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 65 pt / 80 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -578,7 +578,7 @@ Small team of infantry with a MANPADS Strela Surface-to-air-missile launcher.
 
 The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
-| ZU-23-2 AA gun team | <img src="/factions/nato-symbols/opfor/antiair-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
+| ZU-23-2 AA gun team | <img src="/factions/nato-symbols/units/anti-air-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 40 / 51 / 62 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
