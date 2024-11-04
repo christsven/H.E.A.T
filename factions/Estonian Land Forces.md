@@ -447,7 +447,7 @@ to this day.
 
 ### PzH 2000 Battery Observer
 
-| Artillery forward observer | <img src="/factions/nato-symbols/blufor/art-recon-t.excalidraw.png" align="right" alt="Artillery Observer team" height=30 width=auto></img> |
+| Artillery forward observer | <img src="/factions/nato-symbols/units/observer-team.excalidraw.png" align="right" alt="Artillery Observer team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 100 pt / 115 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -479,7 +479,7 @@ PPZR Piorun MANPADS are a light anti-air system donated by the polish armed forc
 to the estonian army. They were developed in Poland from 2010-15 as a modernization
 of anti air capability.
 
-| PPZR Piorun 72mm MANPADS team | <img src="/factions/nato-symbols/blufor/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
+| PPZR Piorun 72mm MANPADS team | <img src="/factions/nato-symbols/units/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -491,7 +491,7 @@ of anti air capability.
 
 Small team of infantry with a MANPADS Mistral Surface-to-air-missile launcher.
 
-| Mistral MANPADS team | <img src="/factions/nato-symbols/blufor/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
+| Mistral MANPADS team | <img src="/factions/nato-symbols/units/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 65 pt / 80 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -503,7 +503,7 @@ Small team of infantry with a MANPADS Mistral Surface-to-air-missile launcher.
 
 The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
-| ZU-23-2 AA gun team | <img src="/factions/nato-symbols/blufor/antiair-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
+| ZU-23-2 AA gun team | <img src="/factions/nato-symbols/units/anti-air-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 40 / 51 / 62 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -513,7 +513,7 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ### L/70 Bofors gun system
 
-| L/70 Bofors gun team | <img src="/factions/nato-symbols/blufor/antiair-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
+| L/70 Bofors gun team | <img src="/factions/nato-symbols/units/anti-air-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 52 / 63 / 74 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
