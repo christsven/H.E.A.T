@@ -61,7 +61,7 @@ Based in large parts on the [v2 cost calculator](https://www.wargaming3d.com/pro
 
 <a href=""> Unit calculator sheet [.xlsx]</a>
 
-<a href=""> Vehicle calculator sheet [.xlsx]</a>
+<a href="./calculators/vehicle-calculator.xlsx"> Vehicle calculator sheet [.xlsx]</a>
 
 ***
 
@@ -84,10 +84,10 @@ as seen below:
 
 ### Vehicle unit template
 
-Additionally, the following table is used for vehicles, as seen below.
-To better represent the sheer amount of modern vehicle variants, many
-vehicles have replacement options for their main weapon system, or can
-even be fielded without any at all.
+Additionally, the following table is used for vehicles, as seen below. To better
+represent the sheer amount of modern vehicle variants, many vehicles have
+replacement options for their main weapon system, or can even be fielded without
+any at all.
 
 | Vehicle name | Vehicle / helicopter type |
 | :---- | ---- |
@@ -95,5 +95,13 @@ even be fielded without any at all.
 | Capacity | Troop capacity |
 | Damage value | Vehicle damage value |
 | Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Modifiers</td><td><b>Rules</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table> |
-|Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Rule</td><td>This rule does things.</td><td>+/-X [pt/unit]</td></tr><tr><td>...</td><td>...</td><td>+/-X [pt/unit]</td></tr></table><table><tr><td><b>Main Weapon Replacement</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Additional Weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>Modifiers and other information.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table>
+|Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Rule</td><td>This rule does things.</td><td>+/-X [pt/unit]</td></tr><tr><td>...</td><td>...</td><td>+/-X [pt/unit]</td></tr></table><table><tr><td><b>Main Weapon Replacement</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Additional Weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>Modifiers and other information.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example Rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table> |
+
+## Sources
+
+Most images were taken from Wikipedia articles or Google Image searches and
+traced over. All information regarding weapon names were also taken from Wikipedia
+or the websites of their respective origin country or manufacturer.
+
+NATO military iconology according to APP-6(C).
