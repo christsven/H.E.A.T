@@ -17,11 +17,10 @@ often trained and stationed in their own batallions, but are deployed as
 platoons or units in another formation.
 
 To illustrate this without being too nitpicky, we use 3 basic roster as our base
-army lists. We have the light infantry platoon, which is highly mobile, has some
-organic fire support and an emphasis on lots of infantry.
-Following that comes the armoured infantry platoon, which has a focus on the
-combined arms approach of AFVs with infantry and more hard-hitting options.
-Lastly, the armoured platoon, which fields tanks and supporting vehicles.
+army lists. We have the light infantry platoon, which is fields heaps of infantry,
+and lots of fire support. Following that comes the armoured infantry platoon, which has
+a focus on the combined arms approach of AFVs with infantry and more hard-hitting
+options. Lastly, the armoured platoon, which fields tanks and supporting vehicles.
 
 Some armies may also provide more specific rosters for their respective lists,
 since even most conventional armies can have huge differences in their structure,
