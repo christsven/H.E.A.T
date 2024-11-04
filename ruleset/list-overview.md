@@ -77,6 +77,15 @@ Most slots are also subdiveded in the army lists by their headers, so e. g. all
 machine guns are in the "machine gun" section, infantry in the "Infantry" section,
 and so on.
 
+The platoon consists of the mandatory units in white and additional units in
+reddish-beige (mauve?). The white line on the left differentiates the upper core
+part of the platoon, where you may fill slots without any restriction.
+
+The lower part, as described in blue, are the reinforcing attachments.
+They come from other companies or battalions and can be selected as additions, but
+only two rows per platoon are allowed. Once a row is chosen, you can use any or all
+slots of its row.
+
 ### Light infantry platoon
 
 The light infantry platoon has a focus on lots of infantry with a large pool of
