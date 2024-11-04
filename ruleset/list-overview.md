@@ -9,14 +9,14 @@ for the fact that we dont have several million active soldiers in service (the
 german army saw about 13 million soldiers serve in 36 divisions).
 
 Today, a single brigade, batallion or even company can be much more diverse in
-its equipment and attachments. Many companies have organic (e. g. the systems
-actually belong to the formation) fire support or weapon systems and oftentimes,
-specialized units are added to a larger formation to reinforce them (such as
-engineers, anti-air systems or artillery, which are often trained and stationed
-in their own batallions, but are deployed as platoons or units in another
-formation.)
+its equipment and attachments. Many companies have organic fire support or weapon
+systems (meaning the systems actually belong to the formation). Furthermore,
+specialized units are added to a larger formation to reinforce them. They serve them
+as force multipliers, such as engineers, anti-air systems or artillery, which are
+often trained and stationed in their own batallions, but are deployed as
+platoons or units in another formation.
 
-To illustrate this without being too nitpicky, we use 3 basic rosters as our base
+To illustrate this without being too nitpicky, we use 3 basic roster as our base
 army lists. We have the light infantry platoon, which is highly mobile, has some
 organic fire support and an emphasis on lots of infantry.
 Following that comes the armoured infantry platoon, which has a focus on the
