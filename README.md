@@ -38,7 +38,7 @@ explanation of how to understand the NATO symbols describing each unit, as well 
 generic rosters applicable to any army. Some factions may include special platoon
 structures, but these are universal.
 
-[Platoon roster overview](/)
+[List making overview](/ruleset/list-overview.md)
 
 ***
 
