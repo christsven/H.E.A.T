@@ -80,11 +80,18 @@ and so on.
 
 ### Light infantry platoon
 
-The light infantry platoon has a focus on mobile
+The light infantry platoon has a focus on lots of infantry with a large pool of
+support options. While no heavy options are available, light infantry platoons
+get more units per attachment.
 
 ![Light infantry platoon](/ruleset/generic_platoons/generic_light_infantry_platoon.excalidraw.png)
 
 ### Armoured infantry platoon
+
+Armoured infantry consists of a a mix of IFVs with mounted infantry and a range
+of attachments. While not as many options are available as to light infantry,
+armoured infantry platoons are able to attach heavy systems such as tanks or
+helicopters, and still field enough organic infantry to engage any threat.
 
 ![armoured infantry platoon](/ruleset/generic_platoons/generic_armoured_infantry_platoon.excalidraw.png)
 
