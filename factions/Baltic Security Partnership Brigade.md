@@ -424,7 +424,7 @@ heavy mortar team.
 
 Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 
-| MANPADS team | <img src="/factions/nato-symbols/blufor/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
+| MANPADS team | <img src="/factions/nato-symbols/units/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 65 pt / 80 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -436,7 +436,7 @@ Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 
 The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
-| ZU-23-2 AA gun team | <img src="/factions/nato-symbols/blufor/antiair-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
+| ZU-23-2 AA gun team | <img src="/factions/nato-symbols/units/anti-air-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 40 / 51 / 62 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -446,7 +446,7 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ### L/70 Bofors anti air gun
 
-| L/70 Bofors gun team | <img src="/factions/nato-symbols/blufor/antiair-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
+| L/70 Bofors gun team | <img src="/factions/nato-symbols/units/anti-air-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 52 / 63 / 74 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
@@ -461,7 +461,7 @@ lithuanian anti UAV system. The weapon interferes with the communication of the
 UAV with satellites and ground operators by jamming it with electromagnetic
 pulses at up to 5km of range. Issued for experimental use.
 
-| EDM4S Anti Drone team | <img src="/factions/nato-symbols/blufor/ew-rifle-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
+| EDM4S Anti Drone team | <img src="/factions/nato-symbols/units/ew-rifle.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 50 pt / 65 pt / 80 pt |
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
