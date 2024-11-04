@@ -31,6 +31,20 @@ Bolt Action rulebook.
 
 ***
 
+## Lists
+
+Since v3, we no longer have the army list, but platoon structures. Below are the
+generic army lists which can be used for any faction, but some army lists come
+with unique platoons which may also be used.
+
+[Generic mechanized infantry platoon](/)
+
+[Generic light infantry platoon](/)
+
+[Generic armoured platoon](/)
+
+***
+
 ## Theatres
 
 A list of theatres with their own storyline, scenarios templates, army lists and
