@@ -232,4 +232,8 @@ overlooking the river Narva.
 
 ### Last Stand
 
+<p align=center>
+<img src="/scenarios/ressources/johvi-layout.excalidraw.png" alt="Johvi scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+</p>
+
 After losing most ground, the NSPR was defeated in a last battle for the Jõhvi garrison.
