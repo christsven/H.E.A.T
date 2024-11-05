@@ -549,9 +549,3 @@ The vehicle pool is a mix of former soviet equipment, some stolen western/estoni
 armed forces materiell, small amounts of modern russian weaponry and just reworked
 civilian technicals. Additionally, some civilian drones are used for surveillance,
 as IED carriers or suicide drones.
-
-#### Russian Armed Forces
-
-<p align=center>
-<img src="/scenarios/ressources/rf-logo.excalidraw.png" alt="RF Ground Forces" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
-</p>
