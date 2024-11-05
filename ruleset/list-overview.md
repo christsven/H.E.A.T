@@ -105,6 +105,10 @@ helicopters, and still field enough organic infantry to engage any threat.
 
 ### Armoured tank platoon
 
+Armoured platoons are comparatively simple: They are the tank sections of an army.
+Here, all units in a platoon are vehicles, up to the platoon leader, with only few
+other units attached to them.
+
 ![armoured platoon](/ruleset/generic_platoons/generic_armoured_platoon.excalidraw.png)
 
 ## FAQ
