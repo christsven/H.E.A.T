@@ -33,10 +33,9 @@ Bolt Action rulebook.
 
 ## Lists
 
-Since v3, we no longer have the army list, but platoon structures. Below is the
-explanation of how to understand the NATO symbols describing each unit, as well as
-generic rosters applicable to any army. Some factions may include special platoon
-structures, but these are universal.
+Since v3, we no longer have the army list, but platoon structures. Below are the
+three basic roster applicable for all armies, as well as a brief overview over the
+NATO military symbols used in the army lists.
 
 [List making overview](/ruleset/list-overview.md)
 
