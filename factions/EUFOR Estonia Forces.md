@@ -493,7 +493,7 @@ fixed wing air vehicle for artillery guidance.
 
 ![AMX-30 AuF1](/factions/ressources/amx30auf1.excalidraw.png)
 
-| Panzerhaubitze 2000 | <img src="/factions/nato-symbols/units/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
+| AMX-30 AuF1 | <img src="/factions/nato-symbols/units/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |
