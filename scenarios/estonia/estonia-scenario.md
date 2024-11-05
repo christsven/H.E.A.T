@@ -211,8 +211,8 @@ for reinforcements.
 
 ### Fight for Narva City
 
-Reinforced by the NATO mission, the estonian army took back Narva city in a long
-fight through the streets.
+Reinforced by the NATO mission, the estonian army took back Narva city with a
+thunder run followed by drawnout urban combat missions.
 
 ### First battle for Balti power station
 
@@ -227,8 +227,8 @@ the power station with boats and tanks.
 
 ### Siege at Hermann Castle
 
-The Narva City campaign was prolonged by a stronghold at the river itself
-which was occupied by a NSPR company.
+The Narva City campaign reached its climax in a modern siege on the old castle
+overlooking the river Narva.
 
 ### Last Stand
 
