@@ -46,7 +46,7 @@ Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
 estonian and latvian equipment. 2016 onward.<br><br><i>Airmobility and light infantry are the main feature, with a mix of baltic equipment.</i><br><br><a href="/factions/Baltic%20Security%20Partnership%20Brigade.md">BASEP Army List</a>
 </p>
 
-#### WIP: EUFOR Estonia
+#### EUFOR Estonia
 
 <p align=center>
 <img width="70%" height="auto" src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Estonia Forces" >
