@@ -178,7 +178,7 @@ dam led to a skirmish between the two.
 </p>
 
 The decentralized logistical grid helped the NSPR against singular artillery strikes,
-but made them susseptible against raid attacks via helicopter by the border guards.
+but made them susceptible to raid attacks by helicopter from estonian border guards.
 
 ### Attack on convoi
 
