@@ -110,7 +110,3 @@ Here, all units in a platoon are vehicles, up to the platoon leader, with only f
 other units attached to them.
 
 ![armoured platoon](/ruleset/generic_platoons/generic_armoured_platoon.excalidraw.png)
-
-## FAQ
-
-### What is the difference between APCs/IFVs and Heavy systems?
