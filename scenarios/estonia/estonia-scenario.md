@@ -146,7 +146,7 @@ The bitter urban fighting for Kothla Järve, the former capitol city of
 Ida Viru, culminated in a battle over the city hall alongside the Keskallee in
 the city centre.
 
-| **Urban fighting in Kothla Järve** | |
+| **Urban fighting** | |
 | :--- | :--- |
 | **Objective/Game Mode** | Objective Defense |
 | **Set-Up** | - Set up a table with a large city hall flanked by other administratie buildings adjacent to a wide, forested promenade. This is the objective as well as the starting position for defending forces.<br> - The rest of the table can be set up with smaller buildings, parks, open areas and fortifications, as desired.<br> - Attackers are allowed to choose a side from which to attack and set up their units along the table edge. |
@@ -180,6 +180,13 @@ dam led to a skirmish between the two.
 The decentralized logistical grid helped the NSPR against singular artillery strikes,
 but made them susceptible to raid attacks by helicopter from estonian border guards.
 
+| **Bog raids** | |
+| :--- | :--- |
+| **Objective/Game Mode** | Objective Defense |
+| **Set-Up** | |
+| **Game Duration** | 6 + 1 Turns |
+| **Victory Conditions** | |
+
 ### Attack on convoi
 
 <p align=center>
@@ -187,6 +194,13 @@ but made them susceptible to raid attacks by helicopter from estonian border gua
 </p>
 
 A planned attack on an EUFOR convoi was widely televised as a propaganda tool.
+
+| **Convoi attack** | |
+| :--- | :--- |
+| **Objective/Game Mode** | Objective Defense |
+| **Set-Up** | |
+| **Game Duration** | 6 + 1 Turns |
+| **Victory Conditions** | |
 
 ### Battle below the Ashen Hills
 
@@ -198,6 +212,13 @@ With the arrival of EUFOR troops, the estonian forces slowly pushed out NSPR hol
 from the larger settlements, with a notable fight below the artificial hills of
 the old oil shale excavation sites in Kivioli.
 
+| **Ash Hill Battle** | |
+| :--- | :--- |
+| **Objective/Game Mode** | Objective Defense |
+| **Set-Up** | |
+| **Game Duration** | 6 + 1 Turns |
+| **Victory Conditions** | |
+
 ### EUFOR port raid on Sillimäe
 
 <p align=center>
@@ -207,6 +228,13 @@ the old oil shale excavation sites in Kivioli.
 NAVEUFOR attacked Sillimäe port in a night campaign, securing a bridgehead
 for reinforcements.
 
+| **Sillimäe Port Raid** | |
+| :--- | :--- |
+| **Objective/Game Mode** | Objective Defense |
+| **Set-Up** | |
+| **Game Duration** | 6 + 1 Turns |
+| **Victory Conditions** | |
+
 ***
 
 ### Fight for Narva City
@@ -214,21 +242,49 @@ for reinforcements.
 Reinforced by the NATO mission, the estonian army took back Narva city with a
 thunder run followed by drawnout urban combat missions.
 
+| **Narva City** | |
+| :--- | :--- |
+| **Objective/Game Mode** | Objective Defense |
+| **Set-Up** | |
+| **Game Duration** | 6 + 1 Turns |
+| **Victory Conditions** | |
+
 ### First battle for Balti power station
 
 The large power plant south of Narva saw a coordinated attack by BASEP and
 EUFOR, taking control of the facility and using it as a staging ground for the Narva
 campaign.
 
+| **First power station battle** | |
+| :--- | :--- |
+| **Objective/Game Mode** | Objective Defense |
+| **Set-Up** | |
+| **Game Duration** | 6 + 1 Turns |
+| **Victory Conditions** | |
+
 ### Second Battle for Balti power station
 
 Shortly after the loss of the first battle, NSPR forces started a counterattack on
 the power station with boats and tanks.
 
+| **Second power station battle** | |
+| :--- | :--- |
+| **Objective/Game Mode** | Objective Defense |
+| **Set-Up** | |
+| **Game Duration** | 6 + 1 Turns |
+| **Victory Conditions** | |
+
 ### Siege at Hermann Castle
 
 The Narva City campaign reached its climax in a modern siege on the old castle
 overlooking the river Narva.
+
+| **Hermann Castle siege** | |
+| :--- | :--- |
+| **Objective/Game Mode** | Objective Defense |
+| **Set-Up** | |
+| **Game Duration** | 6 + 1 Turns |
+| **Victory Conditions** | |
 
 ### Last Stand
 
@@ -237,3 +293,10 @@ overlooking the river Narva.
 </p>
 
 After losing most ground, the NSPR was defeated in a last battle for the Jõhvi garrison.
+
+| **Last stand** | |
+| :--- | :--- |
+| **Objective/Game Mode** | Objective Defense |
+| **Set-Up** | |
+| **Game Duration** | 6 + 1 Turns |
+| **Victory Conditions** | |
