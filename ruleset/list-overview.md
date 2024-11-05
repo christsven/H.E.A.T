@@ -9,19 +9,18 @@ for the fact that we dont have several million active soldiers in service (the
 german army saw about 13 million soldiers serve in 36 divisions).
 
 Today, a single brigade, batallion or even company can be much more diverse in
-its equipment and attachments. Many companies have organic (e. g. the systems
-actually belong to the formation) fire support or weapon systems and oftentimes,
-specialized units are added to a larger formation to reinforce them (such as
-engineers, anti-air systems or artillery, which are often trained and stationed
-in their own batallions, but are deployed as platoons or units in another
-formation.)
+its equipment and attachments. Many companies have organic fire support or weapon
+systems (meaning the systems actually belong to the formation). Furthermore,
+specialized units are added to a larger formation to reinforce them. They serve them
+as force multipliers, such as engineers, anti-air systems or artillery, which are
+often trained and stationed in their own batallions, but are deployed as
+platoons or units in another formation.
 
-To illustrate this without being too nitpicky, we use 3 basic rosters as our base
-army lists. We have the light infantry platoon, which is highly mobile, has some
-organic fire support and an emphasis on lots of infantry.
-Following that comes the armoured infantry platoon, which has a focus on the
-combined arms approach of AFVs with infantry and more hard-hitting options.
-Lastly, the armoured platoon, which fields tanks and supporting vehicles.
+To illustrate this without being too nitpicky, we use 3 basic roster as our base
+army lists. We have the light infantry platoon, which is fields heaps of infantry,
+and lots of fire support. Following that comes the armoured infantry platoon, which has
+a focus on the combined arms approach of AFVs with infantry and more hard-hitting
+options. Lastly, the armoured platoon, which fields tanks and supporting vehicles.
 
 Some armies may also provide more specific rosters for their respective lists,
 since even most conventional armies can have huge differences in their structure,
@@ -78,6 +77,15 @@ Most slots are also subdiveded in the army lists by their headers, so e. g. all
 machine guns are in the "machine gun" section, infantry in the "Infantry" section,
 and so on.
 
+The platoon consists of the mandatory units in white and additional units in
+reddish-beige (mauve?). The white line on the left differentiates the upper core
+part of the platoon, where you may fill slots without any restriction.
+
+The lower part, as described in blue, are the reinforcing attachments.
+They come from other companies or battalions and can be selected as additions, but
+only two rows per platoon are allowed. Once a row is chosen, you can use any or all
+slots of its row.
+
 ### Light infantry platoon
 
 The light infantry platoon has a focus on lots of infantry with a large pool of
@@ -96,6 +104,10 @@ helicopters, and still field enough organic infantry to engage any threat.
 ![armoured infantry platoon](/ruleset/generic_platoons/generic_armoured_infantry_platoon.excalidraw.png)
 
 ### Armoured tank platoon
+
+Armoured platoons are comparatively simple: They are the tank sections of an army.
+Here, all units in a platoon are vehicles, up to the platoon leader, with only few
+other units attached to them.
 
 ![armoured platoon](/ruleset/generic_platoons/generic_armoured_platoon.excalidraw.png)
 
