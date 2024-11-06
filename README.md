@@ -29,9 +29,7 @@ Bolt Action rulebook.
 
 [Quick Chart Expansion (PC)](ruleset/quickchart-pc.excalidraw.png)
 
-***
-
-## Lists
+### Lists
 
 <p align=center>
 <img src="ruleset/ressources/list-introduction.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" alt="image of military symbols">
