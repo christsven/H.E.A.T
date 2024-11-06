@@ -216,6 +216,10 @@ Anti materiell rifle sniper team.
 
 ### Sani
 
+Medics move among the frontline and try to rescue any casualties that happen close
+to them. Just as in the original ruleset, they are treated as true profesionalls,
+only worthy of the "Veteran" status.
+
 | Medic | <img src="/factions/nato-symbols/blufor/medic-t.excalidraw.png" align="right" alt="medical operator" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - / - / 45 pt |
@@ -258,9 +262,10 @@ The more modern counterpart and future main machine gun of the german forces.
 
 ### .50cal Browning HMG team
 
-.50cal HMG team.
+Heavy machine gun system used to surpress enemy forces at longer ranges, as well
+as lightly armoured vehicles.
 
-| .50cal Browning HMG team | <img src="/factions/nato-symbols/units/hmg-t.excalidraw.png" align="right" alt="heavy machine gun team" height=30 width=auto></img> |
+| HMG team | <img src="/factions/nato-symbols/units/hmg-t.excalidraw.png" align="right" alt="heavy machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 49 pt / 70 pt / 91 pt |
 | Reinforcement | - |
@@ -272,7 +277,7 @@ The more modern counterpart and future main machine gun of the german forces.
 
 A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special services.
 
-| MG3 quad | <img src="/factions/nato-symbols/units/mmg-q.excalidraw.png" align="right" alt="medium machine gun quad" height=30 width=auto></img> |
+| MMG quad | <img src="/factions/nato-symbols/units/mmg-q.excalidraw.png" align="right" alt="medium machine gun quad" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - pt / 65 pt / 80 pt |
 | Reinforcement | - |
@@ -319,7 +324,7 @@ light vehicles.
 Anti-tank rocket team, equipped with Panzerfaust 3, which is the standard issue
 german RPG.
 
-| PzF 3 team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| RPG team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | - |
@@ -329,11 +334,21 @@ german RPG.
 
 ### MELLS ATGM team
 
-Anti-tank guided missile team, a valid threat to any armoured vehicle. Equipped
-with modern, israeli "Spike" missiles, under the german designation "MELLS" for
-"Mehrrollenfähiges Leichtes Lenkflugkörper-System".
+Anti-tank guided missile team, a valid threat to any armoured vehicle. The team
+is equipped with modern, israeli "Spike" missiles, under the german designation
+"MELLS" for "Mehrrollenfähiges Leichtes Lenkflugkörper-System".
 
-| MELLS ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
+The MELLS is able to use "fire-and-forget"-capable missiles with infrared seakers.
+Tanks and other heavily armoured targets can furthermore be attacked in a TOP-DOWN
+attack, striking the roof of the tank, which is oftentimes less armoured than the
+front.
+
+Anti-tank guided missiles are used against heavily armoured targets, and are
+oftentimes launched from a man-portable weapon system or from a vehicle mount.
+They are able to traverse large areas and more modern targeting systems do not
+even require the operator themselves to aid the missile to its target.
+
+| ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |

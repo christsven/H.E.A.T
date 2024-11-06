@@ -207,6 +207,10 @@ Anti materiell rifle sniper team.
 
 ### Medical specialist
 
+Medics move among the frontline and try to rescue any casualties that happen close
+to them. Just as in the original ruleset, they are treated as true profesionalls,
+only worthy of the "Veteran" status.
+
 | Medic | <img src="/factions/nato-symbols/blufor/medic-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - / - / 45 pt |
@@ -234,7 +238,8 @@ MG3 MMG team.
 
 ### .50cal Browning HMG team
 
-.50cal HMG team.
+Heavy machine gun system used to surpress enemy forces at longer ranges, as well
+as lightly armoured vehicles.
 
 | .50cal Browning HMG team | <img src="/factions/nato-symbols/units/hmg-t.excalidraw.png" align="right" alt="heavy machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
@@ -286,11 +291,19 @@ brigades.
 | Options | <table><table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</td></tr><tr><td>Tandem HEAT Charge</td><td>Heavier charge than  normal<br>round, but less range.<br>Check [ruleset](../ruleset/H.E.A.T.md#tandem-heat-charges) for details.</td><td>+15 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
-### FMG-48 Javelin team
+### FMG-148 Javelin team
 
-Anti-tank guided missile team, a valid threat to any armoured vehicle.
+The Javelin is a popular ATGM system developed in the United States, which is
+able to use "fire-and-forget"-capable missiles with infrared seakers. Tanks and
+other heavily armoured targets can furthermore be attacked in a TOP-DOWN attack,
+striking the roof of the tank, which is oftentimes less armoured than the front.
 
-| Javelin team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
+Anti-tank guided missiles are used against heavily armoured targets, and are
+oftentimes launched from a man-portable weapon system or from a vehicle mount.
+They are able to traverse large areas and more modern targeting systems do not
+even require the operator themselves to aid the missile to its target.
+
+| ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |
@@ -303,6 +316,11 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 The Pansarvärnspjäs 1110, commonly abbreviated as Pvpj-1110 and nicknamed
 "stove pipe", is a swedish anti tank recoilless rifle. It is mounted on a one-axial
 carriage and can be towed.
+
+Recoilless guns or rifles are lightweight artillery pieces, or in this case man-
+portable launchers, which propel a large projectile and a counterweight at the
+same time. This way, the recoil is mitigated, allowing for a simpler, lighter
+design compared to weapons of similar calibre and effect.
 
 | Recoilless gun team | <img src="/factions/nato-symbols/units/recoilless-gun.excalidraw.png" align="right" alt="Recoilless gun team" height=30 width=auto></img> |
 | :---- | ---- |

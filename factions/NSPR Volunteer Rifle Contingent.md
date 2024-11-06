@@ -251,7 +251,7 @@ enemy forces in the dynamic enviromnent of warfare.
 | Reinforcement | up to 2 attendants (SMG): 7 pt / 10 pt / 13 pt |
 | Setup | NCO (SMG) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>Explosives</td><td>Explosives pipe</td><td>+15 pt</td></tr></table><table><tr><td><b>Optional Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Cavalry</td><td>-</td><td>+1 pt/u</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr><tr><td>Sapper</td><td>See [ruleset](../ruleset/H.E.A.T.md#sapper) for more information.</td></tr>><tr><td>Cavalry (*if selected*)</td><td>-</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr><tr><td>Sapper</td><td>See [ruleset](../ruleset/H.E.A.T.md#sapper) for more information.</td></tr><tr><td>Cavalry (*if selected*)</td><td>-</td></tr></table> |
 
 ### Dragunov sniper team
 
@@ -283,6 +283,10 @@ cover.
 
 ### Medic
 
+Medics move among the frontline and try to rescue any casualties that happen close
+to them. Just as in the original ruleset, they are treated as true profesionalls,
+only worthy of the "Veteran" status.
+
 | Medic | <img src="/factions/nato-symbols/opfor/medic-t.excalidraw.png" align="right" alt="Medic team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - / - / 45 pt |
@@ -309,7 +313,8 @@ A machine gun team equipped with a RPK.
 
 ### NSV HMG team
 
-Infantry unit equipped with an HMG, used to surpress infantry sections, light vehicles and helicopters.
+Heavy machine gun system used to surpress enemy forces at longer ranges, as well
+as lightly armoured vehicles.
 
 | NSV team | <img src="/factions/nato-symbols/units/hmg-t.excalidraw.png" align="right" alt="Machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
@@ -364,9 +369,10 @@ Weapon fires to the front and sides.
 
 ### RPG-7 team
 
-Infantry section equipped with an AT RPG launcher. Used against small vehicles and lightly armoured tanks.
+Infantry section equipped with an AT RPG launcher. Used against small vehicles
+and lightly armoured tanks.
 
-| RPG-7 team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="RPG Team" height=30 width=auto></img> |
+| RPG team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="RPG Team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | - |
@@ -376,9 +382,12 @@ Infantry section equipped with an AT RPG launcher. Used against small vehicles a
 
 ### 9K113 Konkurs ATGM team
 
-Anti-tank guided missile team, a valid threat to any armoured vehicle.
+Anti-tank guided missiles are used against heavily armoured targets, and are
+oftentimes launched from a man-portable weapon system or from a vehicle mount.
+They are able to traverse large areas and more modern targeting systems do not
+even require the operator themselves to aid the missile to its target.
 
-| 9K113 Konkurs ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="ATGM team" height=30 width=auto></img> |
+| ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="ATGM team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |
@@ -387,6 +396,11 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
 ### SPG-9 73mm recoilless rifle team
+
+Recoilless guns or rifles are lightweight artillery pieces, or in this case man-
+portable launchers, which propel a large projectile and a counterweight at the
+same time. This way, the recoil is mitigated, allowing for a simpler, lighter
+design compared to weapons of similar calibre and effect.
 
 | Recoilless rifle team | <img src="/factions/nato-symbols/units/recoilless-gun.excalidraw.png" align="right" alt="recoilless gun team" height=30 width=auto></img> |
 | :---- | ---- |
@@ -397,6 +411,11 @@ Anti-tank guided missile team, a valid threat to any armoured vehicle.
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></table> |
 
 ### B-10 82mm recoilless rifle team
+
+Recoilless guns or rifles are lightweight artillery pieces, or in this case man-
+portable launchers, which propel a large projectile and a counterweight at the
+same time. This way, the recoil is mitigated, allowing for a simpler, lighter
+design compared to weapons of similar calibre and effect.
 
 | Recoilless rifle team | <img src="/factions/nato-symbols/units/recoilless-gun.excalidraw.png" align="right" alt="recoilless gun team" height=30 width=auto></img> |
 | :---- | ---- |
@@ -548,7 +567,8 @@ heavy howitzer.
 
 ### Artillery forward observer
 
-Forward Observer team for artillery Batteries located off-map.
+Forward Observer team for artillery Batteries located off-map. Is able to call in
+a massive artillery barrage from  artillery batteries at standby.
 
 | Artillery forward Observer | <img src="/factions/nato-symbols/units/observer-team.excalidraw.png" align="right" alt="Forward Observer" height=30 width=auto></img> |
 | :---- | ---- |

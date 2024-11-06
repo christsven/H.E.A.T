@@ -221,6 +221,10 @@ Anti materiell rifle sniper team.
 
 ### Medical specialist
 
+Medics move among the frontline and try to rescue any casualties that happen close
+to them. Just as in the original ruleset, they are treated as true profesionalls,
+only worthy of the "Veteran" status.
+
 | Medic | <img src="/factions/nato-symbols/blufor/medic-t.excalidraw.png" align="right" alt="medical operator" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | - / - / 45 pt |
@@ -260,7 +264,8 @@ in most parts of the french army.
 
 ### .50cal Browning HMG team
 
-.50cal HMG team.
+Heavy machine gun system used to surpress enemy forces at longer ranges, as well
+as lightly armoured vehicles.
 
 | .50cal Browning HMG team | <img src="/factions/nato-symbols/units/hmg-t.excalidraw.png" align="right" alt="heavy machine gun team" height=30 width=auto></img> |
 | :---- | ---- |
@@ -304,6 +309,11 @@ german RPG.
 EUFOR fields a number of european ATGM launchers, most prominently the MILAN ATGM
 and the Eryx ATGM systems.
 
+Anti-tank guided missiles are used against heavily armoured targets, and are
+oftentimes launched from a man-portable weapon system or from a vehicle mount.
+They are able to traverse large areas and more modern targeting systems do not
+even require the operator themselves to aid the missile to its target.
+
 |  ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
@@ -312,11 +322,19 @@ and the Eryx ATGM systems.
 | Options |- |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
-### FMG-48 Javelin team
+### FMG-148 Javelin team
 
-Anti-tank guided missile team, a valid threat to any armoured vehicle.
+The Javelin is a popular ATGM system developed in the United States, which is
+able to use "fire-and-forget"-capable missiles with infrared seakers. Tanks and
+other heavily armoured targets can furthermore be attacked in a TOP-DOWN attack,
+striking the roof of the tank, which is oftentimes less armoured than the front.
 
-| Javelin team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
+Anti-tank guided missiles are used against heavily armoured targets, and are
+oftentimes launched from a man-portable weapon system or from a vehicle mount.
+They are able to traverse large areas and more modern targeting systems do not
+even require the operator themselves to aid the missile to its target.
+
+| ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 60 pt / 75 pt / 90 pt |
 | Reinforcement | - |

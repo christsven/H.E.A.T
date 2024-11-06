@@ -251,6 +251,10 @@ thunder run followed by drawnout urban combat missions.
 
 ### First battle for Balti power station
 
+<p align=center>
+<img src="/scenarios/ressources/balti1-layout.excalidraw.png" alt="balti first battle scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+</p>
+
 The large power plant south of Narva saw a coordinated attack by BASEP and
 EUFOR, taking control of the facility and using it as a staging ground for the Narva
 campaign.
@@ -263,6 +267,10 @@ campaign.
 | **Victory Conditions** | |
 
 ### Second Battle for Balti power station
+
+<p align=center>
+<img src="/scenarios/ressources/balti2-layout.excalidraw.png" alt="balti second battle scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+</p>
 
 Shortly after the loss of the first battle, NSPR forces started a counterattack on
 the power station with boats and tanks.
