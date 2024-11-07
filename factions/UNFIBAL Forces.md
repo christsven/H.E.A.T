@@ -350,3 +350,48 @@ phases to make it more navigable.
 ***
 
 ## Transports
+
+### Truck
+
+![generic truck](/factions/ressources/truck.excalidraw.png)
+
+| Truck | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 16 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Default weapon configuration | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
+
+### Range Rover
+
+![generic toyota](/factions/ressources/toyota-conventional.excalidraw.png)
+
+| Range Rover | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 12 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
+
+### Jeep
+
+![generic jeep](/factions/ressources/jeep-west.excalidraw.png)
+
+| Wolf G5 Jeep | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 6 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
+
+### S-Boot
+
+![polaris rzr](/factions/ressources/boat.excalidraw.png)
+
+| Boat | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 6 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr><tr><td>Waterborne</td><td>-</td></tr></table> |

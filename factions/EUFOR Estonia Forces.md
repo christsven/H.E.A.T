@@ -810,73 +810,66 @@ anti air system. Capable of air transport with a A400M or helicopter.
 | Options |*The Tiger has 4 hardpoints, which can be equipped with the following weapon pods:*<table><tr><td><b>Weapon Pod</td><td><b>Modifier</td><td><b>Cost</td></tr><tr><td>12.7mm rotary gun pod</td><td><ul><li>front-facing</li><li>heavy machine gun</li></ul></td><td>+25 pt/u</td></tr><tr><td>30mm autocannon<br>pod</td><td><ul><li>front-facing</li><li>medium auto cannon</li><li>HE 1"</li></ul></td><td>+30 pt/u</td></tr><tr><td>23mm autocannon pod </td><td><ul><li>front-facing</li><li>light auto cannon</li><li>HE 1"</li></ul></td><td>+40 pt/u</td></tr><tr><td>HEAT dump rockets</td><td><ul><li>front-facing</li><li>medium rocket pod</li><li>HE 2"</li></ul></td><td>+70 pt/u</td></tr><tr><td>70mm hydra rockets</td><td><ul><li>front-facing</li><li>medium missile</li><li>HE 2"</li><li>Single Use</li></ul></td><td>+65 pt/u</td></tr></table>*Additional Options:*<table><tr><td><b>Option</td><td><b>Cost</td></tr><tr><td>Countermeasures</td><td>+20 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher (*if selected*)</td><td>-</td></tr><tr><td>Indirect Fire (*if selected*)</td><td>-</td></tr><tr><td>HE 3" (*if selected*)</td><td>-</td></tr></table> |
 
-
 ***
 
 ## Transports
 
-### M113 Transport
+### EC725 Caracal / Super Cougar H225M
 
-| M113 | Armoured Carrier |
+### AS550 Fennec
+
+### MAN gl Truck
+
+![generic truck](/factions/ressources/truck.excalidraw.png)
+
+| Truck | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 85 pt / 90 pt / 95 pt |
-| Capacity | 15 soldiers |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>-</td></tr></table> |
-
-### TPz Fuchs 1A4/5 Transport
-
-| TPz Fuchs 1A4/5 | Armoured Carrier |
-| :---- | ---- |
-| Cost | 60 pt / 65 pt / 70 pt |
-| Capacity | 8 soldiers |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG3 MMG <br>(*3x possible*)</td><td>Medium machine guns,<br>either at the co-pilot's hatch (*front-right*),<br> the commander's hatch (*center-right*),<br> or the transport room hatch (*back-left*).<br></td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt each</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>-</td></tr></table> |
-
-### GTK Boxer Tranport
-
-| GTK Boxer | Armoured Carrier |
-| :---- | ---- |
-| Cost | 55 pt / 60 pt / 65 pt |
-| Capacity | 7 soldiers |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options | - |
-| Special rules | - |
-
-### MAN gl Transport
-
-| MAN gl | Soft-Skinned Vehicle |
-| :---- | ---- |
-| Cost | 25 pt / 30 pt / 35 pt |
+| Cost | tbd |
 | Capacity | 16 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
-| Default weapon configuration |- |
-| Options | - |
-| Special rules | - |
+| Default weapon configuration | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
-### Unimog
+### Toyota/Range Rover
 
-| Unimog | Soft-Skinned Vehicle |
+![generic toyota](/factions/ressources/toyota-conventional.excalidraw.png)
+
+| Range Rover | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 20 pt / 25 pt / 30 pt |
+| Cost | tbd |
 | Capacity | 12 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
-| Default weapon configuration |- |
-| Options | - |
-| Special rules | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
-### Wolf G5 Jeep
+### Mercedes G "Wolf"
 
-| Wolf G5 Jeep | Soft-Skinned Vehicle |
+![generic jeep](/factions/ressources/jeep-west.excalidraw.png)
+
+| Wolf G5 Jeep | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 15 pt / 20 pt / 25 pt |
+| Cost | tbd |
 | Capacity | 6 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
-| Default weapon configuration |- |
-| Options | - |
-| Special rules | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
+
+### MRZR-2/4 Polaris RZR 4x4
+
+![polaris rzr](/factions/ressources/polaris.excalidraw.png)
+
+| Polaris RZR | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 5 soldiers |
+| Damage value | 6+ Soft-skinned Vehicle |
+| Special rules |- |
+
+### S-Boot
+
+![polaris rzr](/factions/ressources/boat.excalidraw.png)
+
+| Boat | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 6 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr><tr><td>Waterborne</td><td>-</td></tr></table> |

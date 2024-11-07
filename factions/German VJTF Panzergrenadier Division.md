@@ -919,68 +919,58 @@ units were produced. It saw service in Afghanistan, Libya, and Mali.
 
 ## Transports
 
-### M113 Transport
+### MAN gl Truck
 
-| M113 | Armoured Carrier |
+![generic truck](/factions/ressources/truck.excalidraw.png)
+
+| Truck | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 85 pt / 90 pt / 95 pt |
-| Capacity | 15 soldiers |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>-</td></tr></table> |
-
-### TPz Fuchs 1A4/5 Transport
-
-| TPz Fuchs 1A4/5 | Armoured Carrier |
-| :---- | ---- |
-| Cost | 60 pt / 65 pt / 70 pt |
-| Capacity | 8 soldiers |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MG3 MMG <br>(*3x possible*)</td><td>Medium machine guns,<br>either at the co-pilot's hatch (*front-right*),<br> the commander's hatch (*center-right*),<br> or the transport room hatch (*back-left*).<br></td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt each</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>-</td></tr></table> |
-
-### GTK Boxer Tranport
-
-| GTK Boxer | Armoured Carrier |
-| :---- | ---- |
-| Cost | 55 pt / 60 pt / 65 pt |
-| Capacity | 7 soldiers |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options | - |
-| Special rules | - |
-
-### MAN gl Transport
-
-| MAN gl | Soft-Skinned Vehicle |
-| :---- | ---- |
-| Cost | 25 pt / 30 pt / 35 pt |
+| Cost | tbd |
 | Capacity | 16 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
-| Default weapon configuration |- |
-| Options | - |
-| Special rules | - |
+| Default weapon configuration | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
-### Unimog Transport
+### Toyota/Range Rover
 
-| Unimog | Soft-Skinned Vehicle |
+![generic toyota](/factions/ressources/toyota-conventional.excalidraw.png)
+
+| Range Rover | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 20 pt / 25 pt / 30 pt |
+| Cost | tbd |
 | Capacity | 12 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
-| Default weapon configuration |- |
-| Options | - |
-| Special rules | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
-### Wolf G5 Jeep Transport
+### Mercedes G "Wolf"
 
-| Wolf G5 Jeep | Soft-Skinned Vehicle |
+![generic jeep](/factions/ressources/jeep-west.excalidraw.png)
+
+| Wolf G5 Jeep | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 15 pt / 20 pt / 25 pt |
+| Cost | tbd |
 | Capacity | 6 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
-| Default weapon configuration |- |
-| Options | - |
-| Special rules | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
+
+### MRZR-2/4 Polaris RZR 4x4
+
+![polaris rzr](/factions/ressources/polaris.excalidraw.png)
+
+| Polaris RZR | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 5 soldiers |
+| Damage value | 6+ Soft-skinned Vehicle |
+| Special rules |- |
+
+### S-Boot
+
+![polaris rzr](/factions/ressources/boat.excalidraw.png)
+
+| Boat | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 6 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr><tr><td>Waterborne</td><td>-</td></tr></table> |

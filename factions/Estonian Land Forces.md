@@ -66,7 +66,7 @@ they might reroll failed checks to reflect this vigilance.
 
 ## Officers
 
-![platoon leader](/factions/ressources/estonia-leader.excalidraw.png)
+![platoon leader](/factions/ressources/boat.excalidraw.png)
 
 ### Nooremleitnant
 
@@ -728,24 +728,86 @@ Part of arms donation from polish land forces to Estonia.
 
 ## Transports
 
-### Mil Mi-2 "Hoplite"
+### Mi-8 Hip
 
-### Mil Mi-8 "Hip"
+![Mi-8 Hip](/factions/ressources/milmi8.excalidraw.png)
 
-### Robinson R44
+Helicopter unit in a transport role.
 
-### Sisu Parsi
+| Mil Mi-2B | <img src="/factions/nato-symbols/blufor/helicopter-transport.excalidraw.png" align="right" alt="Transport helicopter" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 16 soldiers |
+| Damage value | 7+ Medium helicopter |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
+
+### Mi-2 Hoplite
+
+![Mi-2](/factions/ressources/milmi2.excalidraw.png)
+
+Helicopter unit in a transport role.
+
+| Mil Mi-2B | <img src="/factions/nato-symbols/blufor/helicopter-transport.excalidraw.png" align="right" alt="Transport helicopter" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 16 soldiers |
+| Damage value | 7+ Medium helicopter |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
 ### Truck
 
+![generic truck](/factions/ressources/truck.excalidraw.png)
+
+| Truck | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 16 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Default weapon configuration | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
+
 ### Toyota/Range Rover
 
-more space than jeep
+![generic toyota](/factions/ressources/toyota-conventional.excalidraw.png)
 
-### Unimog 435
+| Range Rover | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 12 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
 ### Jeep
 
+![generic jeep](/factions/ressources/jeep-west.excalidraw.png)
+
+| Wolf G5 Jeep | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 6 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
+
+### MRZR-2/4 Polaris RZR 4x4
+
+![polaris rzr](/factions/ressources/polaris.excalidraw.png)
+
+| Polaris RZR | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 5 soldiers |
+| Damage value | 6+ Soft-skinned Vehicle |
+| Special rules |- |
+
 ### Boat
 
+![polaris rzr](/factions/ressources/boat.excalidraw.png)
+
 From the latvian national guard.
+
+| Boat | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | 6 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr><tr><td>Waterborne</td><td>-</td></tr></table> |

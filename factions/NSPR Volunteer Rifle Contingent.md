@@ -764,6 +764,22 @@ with a 76.2mm main gun, capable of damaging lightly armoured vehicles.
 | Options | <table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>12.7mm DshK HMG</td><td>12.7mm DshK heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 25 pt</tr></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Amphibious</td><td>-</td></tr><tr><td>Obsolete Main Gun</td><td>Unlike most modern tank guns, this ww2-era gun still uses a rifled barrel to propell a kinetic round. When firing at an armoured target, this weapon suffers a -1 PEN.</ul></td></tr><tr><td>Open-Topped (*if selected*)</td><td>-</td></tr></table> |
 
+### BMP-1
+
+![bmp1](/factions/ressources/bmp1.excalidraw.png)
+
+One of the original IFVs, the lightweight BMP-1 is armed with a light anti tank
+gun as well as an early ATGM.
+
+| BMP-1 | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Options | TODO |
+| Default weapon configuration | - |
+| Special rules | TODO |
+
 ### T-54/T-55
 
 ![t 55 image](../factions/ressources/t55.excalidraw.png)
@@ -785,49 +801,65 @@ are still valuable armoured assets if used defensively.
 
 ## Transports
 
-### BTR-60P Transport
+### Mi-8 Hip
 
-| BTR-60P | Armoured Carrier |
+![Mi-8 Hip](/factions/ressources/milmi8.excalidraw.png)
+
+Helicopter unit in a transport role.
+
+| Mil Mi-2B | <img src="/factions/nato-symbols/blufor/helicopter-transport.excalidraw.png" align="right" alt="Transport helicopter" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 70 pt / 75 pt / 80 pt |
-| Capacity | 14 soldiers |
-| Damage value | 7+ Armoured Carrier |
-| Default weapon configuration | - |
-| Options |- |
-| Special rules | - |
+| Cost | tbd |
+| Capacity | 16 soldiers |
+| Damage value | 7+ Medium helicopter |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
-### GAZ-51 Transport
+### Mi-2 Hoplite
 
-| GAZ-51 | Soft-Skinned Vehicle |
+![Mi-2](/factions/ressources/milmi2.excalidraw.png)
+
+Helicopter unit in a transport role.
+
+| Mil Mi-2B | <img src="/factions/nato-symbols/blufor/helicopter-transport.excalidraw.png" align="right" alt="Transport helicopter" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 25 pt / 30 pt / 35 pt |
+| Cost | tbd |
+| Capacity | 16 soldiers |
+| Damage value | 7+ Medium helicopter |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
+
+### Truck
+
+![generic truck](/factions/ressources/truck.excalidraw.png)
+
+| Truck | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
 | Capacity | 16 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
-| Default weapon configuration |- |
-| Options |- |
-| Special rules | - |
+| Default weapon configuration | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
-### GAZ-69 Jeep
+### Toyota/Range Rover
 
-| GAZ-69 | Soft-Skinned Vehicle |
+![generic toyota](/factions/ressources/toyota-conventional.excalidraw.png)
+
+| Range Rover | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 15 pt / 20 pt / 25 pt |
+| Cost | tbd |
+| Capacity | 12 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
+
+### Jeep
+
+![generic jeep](/factions/ressources/jeep-west.excalidraw.png)
+
+| Wolf G5 Jeep | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
 | Capacity | 6 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
-| Default weapon configuration |- |
-| Options |- |
-| Special rules | - |
-
-### Toyota Hilux Transport
-
-| Toyota Hilux | Soft-Skinned Vehicle |
-| :---- | ---- |
-| Cost | 25 pt / 30 pt / 35 pt |
-| Capacity | 8 soldiers |
-| Damage value | 6+ Soft-Skinned Vehicle |
-| Default weapon configuration |- |
-| Options | - |
-| Special rules | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
 ### R75 Ural Motorcycle Transport
 
@@ -837,16 +869,18 @@ are still valuable armoured assets if used defensively.
 | Capacity | 2 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Default weapon configuration |- |
-| Options |- |
-| Special rules | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
-### Mil Mi-2B
+### Boat
 
-| Mil Mi-2B | Medium helicopter |
+![polaris rzr](/factions/ressources/boat.excalidraw.png)
+
+From the latvian national guard.
+
+| Boat | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 50 pt / 55 pt / 60 pt |
-| Capacity | 16 soldiers |
-| Damage value | 7+ Medium helicopter |
-| Default weapon configuration |- |
-| Options |- |
-| Special rules | - |
+| Cost | tbd |
+| Capacity | 6 soldiers |
+| Damage value | 6+ Soft-Skinned Vehicle |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr><tr><td>Waterborne</td><td>-</td></tr></table> |
+
