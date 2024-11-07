@@ -5,7 +5,7 @@
 </p>
 
 <p align=center>
-*Logo of the UN Mission to Estonia*
+<i>Logo of the UN Mission to Estonia</i>
 </p>
 
 ***
