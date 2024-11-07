@@ -888,37 +888,6 @@ is damaged in any way.
 | :--- | :--- |
 | Thermal Camera | A vehicle or infantry team with a thermal camera<br>inferes a +1 malus when rolling cover saves.<br>For vehicles, the camera is considered inoperable<br>as soon as the vehicle is damaged, losing the bonus. |
 
-### Radar
-
-#### Introduction
-
-Radar uses electromagnetic waves to locate and identify objects in its vicinity.
-The technology already helped the Allies in WW2, and was refined into an extremely
-precise detection method.
-
-#### Gameplay
-
-Radar units can target any unit in its "fire ark", which is the same as any other
-fixed weapon, though the Radar ignores any LoS blocker. It has a range of 60".
-RADARs also ignore friendly unit in its "line of fire". The Radar is operated
-by a team of two or mounted on a vehicle.
-
-When engaging an enemy, throw one dice for any unit composed of only soldiers,
-and two dice for vehicles or towed systems (guns, anti-air guns, ...), and if
-any dice scores a 4+, the target is marked for any howitzer, mortar or other
-indirect fire system capable of being zeroed in. Until the target moves again,
-any of those systems attacking a radar-marked target may throw two dice while
-zeroing in and use the preverable result.
-
-Once marked, the Radar does not need to stay alive or not go DOWN or anything like
-that, it is independent of the state of the unit.
-
-#### Rule
-
-| Rule | Description |
-| :--- | :--- |
-| Radar | Surveillance system. May engage any target within 60"<br>and in its line of fire to mark them for indirect fire systems. |
-
 ***
 
 ## Additional Rules and Systems
