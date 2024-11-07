@@ -4,7 +4,9 @@
 <img src="/scenarios/ressources/unfibal.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
 </p>
 
+<p align=center>
 *Logo of the UN Mission to Estonia*
+</p>
 
 ***
 
