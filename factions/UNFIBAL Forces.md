@@ -119,7 +119,7 @@ A group of recon infantry.
 | Cost | 30 pt / - / - |
 | Reinforcement | up to 3 attendants (AR): 7 pt / - / - |
 | Setup | NCO (AR) + 3 attendants (AR) |
-|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Shirkers</td><td>-.</td><td>-2 pt each</td></tr></table>
+|Options|<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Shirkers</td><td>-.</td><td>-2 pt each</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Green</td><td>-</td></tr></table>
 
 ***
@@ -325,7 +325,6 @@ phases to make it more navigable.
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>M240C MMG</td><td>M240C MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr><tr><td>25 mm M242 </td><td>25mm medium autocannon</td><td><ul><li>turret-mounted</li></ul></tr></table> |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM Launcher</td><td>TOW Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>+ 35 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>ATGM</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td></tr></table> |
-
 
 #### Stryker APC
 

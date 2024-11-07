@@ -527,7 +527,6 @@ The unit is mounted on a LGS Fennek 1A4.
 | Options | <table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>FLW 100<br>(7.62mm) MMG</td><td>Remote-controlled MMG</td><td><ul><li>turret-mounted</li></ul></td><td>+ 15 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Spotter</td><td>Detailed rules see [Rule adjustments](../ruleset/H.E.A.T.md#spotters).</td></tr><tr><td>JFST</td><td>All artillery units which operate via this spotter<br>get use 2D6 for its attack move and may use<br>the preferrable outcome.</td></tr></table> |
 
-
 ### Panzerhaubitze 2000
 
 ![pzh2k](/factions/ressources/panzerhaubitze.excalidraw.png)
@@ -553,7 +552,6 @@ The unit is mounted on a LGS Fennek 1A4.
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>Cal. 298mm MLRS</td><td>Multiple Launcher Rocket System</td><td><ul><li>turret-mounted</li><li>rocket-launcher</li></ul></tr></table> |
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |
-
 
 ***
 

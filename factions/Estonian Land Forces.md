@@ -648,7 +648,6 @@ were included for the Estonian Defense League and other reservist structures.
 The vehicle is a license build BMP-1 variant which is still actively being used
 in the polish forces.
 
-
 | BWP-1 | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |

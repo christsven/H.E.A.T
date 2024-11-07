@@ -451,10 +451,10 @@ bombs.
 ![kamikaze drone](ressources/kamikaze.excalidraw.png)
 
 Bravo drones, or colloquially also called "Muruniiduks" or "lawn mowers"
-due to their engine sound, are a domestic drone design used as loitering ammunition. 
+due to their engine sound, are a domestic drone design used as loitering ammunition.
 
 While not as advanved as similar drones of professional armies, the Bravo drone
-was developed to be cheap in production and does not require many high-tech parts. 
+was developed to be cheap in production and does not require many high-tech parts.
 The drones are said to be of mixed quality, but due to them being used in a kamikaze
 role, they are only expected to fly once anyway.
 
@@ -883,4 +883,3 @@ From the latvian national guard.
 | Capacity | 6 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr><tr><td>Waterborne</td><td>-</td></tr></table> |
-

@@ -155,7 +155,9 @@ a 51mm light mortar, which can support the Alpha teams advance.
 
 ### Panzergrenadiergruppe
 
-Armoured infantry from the german-franco EUROCORPS.
+Armoured infantry from the german-franco EUROCORPS. The most common type of
+german infantry, operating as a group in conjunction with its APC, and being
+able to be equipped with heavy anti tank options.
 
 | Armoured infantry group | <img src="/factions/nato-symbols/blufor/mechinfantry.excalidraw.png" align="right" alt="mechanized infantry group" height=30 width=auto></img> |
 | :---- | ---- |
@@ -164,7 +166,6 @@ Armoured infantry from the german-franco EUROCORPS.
 | Setup | NCO (AR) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt each</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x RPG</td><td>PzF 3 RPG. One further soldier<br>becomes a loader. Both keep their rifles.</td><td>+60 pt</td></tr></table> |
 | Special rules | - |
-
 
 ### Groupe de Dragons Parachutistes
 
@@ -394,6 +395,7 @@ Wiesel I mounted heavy mortar system.
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Nebelmittel-wurfanlage<br>(*Smoke Screen*)</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
+
 ***
 
 ## Divisional Reinforcements
@@ -493,7 +495,6 @@ fixed wing air vehicle for artillery guidance.
 
 ## Artillery
 
-
 ### CAESAR
 
 ![CAESAR](/factions/ressources/caesar.excalidraw.png)
@@ -546,7 +547,6 @@ fixed wing air vehicle for artillery guidance.
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Multiple Launcher</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |
 
-
 ***
 
 ## Anti-Air systems
@@ -582,7 +582,7 @@ Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 
 ### Nexter Systems Aravis / Dingo II
 
-![](/factions/ressources/dingo-apc.excalidraw.png)
+![dingo](/factions/ressources/dingo-apc.excalidraw.png)
 
 Both the Aravis and the Dingo II use the U5000 Unimog chassis as a base, and
 are in many regards very similar vehicles. Since the merger of KMW and Nexus,
@@ -606,7 +606,7 @@ as similar as they look.
 The Panhard Véhicule Blindé Léger ("Light armoured vehicle") is a french 4x4 based
 on the P4 Peugeot. It serves in several roles in the french armed forces, from
 a light combat reconnaissance role in combination with the AMX-10RC, as a MILAN
-platform or as a troop transport. 
+platform or as a troop transport.
 
 | VBL | <img src="/factions/nato-symbols/units/wheeled-oneaxis-recon-apc.excalidraw.png" align="right" alt="Recon MRAP" height=30 width=auto></img> |
 | :---- | ---- |
