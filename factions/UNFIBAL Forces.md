@@ -1,6 +1,8 @@
 # UNFIBAL Mission Forces
 
+<p align=center>
 <img src="/scenarios/ressources/unfibal.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
+</p>
 
 *Logo of the UN Mission to Estonia*
 
