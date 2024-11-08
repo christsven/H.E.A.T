@@ -829,7 +829,7 @@ Helicopter unit in a transport role.
 
 ### Truck
 
-![generic truck](/factions/ressources/truck.excalidraw.png)
+![generic truck](/factions/ressources/truck-soviet.excalidraw.png)
 
 | Truck | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
@@ -841,7 +841,7 @@ Helicopter unit in a transport role.
 
 ### Toyota/Range Rover
 
-![generic toyota](/factions/ressources/toyota-conventional.excalidraw.png)
+![generic toyota](/factions/ressources/toyota-nspr.excalidraw.png)
 
 | Range Rover | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
@@ -852,7 +852,7 @@ Helicopter unit in a transport role.
 
 ### Jeep
 
-![generic jeep](/factions/ressources/jeep-west.excalidraw.png)
+![generic jeep](/factions/ressources/jeep-soviet.excalidraw.png)
 
 | Wolf G5 Jeep | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
