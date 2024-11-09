@@ -168,19 +168,23 @@ volunteers and former military servicemen.
 
 ### Counter-Resistance Group (Early-War)
 
-When the conflict broke out, soldiers, reservists and civilians alike took up
-arms against the revolutionists from inside Ida Viru. Using anything they
-could get their hands on before retreating and reforming in the underground,
-these cells attacked NSPR logistical operations, relayed troop movement information
-or attacked facilities wheee possible.
+When the conflict broke out, soldiers, reservists and civilians alike took up arms
+against the revolutionists from inside Ida Viru. Using anything they could get
+their hands on before retreating and reforming in the underground, these cells
+attacked NSPR logistical operations, relayed troop movement information or attacked
+facilities wheee possible.
 
-Once allied forces reached them, they were rescued or integrated into the conventional
-forces, their intel being invaluable in forming a cohesive reassesment of NSPR strength
-and force capability.
+Once allied forces reached them, they were rescued or integrated into the estonian
+conventional forces, their intel being invaluable in forming a cohesive reassesment
+of NSPR strength and force capability.
 
 | Light infantry group | <img src="/factions/nato-symbols/blufor/lightinfantry.excalidraw.png" align="right" alt="light infantry group" height=30 width=auto></img> |
 | :---- | ---- |
-|||
+| Cost | - / 50 pt / 65 pt |
+| Reinforcement | up to 3 attendants (?): 7 pt / - / - |
+| Setup | NCO (?) + 3 attendants (?) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x ?</td><td>See rule.</td><td>+20 pt each</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Green</td><td>-</td></tr><tr><td>Mixed Loadout</td><td>Once unit is placed on the table, roll a D3 for each soldier<br>in the group to determine his loadout:<br><li>1: PDW</li><li>2: SMG</li><li>3: AR</li>For every additional weapon roll again a D3:<br><li>1: Shotgun</li><li>2: LMG</li><li>3: LAW</li>(_Try for a double D3 to get an RPG.<br>If you fail, the soldier gets no additional weapon._)<br>Team weapons may choose freely which unit becomes<br>its loader. That unit may retain its weapon for later usage.</td></tr></table> |
 
 ***
 
@@ -188,7 +192,8 @@ and force capability.
 
 ### Lahingpioneerid jagu
 
-Support infantry, used to clear terrain or restrict enemy movement.
+Support infantry, used to clear terrain or restrict enemy movement. Equipped with
+mine clearing equipment to counter IEDs and mine fields.
 
 | Engineers group | <img src="/factions/nato-symbols/blufor/engineers.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
 | :---- | ---- |
@@ -200,6 +205,10 @@ Support infantry, used to clear terrain or restrict enemy movement.
 
 ### Sako TRG-22 sniper team
 
+Snipers are used to engage high-valuable targets in an engagement, particularly
+leaders of infantry groups, heavy weapon system operators or other assets.
+They can be devastating in the correct spot, used at the correct time.
+
 | TRG-22 sniper<br>team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
@@ -210,7 +219,8 @@ Support infantry, used to clear terrain or restrict enemy movement.
 
 ### M82 AMR team
 
-Anti materiell rifle sniper team.
+Anti materiell rifle sniper team are used to engage anything from infantry to
+lightly armoured vehicles.
 
 | M82 AMR team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |

@@ -258,6 +258,10 @@ enemy forces in the dynamic enviromnent of warfare.
 A sniper team, equipped with a SVD "Dragunov" rifle. One attendant helps with
 spotting and rangefinding.
 
+Snipers are used to engage high-valuable targets in an engagement, particularly
+leaders of infantry groups, heavy weapon system operators or other assets.
+They can be devastating in the correct spot, used at the correct time.
+
 | Sniper team | <img src="/factions/nato-symbols/opfor/sniper-t.excalidraw.png" align="right" alt="Sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |

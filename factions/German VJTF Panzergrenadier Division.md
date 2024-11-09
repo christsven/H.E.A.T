@@ -180,7 +180,8 @@ report movement back to the command structure.
 
 ### Panzerpioniergruppe
 
-Support infantry, used to clear terrain or restrict enemy movement.
+Support infantry, used to clear terrain or restrict enemy movement. Equipped with
+mine clearing equipment to counter IEDs and mine fields.
 
 | Engineer group | <img src="/factions/nato-symbols/blufor/engineers.excalidraw.png" align="right" alt="special forces group" height=30 width=auto></img> |
 | :---- | ---- |
@@ -192,9 +193,12 @@ Support infantry, used to clear terrain or restrict enemy movement.
 
 ### G22A2 sniper team
 
-Standard issued german sniper team.
+Snipers are used to engage high-valuable targets in an engagement, particularly
+leaders of infantry groups, heavy weapon system operators or other assets.
+They can be devastating in the correct spot, used at the correct time. Equipped
+with the standard issue german sniper rifle.
 
-| G22A2 sniper team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
+| G22A2 sniper<br>team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 35 pt / 50 pt / 65 pt |
 | Reinforcement | - |
@@ -204,7 +208,8 @@ Standard issued german sniper team.
 
 ### G82 AMR team
 
-Anti materiell rifle sniper team.
+Anti materiell rifle sniper team are used to engage anything from infantry to
+lightly armoured vehicles.
 
 | G82 AMR team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
