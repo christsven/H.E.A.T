@@ -839,14 +839,14 @@ Helicopter unit in a transport role.
 | Default weapon configuration | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
-### Toyota/Range Rover
+### Lada
 
 ![generic toyota](/factions/ressources/toyota-nspr.excalidraw.png)
 
 | Range Rover | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
-| Capacity | 12 soldiers |
+| Capacity | 6 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
@@ -863,7 +863,11 @@ Helicopter unit in a transport role.
 
 ### R75 Ural Motorcycle Transport
 
-| R75 Ural | Soft-Skinned Vehicle |
+![r75](/factions/ressources/ural-motorcycle.excalidraw.png)
+
+Old-school motorcycle with sidecar to quickly transport small amounts of units.
+
+| R75 Ural | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 18 pt / 23 pt / 28 pt |
 | Capacity | 2 soldiers |
@@ -873,9 +877,9 @@ Helicopter unit in a transport role.
 
 ### Boat
 
-![polaris rzr](/factions/ressources/boat.excalidraw.png)
+![boat](/factions/ressources/boat.excalidraw.png)
 
-From the latvian national guard.
+Small self propelled boat to transport units over water.
 
 | Boat | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
