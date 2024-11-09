@@ -280,7 +280,8 @@ as lightly armoured vehicles.
 
 ### KSK Quad MMG
 
-A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special services.
+A Yamaha Grizzly 450EPS Quad with a rear-mounted MG 3 MMG. Used by special
+services.
 
 | MMG quad | <img src="/factions/nato-symbols/units/mmg-q.excalidraw.png" align="right" alt="medium machine gun quad" height=30 width=auto></img> |
 | :---- | ---- |
@@ -536,6 +537,11 @@ The unit is mounted on a LGS Fennek 1A4.
 
 ![pzh2k](/factions/ressources/panzerhaubitze.excalidraw.png)
 
+The Panzerhaubitze 2000 is a self-propelled 155mm howitzer produced by the german
+arms manufacturers KNDS and Rheinmetall. They replaced the older M109 Paladin in
+many european armies around the 2000s. Praised for its high mobility, range, and
+its exceptional rate of fire.
+
 | Panzerhaubitze 2000 | <img src="/factions/nato-symbols/units/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
@@ -548,6 +554,12 @@ The unit is mounted on a LGS Fennek 1A4.
 ### MARS II MLRS
 
 ![mars mlrs](/factions/ressources/mars2.excalidraw.png)
+
+The "MLRS", or "Multiple Launch Rocket System", is an american self-propelled
+artillery rocket system used by a range of western militaries, first and foremost
+the US Army themselves as the "M270". It saw action in the second gulf war as well
+as other wars since the 80s and has only recently been started to be phased out
+by more modern systems.
 
 | MARS II MLRS | <img src="/factions/nato-symbols/units/tracked-artillery-mlrs.excalidraw.png" align="right" alt="MLRS System" height=30 width=auto></img> |
 | :---- | ---- |
