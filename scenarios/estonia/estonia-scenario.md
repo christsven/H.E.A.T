@@ -237,18 +237,6 @@ for reinforcements.
 
 ***
 
-### Fight for Narva City
-
-Reinforced by the NATO mission, the estonian army took back Narva city with a
-thunder run followed by drawnout urban combat missions.
-
-| **Narva City** | |
-| :--- | :--- |
-| **Objective/Game Mode** | Objective Defense |
-| **Set-Up** | |
-| **Game Duration** | 6 + 1 Turns |
-| **Victory Conditions** | |
-
 ### First battle for Balti power station
 
 <p align=center>
@@ -284,8 +272,13 @@ the power station with boats and tanks.
 
 ### Siege at Hermann Castle
 
-The Narva City campaign reached its climax in a modern siege on the old castle
-overlooking the river Narva.
+<p align=center>
+<img src="/scenarios/ressources/narva-layout.excalidraw.png" alt="narva siege scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
+</p>
+
+Reinforced by the NATO mission, the estonian army took back Narva city with a
+thunder run followed by drawnout urban combat missions. The campaign reached its
+climax in a modern siege on the old castle overlooking the river Narva.
 
 | **Hermann Castle siege** | |
 | :--- | :--- |
