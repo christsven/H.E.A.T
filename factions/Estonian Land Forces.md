@@ -727,6 +727,10 @@ Part of arms donation from polish land forces to Estonia.
 
 ## Transports
 
+Some transport vehicles may be upgraded to fill different slots, e. g. as a
+command vehicle, artillery spotter, etc.. You can find more information in the
+Options-column of the respective transport vehicle.
+
 ### Mi-8 Hip
 
 ![Mi-8 Hip](/factions/ressources/milmi8.excalidraw.png)
@@ -757,7 +761,10 @@ Helicopter unit in a transport role.
 
 ![generic truck](/factions/ressources/truck.excalidraw.png)
 
-| Truck | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+Mostly used for logistical operations or other roles, if push comes to shove,
+a truck may be enough to get soldiers from A to B.
+
+| Truck | <img src="/factions/nato-symbols/units/wheeled-multiaxis-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 16 soldiers |
@@ -769,40 +776,53 @@ Helicopter unit in a transport role.
 
 ![generic toyota](/factions/ressources/toyota-conventional.excalidraw.png)
 
+Mobile troop transporter for HQ units or other units not expecting direct enemy
+contact. Used by most modern army for behind-the-line operations.
+
 | Range Rover | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 12 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
+| Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Gefechtsstand<br>*Command Vehicle*</td><td>-<br><br>*This removes transport rule as well as transport capacity.*</td><td>+10 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
 ### Jeep
 
 ![generic jeep](/factions/ressources/jeep-west.excalidraw.png)
 
+Military truck used to transport small groups of infantry, or as a mobile small
+command post. Fast, reliable, found in most, if not all platoons.
+
 | Wolf G5 Jeep | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 6 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
+| Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Gefechtsstand<br>*Command Vehicle*</td><td>-<br><br>*This removes transport rule as well as transport capacity.*</td><td>+10 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
 
 ### MRZR-2/4 Polaris RZR 4x4
 
 ![polaris rzr](/factions/ressources/polaris.excalidraw.png)
 
+Military offroad transport vehicle. Used to quickly traverse through rougher
+terrain and transport a squad of infantry. Oftentimes used by airborne formations
+due to size and weight restraints.
+
 | Polaris RZR | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 5 soldiers |
 | Damage value | 6+ Soft-skinned Vehicle |
-| Special rules |- |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr><tr><td>Quad Bike</td><td>Moves like a wheeled vehicle offroad, but does not get onroad bonus. See [ruleset](../ruleset/H.E.A.T.md#quad-bikes).</td></tr></table> |
 
 ### Boat
 
 ![polaris rzr](/factions/ressources/boat.excalidraw.png)
 
-From the latvian national guard.
+From the latvian national guard. Fast boat for troop deployment. Used for crossing
+rivers, small waters or move up and down a river.
 
 | Boat | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |

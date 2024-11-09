@@ -801,6 +801,10 @@ are still valuable armoured assets if used defensively.
 
 ## Transports
 
+Some transport vehicles may be upgraded to fill different slots, e. g. as a
+command vehicle, artillery spotter, etc.. You can find more information in the
+Options-column of the respective transport vehicle.
+
 ### Mi-8 Hip
 
 ![Mi-8 Hip](/factions/ressources/milmi8.excalidraw.png)
@@ -841,9 +845,9 @@ Helicopter unit in a transport role.
 
 ### Lada
 
-![generic toyota](/factions/ressources/toyota-nspr.excalidraw.png)
+![generic Lada](/factions/ressources/toyota-nspr.excalidraw.png)
 
-| Range Rover | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
+| Lada | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | 6 soldiers |
