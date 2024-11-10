@@ -873,7 +873,7 @@ Helicopter unit in a transport role.
 | Cost | tbd |
 | Capacity | 6 soldiers |
 | Damage value | 6+ Soft-Skinned Vehicle |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Transport Vehicle</td><td>Transport vehicles are unarmed and more vulnerable than vehicles in a combat role.</td></tr><tr><td>Baltic Drift</td><td>If the Lada performs a RUN and does not<br>make a turn until the end, it is allowed to do<br> 2x 90° turns at the end.  </table> |
 
 ### Jeep
 
