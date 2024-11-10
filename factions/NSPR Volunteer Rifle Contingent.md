@@ -773,9 +773,26 @@ with a 76.2mm main gun, capable of damaging lightly armoured vehicles.
 ![bmp1](/factions/ressources/bmp1.excalidraw.png)
 
 One of the original IFVs, the lightweight BMP-1 is armed with a light anti tank
-gun as well as an early ATGM.
+gun as well as an early ATGM. Due to the low numbers the NSPR has access to this
+vehicle, it is used less as an IFV, and more as a light tank.
 
-| BMP-1 | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="Armoured Car" height=30 width=auto></img> |
+| BMP-1 | <img src="/factions/nato-symbols/units/tracked-light-tank.excalidraw.png" align="right" alt="BMP 1" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tbd |
+| Capacity | - |
+| Damage value | 7+ Armoured Carrier |
+| Options | TODO |
+| Default weapon configuration | - |
+| Special rules | TODO |
+
+### ZSU-57-2
+
+![bmp1](/factions/ressources/zsu572.excalidraw.png)
+
+As an old soviet anti air system, the ZSU-57-2 is used by the NSPR in an anti-
+infantry and light vehicle gun.
+
+| ZSU-57-2 | <img src="/factions/nato-symbols/units/tracked-light-tank.excalidraw.png" align="right" alt="ZSU 57 2" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
 | Capacity | - |

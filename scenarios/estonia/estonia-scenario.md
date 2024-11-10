@@ -86,8 +86,7 @@ Federation to intervene. This is a first draft of a russian Batallion Tactical G
 that will be expanded on in the next scenario.
 <br><br>
 <i>We've all seen the russian armies abysmal performance over the last three years, don't expect much more here.</i><br><br><a href="/factions/russian-army-list.md">RF Army List</a></p>
-
-
+</p>
 
 ***
 
