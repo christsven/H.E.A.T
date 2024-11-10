@@ -216,13 +216,6 @@ Helicopters function either as a transport or are deployed in a CAS role.
 Other than their vertical movement capability, helicopters are treated the same
 way as any other vehicle.
 
-| Type | Cost | Capacity | Examples |
-| :--- | :--- | :--: | :--: |
-| Light helicopters | <table><tr><td>Inexperienced</td><td>35 pt</td></tr><tr><td>Regular</td><td>50 pt</td></tr><tr><td>Veteran</td><td>65 pt</td></tr></table> | 8 | Boeing AH-6<br>MD500<br>Ka-226 |
-| Medium helicopters | <table><tr><td>Inexperienced</td><td>50 pt</td></tr><tr><td>Regular</td><td>65 pt</td></tr><tr><td>Veteran</td><td>80 pt</td></tr></table> | 16 | Mil Mi-2<br>Bell UH "Huey" |
-| Large helicopters | <table><tr><td>Inexperienced</td><td>65 pt</td></tr><tr><td>Regular</td><td>80 pt</td></tr><tr><td>Veteran</td><td>95 pt</td></tr></table> | 24 | NH90<br>UH-60 "Black Hawk"<br>Mi-24 Hind |
-| Giant helicopters | <table><tr><td>Inexperienced</td><td>80 pt</td></tr><tr><td>Regular</td><td>95 pt</td></tr><tr><td>Veteran</td><td>110 pt</td></tr></table> | 36 | Mi-26<br>VH-47 Chinook |
-
 ##### Flight
 
 A helicopter may begin the match on the ground or offmap in reserve, from where
