@@ -698,14 +698,17 @@ and has a gun, and utilizes old tanks and APCs just as much as modern civilian
 vehicles. A fast pickup with an AA gun, a mortar on a truck, T-54s old enough to
 predate the Berlin wall.
 
-### Toyota Hilux
+### Wheeled Technical
 
 ![toyota technical image](../factions/ressources/toyota-new.excalidraw.png)
 
-The Toyota Hilux serves the full spectrum of armoured support. With almost
-anything the separtists deemed small enough to work being bolted to one, this
-fast pickup can serve as an anti-infantry, anti-tank or anti-air role, as
-artillery, as a driving bomb. Versatility, courtesy of Japan.
+Technicals serve the full spectrum of armoured support. With almost anything the
+separtists deemed small enough to work being bolted to one, this fast pickup can serve
+as an anti-infantry, anti-tank or anti-air role, as
+artillery, as a driving bomb.
+
+>Even though the Hilux is a promiment example of the wheeled technical, feel free to use
+>any vehicle you want. This is for the unit for kitbashing.
 
 | Toyota Hilux | <img src="/factions/nato-symbols/units/wheeled-unarmed.excalidraw.png" align="right" alt="Toyota" height=30 width=auto></img> |
 | :---- | ---- |
