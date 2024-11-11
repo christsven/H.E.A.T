@@ -54,9 +54,9 @@ as IED carriers or suicide drones.
 - [Anti-air systems](#anti-air-systems)
 - [Artillery support](#artillery-support)
 
-- [APCs/IFVs](#apcs--ifvs)
-- [Heavy vehicles](#heavy-vehicles)
-- [Transports](#transports)
+- [APCs/IFVs](/factions/NSPR-vehicles.md#apcs--ifvs)
+- [Heavy vehicles](/factions/NSPR-vehicles.md#heavy-vehicles)
+- [Transports](/factions/NSPR-vehicles.md#transports)
 
 ***
 
@@ -618,4 +618,4 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ***
 
-*Vehicles can be found [here](./factions/nspr-vehicles.md)
+*Vehicles can be found [here](./factions/nspr-vehicles.md)*
