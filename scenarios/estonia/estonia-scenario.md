@@ -72,7 +72,7 @@ United Nations support brigade composed of mixed french and american equipment. 
 <img width="70%" height="auto" src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" alt="UNFIBAL Mission Forces">
 </p>
 <p>
-The free forces of Ida Viru, as well as the Brastwa PMC Group.<br><br><i>Ragtag force with a huge, but old pool of equipment. Insurgent infantry sections and PMC formation with more modern equipment.</i><br><br><a href="/factions/NSPR Volunteer Rifle Contingent.md">NSPR Army List</a>
+The free forces of Ida Viru, as well as the Brastwa PMC Group.<br><br><i>Ragtag force with a huge, but old pool of equipment. Insurgent infantry sections and PMC formation with more modern equipment.</i><br><br><a href="/factions/NSPR Volunteer Rifle Contingent.md">NSPR Army List</a><br><a href="/factions/nspr-vehicles.md">NSPR Vehicle List</a>
 </p>
 
 #### Russian Forces
