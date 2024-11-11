@@ -16,27 +16,28 @@ used in another scale, adjustments might be necessary.
 
 ## Table of Contents
 
+<p align="center">
+<img src="/factions/ressources/quad-drone.excalidraw.png" alt="drone" align="center" height=auto width=80%></img>
+</p>
+
 - [Weapons and Charts](#weapons)
 - [Vehicles - IFVs](#ifvs)
 - [Vehicles - Helicopters](#helicopters)
 - [Vehicles - Minor Additions](#minor-additions)
 - [Drones](#drones)
-- [Weapons - ATGMs](#atgms)
-- [Weapons - UGLs]()
-- [Weapons - Tandem HEAT Rounds]()
-- [Weapons - LAWs]()
-- [Weapons - DMRs]()
-- [Weapons - IEDs/Mines]()
-- [Weapons - AGLs]()
-- [Weapons - MANPADS]()
-- [Weapons - Explosives]()
-- [Smoke Screens]()
-- [Smoke Grenades]()
-- [Thermal Cameras]()
-- [Additions and Reworks]()
-
-
-
+- [Weapons - ATGMs](#anti-tank-guided-missiles-atgm)
+- [Weapons - UGLs](#underbarrel-grenade-launchers-ugl)
+- [Weapons - Tandem HEAT Rounds](#tandem-heat-charges)
+- [Weapons - LAWs](#light-anti-tank-weapons-law)
+- [Weapons - DMRs](#designated-marksman-rifles-dmr)
+- [Weapons - IEDs/Mines](#improvised-explosive-devices-ied-and-mines)
+- [Weapons - AGLs](#automatic-grenade-launchers-agl)
+- [Weapons - MANPADS](#manportable-air-defense-systems-manpads)
+- [Weapons - Explosives](#explosives)
+- [Smoke Screens](#smoke-screens)
+- [Smoke Grenades](#smoke-grenades)
+- [Thermal Cameras](#thermal-cameras)
+- [Additions and Reworks](#additional-rules-and-systems)
 
 ## Weapons
 
@@ -316,7 +317,7 @@ The helicopter gets the "Open Topped" rule while having open rear/side doors. As
 soon as the helicoter succesfully performs a RUN order or the turn is over, the
 rule does no longer apply.
 
-<img src="/factions/ressources/eurocopter.excalidraw.png" alt="eurocopter" align=left height=auto width=60%></img>
+<img src="/factions/ressources/eurocopter.excalidraw.png" alt="eurocopter" align=left height=auto width=60% padding></img>
 
 Reconnaissance units like spotters are allowed to perform their role from the
 helicopter in 45° arks from the opening they are looking from. The door has to be
