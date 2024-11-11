@@ -356,6 +356,8 @@ frowned upon by most regular armies of today.
 
 ### R75 Ural Motorcycle
 
+![r75 with ags 17](/factions/ressources/ural-motorcycle.excalidraw.png)
+
 Old motorcycle with a side car that can be used as a mobile weapons platform.
 Weapon fires to the front and sides.
 
