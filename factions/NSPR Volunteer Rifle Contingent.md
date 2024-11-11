@@ -618,4 +618,4 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ***
 
-*Vehicles can be found [here](./factions/nspr-vehicles.md)*
+*Due to file rendering performance in the Github App, vehicles can be found [here](/factions/NSPR-vehicles.md).*
