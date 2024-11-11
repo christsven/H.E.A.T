@@ -14,6 +14,30 @@ used in another scale, adjustments might be necessary.
 >even 1/48 M1 Abrams. Just a heads up, so you wont be too surprised when the "28mm"
 >vehicles suddenly turn out way bigger than most WW2 era vehicles.
 
+## Table of Contents
+
+- [Weapons and Charts](#weapons)
+- [Vehicles - IFVs](#ifvs)
+- [Vehicles - Helicopters](#helicopters)
+- [Vehicles - Minor Additions](#minor-additions)
+- [Drones](#drones)
+- [Weapons - ATGMs](#atgms)
+- [Weapons - UGLs]()
+- [Weapons - Tandem HEAT Rounds]()
+- [Weapons - LAWs]()
+- [Weapons - DMRs]()
+- [Weapons - IEDs/Mines]()
+- [Weapons - AGLs]()
+- [Weapons - MANPADS]()
+- [Weapons - Explosives]()
+- [Smoke Screens]()
+- [Smoke Grenades]()
+- [Thermal Cameras]()
+- [Additions and Reworks]()
+
+
+
+
 ## Weapons
 
 ![weapons chart image](./ressources/weapon-chart.excalidraw.png)
