@@ -514,6 +514,10 @@ heavy mortar team.
 
 ### "Hell Cannon" propane mortar team
 
+<p align=center>
+<img src="/factions/ressources/hell-cannon.excalidraw.png"  style="display: block; margin-left: auto; margin-right: auto;" alt="hell cannon" height=auto width=70%>
+</p>
+
 The "Hell Cannon" is a mortar type first seen in Libya and Syria, which consists
 of some sort of pipe or metal piece capable of fitting a propane tank and some
 sort of carriage. The mortar fires propane tanks with an impact fuze, and while
