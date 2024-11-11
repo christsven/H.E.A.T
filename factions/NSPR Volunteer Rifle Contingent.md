@@ -859,6 +859,8 @@ Helicopter unit in a transport role.
 
 ![generic truck](/factions/ressources/truck-soviet.excalidraw.png)
 
+An unarmoured truck used to transport anything from logistical stuff to troops.
+
 | Truck | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
@@ -871,6 +873,9 @@ Helicopter unit in a transport role.
 
 ![generic Lada](/factions/ressources/toyota-nspr.excalidraw.png)
 
+Who needs armour or expensive trucks when Helve just installed a forced induction
+system on his VAZ-2101? Im sure it will work out fine.
+
 | Lada | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
@@ -881,6 +886,9 @@ Helicopter unit in a transport role.
 ### Jeep
 
 ![generic jeep](/factions/ressources/jeep-soviet.excalidraw.png)
+
+Military truck, maybe stolen from an estonian garrison, maybe out of a museum,
+or perhaps a hobby project.
 
 | Wolf G5 Jeep | <img src="/factions/nato-symbols/units/wheeled-transport.excalidraw.png" align="right" alt="Transport vehicle" height=30 width=auto></img> |
 | :---- | ---- |
