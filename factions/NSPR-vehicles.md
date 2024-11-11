@@ -1,5 +1,15 @@
 # NSPR Vehicles
 
+![drone image](/factions/ressources/quad-drone.excalidraw.png)
+
+This is a continuation of the original NSPR army list found [here]().
+
+## Table of contents
+
+- [APCs/IFVs](#apcs--ifvs)
+- [Heavy vehicles](#heavy-vehicles)
+- [Transports](#transports)
+
 ## APCs / IFVs
 
 If a vehicle has the IFV rule and is chosen in an IFV role, these vehicles are
