@@ -475,6 +475,9 @@ the end of a round, the drone moves straight forwardfor its max distance.
 When shooting at an airborne drone, the firer receives a -1 hit modifier,
 or a -2 the drones last order was a RUN.
 
+All pintle-mounted machine guns that usually get the FLAK rule now get the
+Anti-Drone rule and ignore this modifier.
+
 #### Drone rules
 
 | Rule | Description |
