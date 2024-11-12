@@ -399,7 +399,7 @@ on- or off-map. They cannot be resupplied as the on-map operated drones.
 
 A drone can be suspended at any height below 2' (60cm). Per activation, either
 the operator or the UAV can perform an action. The UAV is able to move in
-30" (RUN)/ 15" (ADVANCE) in any direction.
+20" (RUN)/ 10" (ADVANCE) in any direction.
 
 Landing and starting do not require a full round as a helicopter, and can just
 move from the operators position to any other height. A UAV counts as grounded if
@@ -413,14 +413,14 @@ described below:
 
 | Order | Distance | Vert.<br>Distance | Pivots |
 | :--- | :---: | :---: | :---: |
-| RUN | 24" | 10" | 1 |
-| ADVANCE | 12" | 5" | 2 |
+| RUN | 30" | 10" | 1 |
+| ADVANCE | 15" | 5" | 2 |
 
 They can attempt a landing with a D6, everything over a 1 is a success. On a 1 the
 UAV is considered destroyed. To restart, they need to either be rethrown by the
-operator or have a rule such as the VTOL rule, which does not require an entire
-turn from an operator. Just like the quadcopter, it can end the turn at the full
-travel distance of 24" or 12".
+operator. If he is already within 1" of the drone, the UAV is allowed to perform a RUN.
+If the operator has to perform an ADVANCE to get to the drone, it also only moves
+at ADVANCE distance.
 
 #### Variants
 
@@ -482,9 +482,14 @@ or a -2 the drones last order was a RUN.
 | Drone | Autonomous flying unit with differing role. |
 | Fixed Wing | UAV has to constantly move as described in the fixed-wing movement section. |
 | VTOL | For fixed-wing UAVs, allows takeoff without being physically thrown by the operator. |
-|Loitering<br>Munition | Acts like an IED. Explodes once triggered by the operator. |
+| Loitering<br>Munition | Acts like an IED. Explodes once triggered by the operator. |
 | Anti-Drone | Some weapons are more useful against drones than others.<br>Weapons with this rule ignore the hit penalties of the drone rule. |
 | EW Weapon | Electronic Warfare Weapons are specifically designed against drones and fry their electronics.<br>They ignore to-hit modifier and disable the drone on a "wound" for one round.<br>If a double six is achieved on a to damage roll, the drone is considered destroyed. |
+| On-map Operator | Drone has an operator on the map that may deploy it.<br>If in recon role, that operator is also a spotter.<br>See above for details. |
+| Off-map operator | Drone itself is the entire unit. |
+
+> You can also differenciate the units by their NATO symbol in the army list.
+> On-map operators get the rectangle, Off-map operator the air vehicle cone.
 
 ***
 
