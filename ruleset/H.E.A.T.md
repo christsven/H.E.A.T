@@ -160,11 +160,9 @@ or for HE hits without the HE template.
 
 ***
 
-## Gameplay Rules
+## Vehicles
 
-### Vehicles
-
-#### Movement
+### Movement
 
 To adjust for half-tracks becoming obsolete, bulky multi-axial vehicles take their
 space:
@@ -177,11 +175,11 @@ space:
 
 On-Road bonus still doubles range.
 
-#### IFVs
+### IFVs
 
 ![ifvs](./ressources/ifvs.excalidraw.png)
 
-##### Introduction
+#### Introduction
 
 With the advancements of tank engines in the first world war tanks, started to
 outpace the infantry it was trying to catch up to. As a result, half-tracks and
@@ -191,7 +189,7 @@ they were transporting, giving rise to mechanized infantry, who fight in
 conjunction with their carrier. This type of carrier, mostly armed with at least
 a 20mm autocannon or ATGM systems, is called "infantry fighting vehicle" (IFV).
 
-##### Mechanics
+#### Mechanics
 
 The IFV shares its platoon slots with other armoured vehicles, and the rule
 is not mandatory. Some IFVs can e. g. switch out their crew compartments for
@@ -219,29 +217,29 @@ carrier, an order test has to be performed for each action.
 The role comes at no further cost, since the bonus of having their NCO switched
 out for the vehicle is mitigated by needing to stay relatively close to the IFV.
 
-##### IFV rule
+#### IFV rule
 
 | Rule | Description |
 | ---- | ---- |
 | IFV | <li>The IFV is connected to a infantry squad of its platoon.</li><li>Vehicle stays as a separate unit.</li><li>It replaces the NCO of the infantry group.</li><li>If connected infantry is further than 36" away, they have to perform<br> an order test for any action. This does not apply to the vehicle.</li><li> This rule is not mandatory, and can be ignored if desired.</li> |
 
-#### Helicopters
+### Helicopters
 
 ![helicopters](./ressources/helicopter.excalidraw.png)
 
-##### Introduction
+#### Introduction
 
 Helicopters are another post-WW2 addition to all conventional ground forces.
 Capable over hovering and vertical liftoff, these crafts are used in logistics,
 troop movement, close air support roles and reconnaissance.
 
-##### Gameplay
+#### Gameplay
 
 Helicopters function either as a transport or are deployed in a CAS role.
 Other than their vertical movement capability, helicopters are treated the same
 way as any other vehicle.
 
-##### Flight
+#### Flight
 
 A helicopter may begin the match on the ground or offmap in reserve, from where
 it can enter the match at any height after a successful order test.
@@ -263,7 +261,7 @@ move either only horizontally, which is faster, or change its altitude as well.
 
 *In Brackets: Allowed 45° turns.*
 
-##### Transport and (Dis)embarking
+#### Transport and (Dis)embarking
 
 Every helicopter has a capacity indicating the amount of personnel that is able
 to be transported.
@@ -279,9 +277,9 @@ regulars.
 The disembarking units rapell down to the ground, directly below the helicopter.
 From there, they also get the 6" move range.
 
-##### Combat
+#### Combat
 
-###### Attacking with a helicopter
+##### Attacking with a helicopter
 
 Attack helicopters used for close air support have an abundance of weapon system
 at their disposal, from normal MMGs, HMGs and autocannons mounted front- or side-
@@ -307,7 +305,7 @@ the weapon barrels themselves.
 Helicopters with hardpoints are allowed to fire one set of weapons per turn as
 well as their vehicle mounted gun, if it has one.
 
-###### Attacking from a helicopter
+##### Attacking from a helicopter
 
 If the helicopter is hovering (anything except RUN), onboard units are allowed to
 "open" rear/side doors and attack with their small arms from there, with a *-2*
@@ -323,7 +321,7 @@ Reconnaissance units like spotters are allowed to perform their role from the
 helicopter in 45° arks from the opening they are looking from. The door has to be
 open to do this.
 
-###### Shooting at a helicopter
+##### Shooting at a helicopter
 
 Attacking a helicopter works the same way as any other vehicle, and if hit, has
 to check against the following chart:
@@ -350,11 +348,11 @@ Unit mounted on a quad bike cannot fire their weapons.
 
 ***
 
-### Drones
+## Drones
 
 ![drone](/factions/ressources/aladin.excalidraw.png)
 
-#### Introduction
+### Introduction
 
 Drones are wireless-controlled air vehicles, from quadrotor helicopters to giant
 fixed wing weapon carriers. They are a very recent development in warfare, used
@@ -369,7 +367,7 @@ Currently, the three types of drones are:
 - RC plane sized UAVs with off-map operators and either fixed wings, rotors or even both,
 - loitering munition, or more colloquially known as "suicide drones".
 
-#### Gameplay
+### Gameplay
 
 The gameplay difference is how the actual unit is set up. The cheapest option are
 on-map operators who sit behind a bush somewhere and steer the UAV with a remote.
@@ -378,7 +376,7 @@ Bigger UAS, such as a _Threod Systems Stream C_ fixed wing, are operated off map
 and behave like a normal unit. They will have more heavy-hitting options, but
 obviously cost more in terms of points.
 
-##### On-Map Operator
+#### On-Map Operator
 
 Small drones are steered by an operator who has a wireless connection to the device.
 As soon as either the drone or the operator is lost, the team is considered
@@ -390,14 +388,14 @@ the operator, except if the scenario rules state otherwise.
 
 Except for recon role, a team is considered destroyed once the drone is lost.
 
-##### Off-Map Operator
+#### Off-Map Operator
 
 Off-map operated drones act as their own unit and deploy like a helicopter airborne
 on- or off-map. They cannot be resupplied as the on-map operated drones.
 
-#### Movement
+### Movement
 
-##### Quadcopter/rotor vehicles
+#### Quadcopter/rotor vehicles
 
 A drone can be suspended at any height below 2' (60cm). Per activation, either
 the operator or the UAV can perform an action. The UAV is able to move in
@@ -407,7 +405,7 @@ Landing and starting do not require a full round as a helicopter, and can just
 move from the operators position to any other height. A UAV counts as grounded if
 it ends the turn within 1" of the team or on the ground.
 
-##### Fixed wing designs
+#### Fixed wing designs
 
 Fixed wing aircraft are either started by throwing it or from a ramp/vehicle.
 Once started, they are required to perform a full ADVANCE or RUN order as
@@ -424,9 +422,9 @@ operator or have a rule such as the VTOL rule, which does not require an entire
 turn from an operator. Just like the quadcopter, it can end the turn at the full
 travel distance of 24" or 12".
 
-##### Variants
+#### Variants
 
-###### Reconnaissance
+##### Reconnaissance
 
 <img src="/ruleset/ressources/mikado.excalidraw.png" alt="mikado" align=right height=auto width=60%></img>
 
@@ -442,7 +440,7 @@ spotter.
 Using another drone variant removes both the operators' as well as the drones'
 spotting capability.
 
-###### IED variant
+##### IED variant
 
 The UAV carries an improvised high explosive with it, capable of being dropped on
 enemy units:
@@ -452,7 +450,7 @@ enemy units:
 Upon dropping the payload, the UAV can be recovered by the operator to be rearmed,
 which takes a successful RALLY order.
 
-###### Anti-tank IED variant
+##### Anti-tank IED variant
 
 The UAV carries a powerful AT warhead instead of a HE round.
 
@@ -461,7 +459,7 @@ The UAV carries a powerful AT warhead instead of a HE round.
 Upon dropping the payload, the UAV can be recovered by the operator to be rearmed,
 which takes a successful RALLY order.
 
-###### Loitering munition
+##### Loitering munition
 
 In this configuration, the drone itself is the weapon, and is destroyed once the
 payload detonates. Detonation can be triggered by a FIRE or at the end of an
@@ -472,12 +470,12 @@ at any point after that. Quadrocopter drones remain stay in an ambush if not act
 during a turn, but fixed wing designs are forced to move. If no activation happened at
 the end of a round, the drone moves straight forwardfor its max distance.
 
-#### Shooting at a drone
+### Shooting at a drone
 
 When shooting at an airborne drone, the firer receives a -1 hit modifier,
 or a -2 the drones last order was a RUN.
 
-##### Drone rules
+#### Drone rules
 
 | Rule | Description |
 | :--- | :--- |
@@ -490,9 +488,9 @@ or a -2 the drones last order was a RUN.
 
 ***
 
-### Weapon Systems
+## Weapon Systems
 
-#### Anti-Tank guided missiles (ATGM)
+### Anti-Tank guided missiles (ATGM)
 
 ![atgm picture](./ressources/atgm.excalidraw.png)
 
@@ -505,7 +503,7 @@ guided, thus being able to strike targets which move after deployment.
 This places the system operator at a risk of being attacked while the missile is
 still mid-air.
 
-##### Gameplay
+#### Gameplay
 
 ATGMs come in different forms, but mostly consist of a stationary or fixed weapon
 system with a weapon operator, similar to an anti-tank gun or machine gun position.
@@ -521,13 +519,13 @@ moves, the missile is destroyed. This behaviour can be mitigated by using more
 modern equipment, which is no longer wire-guided. For details on that, see the
 "Fire-and-Forget"-special rule.
 
-##### Rule
+#### Rule
 
 | Rule | Description |
 | :--- | :--- |
 | ATGM | Fixed weapon system. Fires missiles behaving according to ATGM ruleset. |
 
-##### Special rules
+#### Special rules
 
 Some weapons also can have other special rules describing the system.
 
@@ -539,17 +537,17 @@ Some weapons also can have other special rules describing the system.
 
 ***
 
-#### Underbarrel grenade launchers (UGL)
+### Underbarrel grenade launchers (UGL)
 
 ![ugl picture](./ressources/underbarrel-grenade-launcher.excalidraw.png)
 
-##### Introduction
+#### Introduction
 
 Underbarrel grenade launchers are modular components which are fixed to another
 weapon, mostly assault rifles. They fire 40mm HE rounds or other projectiles in
 a ballistic trajectory.
 
-##### Gameplay
+#### Gameplay
 
 UGLs behave similarly enough to light mortars that we treat them the same way,
 as to not add unnecessary new rules. They cannot use a spotter and fire in direct
@@ -559,7 +557,7 @@ They have the choice between HE rounds (HE 1") and smoke rounds (HE 1").  A unit
 can either fire its gun or the underbarrel grenade launcher. It does not require
 a loader or assistant. Range and other stats can be found in the [weapons chart](#explosives-and-rockets-weapons-chart).
 
-##### Rule
+#### Rule
 
 | Rule | Description |
 | :--- | :--- |
@@ -567,18 +565,18 @@ a loader or assistant. Range and other stats can be found in the [weapons chart]
 
 ***
 
-#### Tandem HEAT charges
+### Tandem HEAT charges
 
 ![tandem picture](./ressources/tandem-heat-charge.excalidraw.png)
 
-##### Introduction
+#### Introduction
 
 Heavier versions of the usual AT rocket propelled grenades. While having a more
 limited range due to a larger and heavier configuration, the multiple stages of
 detonation provided by a Tandem HEAT round are capable of striking through modern
 reactive armour and heavy defenses.
 
-##### Gameplay
+#### Gameplay
 
 Most RPGs have an option to be equipped with Tandem HEAT rounds. They do not
 replace the normal RPG round, giving you the option of using both. Before attacking,
@@ -587,7 +585,7 @@ same way as any normal RPG attack.
 
 PEN values and range as seen in the [weapons chart](#explosives-and-rockets-weapons-chart).
 
-##### Rule
+#### Rule
 
 | Rule | Description |
 | :--- | :--- |
@@ -595,17 +593,17 @@ PEN values and range as seen in the [weapons chart](#explosives-and-rockets-weap
 
 ***
 
-#### Light anti-tank weapons (LAW)
+### Light anti-tank weapons (LAW)
 
 ![law image](./ressources/law.excalidraw.png)
 
-##### Introduction
+#### Introduction
 
 Light anti-tank weapons (LAW) are lightweight, fire-and-forget AT rockets. They
 are fired from a disposable missile launch platform. These weapons are issued at
 squad-level and provide normal infantry units with anti-tank capabilizies.
 
-##### Gameplay
+#### Gameplay
 
 Fires a single AT warhead against any unit. An attack is performed the same way
 as a normal attack against a vehicle, e. g. with an RPG. The PEN value can be
@@ -614,7 +612,7 @@ found in the [weapons chart](#explosives-and-rockets-weapons-chart).
 The weapon is single-Use and once fired, it is discarded. A squad can carry
 multiple LAWs, and the maximum amount is described in their unit template.
 
-##### Rule
+#### Rule
 
 | Rule | Description |
 | :--- | :--- |
@@ -622,16 +620,16 @@ multiple LAWs, and the maximum amount is described in their unit template.
 
 ***
 
-#### Designated marksman rifles (DMR)
+### Designated marksman rifles (DMR)
 
 ![dmr image](./ressources/dmr.excalidraw.png)
 
-##### Introduction
+#### Introduction
 
 DMRs extend the range of a squad and are used for accurate fire to about 600m,
 compared to most normal service rifles' 300-400m effective range.
 
-##### Gameplay
+#### Gameplay
 
 DMRs are basically longer range rifles. They act as part of the squad, rather
 than a stationary sniper, which is why they dont get the sniper rule (and are way
@@ -645,7 +643,7 @@ DMR cost (see Adjustments).
 Otherwise, the DMR counts as a normal rifle with an extended range. For details,
 check [weapons chart](#small-arms-weapons-chart).
 
-##### Rule
+#### Rule
 
 | Rule | Description |
 | :--- | :--- |
@@ -653,7 +651,7 @@ check [weapons chart](#small-arms-weapons-chart).
 
 ***
 
-#### Improvised explosive devices (IED) and mines
+### Improvised explosive devices (IED) and mines
 
 ![ied image](./ressources/ied.excalidraw.png)
 
@@ -666,7 +664,7 @@ to inhibit enemy troop movement and attritional usage against vehicles.
 
 For the purposes of pragmaticality, we treat IEDs and mines the same way.
 
-##### Gameplay
+#### Gameplay
 
 Mines and IEDs are indicated by markers on the map, maybe something like a base
 or chip. Under each has to be clearly marked, whether the marker is for a mine/IED
@@ -680,14 +678,14 @@ rolled:
 
 ![IED mine test flowchart](./ressources/mines-decoys-flowchart.excalidraw.png)
 
-##### Sapper
+#### Sapper
 
 The sapper is a specialized unit reserved to rebel and insurgent forces. A sapper
 team consists of the operator and one attendant. They carry IEDs and decoys, which
 can be deployed within 1" of the unit as a FIRE order or as the attack action of
 an ADVANCE order. Any sapper carries 3 IEDs and an unlimited amount of decoys.
 
-###### Attacking vehicles
+##### Attacking vehicles
 
 If a sapper comes within 1" of a vehicle, he can attach IEDs to the vehicle after
 a successful FIRE or as the attack action of an ADVANCE order.
@@ -697,7 +695,7 @@ vehicle is automatically counted as hit and rolls for damage according to the
 [weapons chart](#explosives-and-rockets-weapons-chart) values for an IED. Any other unit, including enemy forces, within
 the appropriate HE template also roll to hit.
 
-##### Engineer
+#### Engineer
 
 The engineer is a part of any conventional army. They are the multi-tool of a
 ground force and are well-versed in dealing with explosives and fortifications,
@@ -711,7 +709,7 @@ decoy, regardless of their roll when engaging one. Also, they get to reroll a 3-
 on the IED flowchart, if it actually is an explosive. This only applies if the
 unit itself triggeres a conceiled marker, not if they are hit by an explosion.
 
-##### Vehicle-born IEDs
+#### Vehicle-born IEDs
 
 ##### Rules
 
@@ -724,22 +722,22 @@ unit itself triggeres a conceiled marker, not if they are hit by an explosion.
 
 ***
 
-#### Automatic grenade launchers (AGL)
+### Automatic grenade launchers (AGL)
 
 ![weapons chart image](./ressources/agl.excalidraw.svg)
 
-##### Introduction
+#### Introduction
 
 Automatic Grenade Launchers (AGL) are stationary weapon systems used to fire high
 explosive grenades.
 
-##### Gameplay
+#### Gameplay
 
 Similar to machine guns, these weapons are fixed-position guns controlling areas
 and channeling enemy forces. They fire multiple grenades per salvo, which can easily
 decimate infantry groups.
 
-##### Rule
+#### Rule
 
 | Rule | Description |
 | :--- | :--- |
@@ -747,9 +745,9 @@ decimate infantry groups.
 
 ***
 
-#### Manportable air defense systems (MANPADS)
+### Manportable air defense systems (MANPADS)
 
-##### Introduction
+#### Introduction
 
 ![manpads image](./ressources/manpads.excalidraw.png)
 
@@ -758,7 +756,7 @@ which are used to fight airborne targets such as helicopters or jets on a squad-
 level. They offer protection against low-flying attackers for infantry formations
 without using expensive vehicleborn weaponry.
 
-##### Gameplay
+#### Gameplay
 
 Since MANPADS are about 3x as fast as ATGMs (as a comparison, a TOW flies at around
 278-320m/s, while a Stinger missile flies at Mach 2.2 or 745m/s), they do not get
@@ -773,7 +771,7 @@ is required.
 
 MANPADS can also be deployed on a tripod as a stationary weapon system.
 
-##### Rule
+#### Rule
 
 | Rule | Description |
 | :--- | :--- |
@@ -782,18 +780,18 @@ MANPADS can also be deployed on a tripod as a stationary weapon system.
 
 ***
 
-#### Explosives
+### Explosives
 
 ![bangalore image](./ressources/bangalore.excalidraw.png)
 
 _Bangalores, prominently used in "Saving Private Ryan" as a clearing device and the pinnacle of art in this ruleset._
 
-##### Introduction
+#### Introduction
 
 Used to blow holes or clear mines from a safe cover, even while under fire.
 Youre imagination is the limit!
 
-##### Gameplay
+#### Gameplay
 
 Explosive kits serve a multitude of roles:
 
@@ -810,7 +808,7 @@ one of these formulas or make up your own.
 Kits are single-use. Any unit can carry any amount of them, but
 a maximum can be set in the squad template.
 
-##### Rule
+#### Rule
 
 | Rule | Description |
 | :--- | :--- |
@@ -818,17 +816,17 @@ a maximum can be set in the squad template.
 
 ***
 
-#### Smoke Screens
+### Smoke Screens
 
 ![smoke screen image](./ressources/smoke-screen.excalidraw.png)
 
-##### Introduction
+#### Introduction
 
 Modern vehicles are equipped with smoke grenade laumchers to quickly provide cover
 in case of an emergency situation. They are forward facing and enable maneuvering
 and retreat if necessary.
 
-##### Gameplay
+#### Gameplay
 
 Once per vehicle, a unit equipped with a smoke screen can active it by going DOWN.
 (You are not forced to activate it when going DOWN, it can be performed without
@@ -841,7 +839,7 @@ of the vehicle or in the direction the turret is aiming, depending on where the
 smoke pods are located. Built-up smoke behaves the same as any other smoke,
 drifting and vanishing just like a smoke round.
 
-##### Rule
+#### Rule
 
 | Rule | Description |
 | :--- | :--- |
@@ -849,16 +847,16 @@ drifting and vanishing just like a smoke round.
 
 ***
 
-#### Smoke Grenades
+### Smoke Grenades
 
 ![ich nebel selbst](./ressources/smoke-grenade.excalidraw.png)
 
-##### Introduction
+#### Introduction
 
 Smoke grenades are used by infantry formations to reduce visibility during an
 engagement over open terrain.
 
-##### Gameplay
+#### Gameplay
 
 Smoke grenades come as an upgrade to infantry groups. If equipped, they count as
 a singular action to throw, and the entire squad uses their grenades for maximum
@@ -868,7 +866,7 @@ Uses a FIRE or ADVANCE action. 3 HE 1" smoke markers are placed at any point
 within 12" of the infantry squad. The clouds behaves like any other smoke,
 see rulesbook. After usage, the squad cannot perform another smoke barrage.
 
-##### Rule
+#### Rule
 
 | Rule | Description |
 | :--- | :--- |
@@ -876,11 +874,11 @@ see rulesbook. After usage, the squad cannot perform another smoke barrage.
 
 ***
 
-#### Thermal Cameras
+### Thermal Cameras
 
 ![thermal camera image](/ruleset/ressources/thermal.excalidraw.png)
 
-##### Introduction
+#### Introduction
 
 Many modern vehicles are equipped with not just night vision capable optics, but
 thermal imaging cameras. These are capable of observing radiotion in the 400-700 nm
@@ -889,7 +887,7 @@ range, which can be tranlated into a thermographic image, visualizing actual hea
 By using these, a human or vehicle can be found way easier than with normal imaging,
 as long as its heat signature is higher than its surroundings.
 
-##### Gameplay
+#### Gameplay
 
 Thermal cameras reduce the effectiveness of conceilment. A weapon systems operator
 that has access to a thermal camera is thus not affected as much by cover.
@@ -900,7 +898,7 @@ malus of +1 on cover saves, making them less effective.
 On vehicles, the thermal camera is considered destroyed as soon as the vehicle
 is damaged in any way.
 
-##### Rule
+#### Rule
 
 | Rule | Description |
 | :--- | :--- |
