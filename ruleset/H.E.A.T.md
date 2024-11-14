@@ -55,7 +55,7 @@ These weapons are operated by a single unit, which uses it as its primary weapon
 | Assault rifle | 0" - 12" | 2 | 1 | - | - |
 | Assault rifle* | 12" - 24" | 1 | 1 | - | - |
 | Rifle | 0" - 24" | 1 | 1 | - | - |
-| Designated marksman rifle | 0" - 36" | 1 | 1 | - | DMR |
+| Designated marksman rifle | 0" - 36" | 1 | 1 | - | - |
 | Shotgun | 0" - 18" | D3 | 1 | - | Assault, Anti-Drone |
 | Underbarrel grenade launcher | 6" - 20" | 1 | D2 | HE | UGL |
 | EW Rifle | 0" - 72" | 1 | - | - | Anti-Drone, EW Weapon |
