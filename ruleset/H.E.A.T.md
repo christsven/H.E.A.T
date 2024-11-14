@@ -597,7 +597,7 @@ PEN values and range as seen in the [weapons chart](#explosives-and-rockets-weap
 
 | Rule | Description |
 | :--- | :--- |
-| Tandem HEAT Charge | Optional Upgrade for most RPGs. If chosen and selected for <br>an attack, announce before roling to hit.<br><br> Damage values and range as seen in [weapons chart](#explosives-and-rockets-weapons-chart). |
+| Tandem HEAT Charge | Optional Upgrade for most RPGs. If chosen and selected for <br>an attack, announce before rolling to hit.<br><br> Damage values and range as seen in [weapons chart](#explosives-and-rockets-weapons-chart). |
 
 ***
 
@@ -646,10 +646,7 @@ soldier, which can be handy in some situations.
 
 If chosen, a DMR replaces the AR of one soldier in a squad. If none are present,
 the unit also costs the +5pt for switching the main weapon out in addition to the
-DMR cost (see Adjustments).
-
-Otherwise, the DMR counts as a normal rifle with an extended range. For details,
-check [weapons chart](#small-arms-weapons-chart).
+DMR cost (see [Adjustments](#rule-adjustments).
 
 #### Rule
 
@@ -749,7 +746,7 @@ decimate infantry groups.
 
 | Rule | Description |
 | :--- | :--- |
-| AGL | A platform to fire HE 1" grenades from. The system functions fires 2 HE shots at a target, for each hit the HE 1" template can be placed over the unit. Those need to connect to each other and can overlap.<br><br> When firing at buildings, the HE hits are rolled as described in the HE section.<br><br>For more information see [weapons chart](#explosives-and-rockets-weapons-chart) |
+| AGL | A platform firing HE 1" grenades. The system fires 2 HE shots at a target, for each hit the HE 1" template can be placed over the unit. Those need to connect to each other and can overlap.<br> When firing at buildings, the HE hits are rolled as described in the HE section.<br><br>For more information see [weapons chart](#explosives-and-rockets-weapons-chart) |
 
 ***
 
@@ -784,7 +781,7 @@ MANPADS can also be deployed on a tripod as a stationary weapon system.
 | Rule | Description |
 | :--- | :--- |
 | MANPADS | Portable air defense system. Fires from a fixed position.<br>Roll against [flowchart](#gameplay-9) when firing at enemy unit. |
-| Countermeasures | Anti-missile countermeasures, released to confuse<br>the rocket target lock. If able to release,this adds a<br>-2 to hit modifier to a MANPADS attack roll.Not single-use,<br>can be used multiple times.|
+| Countermeasures | Anti-missile countermeasures, released to confuse the rocket target lock.<br>If able to release, this adds a -2 to hit modifier to a MANPADS attack roll.<br>Not single-use, can be used multiple times. |
 
 ***
 
@@ -920,10 +917,8 @@ is damaged in any way.
 
 ### Adjustments
 
-These are adjustments or rule rewrites my group worked out as house rules. Take
-them as you will, but this ruleset is written with all of them in mind as normal
-rules. Feel free to change them around in your personal games, or dont use them
-at all. Your loss :D
+These are adjustments of existing rules, which needed to be adjusted to the
+more modern setting of H.E.A.T..
 
 #### Weapon choice
 
@@ -1065,6 +1060,14 @@ option open.
 
 As a quite popular buff for MGs, all weapons in the machine gun team slot deal
 D2 Pins to make them more viable.
+
+#### Pintle-mounted weapons/FLAK rule
+
+All pintle-mounted weapons, which ordinarily would have gotten the FLAK rule, now get
+the [Anti-Drone](#drones) rule.
+
+The Flak rule is removed, as modern jets or bombers droo their payload so far away
+that no machine gunner would be able to hit them anyway.
 
 ### Experimental Stuff
 
