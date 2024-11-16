@@ -2,7 +2,7 @@
 
 ![drone image](/factions/ressources/quad-drone.excalidraw.png)
 
-This is a continuation of the original NSPR army list found [here]().
+This is a continuation of the original NSPR army list found [here](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md).
 
 ## Table of contents
 
