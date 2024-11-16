@@ -11,11 +11,13 @@ actually have a question, let me know, and i'll probably add it here.
 
 That way you have the choice of adding more units of one specialty compared to
 fewer, more general support assets. I also felt like this would be more realistic
-in some cases, as you seldomly will see a singular infantry or engineer group
-acting on its own (not that they would be reinforcing a platoon, so realism is
-obviously not super important, but still.).
+in some cases, as you seldomly will see a singular infantry or engineer squad
+reinforcing a platoon (not that they would be reinforcing a platoon anyway,
+i think that happens mostly on the company level.)
 
-## Why do some drones use the rectangle ground unit symbol, and some the air vehicle image?
+So this way its a bit more nuanced without having a dozen subcategories and overcomplicating things.
+
+### Why do some drones use the rectangle ground unit symbol, and some the air vehicle image?
 
 Units that use the rectangle icon have on map operators, so they are a "ground unit",
 while off map operated drones are just air vehicles. So that is one way to quickly
