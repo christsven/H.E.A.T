@@ -196,7 +196,7 @@ in conjunction with other units and vehicles.
 ### PMC Contractors squad
 
 <p align=center>
-<img src="/factions/ressources/generic-insurgent.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
+<img src="/factions/ressources/generic-insurgent.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=60%>
 </p>
 
 Soldiers of the russian PMC group "Bratstwa" are well-trained and equipped,
