@@ -123,7 +123,7 @@ These vehicle types do have to suffer one of the following modifiers:
 
 ## Infantry
 
-![infantry! ](../factions/ressources/infantry-nspr.excalidraw.png)
+![infantry!](../factions/ressources/infantry-nspr.excalidraw.png)
 
 ### Forward reconnaissance team
 
@@ -149,9 +149,7 @@ and reporting enemy troop movement.
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt |
 | Setup | NCO (AR) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Break contact</td><td>Recon units are often confronted with superior enemies<br>they are not meant to engage. To fall back in a controlled fashion,<br> these units may fire first, then maneuver during an ADVANCE.</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
-
-![generic nspr](../factions/ressources/generic-insurgent.excalidraw.png)
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Break contact</td><td>Recon units are often confronted with superior enemies<br>they are not meant to engage. To fall back in a controlled fashion,<br> these units may fire first, then maneuver during an ADVANCE.</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> 
 
 ### Assault Detachment
 
@@ -196,6 +194,10 @@ in conjunction with other units and vehicles.
 | Special rules | - |
 
 ### PMC Contractors squad
+
+<p align=center>
+<img src="/factions/ressources/generic-insurgent.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
+</p>
 
 Soldiers of the russian PMC group "Bratstwa" are well-trained and equipped,
 and are used since the revolution began to strike down difficult targets,
