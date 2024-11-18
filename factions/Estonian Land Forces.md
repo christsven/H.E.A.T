@@ -99,7 +99,7 @@ platoons and outrank all other units on the table.
 ## Infantry
 
 <p align=center>
-<img src="/factions/ressources/kaitseliig-infantryman.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="kaitseliig infantry" height=auto width=70%>
+<img src="/factions/ressources/kaitseliig-infantry.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="kaitseliig infantry" height=auto width=70%>
 </p>
 
 ### Reke pooljagu
