@@ -354,7 +354,10 @@ phases to make it more navigable.
 
 #### LAV 25
 
-#### Blackhawk
+#### Sikorsky UH 60 "Rahutuvi"
+
+Nicknamed "Rahutuvi" (est. peace dove) due to their white paint, the UH 60 Black Hawk
+replaced the UH 1 Bell in situations where units had to be moved close to the frontline.
 
 ***
 
