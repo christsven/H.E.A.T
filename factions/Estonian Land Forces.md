@@ -13,7 +13,7 @@ Emblem of the 1. Estonian Division
 </p>
 
 <p align=center>
-Emblem of the Kaitseliig, the Estonian Defense League
+Emblem of the Kaitseliit, the Estonian Defense League
 </p>
 
 The combined remaining forces fighting for the liberation of Ida Viru. While not
@@ -99,7 +99,7 @@ platoons and outrank all other units on the table.
 ## Infantry
 
 <p align=center>
-<img src="/factions/ressources/kaitseliig-infantry.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="kaitseliig infantry" height=auto width=70%>
+<img src="/factions/ressources/kaitseliit-infantryman.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="kaitseliig infantry" height=auto width=70%>
 </p>
 
 ### Reke pooljagu
