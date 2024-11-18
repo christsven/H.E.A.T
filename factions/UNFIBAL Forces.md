@@ -374,7 +374,7 @@ phases to make it more navigable.
 
 #### UH-1 Bell
 
-![huey](/factions/ressources/huey.excalidraw.png)
+![huey](/ruleset/ressources/helicopter.excalidraw.png)
 
 ### Post-arms delivery
 

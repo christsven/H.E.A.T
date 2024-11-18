@@ -13,8 +13,10 @@
 | Technical | [Link to File]() | [Link to Source]() |
 | BASEP Infantry | [Link to File]() | [Link to Source]() |
 | BASEP Leader | [Link to File]() | [Link to Source]() |
+| Blackhawk | [Link to File]() | [Link to Source](https://www.twz.com/ukraine-invasion-opens-eastern-european-door-for-u-s-helicopters) |
 | BMP 1 | [Link to File]() | [Link to Source]() |
 | Boat | [Link to File]() | [Link to Source]() |
+| Bradley | [Link to File]() | [Link to Source](https://gagadget.com/de/205384-es-ist-offiziell-die-usa-werden-m2-bradley-schutzenpanzer-an-die-ukraine-liefern/#photo1) |
 | Bratstwa | [Link to File]() | [Link to Source]() |
 | BRDM 2 | [Link to File]() | [Link to Source]() |
 | BSP Logo | [Link to File]() | [Link to Source]() |
@@ -35,6 +37,7 @@
 | Fennek | [Link to File]() | [Link to Source]() |
 | Insurgents | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
 | GTK Boxer | [Link to File]() | [Link to Source]() |
+| Guardian | [Link to File]() | [Link to Source](https://www.trident-miniatures.com/index.php/en/military-models-en/us-forces/m1117-guardian-detail) |
 | Hell cannon | [Link to File]() | [Link to Source]() |
 | Humvee | [Link to File]() | [Link to Source]() |
 | NSPR Infantry | [Link to File]() | [Link to Source]() |
@@ -46,6 +49,7 @@
 | KZO | [Link to File]() | [Link to Source]() |
 | Leclerc | [Link to File]() | [Link to Source]() |
 | L-ATV | [Link to File]() | [Link to Source](https://www.nationaldefensemagazine.org/articles/2022/1/25/oshkosh-defense-unveils-new-hybrid-electric-jltv) |
+| LAV 25 | [Link to File]() | [Link to Source](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=1641&l=en) |
 | Leopard (old) | [Link to File]() | [Link to Source]() |
 | Leopard (new) | [Link to File]() | [Link to Source]() |
 | Mamba | [Link to File]() | [Link to Source]() |
