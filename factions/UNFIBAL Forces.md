@@ -315,6 +315,14 @@ phases to make it more navigable.
 
 ### Post-arms delivery
 
+#### HMMWV "Humvee"
+
+#### Oshkosh L-ATV
+
+#### MRAP
+
+#### Stryker
+
 #### M2/M3 Bradley
 
 | M2/M3 Bradley | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
@@ -326,23 +334,25 @@ phases to make it more navigable.
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM Launcher</td><td>TOW Anti-Tank Guided Missile Launcher.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></td><td>+ 35 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#ifv-rule).</td></tr><tr><td>ATGM</td><td>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).</td></tr></table> |
 
-#### Stryker APC
-
-#### M1117 Guardian
-
 ***
 
 ## Reinforcing Vehicles
 
 ### Pre-arms delivery
 
-#### AML-90
+#### AML 90
+
+#### VBL
+
+#### PVP
 
 #### UH-1 Bell
 
 ### Post-arms delivery
 
 #### M1117 Guardian
+
+#### LAV 25
 
 #### Blackhawk
 
