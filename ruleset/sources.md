@@ -6,44 +6,46 @@
 
 | Name/Identifier | Link to file | Link to source |
 | :--- | :--- | :--- |
-| Aladin | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Alphabet | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| AMX 10 RC | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| AMX 30 AuF 1 | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Technical | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| BASEP Infantry | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| BASEP Leader | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| BMP 1 | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Boat | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Bratstwa | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| BRDM 2 | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| BSP Logo | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| BTR 60 | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| BTR 80 | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| BTRD (new) | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| BTRD (old) | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| CAESAR | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| CVRT | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| CV9035EE | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Dingo | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| ELF | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Enok | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Eagle IV | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Eurocopter | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Eurocorps | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Fennek | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
+| Aladin | [Link to File]() | [Link to Source]() |
+| Alphabet | [Link to File]() | [Link to Source]() |
+| AMX 10 RC | [Link to File]() | [Link to Source]() |
+| AMX 30 AuF 1 | [Link to File]() | [Link to Source]() |
+| Technical | [Link to File]() | [Link to Source]() |
+| BASEP Infantry | [Link to File]() | [Link to Source]() |
+| BASEP Leader | [Link to File]() | [Link to Source]() |
+| BMP 1 | [Link to File]() | [Link to Source]() |
+| Boat | [Link to File]() | [Link to Source]() |
+| Bratstwa | [Link to File]() | [Link to Source]() |
+| BRDM 2 | [Link to File]() | [Link to Source]() |
+| BSP Logo | [Link to File]() | [Link to Source]() |
+| BTR 60 | [Link to File]() | [Link to Source]() |
+| BTR 70 | [Link to File]() | [Link to Source](https://de.wikipedia.org/wiki/BTR-70#/media/Datei:Victory_park_(Kazan)_(262-6).jpg) |
+| BTR 80 | [Link to File]() | [Link to Source]() |
+| BTRD (new) | [Link to File]() | [Link to Source]() |
+| BTRD (old) | [Link to File]() | [Link to Source]() |
+| CAESAR | [Link to File]() | [Link to Source]() |
+| CVRT | [Link to File]() | [Link to Source]() |
+| CV9035EE | [Link to File]() | [Link to Source]() |
+| Dingo | [Link to File]() | [Link to Source]() |
+| ELF | [Link to File]() | [Link to Source]() |
+| Enok | [Link to File]() | [Link to Source]() |
+| Eagle IV | [Link to File]() | [Link to Source]() |
+| Eurocopter | [Link to File]() | [Link to Source]() |
+| Eurocorps | [Link to File]() | [Link to Source]() |
+| Fennek | [Link to File]() | [Link to Source]() |
 | Insurgents | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| GTK Boxer | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Hell cannon | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Humvee | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| NSPR Infantry | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Jeep, soviet | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
-| Jeep, western | [Link to File](../factions/ressources/generic-insurgent.excalidraw.png) | [Link to Source](https://de.pinterest.com/pin/73816881388789176/) |
+| GTK Boxer | [Link to File]() | [Link to Source]() |
+| Hell cannon | [Link to File]() | [Link to Source]() |
+| Humvee | [Link to File]() | [Link to Source]() |
+| NSPR Infantry | [Link to File]() | [Link to Source]() |
+| Jeep, soviet | [Link to File]() | [Link to Source]() |
+| Jeep, western | [Link to File]() | [Link to Source]() |
 | Kaitseliit infantry | [Link to File]() | [Link to Source]() |
 | Kaitseliit logo | [Link to File]() | [Link to Source]() |
 | Kamikaze drone | [Link to File]() | [Link to Source]() |
 | KZO | [Link to File]() | [Link to Source]() |
 | Leclerc | [Link to File]() | [Link to Source]() |
+| L-ATV | [Link to File]() | [Link to Source](https://www.nationaldefensemagazine.org/articles/2022/1/25/oshkosh-defense-unveils-new-hybrid-electric-jltv) |
 | Leopard (old) | [Link to File]() | [Link to Source]() |
 | Leopard (new) | [Link to File]() | [Link to Source]() |
 | Mamba | [Link to File]() | [Link to Source]() |
@@ -52,6 +54,7 @@
 | Mil Mi 2 | [Link to File]() | [Link to Source]() |
 | Mil Mi 8 | [Link to File]() | [Link to Source]() |
 | MTLB | [Link to File]() | [Link to Source]() |
+| MRAP | [Link to File]() | [Link to Source](https://www.motortrend.com/news/163-news140129-surplus-mrap-military-vehicles-given-away-free/) |
 | Mungo | [Link to File]() | [Link to Source]() |
 | NSPR horsey | [Link to File]() | [Link to Source]() |
 | NSPR logo | [Link to File]() | [Link to Source]() |

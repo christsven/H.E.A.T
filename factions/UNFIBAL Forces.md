@@ -305,25 +305,45 @@ phases to make it more navigable.
 
 #### BTR 60
 
+![btr 60](/factions/ressources/btr60.excalidraw.png)
+
 #### BTR 70
+
+![btr 70](/factions/ressources/btr70.excalidraw.png)
 
 #### BTR 80
 
+![btr 80](/factions/ressources/btr80.excalidraw.png)
+
 #### VAB
 
+![vab](/factions/ressources/vab.excalidraw.png)
+
 #### M113
+
+![m113](/ruleset/ressources/ifvs.excalidraw.png)
 
 ### Post-arms delivery
 
 #### HMMWV "Humvee"
 
+![humvee](/factions/ressources/humvee.excalidraw.png)
+
 #### Oshkosh L-ATV
+
+![latv](/factions/ressources/latv.excalidraw.png)
 
 #### MRAP
 
+![mrap](/factions/ressources/mrap.excalidraw.png)
+
 #### Stryker
 
+![stryker](/factions/ressources/stryker.excalidraw.png)
+
 #### M2/M3 Bradley
+
+![bradley](/factions/ressources/bradley.excalidraw.png)
 
 | M2/M3 Bradley | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
@@ -342,19 +362,33 @@ phases to make it more navigable.
 
 #### AML 90
 
+![aml90](/factions/ressources/aml90.excalidraw.png)
+
 #### VBL
+
+![vbl](/factions/ressources/vbl.excalidraw.png)
 
 #### PVP
 
+![pvp](/factions/ressources/pvp.excalidraw.png)
+
 #### UH-1 Bell
+
+![huey](/factions/ressources/huey.excalidraw.png)
 
 ### Post-arms delivery
 
 #### M1117 Guardian
 
+![guardian](/factions/ressources/guardian.excalidraw.png)
+
 #### LAV 25
 
+![lav25](/factions/ressources/lav25.excalidraw.png)
+
 #### Sikorsky UH 60 "Rahutuvi"
+
+![blackhawk](/factions/ressources/blackhawk.excalidraw.png)
 
 Nicknamed "Rahutuvi" (est. peace dove) due to their white paint, the UH 60 Black Hawk
 replaced the UH 1 Bell in situations where units had to be moved close to the frontline.
