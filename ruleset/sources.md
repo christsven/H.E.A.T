@@ -71,6 +71,7 @@
 | Sisu Parsi | [Link to File]() | [Link to Source]() |
 | Sokol | [Link to File]() | [Link to Source]() |
 | Spz Puma | [Link to File]() | [Link to Source]() |
+| Stryker | [Link to File]() | [Link to Source](https://en.wikipedia.org/wiki/Stryker#/media/File:A_Stryker_armored_vehicle_manned_by_U.S._Soldiers_with_the_2nd_Cavalry_Regiment_moves_in_a_convoy_during_exercise_Saber_Junction_near_Hohenfels,_Germany_121023-A-ZR192-004.jpg) |
 | T55 | [Link to File]() | [Link to Source]() |
 | Themis | [Link to File]() | [Link to Source]() |
 | Threod Drone | [Link to File]() | [Link to Source]() |
