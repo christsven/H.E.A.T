@@ -50,6 +50,7 @@
 | Leclerc | [Link to File](/factions/ressources/leclerc.excalidraw.png) | [Link to Source]() |
 | L-ATV | [Link to File](/factions/ressources/latv.excalidraw.png) | [Link to Source](https://www.nationaldefensemagazine.org/articles/2022/1/25/oshkosh-defense-unveils-new-hybrid-electric-jltv) |
 | LAV 25 | [Link to File](/factions/ressources/lav25.excalidraw.png) | [Link to Source](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=1641&l=en) |
+| Leopard 1 | [Link to File](/factions/ressources/leopard1.excalidraw.png) | [Link to Source](https://www.panzer-modell.de/referenz/in_detail/leo1a5/Bild021_2g.jpg) |
 | Leopard (old) | [Link to File](/factions/ressources/leopard-mbt.excalidraw.png) | [Link to Source]() |
 | Leopard (new) | [Link to File](/factions/ressources/leopard-new.excalidraw.png) | [Link to Source]() |
 | Mamba | [Link to File](/factions/ressources/mamba.excalidraw.png) | [Link to Source]() |
