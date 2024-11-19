@@ -14,14 +14,13 @@
 
 ### Minimal attrition
 
-UN Peacekeepers are meant as a deescalatory force aiding police work and opening
-dialogue, not as another army to fight. That meams that certain weapon systems are
-not required to fulfill every role they serve in a conventional army.
+UN Peacekeepers are meant to serve as a deescalatory force aiding police
+work and opening dialogue. That means that certain weapon systems are not required
+to fulfill every role they serve in a conventional army.
 
-To reduce potential
-collateral damage, tanks and IFVs do not carry HE shells, since they are only meant
-to engage targets that pose a direct threat without destroying the area those threats
-occupy.
+To reduce potential collateral damage, heavy weapons do not carry HE shells,
+since they are only meant to engage targets that pose a direct threat without 
+destroying the area those threats occupy.
 
 _TLDR: AT guns and autocannons do not get HE shells and may only use the PEN value when engaging enemies._
 
@@ -35,6 +34,13 @@ _TLDR: Every infantry group may replace one soldier by a field medic for +30pt._
 | Rule | Description | Cost |
 | --- | --- | --- |
 | Team Medic | One soldier is replaced by a medic. The medic obeys standard medic rules<br>for its squad and any friendly unit within 6" of the squad. | +30pt |
+
+### Maximal support
+
+To counterbalance the missing HE rounds, a UN fields more support weaponry
+than comparable formations.
+
+_TLDR: When using a default platoon roster, UN platoons may reinforce the platoon with a third one of the optional rows._
 
 ***
 
