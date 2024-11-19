@@ -241,10 +241,6 @@ phases to make it more navigable.
 
 ### Pre-arms delivery
 
-#### AML 90
-
-![aml90](/factions/ressources/aml90.excalidraw.png)
-
 #### VBL
 
 ![vbl](/factions/ressources/vbl.excalidraw.png)
@@ -252,6 +248,10 @@ phases to make it more navigable.
 #### PVP
 
 ![pvp](/factions/ressources/pvp.excalidraw.png)
+
+#### AML 90
+
+![aml90](/factions/ressources/aml90.excalidraw.png)
 
 #### UH-1 Bell
 
