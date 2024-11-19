@@ -330,7 +330,7 @@ The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
 
 ***
 
-## Armoured Personell Carriers / Infantry Fighting Vehicles
+## APCs / IFVs
 
 Since the mission received a major arms delivery by the United States replacing
 most of the motor pool, this section as well as the next are split into these two
@@ -391,7 +391,7 @@ phases to make it more navigable.
 
 ***
 
-## Reinforcing Vehicles
+## Heavy Systems
 
 ### Pre-arms delivery
 
