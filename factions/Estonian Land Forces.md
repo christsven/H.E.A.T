@@ -126,7 +126,7 @@ Infantry from the Eesti Scouts Battalion.
 | Reinforcement | up to 3 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (AR) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Sprengrohr</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr></table> |
 
 ### Jalaväe jagu
 
@@ -186,7 +186,7 @@ of NSPR strength and force capability.
 | Reinforcement | up to 3 attendants (?): 7 pt / - / - |
 | Setup | NCO (?) + 3 attendants (?) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x ?</td><td>See rule.</td><td>+20 pt each</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Green</td><td>-</td></tr><tr><td>Mixed Loadout</td><td>Once unit is placed on the table, roll a D3 for each soldier<br>in the group to determine his loadout:<br><li>1: PDW</li><li>2: SMG</li><li>3: AR</li>For every additional weapon roll again a D3:<br><li>1: Shotgun</li><li>2: LMG</li><li>3: LAW</li>(_Try for a double D3 to get an RPG.<br>If you fail, the soldier gets no additional weapon._)<br>Team weapons may choose freely which unit becomes<br>its loader. That unit may retain its weapon for later usage.</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Green</td><td>-</td></tr><tr><td>Mixed Loadout</td><td>Once unit is placed on the table, roll a D3 to determine the group's loadout:<br><li>1: PDW</li><li>2: SMG</li><li>3: AR</li>For every additional weapon roll again a D3:<br><li>1: Shotgun</li><li>2: LMG</li><li>3: LAW</li>(_Try for a double D3 to get an RPG.<br>If you fail, the soldier gets no additional weapon._)<br>Team weapons may choose freely which unit becomes<br>its loader. That unit may retain its weapon for later usage.</td></tr></table> |
 
 ***
 
