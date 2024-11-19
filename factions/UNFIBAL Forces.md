@@ -8,6 +8,35 @@
 <i>Logo of the UN Mission to Estonia</i>
 </p>
 
+UNFIBAL was one of the first major parties to the conflict and already assisted estonian
+authorities prior to the war. Initially, it fielded older equipment from donor nations
+and its soldiers came from a plathora of nations, mostly Asia and Africa, as it is often
+the case in UN missions.
+
+After not joining in the NATO mission to Estonia, the US send a hefty amount of new
+equipment to the mission in order to save face. The aid package included M1117 Guardians,
+Strykers, Bradleys, and even Blackhawks. The white paintjob on the usually prominently
+black helicopter earned it the nickname "peace doves" by estonians.
+
+***
+
+## Table of content
+
+- [Army modifiers](#army-modifiers)
+- [Officers](#officers)
+- [Infantry](#infantry)
+- [Combat support](#combat-support-units)
+- [Machine guns](#machine-gun-teams)
+- [Anti tank teams](#anti-tank-teams)
+- [Micro air vehicles](#micro-air-vehicles)
+- [Mortar teams](#mortar-teams)
+- [Divisional Reinforcements](#divisional-reinforcements)
+- [Artillery](#artillery)
+- [Anti-air systems](#anti-air-systems)
+- [APCs/IFVs](#apcs--ifvs)
+- [Heavy vehicles](#heavy-vehicles)
+- [Transports](#transports)
+
 ***
 
 ## Army modifiers
