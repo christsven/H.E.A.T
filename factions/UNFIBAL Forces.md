@@ -267,13 +267,6 @@ phases to make it more navigable.
 
 ![lav25](/factions/ressources/lav25.excalidraw.png)
 
-#### Sikorsky UH 60 "Rahutuvi"
-
-![blackhawk](/factions/ressources/blackhawk.excalidraw.png)
-
-Nicknamed "Rahutuvi" (est. peace dove) due to their white paint, the UH 60 Black Hawk
-replaced the UH 1 Bell in situations where units had to be moved close to the frontline.
-
 #### Leopard 1
 
 ![Leopard 1](/factions/ressources/leopard1.excalidraw.png)
@@ -281,6 +274,13 @@ replaced the UH 1 Bell in situations where units had to be moved close to the fr
 Since initial plans for Abrams MBT deliveries fell through due to the high maintenance
 requirements, the german government pledged 20 Leopard 1 MBTs to be moved from storage
 to reinforce the mission. Maintenance of the vehicle takes place in Germany and Poland in partnership with KNDS.
+
+#### Sikorsky UH 60 "Rahutuvi"
+
+![blackhawk](/factions/ressources/blackhawk.excalidraw.png)
+
+Nicknamed "Rahutuvi" (est. peace dove) due to their white paint, the UH 60 Black Hawk
+replaced the UH 1 Bell in situations where units had to be moved close to the frontline.
 
 ***
 
