@@ -163,6 +163,7 @@ mission as local guides and translators.
 
 - Recon on map
 - Recon off map
+- A-UGV mit Recon/Medic oder .50cal Variante (muss sich preislich rechnen, also ungefähr so teuer wie ein medic)
 
 ***
 
