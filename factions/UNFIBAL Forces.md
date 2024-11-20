@@ -30,7 +30,7 @@ black helicopter earned it the nickname "peace doves" by estonians.
 - [Anti tank teams](#anti-tank-teams)
 - [Micro air vehicles](#micro-air-vehicles)
 - [Mortar teams](#mortar-teams)
-- [Divisional Reinforcements](#divisional-reinforcements)
+- [Artillery](#artillery)
 - [Anti-air systems](#anti-air-systems)
 - [APCs/IFVs](#apcs--ifvs)
 - [Heavy vehicles](#heavy-vehicles)
