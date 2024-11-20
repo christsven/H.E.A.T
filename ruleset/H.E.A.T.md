@@ -443,9 +443,12 @@ spotting capability.
 ##### IED variant
 
 The UAV carries an improvised high explosive with it, capable of being dropped on
-enemy units:
+enemy units.
 
-![ied drop image](./ressources/drone-ied-flowchart.excalidraw.png)
+Resolve the to-hit roll as follows by rolling a D6:
+- 1: Drone fails to release payload. Nothing happens.
+- 2: Payload tumbles D3", check the HE3" template for hits.
+- 3+: Drone hits, resolve to damage roll as usual.
 
 Upon dropping the payload, the UAV can be recovered by the operator to be rearmed,
 which takes a successful RALLY order.
@@ -454,7 +457,10 @@ which takes a successful RALLY order.
 
 The UAV carries a powerful AT warhead instead of a HE round.
 
-![at ied drop image](./ressources/drone-at-ied-flowchart.excalidraw.png)
+Resolve the to-hit roll as follows by rolling a D6:
+- 1: Drone fails to release payload. Nothing happens.
+- 2: Payload tumbles D3", if it hits anything, resolve to-damage with +4 PEN.
+- 3+: Drone hits, resolve to damage roll with +4 PEN as usual.
 
 Upon dropping the payload, the UAV can be recovered by the operator to be rearmed,
 which takes a successful RALLY order.
