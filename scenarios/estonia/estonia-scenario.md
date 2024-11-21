@@ -27,15 +27,6 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 Combined Forces of the estonian army. 2016 onward.<br><br><i>A small army with a large reservist pool, but cutting-edge equipment with many domestic drone products.</i><br><br><a href="/factions/estonian-forces.md">Estonia Army List</a>
 </p>
 
-#### NATO VJTF + NRF
-
-<p align=center>
-<img width="70%" height="auto" src="/factions/ressources/vjtf-logo.excalidraw.png" alt="VJTF Forces">
-</p>
-<p>
-German led NRF forces, VJTF with IF-U/F-U Forces from the Panzerbrigade 37. Around Mid 2017 onward.<br><br><i>Classic modern force with modern vehicle pool and non-lethal drone options.</i><br><br><a href="/factions/nato-forces.md">VJTF Army List</a>
-</p>
-
 #### Baltic Security Partnership Brigade
 
 <p align=center>
@@ -46,13 +37,22 @@ Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
 estonian and latvian equipment. 2016 onward.<br><br><i>Airmobility and light infantry are the main feature, with a mix of baltic equipment.</i><br><br><a href="/factions/basep-forces.md">BASEP Army List</a>
 </p>
 
+#### NATO VJTF + NRF
+
+<p align=center>
+<img width="70%" height="auto" src="/factions/ressources/vjtf-logo.excalidraw.png" alt="VJTF Forces">
+</p>
+<p>
+German led NRF forces, VJTF with IF-U/F-U Forces from the Panzerbrigade 37. Around Mid 2017 onward.<br><br><i>Classic modern force with modern vehicle pool and non-lethal drone options.</i><br><br><a href="/factions/nato-forces.md">VJTF Army List</a>
+</p>
+
 #### EUFOR Estonia
 
 <p align=center>
 <img width="70%" height="auto" src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Estonia Forces" >
 </p>
 <p>
-Composite force of an EU Battlegroup and EUROCORPS. Early 2017.<br><br><i>Mix of german, french and belgian gear. Modern and diverse.</i><br><br><a href="/factions/eufor-forces.md
+Composite force of an EU Battlegroup and EUROCORPS. Early 2017.<br><br><i>Mix of german, french and belgian gear. Modern and diverse.</i><br><br><a href="/factions/eufor-forces.md">EUFOR Estonia List</a>
 </p>
 
 #### UNFIBAL Mission Forces
