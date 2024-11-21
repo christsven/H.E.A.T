@@ -8,6 +8,7 @@
 | :--- | :--- | :--- |
 | Aladin | [Link to File](/factions/ressources/) | [Link to Source](http://www.airpower.at/news2012/0605_miniuav/index.html) |
 | Alphabet | [Link to File](/factions/ressources/alphabet.excalidraw.png) | [Link to Source]() |
+| AML 90 | [Link to File](/factions/ressources/aml90.excalidraw.png) | [Link to Source](https://nntmodell.com/Armee/AML-90-Light-Armored-Car-4x4.html) |
 | AMX 10 RC | [Link to File](/factions/ressources/amx10rc.excalidraw.png) | [Link to Source](https://gagadget.com/de/225900-franzosischer-verteidigungsminister-ukraine-erhalt-erstes-los-von-amx-10rc-radpanzern/) |
 | AMX 30 AuF 1 | [Link to File](/factions/ressources/amx30auf1.excalidraw.png) | [Link to Source](https://www.artitecshop.com/de/amx-30-auf-1-155mm-camo.html) |
 | Armoured Technical | [Link to File](/factions/ressources/armouredtechnical.excalidraw.png) | Own image |
