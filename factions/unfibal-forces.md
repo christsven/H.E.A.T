@@ -27,7 +27,7 @@ black helicopter earned it the nickname "peace doves" by estonians.
 - [Infantry](#infantry)
 - [Combat support](#combat-support-units)
 - [Machine guns](#machine-gun-teams)
-- [Anti tank teams](#anti-tank-teams)
+- [Anti tank teams](#anti-tank-team)
 - [Micro air vehicles](#micro-air-vehicles)
 - [Mortar teams](#mortar-teams)
 - [Artillery](#artillery)
@@ -42,12 +42,12 @@ black helicopter earned it the nickname "peace doves" by estonians.
 
 ### Minimal attrition
 
-UN Peacekeepers are meant to serve as a deescalatory force aiding police
+UN Peacekeepers are meant to serve as a de-escalatory force aiding police
 work and opening dialogue. That means that certain weapon systems are not required
 to fulfill every role they serve in a conventional army.
 
 To reduce potential collateral damage, heavy weapons do not carry HE shells,
-since they are only meant to engage targets that pose a direct threat without 
+since they are only meant to engage targets that pose a direct threat without
 destroying the area those threats occupy.
 
 _TLDR: AT guns and autocannons do not get HE shells and may only use the PEN value when engaging enemies._
@@ -84,7 +84,7 @@ _TLDR: When using a default platoon roster, UN platoons may reinforce the platoo
 
 ## Infantry
 
-![infantry]()
+![infantry](/factions/un-outpost.excalidraw.png)
 
 ### Reconnaissance squad
 
