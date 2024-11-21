@@ -24,7 +24,7 @@ all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 <img width="70%" height="auto" src="/factions/ressources/elf-logo.excalidraw.png" alt="Estonian Army">
 </p>
 <p>
-Combined Forces of the estonian army. 2016 onward.<br><br><i>A small army with a large reservist pool, but cutting-edge equipment with many domestic drone products.</i><br><br><a href="/factions/Estonian%20Land%20Forces.md">Estonia Army List</a>
+Combined Forces of the estonian army. 2016 onward.<br><br><i>A small army with a large reservist pool, but cutting-edge equipment with many domestic drone products.</i><br><br><a href="/factions/estonian-forces.md">Estonia Army List</a>
 </p>
 
 #### NATO VJTF + NRF
@@ -33,7 +33,7 @@ Combined Forces of the estonian army. 2016 onward.<br><br><i>A small army with a
 <img width="70%" height="auto" src="/factions/ressources/vjtf-logo.excalidraw.png" alt="VJTF Forces">
 </p>
 <p>
-German led NRF forces, VJTF with IF-U/F-U Forces from the Panzerbrigade 37. Around Mid 2017 onward.<br><br><i>Classic modern force with modern vehicle pool and non-lethal drone options.</i><br><br><a href="/factions/German%20VJTF%20Panzergrenadier%20Division.md">VJTF Army List</a>
+German led NRF forces, VJTF with IF-U/F-U Forces from the Panzerbrigade 37. Around Mid 2017 onward.<br><br><i>Classic modern force with modern vehicle pool and non-lethal drone options.</i><br><br><a href="/factions/nato-forces.md">VJTF Army List</a>
 </p>
 
 #### Baltic Security Partnership Brigade
@@ -43,7 +43,7 @@ German led NRF forces, VJTF with IF-U/F-U Forces from the Panzerbrigade 37. Arou
 </p>
 <p>
 Baltic Treaty Light Air Cavalry border guard brigade. Composed of lithuanian,
-estonian and latvian equipment. 2016 onward.<br><br><i>Airmobility and light infantry are the main feature, with a mix of baltic equipment.</i><br><br><a href="/factions/Baltic%20Security%20Partnership%20Brigade.md">BASEP Army List</a>
+estonian and latvian equipment. 2016 onward.<br><br><i>Airmobility and light infantry are the main feature, with a mix of baltic equipment.</i><br><br><a href="/factions/basep-forces.md">BASEP Army List</a>
 </p>
 
 #### EUFOR Estonia
@@ -52,7 +52,7 @@ estonian and latvian equipment. 2016 onward.<br><br><i>Airmobility and light inf
 <img width="70%" height="auto" src="/scenarios/ressources/eufor-estonia.excalidraw.png" alt="EUFOR Estonia Forces" >
 </p>
 <p>
-Composite force of an EU Battlegroup and EUROCORPS. Early 2017.<br><br><i>Mix of german, french and belgian gear. Modern and diverse.</i><br><br><a href="/factions/EUFOR%20Estonia%20Forces.md">EUFOR Army List</a>
+Composite force of an EU Battlegroup and EUROCORPS. Early 2017.<br><br><i>Mix of german, french and belgian gear. Modern and diverse.</i><br><br><a href="/factions/eufor-forces.md
 </p>
 
 #### UNFIBAL Mission Forces
@@ -61,7 +61,7 @@ Composite force of an EU Battlegroup and EUROCORPS. Early 2017.<br><br><i>Mix of
 <img width="70%" height="auto" src="/scenarios/ressources/unfibal.excalidraw.png" alt="UNFIBAL Mission Forces">
 </p>
 <p>
-United Nations support brigade composed of mixed french and american equipment. 2014 onward.<br><br><i>Mix of old equipment and modern arms donations. Emphasis on support units.</i><br><br><a href="/factions/UNFIBAL Forces.md">UNFIBAL Army List</a>
+United Nations support brigade composed of mixed french and american equipment. 2014 onward.<br><br><i>Mix of old equipment and modern arms donations. Emphasis on support units.</i><br><br><a href="/factions/unfibal-forces.md">UNFIBAL Army List</a>
 </p>
 
 ### OPFOR
@@ -72,7 +72,7 @@ United Nations support brigade composed of mixed french and american equipment. 
 <img width="70%" height="auto" src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" alt="UNFIBAL Mission Forces">
 </p>
 <p>
-The free forces of Ida Viru, as well as the Brastwa PMC Group.<br><br><i>Ragtag force with a huge, but old pool of equipment. Insurgent infantry sections and PMC formation with more modern equipment.</i><br><br><a href="/factions/NSPR Volunteer Rifle Contingent.md">NSPR Army List</a><br><a href="/factions/NSPR-vehicles.md">NSPR Vehicle List</a>
+The free forces of Ida Viru, as well as the Brastwa PMC Group.<br><br><i>Ragtag force with a huge, but old pool of equipment. Insurgent infantry sections and PMC formation with more modern equipment.</i><br><br><a href="/factions/nspr-forces.md">NSPR Army List</a><br><a href="/factions/nspr-vehicles.md">NSPR Vehicle List</a>
 </p>
 
 #### Russian Forces
@@ -85,7 +85,7 @@ While not part of the "true" event timeline, your campaign might require the Rus
 Federation to intervene. This is a first draft of a russian Batallion Tactical Group (BTG)
 that will be expanded on in the next scenario.
 <br><br>
-<i>We've all seen the russian armies abysmal performance over the last three years, don't expect much more here.</i><br><br><a href="/factions/russian-army-list.md">RF Army List</a></p>
+<i>We've all seen the russian armies abysmal performance over the last three years, don't expect much more here.</i><br><br><a href="/factions/russian-forces.md">RF Army List</a></p>
 </p>
 
 ***

@@ -322,7 +322,7 @@ are out of finnish production.
 BASEP Bridage Insignia
 </p>
 
-The **Baltic Security Partnership Brigade**, or [BASEP](/factions/Baltic%20Security%20Partnership%20Brigade.md),  was founded in 2014 as a
+The **Baltic Security Partnership Brigade**, or [BASEP](/factions/basep-forces.md),  was founded in 2014 as a
 reaction to tension arrising in several counties of the baltic states at the
 russian border. It was established as a combined brigade of all 3 state's ground
 forces with the aim to signal cohesion and willingness to defend each other.
@@ -389,7 +389,7 @@ EUFOR Estonia Patch
 Common Security and Defense Policy, EU
 </p>
 
-Under the mission name [EUFOR Estonia](/factions/EUFOR%20Estonia%20Forces.md) fall one of the two EU battlegroups as well as the EUROCORPS. They are furthermore working in conjunction
+Under the mission name [EUFOR Estonia](/factions/eufor-forces.md) fall one of the two EU battlegroups as well as the EUROCORPS. They are furthermore working in conjunction
 with a naval force "EUNAVFOR Baltic Sea" composed of german and swedish frigates.
 
 The EU Battlegroups are composed of around 1500 men each and are well established,
@@ -433,7 +433,7 @@ Task Force Ida Viru Patch
 </p>
 
 The **Force des Nations unies chargée du maintien de la paix à l'Estonie** is a
-United Nations [peacekeeping operation](/factions/UNFIBAL%20Forces.md) established in 2015. UN troops were largely
+United Nations [peacekeeping operation](/factions/unfibal-forces.md) established in 2015. UN troops were largely
 composed of bangladeshi forces, with some african nations like Rwanda, Ghana and
 Egypt.
 
@@ -502,8 +502,8 @@ The most mobile of all is the "Very High Readiness Joint Task Force" which is
 able to deploy in less than two days, which is then supplemented by "Follow-On"
 units of a slightly lower readiness.
 
-During the time of deployment, the [Panzergrenadierbrigade 37](/factions/German%20VJTF%20Panzergrenadier%20Division.md) „Freistaat Sachsen"
-held the VJTF position and was sent to Estonia, followed up by more german
+During the time of deployment, the Panzergrenadierbrigade 37 „Freistaat Sachsen"
+held the [VJTF](/factions/nato-forces.md) position and was sent to Estonia, followed up by more german
 units, as well as other quickly deployable european armies.
 
 ### OPFOR
@@ -526,7 +526,7 @@ Narva Socialist People's Republic flag
 A Bratstwa PMC group patch found on a POW, 2017
 </p>
 
-The **Narva Socialist People's Republic** has a [standing force](/factions/NSPR%20Volunteer%20Rifle%20Contingent.md) of around 10-13.000
+The **Narva Socialist People's Republic** has a [standing force](/factions/nspr-forces.md) of around 10-13.000
 personnel, which serve under the umbrella of the NSPR flag. The larger core army
 is composed of all kinds of citizens, from farmers to former military personel,
 and they are further reinforced by a russian PMC.
