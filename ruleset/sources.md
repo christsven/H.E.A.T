@@ -41,6 +41,7 @@
 | Guardian | [Link to File](/factions/ressources/guardian.excalidraw.png) | [Link to Source](https://www.trident-miniatures.com/index.php/en/military-models-en/us-forces/m1117-guardian-detail) |
 | Hell cannon | [Link to File](/factions/ressources/hell-cannon.excalidraw.png) | Own image |
 | Humvee | [Link to File](/factions/ressources/humvee.excalidraw.png) | [Link to Source]() |
+| Humvee | [Link to File](/factions/ressources/huey.excalidraw.png) | [Link to Source](https://sporthelicopterscapetown.co.za/bell-uh1-huey/the-history-of-our-uh-1-huey/) |
 | NSPR Infantry | [Link to File](/factions/ressources/infantry-nspr.excalidraw.png) | [Link to Source]() |
 | Jeep, soviet | [Link to File](/factions/ressources/jeep-soviet.excalidraw.png) | [Link to Source]() |
 | Jeep, western | [Link to File](/factions/ressources/jeep-west.excalidraw.png) | [Link to Source]() |
