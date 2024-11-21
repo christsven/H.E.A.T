@@ -84,7 +84,7 @@ _TLDR: When using a default platoon roster, UN platoons may reinforce the platoo
 
 ## Infantry
 
-![infantry](/factions/un-outpost.excalidraw.png)
+![infantry](/factions/ressources/un-outpost.excalidraw.png)
 
 ### Reconnaissance squad
 
