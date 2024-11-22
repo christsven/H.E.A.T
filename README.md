@@ -32,7 +32,7 @@ Bolt Action rulebook.
 ### Platoon lists
 
 <p align=center>
-<img src="ruleset/ressources/list-introduction.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto" alt="image of military symbols">
+<img src="ruleset/ressources/list-introduction.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto" alt="image of military symbols">
 </p>
 
 Since v3, we no longer have the army list, but platoon structures. Below are the

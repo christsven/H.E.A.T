@@ -74,11 +74,33 @@ _TLDR: When using a default platoon roster, UN platoons may reinforce the platoo
 
 ## Officers
 
-![platoon leader]()
+![platoon leader](/factions/ressources/un-officer.excalidraw.png)
 
 ### OF-1 Officer
 
+Officers of NATO code OF-1 are young officers such as First or Second Lieutenants.
+They lead a platoon into battle.
+
+| OF-1 Officer | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 21 pt / 30 pt / 39 pt |
+| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (as depicted) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action!</td><td>-</td></tr><tr><td>Command</td><td>-</td></tr></table> |
+
 ### OF-2 Officer
+
+Companies are lead by Captains or in some cases even Majors. They manage several
+platoons and outrank all other units on the table.
+
+| OF-2 Officer | <img src="/factions/nato-symbols/blufor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 42 pt / 60 pt / 78 pt |
+| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (as depicted) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action! (2x)</td><td>-</td></tr><tr><td>Command</td><td>-</td></tr></table> |
 
 ***
 
@@ -119,11 +141,56 @@ mission as local guides and translators.
 
 ### Armoured Engineer group
 
-### Sako TRG-22 sniper team
+Support infantry, used to clear terrain or restrict enemy movement.
+
+| Engineers group |  <img src="/factions/nato-symbols/blufor/engineers.excalidraw.png" align="right" alt="engineer group" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 40 pt / 55 pt / 70 pt |
+| Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (SMG) + 2 attendants (SMG) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Sprengrohr<br>(*Bangalore*)</td><td>Multi-purpose explosive.</td><td>+15 pt</td></tr><tr><td>Mines</td><td>See IED section in [ruleset](../ruleset/H.E.A.T.md#improvised-explosive-devices-ied-and-mines).<br>They behave the same as IEDs,<br>but can't be disguised.<br>Conventional forces don't use decoys.<td>+20 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives</td><td>See [ruleset](../ruleset/H.E.A.T.md#bangalores) for more information.</td></tr><tr><td>Engineers</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr></table> |
+
+### L115A3 sniper team
+
+Snipers are used to engage high-valuable targets in an engagement, particularly
+leaders of infantry groups, heavy weapon system operators or other assets.
+They can be devastating in the correct spot, used at the correct time.
+
+| Sniper team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | - |
+| Setup | NCO (SNIPER) + 1 attendant (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>-</td></tr><tr><td>Team</td><td>-</td></tr></table> |
 
 ### M82 AMR team
 
+Anti materiell rifle sniper team are used to engage anything from infantry to
+lightly armoured vehicles.
+
+| AMR team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 45 pt / 60 pt / 75 pt |
+| Reinforcement | - |
+| Setup | NCO (AMR) + 1 attendant (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Sniper</td><td>-</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
+
 ### Medical specialist
+
+Medics move among the frontline and try to rescue any casualties that happen close
+to them. Just as in the original ruleset, they are treated as true profesionalls,
+only worthy of the "Veteran" status.
+
+| Medic | <img src="/factions/nato-symbols/blufor/medic-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | - / - / 45 pt |
+| Reinforcement | - |
+| Setup | NCO (unarmed) |
+|Options| - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Medic</td><td>-</td></tr></table> |
 
 ***
 
@@ -131,9 +198,38 @@ mission as local guides and translators.
 
 ### MMG team
 
+| MMG team | <img src="/factions/nato-symbols/units/mmg-t.excalidraw.png" align="right" alt="medium machine gun team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | - |
+| Setup | NCO (MMG) + 2 loaders (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
+
 ### .50cal Browning HMG team
 
+Heavy machine gun system used to surpress enemy forces at longer ranges, as well
+as lightly armoured vehicles.
+
+| .50cal Browning HMG team | <img src="/factions/nato-symbols/units/hmg-t.excalidraw.png" align="right" alt="heavy machine gun team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 49 pt / 70 pt / 91 pt |
+| Reinforcement | - |
+| Setup | NCO (HMG) + 2 loaders (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
+
 ### Quad MMG
+
+A Yamaha Grizzly 450EPS Quad with a rear-mounted MMG.
+
+| MMG quad | <img src="/factions/nato-symbols/units/mmg-q.excalidraw.png" align="right" alt="medium machine gun quad" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | - pt / 65 pt / 80 pt |
+| Reinforcement | - |
+| Setup | NCO ( MMG ) |
+|Options| - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>Rulebook [pg. X]</td></tr><tr><td>Fixed</td><td>Rulebook [pg. X]</td></tr><tr><td>Quad Bike</td><td>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes)</td></tr><tr><td>Rear-mounted MMG</td><td>Fire ark of MG3 is to the back and 90° to each side<br>(so 9 and 3 o'clock from the drivers perspective).</table> |
 
 ***
 
@@ -141,14 +237,64 @@ mission as local guides and translators.
 
 ### RPG team
 
+Anti-tank rocket team, equipped with a mix of Carl Gustav, Panzerfaust 3s, and
+other arms donations.
+
+| RPG team | <img src="/factions/nato-symbols/units/rpg-t.excalidraw.png" align="right" alt="grenade launcher team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 42 pt / 60 pt / 78 pt |
+| Reinforcement | - |
+| Setup | NCO (RPG + SMG) + 1 loader (SMG) |
+| Options | <table><table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</td></tr><tr><td>Tandem HEAT Charge</td><td>Heavier charge than  normal<br>round, but less range.<br>Check [ruleset](../ruleset/H.E.A.T.md#tandem-heat-charges) for details.</td><td>+15 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
+
 ### FMG-48 Javelin team
+
+The Javelin is a popular ATGM system developed in the United States, which is
+able to use "fire-and-forget"-capable missiles with infrared seakers. Tanks and
+other heavily armoured targets can furthermore be attacked in a TOP-DOWN attack,
+striking the roof of the tank, which is oftentimes less armoured than the front.
+
+Anti-tank guided missiles are used against heavily armoured targets, and are
+oftentimes launched from a man-portable weapon system or from a vehicle mount.
+They are able to traverse large areas and more modern targeting systems do not
+even require the operator themselves to aid the missile to its target.
+
+| ATGM team | <img src="/factions/nato-symbols/units/atgm-t.excalidraw.png" align="right" alt="atgm team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 60 pt / 75 pt / 90 pt |
+| Reinforcement | - |
+| Setup | NCO (ATGM) + 2 loaders (SMG) |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Fire-And-Forget</td><td>Weapon team is not required to stay<br>stationary during flight.<br><br>See ATGM section in [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm).<td>+20 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
 ***
 
 ## Mortar teams
 
-- light mortar
-- medium mortar
+### 60mm light mortar team
+
+light mortar team.
+
+| 60mm light mortar team | <img src="/factions/nato-symbols/units/light-mortar.excalidraw.png" align="right" alt="light mortar team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 24 pt / 35 pt / 46 pt |
+| Reinforcement | Spotter (PDW) +10 pt |
+| Setup | NCO (LIGHT MORTAR) + 1 loader (PISTOL) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
+
+### 81mm medium mortar team
+
+Medium mortar team.
+
+| 81mm medium mortar team | <img src="/factions/nato-symbols/units/medium-mortar.excalidraw.png" align="right" alt="medium mortar team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 35 pt / 50 pt / 65 pt |
+| Reinforcement | Spotter +10 pt |
+| Setup | NCO (MEDIUM MORTAR) + 1 loader (PISTOL) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 2"</td><td>-</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Spotter</td><td>-</td></tr></table> |
 
 ***
 
@@ -161,8 +307,25 @@ mission as local guides and translators.
 
 ## Micro Air Vehicles
 
-- Recon on map
-- Recon off map
+### AeroVironment RQ-20 Puma
+
+![RQ Puma drone](/factions/ressources/puma-drone.excalidraw.png)
+
+The RQ-20 Puma is an american made fixed wing reconnaissance drone system used
+to observe enemy formations.
+
+| Recon UAV team | <img src="/factions/nato-symbols/blufor/recon-drone-onmap.excalidraw.png" align="right" alt="recon uav team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 41 pt / 52 pt / 63 pt |
+| Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
+| Setup | NCO (PDW) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>On-map Operator</td><td>Operator of unit is present on map.</td></tr><tr><td>Quadrocopter</td><td>Drone is propelled by multiple rotors. </td></tr></table> |
+
+### Offmap drone recon
+
+### A-UGV ground drone team
+
 - A-UGV mit Recon/Medic oder .50cal Variante (muss sich preislich rechnen, also ungefähr so teuer wie ein medic)
 
 ***
@@ -171,9 +334,37 @@ mission as local guides and translators.
 
 ### FIM-92 Stinger team
 
+Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
+
+| MANPADS team | <img src="/factions/nato-symbols/units/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 50 pt / 65 pt / 80 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (MANPADS) + 1 loader (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>MANPADS</td><td>See [ruleset](../ruleset/H.E.A.T.md#manportable-air-defense-systems-manpads) for more information.</td></tr></table> |
+
 ### ZU-23-2 anti air autocannon
 
+The ZU-23-2 is a towed 23 mm anti-aircraft twin autocannon.
+
+| ZU-23-2 AA gun team | <img src="/factions/nato-symbols/units/anti-air-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 40 / 51 / 62 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (MEDIUM AUTOCANNON) + 2 loader (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
+
 ### L/70 Bofors anti air gun
+
+| L/70 Bofors gun team | <img src="/factions/nato-symbols/units/anti-air-gun.excalidraw.png" align="right" alt="AA gun team" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | 52 / 63 / 74 pt |
+| Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
+| Setup | NCO (HEAVY AUTOCANNON) + 3 loader (SMG) |
+| Options | - |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr></table> |
 
 ***
 
