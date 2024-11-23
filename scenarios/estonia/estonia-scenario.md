@@ -219,10 +219,42 @@ the old oil shale excavation sites in Kivioli.
 
 | **Ash Hill Battle** | |
 | :--- | :--- |
-| **Objective/Game Mode** | Objective Defense |
-| **Set-Up** | |
+| **Objective/Game Mode** | Destruction |
+| **Set-Up** | - Set up a table with industrial buildings next to a quarry. <br> - The table should allow for fighting on multiple elevations with some greenery along the hill sides. <br> - Both teams set up their platoons along perpendicular table edges with 12" space from the edge. |
 | **Game Duration** | 6 + 1 Turns |
-| **Victory Conditions** | |
+| **Victory Conditions** | - 1 VP per destroyed unit. <br> - If you want, choose a location as an objective which gives 2 VP to the team holding it in the end. |
+
+<details> <summary> Click to expand example lists (1500pts) </summary> 
+
+#### EUFOR armoured infantry platoon
+
+- OF-2 officer (OF-2)
+- Panzergren squad
+- Panzergren squad
+- MMG team
+- MMG team
+- Engineer squad
+- Sniper team
+- Nexter Aravis (IFV)
+- Marder 1A3 (IFV)
+- Wiesel 1A3 20mm
+
+#### EUFOR infantry platoon
+
+- OF-1 officer (OF-1)
+- recon squad
+- recon squad
+- GMG team
+- 81mm mortar
+- 81mm mortar
+- Mikado drone
+
+#### NSPR armoured infantry platoon
+
+- OF 2 officer
+- 
+
+</details>
 
 ### EUFOR port raid on Sillimäe
 
