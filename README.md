@@ -25,7 +25,7 @@ Bolt Action rulebook.
 
 [Ruleset Expansion](ruleset/heat-ruleset.md)
 
-[Quick Chart Expansion (mobile)](ruleset/quickchart-mobile.excalidraw.png)
+[Quick Chart Expansion (mobile)](ruleset/heat-quick-chart.md)
 
 [Quick Chart Expansion (PC)](ruleset/quickchart-pc.excalidraw.png)
 
