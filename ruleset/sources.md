@@ -68,7 +68,7 @@
 | Pandur | [Link to File](/factions/ressources/pandur.excalidraw.png) | [Link to Source]() |
 | PzH 2000 | [Link to File](/factions/ressources/panzerhaubitze.excalidraw.png) | [Link to Source]() |
 | Piranha 3 | [Link to File](/factions/ressources/piranha3.excalidraw.png) | [Link to Source]() |
-| Platoon leader NSPR | [Link to File](/factions/ressources/platoon-leader-nspr.excalidraw.png) | [Link to Source]() |
+| Platoon leader NSPR | [Link to File](/factions/ressources/platoon-leader-nspr.excalidraw.png) | [Link to Source](https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/July-August-2020/Finch-Russian-Political-Loyalty/) |
 | Polaris | [Link to File](/factions/ressources/polaris.excalidraw.png) | [Link to Source]() |
 | PT76 | [Link to File](/factions/ressources/pt76.excalidraw.png) | [Link to Source]() |
 | Puma | [Link to File](/factions/ressources/puma-drone.excalidraw.png) | [Link to Source]() |
