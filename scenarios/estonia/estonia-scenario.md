@@ -16,6 +16,8 @@ war can be found here.
 Factions are ordered by alignment as seen from a NATO perspective. BLUFOR are
 all NATO or NATO-allied forces, OPFOR represents all enemy forces.
 
+<details><summary>Click to expand</summary>
+
 ### BLUFOR
 
 #### Estonian Land Forces
@@ -88,6 +90,8 @@ that will be expanded on in the next scenario.
 <i>We've all seen the russian armies abysmal performance over the last three years, don't expect much more here.</i><br><br><a href="/factions/russian-forces.md">RF Army List</a></p>
 </p>
 
+</details>
+
 ***
 
 ## Scenarios
@@ -99,6 +103,8 @@ This section contains several key events, interesting locations and more general
 
 *Feel free to adjust any scenario to your liking, these are just ideas.*
 </p>
+
+<details><summary>Click to expand</summary>
 
 ### Attack on Jõhvi Garrison
 
@@ -300,3 +306,5 @@ After losing most ground, the NSPR was defeated in a last battle for the Jõhvi 
 | **Set-Up** | |
 | **Game Duration** | 6 + 1 Turns |
 | **Victory Conditions** | |
+
+</details>
