@@ -94,7 +94,6 @@ black helicopter earned it the nickname "peace doves" by estonians.
     - [Jeep](#jeep)
     - [S-Boot](#s-boot)
 
-
 </details>
 
 ***

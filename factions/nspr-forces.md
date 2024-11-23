@@ -1,4 +1,4 @@
-# **NSPR Volunteer Rifle Contingent**
+# NSPR Armed Forces
 
 <p align=center>
 <img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=80%>
@@ -44,7 +44,7 @@ as IED carriers or suicide drones.
 
 <details><summary>Click to expand</summary>
 
-- [**NSPR Volunteer Rifle Contingent**](#nspr-volunteer-rifle-contingent)
+- [NSPR Armed Forces](#nspr-armed-forces)
   - [Table of contents](#table-of-contents)
   - [Army modifiers](#army-modifiers)
     - [Territorial knowledge](#territorial-knowledge)
@@ -95,7 +95,6 @@ as IED carriers or suicide drones.
   - [Anti-air systems](#anti-air-systems)
     - [Strela ground team](#strela-ground-team)
     - [ZU-23-2 anti air autocannon](#zu-23-2-anti-air-autocannon)
-
 
 </details>
 

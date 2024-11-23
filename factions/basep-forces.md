@@ -78,7 +78,6 @@ Logo of the Baltic Security Partnership Brigade
     - [MRZR-2/4 Polaris RZR 4x4](#mrzr-24-polaris-rzr-4x4)
     - [Boat](#boat)
 
-
 </details>
 
 ***

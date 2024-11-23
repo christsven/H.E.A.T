@@ -1,4 +1,4 @@
-# **BLUFOR VJTF Armored Infantry Brigade**
+# VJTF and NATO forces
 
 <p align=center>
 <img src="/factions/ressources/vjtf-logo.excalidraw.png" align="center" alt="VJTF Logo" height=auto width=80%></img>
@@ -22,7 +22,7 @@ Logo of NATO Response Force
 
 <details><summary>Click to expand</summary>
 
-- [**BLUFOR VJTF Armored Infantry Brigade**](#blufor-vjtf-armored-infantry-brigade)
+- [VJTF and NATO forces](#vjtf-and-nato-forces)
   - [Table of content](#table-of-content)
   - [Army modifiers](#army-modifiers)
     - [Combat Readiness](#combat-readiness)
@@ -99,7 +99,6 @@ Logo of NATO Response Force
     - [Mercedes G "Wolf"](#mercedes-g-wolf)
     - [MRZR-2/4 Polaris RZR 4x4](#mrzr-24-polaris-rzr-4x4)
     - [S-Boot](#s-boot)
-
 
 </details>
 
