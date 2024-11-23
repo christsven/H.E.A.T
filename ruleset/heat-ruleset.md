@@ -4,6 +4,10 @@
 
 ## Introduction
 
+<p align="center">
+<img src="/factions/ressources/quad-drone.excalidraw.png" alt="drone" align="center" height=auto width=80%></img>
+</p>
+
 This is a ruleset for a modern, platoon-sized tabletop wargame. While size- and
 modelagnostic, weapon ranges and distances are balanced towards a 28mm size. If
 used in another scale, adjustments might be necessary.
@@ -16,28 +20,122 @@ used in another scale, adjustments might be necessary.
 
 ## Table of Contents
 
-<p align="center">
-<img src="/factions/ressources/quad-drone.excalidraw.png" alt="drone" align="center" height=auto width=80%></img>
-</p>
+<details><summary>Click to expand</summary>
 
-- [Weapons and Charts](#weapons)
-- [Vehicles - IFVs](#ifvs)
-- [Vehicles - Helicopters](#helicopters)
-- [Vehicles - Minor Additions](#minor-additions)
-- [Drones](#drones)
-- [Weapons - ATGMs](#anti-tank-guided-missiles-atgm)
-- [Weapons - UGLs](#underbarrel-grenade-launchers-ugl)
-- [Weapons - Tandem HEAT Rounds](#tandem-heat-charges)
-- [Weapons - LAWs](#light-anti-tank-weapons-law)
-- [Weapons - DMRs](#designated-marksman-rifles-dmr)
-- [Weapons - IEDs/Mines](#improvised-explosive-devices-ied-and-mines)
-- [Weapons - AGLs](#automatic-grenade-launchers-agl)
-- [Weapons - MANPADS](#manportable-air-defense-systems-manpads)
-- [Weapons - Explosives](#explosives)
-- [Smoke Screens](#smoke-screens)
-- [Smoke Grenades](#smoke-grenades)
-- [Thermal Cameras](#thermal-cameras)
-- [Additions and Reworks](#additional-rules-and-systems)
+- [H.E.A.T](#heat)
+  - [Introduction](#introduction)
+  - [Table of Contents](#table-of-contents)
+  - [Weapons](#weapons)
+    - [Small arms weapons chart](#small-arms-weapons-chart)
+    - [Team-based weapons chart](#team-based-weapons-chart)
+    - [Vehicle-mounted or fixed weapon systems chart](#vehicle-mounted-or-fixed-weapon-systems-chart)
+      - [Hardpoint arsenal weapon chart](#hardpoint-arsenal-weapon-chart)
+    - [Indirect fire weapons chart](#indirect-fire-weapons-chart)
+    - [Explosives and rockets weapons chart](#explosives-and-rockets-weapons-chart)
+    - [HE chart](#he-chart)
+  - [Vehicles](#vehicles)
+    - [Movement](#movement)
+    - [IFVs](#ifvs)
+      - [Introduction](#introduction-1)
+      - [Mechanics](#mechanics)
+      - [IFV rule](#ifv-rule)
+    - [Helicopters](#helicopters)
+      - [Introduction](#introduction-2)
+      - [Gameplay](#gameplay)
+      - [Flight](#flight)
+      - [Transport and (Dis)embarking](#transport-and-disembarking)
+      - [Combat](#combat)
+        - [Attacking with a helicopter](#attacking-with-a-helicopter)
+        - [Attacking from a helicopter](#attacking-from-a-helicopter)
+        - [Shooting at a helicopter](#shooting-at-a-helicopter)
+    - [Minor Additions](#minor-additions)
+      - [Quad Bikes](#quad-bikes)
+  - [Drones](#drones)
+    - [Introduction](#introduction-3)
+    - [Gameplay](#gameplay-1)
+      - [On-Map Operator](#on-map-operator)
+      - [Off-Map Operator](#off-map-operator)
+    - [Movement](#movement-1)
+      - [Quadcopter/rotor vehicles](#quadcopterrotor-vehicles)
+      - [Fixed wing designs](#fixed-wing-designs)
+      - [Variants](#variants)
+        - [Reconnaissance](#reconnaissance)
+        - [IED variant](#ied-variant)
+        - [Anti-tank IED variant](#anti-tank-ied-variant)
+        - [Loitering munition](#loitering-munition)
+    - [Shooting at a drone](#shooting-at-a-drone)
+      - [Drone rules](#drone-rules)
+  - [Weapon Systems](#weapon-systems)
+    - [Anti-Tank guided missiles (ATGM)](#anti-tank-guided-missiles-atgm)
+      - [Introduction](#introduction-4)
+      - [Gameplay](#gameplay-2)
+      - [Rule](#rule)
+      - [Special rules](#special-rules)
+    - [Underbarrel grenade launchers (UGL)](#underbarrel-grenade-launchers-ugl)
+      - [Introduction](#introduction-5)
+      - [Gameplay](#gameplay-3)
+      - [Rule](#rule-1)
+    - [Tandem HEAT charges](#tandem-heat-charges)
+      - [Introduction](#introduction-6)
+      - [Gameplay](#gameplay-4)
+      - [Rule](#rule-2)
+    - [Light anti-tank weapons (LAW)](#light-anti-tank-weapons-law)
+      - [Introduction](#introduction-7)
+      - [Gameplay](#gameplay-5)
+      - [Rule](#rule-3)
+    - [Designated marksman rifles (DMR)](#designated-marksman-rifles-dmr)
+      - [Introduction](#introduction-8)
+      - [Gameplay](#gameplay-6)
+      - [Rule](#rule-4)
+    - [Improvised explosive devices (IED) and mines](#improvised-explosive-devices-ied-and-mines)
+      - [Gameplay](#gameplay-7)
+      - [Sapper](#sapper)
+        - [Attacking vehicles](#attacking-vehicles)
+      - [Engineer](#engineer)
+      - [Vehicle-born IEDs](#vehicle-born-ieds)
+        - [Rules](#rules)
+    - [Automatic grenade launchers (AGL)](#automatic-grenade-launchers-agl)
+      - [Introduction](#introduction-9)
+      - [Gameplay](#gameplay-8)
+      - [Rule](#rule-5)
+    - [Manportable air defense systems (MANPADS)](#manportable-air-defense-systems-manpads)
+      - [Introduction](#introduction-10)
+      - [Gameplay](#gameplay-9)
+      - [Rule](#rule-6)
+    - [Explosives](#explosives)
+      - [Introduction](#introduction-11)
+      - [Gameplay](#gameplay-10)
+      - [Rule](#rule-7)
+    - [Smoke Screens](#smoke-screens)
+      - [Introduction](#introduction-12)
+      - [Gameplay](#gameplay-11)
+      - [Rule](#rule-8)
+    - [Smoke Grenades](#smoke-grenades)
+      - [Introduction](#introduction-13)
+      - [Gameplay](#gameplay-12)
+      - [Rule](#rule-9)
+    - [Thermal Cameras](#thermal-cameras)
+      - [Introduction](#introduction-14)
+      - [Gameplay](#gameplay-13)
+      - [Rule](#rule-10)
+  - [Additional Rules and Systems](#additional-rules-and-systems)
+    - [Adjustments](#adjustments)
+      - [Weapon choice](#weapon-choice)
+      - [Spotters](#spotters)
+      - [Fireteams](#fireteams)
+      - [Indirect fire rework](#indirect-fire-rework)
+        - [Target Selection](#target-selection)
+        - [Failing to hit roll](#failing-to-hit-roll)
+      - [Troop capacity and true capacity](#troop-capacity-and-true-capacity)
+      - [Tank Hunter rule in modern combat](#tank-hunter-rule-in-modern-combat)
+      - [Machine gun buff](#machine-gun-buff)
+      - [Pintle-mounted weapons/FLAK rule](#pintle-mounted-weaponsflak-rule)
+    - [Experimental Stuff](#experimental-stuff)
+      - [More detailed drone rules](#more-detailed-drone-rules)
+        - [Movement](#movement-2)
+        - [Range](#range)
+
+</details>
 
 ## Weapons
 
@@ -446,6 +544,7 @@ The UAV carries an improvised high explosive with it, capable of being dropped o
 enemy units.
 
 Resolve the to-hit roll as follows by rolling a D6:
+
 - 1: Drone fails to release payload. Nothing happens.
 - 2: Payload tumbles D3", check the HE3" template for hits.
 - 3+: Drone hits, resolve to damage roll as usual.
@@ -458,6 +557,7 @@ which takes a successful RALLY order.
 The UAV carries a powerful AT warhead instead of a HE round.
 
 Resolve the to-hit roll as follows by rolling a D6:
+
 - 1: Drone fails to release payload. Nothing happens.
 - 2: Payload tumbles D3", if it hits anything, resolve to-damage with +4 PEN.
 - 3+: Drone hits, resolve to damage roll with +4 PEN as usual.
@@ -508,7 +608,7 @@ Anti-Drone rule and ignore this modifier.
 
 ![atgm picture](./ressources/atgm.excalidraw.png)
 
-##### Introduction
+#### Introduction
 
 Anti-Tank guided missiles are stationary AT weapons, capable of effectively
 engaging any armoured target over several kilometers. They are most often wire-
@@ -652,7 +752,7 @@ soldier, which can be handy in some situations.
 
 If chosen, a DMR replaces the AR of one soldier in a squad. If none are present,
 the unit also costs the +5pt for switching the main weapon out in addition to the
-DMR cost (see [Adjustments](#rule-adjustments).
+DMR cost (see [Adjustments](#additional-rules-and-systems)).
 
 #### Rule
 

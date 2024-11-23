@@ -10,10 +10,9 @@ is compromised of the franco-belgian battlegroup as well as the EUROCORPS.
 
 ***
 
-## Table of content
+## Table of contents
 
 - [Army modifiers](#army-modifiers)
-
 - [Officers](#officers)
 - [Infantry](#infantry)
 - [Combat support](#combat-support-units)
