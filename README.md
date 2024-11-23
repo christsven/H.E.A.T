@@ -25,15 +25,7 @@ Bolt Action rulebook.
 
 [Ruleset Expansion](ruleset/heat-ruleset.md)
 
-[Quick Chart Expansion (mobile)](ruleset/heat-quick-chart.md)
-
-[Quick Chart Expansion (PC)](ruleset/quickchart-pc.excalidraw.png)
-
-### Platoon lists
-
-<p align=center>
-<img src="ruleset/ressources/list-introduction.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto" alt="image of military symbols">
-</p>
+[Quick Chart Expansion](ruleset/heat-quick-chart.md)
 
 Since v3, we no longer have the army list, but platoon structures. Below are the
 three basic roster applicable for all armies, as well as a brief overview over the
@@ -63,15 +55,11 @@ and Russia over a single misstep on either side.
 
 ***
 
-## Templates
+## Utilities
 
 Stuff you may find useful if you want to create your own units.
 
 ### Calculators
-
-<p align=center>
-<img src="/factions/ressources/platoon-leader-nspr.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Commander Image" height=auto width=80%>
-</p>
 
 Based in large parts on the [v2 cost calculator](https://www.wargaming3d.com/product/bolt-action-unofficial-vehicle-design-system/). Unit calculator based on stuff i parsed from the book.
 
@@ -79,7 +67,9 @@ Based in large parts on the [v2 cost calculator](https://www.wargaming3d.com/pro
 
 <a href="./calculators/vehicle-calculator.xlsx"> Vehicle calculator sheet [.xlsx]</a>
 
-### Unit rosters
+### Unit templates
+
+<details> <summary>Click to expand</summary>
 
 #### Infantry/System operator unit template
 
@@ -111,6 +101,8 @@ any at all.
 | Default weapon configuration | <table><tr><td><b>Weapon Systems</td><td><b>Modifiers</td><td><b>Rules</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table> |
 |Options|<table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Rule</td><td>This rule does things.</td><td>+/-X [pt/unit]</td></tr><tr><td>...</td><td>...</td><td>+/-X [pt/unit]</td></tr></table><table><tr><td><b>Main Weapon Replacement</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>What the weapon does.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table><table><tr><td><b>Additional Weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Example Weapon System</td><td>Modifiers and other information.</td><td>+/- X pt</td></tr><tr><td>...</td><td>...</td><td>+/- X pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Example Rule</td><td>This rule does things.</td></tr><tr><td>...</td><td>...</td></tr></table> |
+
+</details>
 
 ***
 
