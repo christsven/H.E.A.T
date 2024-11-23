@@ -71,15 +71,12 @@ is compromised of the franco-belgian battlegroup as well as the EUROCORPS.
     - [Pandur I](#pandur-i)
     - [VAB](#vab)
     - [VBCI](#vbci)
-      - [VBCI VCI](#vbci-vci)
-      - [VBCI VPC](#vbci-vpc)
     - [GTK Boxer](#gtk-boxer)
+  - [](#)
     - [Piranha IIIC](#piranha-iiic)
     - [SPz 1A3 Marder](#spz-1a3-marder)
   - [Heavy vehicles](#heavy-vehicles)
-    - [Jankel FOX RRV](#jankel-fox-rrv)
-    - [Jankel/NP Aerospace: WOLF LTTV](#jankelnp-aerospace-wolf-lttv)
-    - [Panhard VPS](#panhard-vps)
+    - [Panhard VPS / Jankel FOX RRV](#panhard-vps--jankel-fox-rrv)
     - [Wiesel I](#wiesel-i)
       - [Wiesel I TOW](#wiesel-i-tow)
       - [Wiesel I A3 MK](#wiesel-i-a3-mk)
@@ -285,7 +282,6 @@ They can be devastating in the correct spot, used at the correct time.
 
 Anti materiell rifle sniper team are used to engage anything from infantry to
 lightly armoured vehicles.
-
 
 | PGM Hécate II<br>AMR team | <img src="/factions/nato-symbols/blufor/sniper-t.excalidraw.png" align="right" alt="sniper team" height=30 width=auto></img> |
 | :---- | ---- |
@@ -574,6 +570,13 @@ fixed wing air vehicle for artillery guidance.
 
 ![CAESAR](/factions/ressources/caesar.excalidraw.png)
 
+CAESAR, or _Camion équipé d’un système d’artillerie_ is a french designed and
+produces mobile artillery system with a 155mm howitzer. Designed as an air-
+transportable alternative to the heavier systems used during the cold war, the
+truck initially wasnt even armoured and could reach speeds of up to 90kph and
+50kph offroad. Later versions do feature some protection against small arms. Over
+300 units were produces in its 30 year service time.
+
 | CAESAR | <img src="/factions/nato-symbols/units/wheeled-multiaxis-medium-howitzer.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
@@ -581,7 +584,7 @@ fixed wing air vehicle for artillery guidance.
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | TODO |
 | Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Indirect Fire</td><td>-</td></tr><tr><td>Howitzer</td><td>-</td></tr><tr><td>HE 3"</td><td>-</td></tr></table> |-
 
 ### AMX-30 AuF1
 
@@ -600,6 +603,11 @@ fixed wing air vehicle for artillery guidance.
 
 ![pzh2k](/factions/ressources/panzerhaubitze.excalidraw.png)
 
+The Panzerhaubitze 2000 is a self-propelled 155mm howitzer produced by the german
+arms manufacturers KNDS and Rheinmetall. They replaced the older M109 Paladin in
+many european armies around the 2000s. Praised for its high mobility, range, and
+its exceptional rate of fire.
+
 | Panzerhaubitze 2000 | <img src="/factions/nato-symbols/units/tracked-artillery.excalidraw.png" align="right" alt="artillery system" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
@@ -612,6 +620,12 @@ fixed wing air vehicle for artillery guidance.
 ### MARS II MLRS
 
 ![mars mlrs](/factions/ressources/mars2.excalidraw.png)
+
+The "MLRS", or "Multiple Launch Rocket System", is an american self-propelled
+artillery rocket system used by a range of western militaries, first and foremost
+the US Army themselves as the "M270". It saw action in the second gulf war as well
+as other wars since the 80s and has only recently been started to be phased out
+by more modern systems.
 
 | MARS II MLRS | <img src="/factions/nato-symbols/units/tracked-artillery-mlrs.excalidraw.png" align="right" alt="MLRS System" height=30 width=auto></img> |
 | :---- | ---- |
@@ -628,7 +642,7 @@ fixed wing air vehicle for artillery guidance.
 
 ### Mistral team
 
-Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
+Small team of infantry with a MANPADS Mistral Surface-to-air-missile launcher.
 
 | MANPADS<br>team | <img src="/factions/nato-symbols/units/manpads-t.excalidraw.png" align="right" alt="MANPADS team" height=30 width=auto></img> |
 | :---- | ---- |
@@ -641,6 +655,9 @@ Small team of infantry with a MANPADS Stinger Surface-to-air-missile launcher.
 ### VLRA Mistral
 
 ![VLRA Mistral](/factions/ressources/vlra-mistral.excalidraw.png)
+
+The VLRA was a french multi-purpose all-terrain truck built by AMCAT, a division of
+Renault. This variant is mounted with a Mistral MANPADS system.
 
 | VLRA Mistral | <img src="/factions/nato-symbols/units/wheeled-manpads.excalidraw.png" align="right" alt="anti air System" height=30 width=auto></img> |
 | :---- | ---- |
@@ -696,6 +713,9 @@ platform or as a troop transport.
 
 ![pvp](/factions/ressources/pvp.excalidraw.png)
 
+The Petit Véhicule Protégé ("Light Protected vehicle") is a light, general-purpose
+armoured 4-wheel drive vehicle used by the French Army, made by Panhard.
+
 | PVP | <img src="/factions/nato-symbols/units/wheeled-oneaxis-apc.excalidraw.png" align="right" alt="MRAP" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
@@ -727,13 +747,31 @@ APC can be equipped with medical equipment, command utility or recon modificatio
 
 ![pandur picture](../factions/ressources/pandur.excalidraw.png)
 
-APC used by the belgian army. The vehicle comes in the normal configuration
-with a 12.7mm weapon station, in a reconaissance variant or a medical evacuation vehicle.
+APC used by the belgian army. The APC comes in multiple variants, a command version,
+a medevac vehicle and as a normal APC with varying weapon options. An austrian
+design that is also used by Kuwait, Belgium is one of the biggest users of this
+vehicle.
 
+| Pandur I | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="Pandur I" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost | tdb |
+| Capacity | 8 soldiers |
+| Damage value | 7+ Armoured Carrier |
+| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/heat-ruleset.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
+| Options | <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Main weapon options</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>TOW ATGM launcher</td><td>TOW Anti-tank<br>guided missile launcher<br><br>Detailed rules see [ruleset](../ruleset/heat-ruleset.md#anti-tank-guided-missiles-atgm).</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+35 pt</td></tr><tr><td>Tampella 120mm<br>heavy mortar</td><td>heavy mortar system</td><td><ul><li>hull-mounted</li><li>front-facing</li><li>open-topped</li></ul></td><td>+35 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>MMG</td><td>Medium machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+15 pt</td></tr><tr><td>HMG</td><td>Heavy machine gun</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+25 pt</td></tr></table> |
+| Special rules |  <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/heat-ruleset.md#ifv-rule).</td></tr><tr><td>Open-Topped<br>_(if selected)_</td><td>-</td></tr></table> |
 
 ### VAB
 
 ![vab](/factions/ressources/vab.excalidraw.png)
+
+The Véhicule de l'Avant Blindé or VAB (literally meaning "Armoured Forward Vehicle";
+but more appropriately translated: "Armoured Vanguard Vehicle") is a french
+armoured personnel carrier and support vehicle designed and manufactured by
+Renault Trucks Defense (now known as Arquus). It entered French service in 1979
+and around 5,000 were produced for the French Army as well as for export. It has
+seen combat in various conflicts in Africa, Asia as well as Europe and has also
+been exported to more than 15 countries.
 
 | VAB | <img src="/factions/nato-symbols/units/wheeled-oneaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
@@ -741,12 +779,21 @@ with a 12.7mm weapon station, in a reconaissance variant or a medical evacuation
 | Capacity | 8 soldiers |
 | Damage value | 7+ Armoured Carrier |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/heat-ruleset.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr></table> |
-| Options | <table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>.50cal M2HB HMG</td><td>Heavy machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 20 pt</td></tr></table> |
+| Options |  <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table><table><tr><td><b>Additional weapons</td><td><b>Description</td><td>Modifiers</td><td><b>Cost</b></td></tr><tr><td>.50cal M2HB HMG</td><td>Heavy machine gun, pintle-mounted<br>at the commander's hatch.</td><td><ul><li>pintle-mounted</li><li>open-topped</li></ul></td><td>+ 20 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-Topped _(if selected)_</td><td>-</td></tr></table> |
 
 ### VBCI
 
 ![vbci](/factions/ressources/vmci.excalidraw.png)
+
+The _véhicule blindé de combat d'infanterie_ (armoured infantry fighting vehicle)
+or VBCI is a French Infantry fighting vehicle designed and manufactured by GIAT
+Industries (now Nexter Systems) and Renault Trucks Defense (now Arquus) to replace
+the AMX-10P.
+
+The first units entered active service with the French Army in 2008. 630 units
+were ordered and full delivery was completed in 2018. They are available in two
+core variants, the VCI infantry fighting vehicle and the VPC command post vehicle.
 
 | VBCI | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
 | :---- | ---- |
@@ -754,16 +801,13 @@ with a 12.7mm weapon station, in a reconaissance variant or a medical evacuation
 | Capacity | 6 soldiers |
 | Damage value | 8+ Light Tank |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher. <br><br>Detailed rules see [ruleset](../ruleset/heat-ruleset.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>GIAT modèle M811 25 mm</td><td>25mm light autocannon.</td><td><ul><li>turret-mounted</li></ul></tr><tr><td>MMG</td><td>Coaxial MMG.</td><td><ul><li>turret-mounted</li><li>co-axial</li></ul></tr></table> |
-| Options |- |
+| Options |  <table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Command Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+40 pt</td></tr><tr><td>Medic Vehicle</td><td>-<br><br>*This removes the ability to<br>use any main weapon option,<br>the IFV rule or use this vehicle<br>as a troop transport.*</td><td>+25 pt</td></tr></table> |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/heat-ruleset.md#ifv-rule).</td></tr></table> |
-
-#### VBCI VCI
-
-#### VBCI VPC
 
 ### GTK Boxer
 
 ![gtk boxer picture](../factions/ressources/gtk-boxer.excalidraw.png)
+--
 
 The GTK Boxer is a German-designed and manufactured Infantry Fighting Vehicle (IFV)
 known for its versatility and modular design. It is part of the Boxer family of
@@ -784,7 +828,8 @@ troops on the battlefield.
 
 ![piranha picture](../factions/ressources/piranha3.excalidraw.png)
 
-The main IFV used by belgian armoured infantry. The belgian army fields a range of variants:
+The main IFV used by belgian armoured infantry. The belgian army fields a range
+of variants, from APCs to IFVs to command units.
 <ul>
 <li>APC - default configuration</li>
 <li>DF30 - IFV variant with RWS</li>
@@ -792,6 +837,14 @@ The main IFV used by belgian armoured infantry. The belgian army fields a range 
 <li>C2 - mobile command post</li>
 <li>Ambulance - medical evacuation vehicle</li>
 </ul>
+
+| Piranha IIIC | <img src="/factions/nato-symbols/units/tracked-ifv.excalidraw.png" align="right" alt="IFV" height=30 width=auto></img> |
+| :---- | ---- |
+| Cost |  |
+| Capacity | 6 soldiers |
+| Damage value | 7+ Armoured carrier |
+| Variant | |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>IFV<br>_(optional)_</td><td>Detailed rules see [ruleset](../ruleset/heat-ruleset.md#ifv-rule).</td></tr></table> Other rules can be found in the respective variant modifier cell. |
 
 ### SPz 1A3 Marder
 
@@ -815,40 +868,19 @@ gradually being replaced by more modern IFV designs in some armed forces.
 
 ## Heavy vehicles
 
-### Jankel FOX RRV
-
-Special Forces vehicle.
-
-| Jankel FOX RRV | <img src="/factions/nato-symbols/units/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | tbd |
-| Capacity | 3 soldiers |
-| Damage value | 6+ Soft-skinned Vehicle |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/heat-ruleset.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>.50cal</td><td>HMG.</td><td><ul><li>pintle-mounted</li></ul></tr><tr><td>ANF1 MMG</td><td>MMG.</td><td><ul><li>front-facing</li></ul></tr></table> |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-topped</td><td>-</td></tr></table> |
-
-### Jankel/NP Aerospace: WOLF LTTV
-
-Special Forces vehicle.
-
-| Panhard VPS | <img src="/factions/nato-symbols/units/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
-| :---- | ---- |
-| Cost | tbd |
-| Capacity | 3 soldiers |
-| Damage value | 6+ Soft-skinned Vehicle |
-| Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/heat-ruleset.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>.50cal</td><td>HMG.</td><td><ul><li>pintle-mounted</li></ul></tr><tr><td>ANF1 MMG</td><td>MMG.</td><td><ul><li>front-facing</li></ul></tr></table> |
-| Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Open-topped</td><td>-</td></tr></table> |
-
-### Panhard VPS
+### Panhard VPS / Jankel FOX RRV
 
 ![Panhard VPS](/factions/ressources/vps.excalidraw.png)
 
+The VPS as well as the FOX RRV are light 4x4 patrol vehicles especially designed
+for Special Forces. These vehicles can carry up to five fully equipped soldiers
+on patrol missions and are equipped with multiple machine guns, providing the
+squad with a lot of firepower on a fast and mobile platform.
+
 | Panhard VPS | <img src="/factions/nato-symbols/units/wheeled-sf.excalidraw.png" align="right" alt="SF Vehicle" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
-| Capacity | 3 soldiers |
+| Capacity | 5 soldiers |
 | Damage value | 6+ Soft-skinned Vehicle |
 | Default weapon configuration | <table><tr><td><b>Weapon systems</td><td><b>Description</td><td>Modifiers</td></r><tr><td>Smoke Screen</td><td>Smoke grenade launcher.<br><br>Detailed rules see [ruleset](../ruleset/heat-ruleset.md#smoke-screens).<br></td><td><ul><li>hull-mounted</li><li>front-facing</li></ul></tr><tr><td>.50cal</td><td>HMG.</td><td><ul><li>pintle-mounted</li></ul></tr><tr><td>ANF1 MMG</td><td>MMG.</td><td><ul><li>front-facing</li></ul></tr></table> |
 | Options | - |
@@ -887,6 +919,16 @@ anti air system. Capable of air transport with a A400M or helicopter.
 
 ![amx 10 rc](/factions/ressources/amx10rc.excalidraw.png)
 
+The AMX-10 RC is a French armoured fighting vehicle manufactured by Nexter Systems
+for armoured reconnaissance purposes. The "RC" stands for "Roues-Canon",
+meaning "wheeled gun". The AMX-10 RC is usually used for reconnaissance missions
+in dangerous environments or for fire support.
+
+The AMX-10 RC is fitted with a 105/47 F2 MECA 105 mm medium-pressure gun, mounted
+in a GIAT Industries TK 105 three-man turret. The F2 cannon fires 105×527R
+proprietary ammunition. The turret uses a SAMM CH49 electrohydraulic gun control
+system. No stabilization system is fitted.
+
 | AMX 10 RC | <img src="/factions/nato-symbols/units/wheeled-multiaxis-ifv.excalidraw.png" align="right" alt="Tankette" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | tbd |
@@ -900,6 +942,11 @@ anti air system. Capable of air transport with a A400M or helicopter.
 
 ![AMX Leclerc](/factions/ressources/leclerc.excalidraw.png)
 
+The Leclerc is a third-generation French main battle tank developed and manufactured
+by Nexter Systems. It was named in honour of Marshal Philippe Leclerc de Hauteclocque,
+a commander of the Free French Forces, who led the 2nd Armoured Division in
+World War II.
+
 | AMX Leclerc | <img src="/factions/nato-symbols/units/mbt.excalidraw.png" align="right" alt="Main battle tank" height=30 width=auto></img> |
 | :---- | ---- |
 | Cost | 210 pt / 225 pt / 240 pt |
@@ -912,6 +959,18 @@ anti air system. Capable of air transport with a A400M or helicopter.
 ### Eurocopter
 
 ![eurocopter](/factions/ressources/eurocopter.excalidraw.png)
+
+The Eurocopter Tiger is a four-blade, twin-engine attack helicopter which first
+entered service in 2003. It is manufactured by Airbus Helicopters (formerly
+Eurocopter), which arose from the merger of Aérospatiale's and DASA's respective
+helicopter divisions. Airbus Helicopters designates it as the EC665.
+
+Development of the Tiger started during the Cold War, and it was initially
+intended as an anti-tank helicopter platform to be used against a Soviet ground
+invasion of Western Europe. During its prolonged development period the Soviet
+Union collapsed, changing the European security situation. France and Germany
+chose to proceed with the Tiger, developing it instead as a multirole attack
+helicopter. It achieved operational readiness in 2008.
 
 | Eurocopter Tiger | <img src="/factions/nato-symbols/blufor/helicopter-attack.excalidraw.png" align="right" alt="Eurocopter Tiger" height=30 width=auto></img> |
 | :---- | ---- |
