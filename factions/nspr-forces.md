@@ -135,8 +135,8 @@ and reporting enemy troop movement.
 | Cost | 20 pt / 30 pt / 40 pt |
 | Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
 | Setup | NCO (AR) + 1 attendants (AR) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>smoke grenades, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Quad Bikes</td><td>Unit is equipped with quad bikes.<br><br>See [ruleset](../ruleset/H.E.A.T.md#quad-bikes) for more information.</td><td>+15 pt/unit</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Break contact</td><td>Recon units are often confronted with superior enemies<br>they are not meant to engage. To fall back in a controlled fashion,<br> these units may fire first, then maneuver during an ADVANCE.</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>smoke grenades, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Quad Bikes</td><td>Unit is equipped with quad bikes.<br><br>See [ruleset](../ruleset/heat-ruleset.md#quad-bikes) for more information.</td><td>+15 pt/unit</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Break contact</td><td>Recon units are often confronted with superior enemies<br>they are not meant to engage. To fall back in a controlled fashion,<br> these units may fire first, then maneuver during an ADVANCE.</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/heat-ruleset.md#smoke-grenades) for more information.</td></tr></table> |
 
 ### Reconnaissance infantry group
 
@@ -149,7 +149,7 @@ and reporting enemy troop movement.
 | Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt |
 | Setup | NCO (AR) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x DMR</td><td>Designated marksman rifle</td><td>+15 pt</td></tr><tr><td>Smoke grenades</td><td>DM-25 smoke grenade, used for<br>conceilment of movement.</td><td>+10 pt</td></tr></table>|
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Break contact</td><td>Recon units are often confronted with superior enemies<br>they are not meant to engage. To fall back in a controlled fashion,<br> these units may fire first, then maneuver during an ADVANCE.</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/H.E.A.T.md#smoke-grenades) for more information.</td></tr></table> 
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Rangers</td><td>-</td></tr><tr><td>Break contact</td><td>Recon units are often confronted with superior enemies<br>they are not meant to engage. To fall back in a controlled fashion,<br> these units may fire first, then maneuver during an ADVANCE.</td></tr><tr><td>Smoke grenades<br>(*if selected*)</td><td>One time smoke screen.<br><br>See [ruleset](../ruleset/heat-ruleset.md#smoke-grenades) for more information.</td></tr></table> 
 
 ### Assault Detachment
 
@@ -163,7 +163,7 @@ material.
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt |
 | Setup | NCO (SMG) + 3 attendants (SMG) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>Explosives</td><td>Explosives pipe</td><td>+15 pt</td></tr><tr><td>2x LAW</td><td>Light anti-tank weapon</td><td>+20 pt/u</td></tr><tr><td>1x RPG-7</td><td>AT Rocket Launcher.<br>One further soldiers becomes a loader.<br>Both soldiers keep their rifles<br>and can use either.</td><td>+ 60 pt</tr></table><table><tr><td><b>Optional rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Tough Fighters</td><td>-</td><td>+ 1 pt each</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives (*if selected*)</td><td>See [ruleset](../ruleset/H.E.A.T.md#explosives) for more information</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Explosives (*if selected*)</td><td>See [ruleset](../ruleset/heat-ruleset.md#explosives) for more information</td></tr></table> |
 
 ### Support Infantry group
 
@@ -209,7 +209,7 @@ perform covert operations or support breakthrough attempts.
 | Reinforcement | up to 5 attendants (AR): - pt / 10 pt / 13 pt |
 | Setup | NCO (AR) + 3 attendants (AR) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>2x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>1x UGL</td><td>Underbarrel grenade launcher</td><td>+10 pt</td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fireteam</td><td>Unit is able to split into fireteams. See [ruleset](../ruleset/H.E.A.T.md#fireteams) for details.</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fireteam</td><td>Unit is able to split into fireteams. See [ruleset](../ruleset/heat-ruleset.md#fireteams) for details.</td></tr></table> |
 
 ### Light Rifle squad
 
@@ -241,8 +241,8 @@ Support infantry, used to clear terrain or restrict enemy movement.
 | Cost | 40 pt / 55 pt / 70 pt |
 | Reinforcement | up to 5 attendants (SMG): 7 pt / 10 pt / 13 pt |
 | Setup | NCO (SMG) + 2 attendants (SMG) |
-| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Explosives</td><td>Explosives pipe</td><td>+15 pt</td></tr><tr><td>IEDs</td><td>See IED section in [ruleset](../ruleset/H.E.A.T.md#improvised-explosive-devices-ied-and-mines).<td>+20 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr></table> |
+| Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LMG</td><td>Light machine gun</td><td>+20 pt</td></tr><tr><td>Explosives</td><td>Explosives pipe</td><td>+15 pt</td></tr><tr><td>IEDs</td><td>See IED section in [ruleset](../ruleset/heat-ruleset.md#improvised-explosive-devices-ied-and-mines).<td>+20 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>See [ruleset](../ruleset/heat-ruleset.md#engineer) for more information.</td></tr></table> |
 
 ### Sapper team
 
@@ -255,7 +255,7 @@ enemy forces in the dynamic enviromnent of warfare.
 | Reinforcement | up to 2 attendants (SMG): 7 pt / 10 pt / 13 pt |
 | Setup | NCO (SMG) |
 | Options |<table><tr><td><b>Additional weapons</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>1x LAW</td><td>Light anti-tank weapon</td><td>+20 pt</td></tr><tr><td>Explosives</td><td>Explosives pipe</td><td>+15 pt</td></tr></table><table><tr><td><b>Optional Rules</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>Cavalry</td><td>-</td><td>+1 pt/u</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>See [ruleset](../ruleset/H.E.A.T.md#engineer) for more information.</td></tr><tr><td>Sapper</td><td>See [ruleset](../ruleset/H.E.A.T.md#sapper) for more information.</td></tr><tr><td>Cavalry (*if selected*)</td><td>-</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Enginners</td><td>See [ruleset](../ruleset/heat-ruleset.md#engineer) for more information.</td></tr><tr><td>Sapper</td><td>See [ruleset](../ruleset/heat-ruleset.md#sapper) for more information.</td></tr><tr><td>Cavalry (*if selected*)</td><td>-</td></tr></table> |
 
 ### Dragunov sniper team
 
@@ -342,7 +342,7 @@ Infantry unit equipped with an AGL, used to surpress infantry sections.
 | Reinforcement | - |
 | Setup | NCO (AGL) + 2 loaders (SMG) |
 | Options |- |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>AGL</td><td>Automatic grenade launcher,<br>which rapidly fires 40mm ordnance.<br><br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl). </td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>HE 1"</td><td>-</td></tr><tr><td>AGL</td><td>Automatic grenade launcher,<br>which rapidly fires 40mm ordnance.<br><br>Detailed description in [ruleset](../ruleset/heat-ruleset.md#automatic-grenade-launchers-agl). </td></tr></table> |
 
 ### LPO-50 flamethrower team
 
@@ -370,8 +370,8 @@ Weapon fires to the front and sides.
 | Cost | 30 pt / 45 pt / 60 pt |
 | Reinforcement | - |
 | Setup | Motorcycle (WEAPON SYSTEM)|
-|Options| Since these weapons are mounted to the side car, only one main weapon may be chosen.<table><tr><td><b>Main weapon options</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Side car mounted MMG.</td><td>+15 pt</td></tr><tr><td>14.5mm DshK HMG</td><td>Side car mounted HMG.</td><td>+20 pt</td></tr><tr><td>AGS-17 "Plamja" AGL</td><td>AGS-17 "Plamja" automatic<br> grenade launcher<br><br>Detailed rules see [ruleset](../ruleset/H.E.A.T.md#automatic-grenade-launchers-agl).</td><td>+ 25 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Motorcycle<br>(_Quad Bike Proxy_)</td><td>For movement, see [ruleset](../ruleset/H.E.A.T.md#quad-bikes). Otherwise behaves like<br>a normal infantrist regarding damage values, etc.</td></tr><tr><td>Front-facing MMG</td><td>Fire ark of machine gun is to the front and 90° to each side<br>(so 9 and 3 o'clock from the drivers perspective).</td></tr><tr><td>Anti-Air<br>sight</td><td>+1 to hit against helicopters.</td></tr></table> |
+|Options| Since these weapons are mounted to the side car, only one main weapon may be chosen.<table><tr><td><b>Main weapon options</td><td><b>Description</td><td><b>Cost</b></td></tr><tr><td>7.62mm PKT MMG</td><td>Side car mounted MMG.</td><td>+15 pt</td></tr><tr><td>14.5mm DshK HMG</td><td>Side car mounted HMG.</td><td>+20 pt</td></tr><tr><td>AGS-17 "Plamja" AGL</td><td>AGS-17 "Plamja" automatic<br> grenade launcher<br><br>Detailed rules see [ruleset](../ruleset/heat-ruleset.md#automatic-grenade-launchers-agl).</td><td>+ 25 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Motorcycle<br>(_Quad Bike Proxy_)</td><td>For movement, see [ruleset](../ruleset/heat-ruleset.md#quad-bikes). Otherwise behaves like<br>a normal infantrist regarding damage values, etc.</td></tr><tr><td>Front-facing MMG</td><td>Fire ark of machine gun is to the front and 90° to each side<br>(so 9 and 3 o'clock from the drivers perspective).</td></tr><tr><td>Anti-Air<br>sight</td><td>+1 to hit against helicopters.</td></tr></table> |
 
 ***
 
@@ -387,8 +387,8 @@ and lightly armoured tanks.
 | Cost | 42 pt / 60 pt / 78 pt |
 | Reinforcement | - |
 | Setup | NCO (RPG + SMG) + 1 loader (SMG) |
-| Options | <table><table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</td></tr><tr><td>Tandem HEAT Charge</td><td>Heavier charge than  normal<br>round, but less range.<br>Check [ruleset](../ruleset/H.E.A.T.md#tandem-heat-charges) for details.</td><td>+15 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
+| Options | <table><table><tr><td><b>Rules</td><td><b>Description</td><td><b>Cost</td></tr><tr><td>Tandem HEAT Charge</td><td>Heavier charge than  normal<br>round, but less range.<br>Check [ruleset](../ruleset/heat-ruleset.md#tandem-heat-charges) for details.</td><td>+15 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/heat-ruleset.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
 ### 9K113 Konkurs ATGM team
 
@@ -403,7 +403,7 @@ even require the operator themselves to aid the missile to its target.
 | Reinforcement | - |
 | Setup | NCO (ATGM) + 2 loaders (SMG) |
 | Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td><tr><td>ATGM</td><td>See [ruleset](../ruleset/heat-ruleset.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/heat-ruleset.md#anti-tank-guided-missiles-atgm) for more information.</td></tr></table> |
 
 ### SPG-9 73mm recoilless rifle team
 
@@ -453,8 +453,8 @@ bombs.
 | Cost | 41 pt / 52 pt / 63 pt |
 | Reinforcement | up to 2 attendants: 7 pt / 10 pt / 13 pt |
 | Setup | NCO (PDW) |
-| Options |<table><tr><td><b>Payload</td><td><b>Description</td><td><b>Cost</b></td></tr><td>-</td><td> Recon role. Serves as spotter.</td><td>-</td></tr><tr><td>IED </td><td>Rigged IED, set to explode a HE payload on release.<br><br>See UAV section in [ruleset](../ruleset/H.E.A.T.md#ied-variant).<td>+10 pt</td></tr><tr><td>AT IED</td><td>Heavier payload which is able to damage or destroy vehicels.<br><br>See IED section in [ruleset](../ruleset/H.E.A.T.md#anti-tank-ied-variant).<td>+20 pt</td></tr></table> |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>On-map Operator</td><td>Operator of unit is present on map.</td></tr><tr><td>Quadrocopter</td><td>Drone is propelled by multiple rotors. </td></tr></table> |
+| Options |<table><tr><td><b>Payload</td><td><b>Description</td><td><b>Cost</b></td></tr><td>-</td><td> Recon role. Serves as spotter.</td><td>-</td></tr><tr><td>IED </td><td>Rigged IED, set to explode a HE payload on release.<br><br>See UAV section in [ruleset](../ruleset/heat-ruleset.md#ied-variant).<td>+10 pt</td></tr><tr><td>AT IED</td><td>Heavier payload which is able to damage or destroy vehicels.<br><br>See IED section in [ruleset](../ruleset/heat-ruleset.md#anti-tank-ied-variant).<td>+20 pt</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/heat-ruleset.md#drones). </td></tr><tr><td>On-map Operator</td><td>Operator of unit is present on map.</td></tr><tr><td>Quadrocopter</td><td>Drone is propelled by multiple rotors. </td></tr></table> |
 
 ### Bomb "Bravo" drone
 
@@ -474,7 +474,7 @@ role, they are only expected to fly once anyway.
 | Reinforcement | - |
 | Setup | Drone (MEDIUM BOMB) |
 | Options | - |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/H.E.A.T.md#drones). </td></tr><tr><td>Off-map Operator</td><td>Unit is operated off-map.</td></tr><tr><td>Fixed wing</td><td>Drone is propelled by a rotor and fixed wings. </td></tr><tr><td>Loitering Ammonition</td><td>Self-destroying drone with large payload. See [ruleset](../ruleset/H.E.A.T.md#drones).</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>UAV</td><td>Team operates a small UAV with varying mission role.<br>Detailed description in [ruleset](../ruleset/heat-ruleset.md#drones). </td></tr><tr><td>Off-map Operator</td><td>Unit is operated off-map.</td></tr><tr><td>Fixed wing</td><td>Drone is propelled by a rotor and fixed wings. </td></tr><tr><td>Loitering Ammonition</td><td>Self-destroying drone with large payload. See [ruleset](../ruleset/heat-ruleset.md#drones).</td></tr></table> |
 
 ***
 
@@ -606,7 +606,7 @@ Small team of infantry with a MANPADS Strela Surface-to-air-missile launcher.
 | Reinforcement | up to 2 attendants (SMG) 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (MANPADS) + 1 loader (SMG) |
 | Options |- |
-| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/H.E.A.T.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>MANPADS</td><td>See [ruleset](../ruleset/H.E.A.T.md#manportable-air-defense-systems-manpads) for more information.</td></tr></table> |
+| Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>Team</td><td>-</td></tr><tr><td>Fixed</td><td>-</td></tr><tr><td>Backblast</td><td>See [ruleset](../ruleset/heat-ruleset.md#anti-tank-guided-missiles-atgm) for more information.</td></tr><tr><td>MANPADS</td><td>See [ruleset](../ruleset/heat-ruleset.md#manportable-air-defense-systems-manpads) for more information.</td></tr></table> |
 
 ### ZU-23-2 anti air autocannon
 

@@ -23,7 +23,7 @@ Bolt Action rulebook.
 >for v2, some phrasing might be a bit off, but I think everything should work fine.
 >If you find anything, just let me know.
 
-[Ruleset Expansion](ruleset/H.E.A.T.md)
+[Ruleset Expansion](ruleset/heat-ruleset.md)
 
 [Quick Chart Expansion (mobile)](ruleset/quickchart-mobile.excalidraw.png)
 

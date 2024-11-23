@@ -10,7 +10,7 @@ symmetrical or assymetrical warfare.
 Currently updated ruleset can be found in the link below, for the older variant
 [here](ruleset/H.E.A.T.png).
 
-[H.E.A.T Ruleset](ruleset/H.E.A.T.md)
+[H.E.A.T Ruleset](ruleset/heat-ruleset.md)
 
 ## Factions
 
