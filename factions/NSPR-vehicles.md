@@ -6,9 +6,34 @@ This is a continuation of the original NSPR army list found [here](/factions/NSP
 
 ## Table of contents
 
-- [APCs/IFVs](#apcs--ifvs)
-- [Heavy vehicles](#heavy-vehicles)
-- [Transports](#transports)
+<details><summary>Click to expand</summary>
+
+- [NSPR Vehicles](#nspr-vehicles)
+  - [Table of contents](#table-of-contents)
+  - [APCs / IFVs](#apcs--ifvs)
+    - [BTR-D](#btr-d)
+    - [BTR-60P/PB](#btr-60ppb)
+    - [BTR-80](#btr-80)
+    - [MT-LB](#mt-lb)
+  - [Heavy vehicles](#heavy-vehicles)
+    - [Wheeled Technical](#wheeled-technical)
+    - [Tracked Technical](#tracked-technical)
+    - [BRDM-2](#brdm-2)
+    - [PT-76](#pt-76)
+    - [BMP-1](#bmp-1)
+    - [ZSU-57-2](#zsu-57-2)
+    - [T-54/T-55](#t-54t-55)
+  - [Transports](#transports)
+    - [Mi-8 Hip](#mi-8-hip)
+    - [Mi-2 Hoplite](#mi-2-hoplite)
+    - [Truck](#truck)
+    - [Lada](#lada)
+    - [Jeep](#jeep)
+    - [R75 Ural Motorcycle Transport](#r75-ural-motorcycle-transport)
+    - [Boat](#boat)
+
+
+</details>
 
 ## APCs / IFVs
 

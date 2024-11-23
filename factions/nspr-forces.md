@@ -40,23 +40,64 @@ as IED carriers or suicide drones.
 
 ***
 
-## Table of content
+## Table of contents
 
-- [Army modifiers](#army-modifiers)
+<details><summary>Click to expand</summary>
 
-- [Leadership](#leadership)
-- [Infantry](#infantry)
-- [Combat support](#combat-support-units)
-- [Machine guns](#machine-gun-teams)
-- [Anti tank teams](#anti-tank-teams)
-- [Drone teams](#drone-teams)
-- [Mortar teams](#mortar-teams)
-- [Anti-air systems](#anti-air-systems)
-- [Artillery support](#artillery-support)
+- [**NSPR Volunteer Rifle Contingent**](#nspr-volunteer-rifle-contingent)
+  - [Table of contents](#table-of-contents)
+  - [Army modifiers](#army-modifiers)
+    - [Territorial knowledge](#territorial-knowledge)
+    - [Foreign aid](#foreign-aid)
+    - [Old technology](#old-technology)
+  - [Leadership](#leadership)
+    - [Assistant Commander](#assistant-commander)
+    - [Commander](#commander)
+  - [Infantry](#infantry)
+    - [Forward reconnaissance team](#forward-reconnaissance-team)
+    - [Reconnaissance infantry group](#reconnaissance-infantry-group)
+    - [Assault Detachment](#assault-detachment)
+    - [Support Infantry group](#support-infantry-group)
+    - [Motorized Infantry squad](#motorized-infantry-squad)
+    - [PMC Contractors squad](#pmc-contractors-squad)
+    - [Light Rifle squad](#light-rifle-squad)
+  - [Combat support units](#combat-support-units)
+    - [Demolition squad](#demolition-squad)
+    - [Sapper team](#sapper-team)
+    - [Dragunov sniper team](#dragunov-sniper-team)
+    - [AMR team](#amr-team)
+    - [Medic](#medic)
+  - [Machine gun teams](#machine-gun-teams)
+    - [RPK MMG team](#rpk-mmg-team)
+    - [NSV HMG team](#nsv-hmg-team)
+    - [AGS-17 Plamja AGL team](#ags-17-plamja-agl-team)
+    - [LPO-50 flamethrower team](#lpo-50-flamethrower-team)
+    - [R75 Ural Motorcycle](#r75-ural-motorcycle)
+  - [Anti-tank teams](#anti-tank-teams)
+    - [RPG-7 team](#rpg-7-team)
+    - [9K113 Konkurs ATGM team](#9k113-konkurs-atgm-team)
+    - [SPG-9 73mm recoilless rifle team](#spg-9-73mm-recoilless-rifle-team)
+    - [B-10 82mm recoilless rifle team](#b-10-82mm-recoilless-rifle-team)
+  - [Drone teams](#drone-teams)
+    - [UAV operator team](#uav-operator-team)
+    - [Bomb "Bravo" drone](#bomb-bravo-drone)
+  - [Mortar teams](#mortar-teams)
+    - [RM-38 50mm light mortar team](#rm-38-50mm-light-mortar-team)
+    - [M1938 107mm medium mortar team](#m1938-107mm-medium-mortar-team)
+    - [120mm 2S12 "Sani" heavy mortar team](#120mm-2s12-sani-heavy-mortar-team)
+    - ["Hell Cannon" propane mortar team](#hell-cannon-propane-mortar-team)
+  - [Artillery](#artillery)
+    - [M1938 M-30 122mm light howitzer](#m1938-m-30-122mm-light-howitzer)
+    - [2A65 Msta-B 152mm medium howitzer](#2a65-msta-b-152mm-medium-howitzer)
+    - [M1931 B-4 203mm heavy howitzer](#m1931-b-4-203mm-heavy-howitzer)
+  - [Artillery support](#artillery-support)
+    - [Artillery forward observer](#artillery-forward-observer)
+  - [Anti-air systems](#anti-air-systems)
+    - [Strela ground team](#strela-ground-team)
+    - [ZU-23-2 anti air autocannon](#zu-23-2-anti-air-autocannon)
 
-- [APCs/IFVs](/factions/NSPR-vehicles.md#apcs--ifvs)
-- [Heavy vehicles](/factions/NSPR-vehicles.md#heavy-vehicles)
-- [Transports](/factions/NSPR-vehicles.md#transports)
+
+</details>
 
 ***
 
