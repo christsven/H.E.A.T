@@ -226,7 +226,6 @@ the old oil shale excavation sites in Kivioli.
 
 <details> <summary> Click to expand example lists (1500pts) </summary> 
 
-
 #### EUFOR Estonia
 
 ##### EUFOR armoured infantry platoon
@@ -251,7 +250,7 @@ the old oil shale excavation sites in Kivioli.
 - 81mm mortar
 - Mikado drone
 
-#### NSPE
+#### NSPR
 
 ##### NSPR armoured infantry platoon
 
