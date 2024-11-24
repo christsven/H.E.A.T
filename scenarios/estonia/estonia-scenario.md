@@ -226,7 +226,10 @@ the old oil shale excavation sites in Kivioli.
 
 <details> <summary> Click to expand example lists (1500pts) </summary> 
 
-#### EUFOR armoured infantry platoon
+
+#### EUFOR Estonia
+
+##### EUFOR armoured infantry platoon
 
 - OF-2 officer (OF-2)
 - Panzergren squad
@@ -239,7 +242,7 @@ the old oil shale excavation sites in Kivioli.
 - Marder 1A3 (IFV)
 - Wiesel 1A3 20mm
 
-#### EUFOR infantry platoon
+##### EUFOR infantry platoon
 
 - OF-1 officer (OF-1)
 - recon squad
@@ -248,7 +251,7 @@ the old oil shale excavation sites in Kivioli.
 - 81mm mortar
 - Mikado drone
 
-#### NSPR armoured infantry platoon
+##### NSPR armoured infantry platoon
 
 - OF 2 officer
 - Motorized infantry squad
@@ -261,7 +264,9 @@ the old oil shale excavation sites in Kivioli.
 - Bravo Drone
 - free medium mortar + spotter
 
-#### NSPR infantry platoon
+#### NSPR
+
+##### NSPR infantry platoon
 
 - OF-1 officer
 - Reconnaissance squad
@@ -270,11 +275,12 @@ the old oil shale excavation sites in Kivioli.
 - AGL team
 - RPG-7 team
 - Konkurs team
-- 
+- Sapper
+- Sniper
 
 </details>
 
-### EUFOR port raid on Sillimäe
+##### EUFOR port raid on Sillimäe
 
 <p align=center>
 <img src="/scenarios/ressources/sillimaee-layout.excalidraw.png" alt="sillimaee scenario image" style="display: block; margin-left: auto; margin-right: auto; width: 90%; height: auto"></img>
