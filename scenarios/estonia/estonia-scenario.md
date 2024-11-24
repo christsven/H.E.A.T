@@ -251,6 +251,8 @@ the old oil shale excavation sites in Kivioli.
 - 81mm mortar
 - Mikado drone
 
+#### NSPE
+
 ##### NSPR armoured infantry platoon
 
 - OF 2 officer
@@ -263,8 +265,6 @@ the old oil shale excavation sites in Kivioli.
 - BMP-1
 - Bravo Drone
 - free medium mortar + spotter
-
-#### NSPR
 
 ##### NSPR infantry platoon
 
