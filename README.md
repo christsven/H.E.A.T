@@ -108,11 +108,9 @@ any at all.
 
 ## Sources and FAQ
 
-Most images were taken from Wikipedia articles or Google Image searches and
-traced over. All information regarding weapon names were also taken from Wikipedia
-or the websites of their respective origin country or manufacturer. For a more
-detailed look, [here](/ruleset/sources.md) is the links to every image I traced.
-
 NATO military iconology according to [APP-6(C)](https://www.cimic-coe.org/resources/external-publications/app-6-c.pdf).
 
-Lastly, Here are answers to some [questions](/ruleset/faq.md) you might have.
+[FAQ](/ruleset/faq.md)
+
+[Sources](/ruleset/sources.md)
+
