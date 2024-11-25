@@ -40,7 +40,7 @@ NATO military symbols used in the army lists.
 A list of theatres with their own storyline, scenarios templates, army lists and
 everything else needed for a modern wargame.
 
-### Estonian Civil War
+### Estonian Civil War :estonia:
 
 <p align=center>
 <img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=60%>
