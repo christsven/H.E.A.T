@@ -141,20 +141,26 @@ These vehicle types do have to suffer one of the following modifiers:
 
 ### Assistant Commander
 
-| Assistant Commander | <img src="/factions/nato-symbols/opfor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
+Officers of NATO code OF-1 are young officers such as First or Second Lieutenants.
+They lead a platoon into battle.
+
+| OF-1 Officer | <img src="/factions/nato-symbols/opfor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 35 pt / 50 pt / 65 pt |
-| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt |
+| Cost | 21 pt / 30 pt / 39 pt |
+| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (as depicted) |
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action!</td><td>-</td></tr><tr><td>Command</td><td>-</td></tr></table> |
 
 ### Commander
 
-| Commander | <img src="/factions/nato-symbols/opfor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
+Companies are lead by Captains or in some cases even Majors. They manage several
+platoons and outrank all other units on the table.
+
+| OF-2 Officer |  <img src="/factions/nato-symbols/opfor/headquarters.excalidraw.png" align="right" alt="Command team" height=30 width=auto></img> |
 | :---- | ---- |
-| Cost | 60 pt / 75 pt / 90 pt |
-| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt |
+| Cost | 42 pt / 60 pt / 78 pt |
+| Reinforcement | up to 2 attendants (AR): 7 pt / 10 pt / 13 pt each |
 | Setup | NCO (as depicted) |
 | Options | - |
 | Special rules | <table><tr><td><b>Rules</td><td><b>Description</td></tr><tr><td>You men, snap to action! (2x)</td><td>-</td></tr><tr><td>Command</td><td>-</td></tr></table> |

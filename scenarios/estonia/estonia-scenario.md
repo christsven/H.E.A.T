@@ -224,58 +224,58 @@ the old oil shale excavation sites in Kivioli.
 | **Game Duration** | 6 + 1 Turns |
 | **Victory Conditions** | - 1 VP per destroyed unit. <br> - If you want, choose a location as an objective which gives 2 VP to the team holding it in the end. |
 
-<details> <summary> Click to expand example lists (1500pts) </summary> 
+<details> <summary> Click to expand example lists (1500pts) </summary>
 
 #### EUFOR Estonia
 
-##### EUFOR armoured infantry platoon
+##### EUFOR armoured infantry platoon (700 base)
 
-- OF-2 officer (OF-2)
-- Panzergren squad
-- Panzergren squad
-- MMG team
-- MMG team
-- Engineer squad
-- Sniper team
-- Nexter Aravis (IFV)
-- Marder 1A3 (IFV)
-- Wiesel 1A3 20mm
+- OF-2 officer (OF-2) REG 60
+- Panzergren squad REG 50
+- Panzergren squad REG 50
+- MMG team REG 50
+- MMG team REG 50
+- Engineer squad REG 55
+- Sniper team 50
+- Nexter Aravis (IFV) REG 80
+- Marder 1A3 (IFV) REG 135
+- Wiesel 1A3 20mm REG 120
 
-##### EUFOR infantry platoon
+##### EUFOR infantry platoon (290pt base)
 
-- OF-1 officer (OF-1)
-- recon squad
-- gdc squad
-- 81mm mortar
-- 81mm mortar
-- Mikado drone
+- OF-1 officer (OF-1) REG 30
+- recon squad REG 60
+- gdc squad REG 50
+- 81mm mortar REG 50
+- 81mm mortar REG 50
+- Mikado drone REG 50
 
 #### NSPR
 
-##### NSPR armoured infantry platoon
+##### NSPR armoured infantry platoon (528pt base)
 
-- OF 2 officer
-- Motorized infantry squad
-- Motorized infantry squad
-- HMG team
-- HMG team
-- BTR-80 (IFV)
-- BTR-60 (IFV)
-- BMP-1
-- Bravo Drone
-- free medium mortar + spotter
+- OF 2 officer REG 60
+- Motorized infantry squad REG 50
+- Motorized infantry squad REG 50
+- HMG team REG 70
+- HMG team REG 70
+- BTR-60 (IFV) REG 88
+- BTR-80 (IFV) REG 79
+- BMP-1 REG 171
+- Bravo Drone REG 50
+- free medium mortar INEX 0
 
-##### NSPR infantry platoon
+##### NSPR infantry platoon (450pt base)
 
-- OF-1 officer
-- Reconnaissance squad
-- Assault detachment
-- Light infantry group
-- AGL team
-- RPG-7 team
-- Konkurs team
-- Sapper
-- Sniper
+- OF-1 officer REG 30
+- Reconnaissance squad REG 60
+- Assault detachment REG 50
+- Light rifle group INEX 30
+- AGL team REG 60
+- RPG-7 team REG 60
+- Konkurs team REG 75
+- Sapper REG 35
+- Sniper REG 50
 
 </details>
 
