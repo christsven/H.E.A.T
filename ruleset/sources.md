@@ -2,6 +2,13 @@
 
 ![i made it the fuck up](/ruleset/ressources/senator.excalidraw.png)
 
+Most images were taken from Wikipedia articles or Google Image searches and
+traced over. All information regarding weapon names were also taken from Wikipedia
+or the websites of their respective origin country or manufacturer.
+
+Linked below are all images and their source.
+
+
 ## Faction ressources
 
 | Name/Identifier | Link to file | Link to source |
