@@ -245,7 +245,7 @@ the old oil shale excavation sites in Kivioli.
 
 - OF-1 officer (OF-1)
 - recon squad
-- dragoon squad
+- gdc squad
 - 81mm mortar
 - 81mm mortar
 - Mikado drone
@@ -259,8 +259,8 @@ the old oil shale excavation sites in Kivioli.
 - Motorized infantry squad
 - HMG team
 - HMG team
-- BTR-80
-- BTR-60
+- BTR-80 (IFV)
+- BTR-60 (IFV)
 - BMP-1
 - Bravo Drone
 - free medium mortar + spotter
