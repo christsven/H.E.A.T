@@ -107,9 +107,9 @@ position and real-time camera information between each other.
 
 Due to the enhanced interconnection of the squad, communication gets easier.
 Fireteams with the FÉLIN system do not need to do an order check when separated,
-as long as they have no Pins. The system costs +1pt/soldier of a squad.
+as long as they have no Pins. The system costs +2pt/soldier of a squad.
 
-_TLDR: FÉLIN system for every infantry unit at +1pt/u. Units with FÉLIN system do not need to do an order check when splitting into fireteams._
+_TLDR: FÉLIN system for every infantry unit at +2pt/u. Units with FÉLIN system ignore fireteam-rule-based order checks._
 
 ### Combat Readiness
 
