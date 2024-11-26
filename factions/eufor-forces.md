@@ -18,6 +18,7 @@ is compromised of the franco-belgian battlegroup as well as the EUROCORPS.
   - [Table of contents](#table-of-contents)
   - [Army modifiers](#army-modifiers)
     - [FÉLIN system](#félin-system)
+    - [Combat Readiness](#combat-readiness)
   - [Officers](#officers)
     - [Platoon Officer](#platoon-officer)
     - [Company Officer](#company-officer)
@@ -109,6 +110,14 @@ Fireteams with the FÉLIN system do not need to do an order check when separated
 as long as they have no Pins. The system costs +1pt/soldier of a squad.
 
 _TLDR: FÉLIN system for every infantry unit at +1pt/u. Units with FÉLIN system do not need to do an order check when splitting into fireteams._
+
+### Combat Readiness
+
+Due to a lack of experience regarding mobilization at a divisional level, the
+strain on logistic is quite high. Transport units must perform an order check
+with 1 pin marker when moving out of reserve to represent the stressed personnel.
+
+*TLDR +1 pin on all reserve transports*
 
 ***
 
