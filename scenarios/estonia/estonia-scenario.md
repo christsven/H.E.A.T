@@ -230,7 +230,7 @@ the old oil shale excavation sites in Kivioli.
 
 
 <p align=center>
-<img src="/factions/ressources/eufor-estonia.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="eufor Logo" height=auto width=40%>
+<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="eufor Logo" height=auto width=40%>
 </p>
 
 ##### EUFOR armoured infantry platoon (700 base)
