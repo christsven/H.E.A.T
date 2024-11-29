@@ -228,6 +228,11 @@ the old oil shale excavation sites in Kivioli.
 
 #### EUFOR Estonia
 
+
+<p align=center>
+<img src="/factions/ressources/eufor-logo.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="eufor Logo" height=auto width=40%>
+</p>
+
 ##### EUFOR armoured infantry platoon (700 base)
 
 - OF-2 officer (OF-2) REG 60
@@ -251,6 +256,10 @@ the old oil shale excavation sites in Kivioli.
 - Mikado drone REG 50
 
 #### NSPR
+
+<p align=center>
+<img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=40%>
+</p>
 
 ##### NSPR armoured infantry platoon (528pt base)
 
