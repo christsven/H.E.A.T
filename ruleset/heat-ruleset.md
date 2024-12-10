@@ -1165,7 +1165,8 @@ option open.
 #### Machine gun buff
 
 As a quite popular buff for MGs, all weapons in the machine gun team slot deal
-D2 Pins to make them more viable.
+D2 Pins to make them more viable. That is also why you get a shitton of MGs per
+platoon, as LMG teams are now probably preferable? At least thats the intention.
 
 #### Pintle-mounted weapons/FLAK rule
 

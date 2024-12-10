@@ -82,9 +82,12 @@ reddish-beige (mauve?). The white line on the left differentiates the upper core
 part of the platoon, where you may fill slots without any restriction.
 
 The lower part, as described in blue, are the reinforcing attachments.
-They come from other companies or battalions and can be selected as additions, but
-only two rows per platoon are allowed. Once a row is chosen, you can use any or all
-slots of its row.
+They come from other companies or battalions and can be selected as additions, and
+two rows are allowed to be added without further cost. Once a row is chosen, you
+can use any or all slots of its row. More rows may be added for +30pt each.
+
+> This way players who dont want to have two companies can still get a larger
+> range of unit types. I am still playtesting this, so this might change still.
 
 ### Light infantry platoon
 
