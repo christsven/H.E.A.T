@@ -110,9 +110,9 @@ Logo of NATO Response Force
 
 Due to a lack of experience regarding mobilization at a divisional level, the
 strain on logistic is quite high. Transport units must perform an order check
-with 2 pin markers when moving out of reserve to represent the stressed personnel.
+with 1 pin marker when moving out of reserve to represent the stressed personnel.
 
-*TLDR +2 pin on all reserve transports*
+*TLDR +1 pin on all reserve transports*
 
 ### High Training standards
 

@@ -74,7 +74,7 @@ United Nations support brigade composed of mixed french and american equipment. 
 <img width="70%" height="auto" src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" alt="UNFIBAL Mission Forces">
 </p>
 <p>
-The free forces of Ida Viru, as well as the Brastwa PMC Group.<br><br><i>Ragtag force with a huge, but old pool of equipment. Insurgent infantry sections and PMC formation with more modern equipment.</i><br><br><a href="/factions/nspr-forces.md">NSPR Army List</a><br><a href="/factions/nspr-vehicles.md">NSPR Vehicle List</a>
+The free forces of Ida Viru, as well as the Brastwa PMC Group.<br><br><i>Ragtag force with a huge, but old pool of equipment. Insurgent infantry sections and PMC formation with more modern equipment.</i><br><br><a href="/factions/nspr-forces.md">NSPR Army List</a><br><a href="/factions/NSPR-vehicles.md">NSPR Vehicle List</a>
 </p>
 
 #### Russian Forces
@@ -228,6 +228,11 @@ the old oil shale excavation sites in Kivioli.
 
 #### EUFOR Estonia
 
+
+<p align=center>
+<img src="/scenarios/ressources/eufor-estonia.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="eufor Logo" height=auto width=40%>
+</p>
+
 ##### EUFOR armoured infantry platoon (700 base)
 
 - OF-2 officer (OF-2) REG 60
@@ -251,6 +256,10 @@ the old oil shale excavation sites in Kivioli.
 - Mikado drone REG 50
 
 #### NSPR
+
+<p align=center>
+<img src="/factions/ressources/nspr-rifle-contingent-logo.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto;" alt="NSPR Logo" height=auto width=40%>
+</p>
 
 ##### NSPR armoured infantry platoon (528pt base)
 
