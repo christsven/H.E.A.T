@@ -55,15 +55,15 @@ The party's influence grew with the years, and tragedies such as a disaster duri
 a NATO excercise in 2014 were used for their advantage. A french Mirage fighter
 jet went down on a farm in Ida Viru, killing an ethnic russian farmer. The
 "Steadfast Jazz Disaster" becoming a major talking point in local politics. With
-the annexation of Crimea, talks of more autonomy grew louder amongs RIP politicians.
+the annexation of Crimea, discussions of more autonomy grew louder amongs RIP politicians.
 
-The baltic states decided as a reaction to Crimea and the growing unrest along the
-border counties to join their forces more broadly, to encourage cooperation and
-unity among them. A new [border guard unit](#baltic-security-partnership-brigade) was established to patrol the swamps and
+Since Europe was preoccupied, the baltic states decided as a reaction to Crimea
+and the growing unrest along the border counties to join their forces more broadly,as to
+encourage cooperation and unity among them. A new [border guard unit](#baltic-security-partnership-brigade) was established to patrol the swamps and
 bogs, and to quickly deploy forces to remote parts of the sparsely populated forest
 regions.
 
-### Growing tensions
+### Rising tides
 
 <p align=center>
 <img src="/scenarios/ressources/elections.excalidraw.png" alt="UN APC guarding election" style="display: block; margin-left: auto; margin-right: auto; height: auto" width=70%/>
@@ -78,12 +78,12 @@ autonomous country [sic]", as one member of the party declared in a press confer
 Outside pressures forced the estonian government into accepting a third party as
 an election observer, and as such a [UN peacekeeping operation](#un-mission-for-estonia) was established,
 since the EU was not seen as as neutral enough. The forces stayed in the country
-and  aided the local police in Ida Viru which struggled with dissent and increased
+and aided the local police in Ida Viru which struggled with dissent and increased
 violence.
 
-While the other baltic countries also struggled with similar situations in their
-border counties, nowhere did it develop so rapidly as in Ida Viru. Yet still the
-global awareness was quite low of the protests. Most media outlets where preoccupied
+While the other baltic countries also fought with similar situations in their
+border counties, nowhere did anything develop so rapidly as in Ida Viru, yet still the
+global awareness of the protests stayed quite low. Most media outlets where preoccupied
 with flashier events, and the protests where largely ignored as smaller versions
 of the Euromaidan protests in Ukraine.
 
@@ -99,7 +99,7 @@ personal voting. The voting booths were dotted around the county, guarded by
 police forces and UNFIBAL peacekeepers, as well as russian observers that were
 demanded by the Kremlin to monitor the referendum.
 
-The results were proclaimed at the 31st of December, with a slim majority
+The results were proclaimed at the 28th of December, with a slim majority
 voting against the reforms. After an initial sigh of relief, the celebrations
 would quickly turn sour over the coming days.
 
@@ -110,13 +110,13 @@ but before any serious investigations could be led, a storm of cyberattacks grou
 the country to a halt at the same time as targeted misinformation flooded social media
 channels. After several bomb attacks the government called out a state of emergency
 and started troop reserve activation to aid police forces, but it was too late.
-One night, three weeks into the new year, the country went up in flames.
+One night, three weeks into the new year, Estonia went up in flames.
 
 ### Crossing the rubicon
 
 The garrisons of the armed forces in Ida Viru, mainly used for training of new
 recruits, but also for the newly refurbished territorial defense units as well
-as the Baltic Brigade, were hit simultanously. Across all of Estonia, bombs and
+as the Baltic Brigade, were hit almost simultanously. Across all of Estonia, bombs and
 surprise attacks of small cells disabled bridges and important connections to
 the east.
 
