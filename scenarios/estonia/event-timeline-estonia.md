@@ -24,7 +24,7 @@ held out against the sizable estonian armed forces and their reserve pool as wel
 as an EU mission led by France.
 
 Finally, after almost a year of fighting, attacks on EU countries forced a reaction
-of NATO itself, but the United States' fresh and isolationist administration
+of NATO, but the United States' fresh and isolationist administration
 refuses any aid. The West facing political and economical problems left and right
 seems more divided than ever.
 
