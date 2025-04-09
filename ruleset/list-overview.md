@@ -60,14 +60,14 @@ these to understand what a unit is at its core.
 
 In many cases, the focus of a unit is more on the equipment than the formation.
 These icons show a singular mortar, machine gun, howitzer, tank or other vehicle.
-The marker itself is round and has the familier icon and modfier placement.
+The marker itself is round and has the familiar icon and modifier placement.
 
 <p align=center>
 <img src="/ruleset/ressources/unit-marker.excalidraw.png" style="display: block; margin-left: auto; margin-right: auto; width: 40%; height: auto" alt="unit marker">
 </p>
 
 Some icons also show the type of propulsion below the icon, in the form of wheels
-or tracks. They indicate, whether the equipment piece is towed or more often just
+or tracks. They indicate whether the equipment piece is towed, or more often that its just
 a vehicle.
 
 ## Generic lists
@@ -113,3 +113,7 @@ Here, all units in a platoon are vehicles, up to the platoon leader, with only f
 other units attached to them.
 
 ![armoured platoon](/ruleset/generic_platoons/generic_armoured_platoon.excalidraw.png)
+
+***
+
+None of this is playtested very much. If you are not sure whether something fits in the right slot or whatever, just go for it and add it. In the end, the points should equal out to something balanced, as those actually _are_ tested :D
