@@ -35,8 +35,8 @@ slot.
 ### Why does [X] still use the same stats/range/PEN as in Bolt Action, even though they are so much more powerful?
 
 First of all, because the gameflow of BA is solid and I didnt want to change that.
-But also I think its not even that far fetched, as the PEN or armour in BA is always
-relative to each other. So if we have a "medium" tank, that means it is classified
+FurthermoreN these arent absolute values, they are representing how powerful the armour 
+and penetration of contemporary vehicles are. So if we have a "medium" tank, that means it is classified
 as such compared to other tanks of its era. And in  the end, if everything gets
 stronger, nothing really gets buffed as a result, since the relative strengths
 even out.
